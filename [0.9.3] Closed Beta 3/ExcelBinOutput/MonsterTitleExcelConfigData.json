@@ -1,0 +1,339 @@
+[
+    {
+        "titleIDRawNum": 101,
+        "titleNameTextMapHash": 611289343,
+        "isInverted": true,
+        "desc": "风龙一阶段空战"
+    },
+    {
+        "titleIDRawNum": 102,
+        "titleNameTextMapHash": 1863790967,
+        "isInverted": true,
+        "desc": "风龙三阶段空战"
+    },
+    {
+        "titleIDRawNum": 103,
+        "titleNameTextMapHash": 1683437439,
+        "isInverted": true,
+        "desc": "风龙三阶段地面"
+    },
+    {
+        "titleIDRawNum": 111,
+        "titleNameTextMapHash": 1610694895,
+        "isInverted": true,
+        "desc": "北风狼剧情战"
+    },
+    {
+        "titleIDRawNum": 112,
+        "titleNameTextMapHash": 2071156167,
+        "isInverted": true,
+        "desc": "北风狼循环"
+    },
+    {
+        "titleIDRawNum": 121,
+        "titleNameTextMapHash": 1786437831,
+        "isInverted": true,
+        "desc": "公子boss战一阶段"
+    },
+    {
+        "titleIDRawNum": 122,
+        "titleNameTextMapHash": 456265943,
+        "isInverted": true,
+        "desc": "公子boss战二阶段"
+    },
+    {
+        "titleIDRawNum": 1001,
+        "titleNameTextMapHash": 3442676239,
+        "desc": "草史莱姆"
+    },
+    {
+        "titleIDRawNum": 1002,
+        "titleNameTextMapHash": 1907026423,
+        "desc": "风史莱姆"
+    },
+    {
+        "titleIDRawNum": 1003,
+        "titleNameTextMapHash": 826927551,
+        "desc": "雷史莱姆"
+    },
+    {
+        "titleIDRawNum": 1004,
+        "titleNameTextMapHash": 50110623,
+        "desc": "冰史莱姆"
+    },
+    {
+        "titleIDRawNum": 1005,
+        "titleNameTextMapHash": 3162776823,
+        "desc": "水史莱姆"
+    },
+    {
+        "titleIDRawNum": 1006,
+        "titleNameTextMapHash": 812925943,
+        "desc": "火史莱姆"
+    },
+    {
+        "titleIDRawNum": 1007,
+        "titleNameTextMapHash": 1884823111,
+        "desc": "岩史莱姆"
+    },
+    {
+        "titleIDRawNum": 1011,
+        "titleNameTextMapHash": 1126712863,
+        "desc": "大型草史莱姆"
+    },
+    {
+        "titleIDRawNum": 1021,
+        "titleNameTextMapHash": 1066398151,
+        "desc": "大型风史莱姆"
+    },
+    {
+        "titleIDRawNum": 1031,
+        "titleNameTextMapHash": 1095536183,
+        "desc": "大型雷史莱姆"
+    },
+    {
+        "titleIDRawNum": 1032,
+        "titleNameTextMapHash": 1694877743,
+        "desc": "变异雷史莱姆"
+    },
+    {
+        "titleIDRawNum": 1041,
+        "titleNameTextMapHash": 4183094271,
+        "desc": "大型冰史莱姆"
+    },
+    {
+        "titleIDRawNum": 1051,
+        "titleNameTextMapHash": 1456938855,
+        "desc": "大型水史莱姆"
+    },
+    {
+        "titleIDRawNum": 1061,
+        "titleNameTextMapHash": 1149332895,
+        "desc": "大型火史莱姆"
+    },
+    {
+        "titleIDRawNum": 1071,
+        "titleNameTextMapHash": 3162896055,
+        "desc": "大型岩史莱姆"
+    },
+    {
+        "titleIDRawNum": 1101,
+        "titleNameTextMapHash": 2915077007,
+        "desc": "雷萤"
+    },
+    {
+        "titleIDRawNum": 1102,
+        "titleNameTextMapHash": 3489578911,
+        "desc": "水萤"
+    },
+    {
+        "titleIDRawNum": 1201,
+        "titleNameTextMapHash": 641743687,
+        "desc": "狂风之核"
+    },
+    {
+        "titleIDRawNum": 1202,
+        "titleNameTextMapHash": 2866324807,
+        "desc": "雷电之核"
+    },
+    {
+        "titleIDRawNum": 2001,
+        "titleNameTextMapHash": 3372311639,
+        "desc": "无相之雷"
+    },
+    {
+        "titleIDRawNum": 2002,
+        "titleNameTextMapHash": 4787039,
+        "desc": "无相之风"
+    },
+    {
+        "titleIDRawNum": 2003,
+        "titleNameTextMapHash": 3502543183,
+        "desc": "无相之岩"
+    },
+    {
+        "titleIDRawNum": 3001,
+        "titleNameTextMapHash": 4275091487,
+        "desc": "丘丘人大类"
+    },
+    {
+        "titleIDRawNum": 3011,
+        "titleNameTextMapHash": 2119774575,
+        "desc": "射手丘丘人大类"
+    },
+    {
+        "titleIDRawNum": 3101,
+        "titleNameTextMapHash": 3041589367,
+        "desc": "木盾丘丘暴徒"
+    },
+    {
+        "titleIDRawNum": 3102,
+        "titleNameTextMapHash": 71501855,
+        "desc": "火斧丘丘暴徒"
+    },
+    {
+        "titleIDRawNum": 3103,
+        "titleNameTextMapHash": 2732729943,
+        "desc": "岩盾丘丘暴徒"
+    },
+    {
+        "titleIDRawNum": 3111,
+        "titleNameTextMapHash": 3207163591,
+        "desc": "丘丘岩盔王"
+    },
+    {
+        "titleIDRawNum": 3201,
+        "titleNameTextMapHash": 3138720183,
+        "desc": "水丘丘萨满"
+    },
+    {
+        "titleIDRawNum": 3202,
+        "titleNameTextMapHash": 752200839,
+        "desc": "草丘丘萨满"
+    },
+    {
+        "titleIDRawNum": 3203,
+        "titleNameTextMapHash": 3144530879,
+        "desc": "风丘丘萨满"
+    },
+    {
+        "titleIDRawNum": 3204,
+        "titleNameTextMapHash": 2461230975,
+        "desc": "岩丘丘萨满"
+    },
+    {
+        "titleIDRawNum": 4001,
+        "titleNameTextMapHash": 1400868983,
+        "isInverted": true,
+        "desc": "火深渊法师"
+    },
+    {
+        "titleIDRawNum": 4002,
+        "titleNameTextMapHash": 2296200775,
+        "isInverted": true,
+        "desc": "冰深渊法师"
+    },
+    {
+        "titleIDRawNum": 4003,
+        "titleNameTextMapHash": 715089791,
+        "isInverted": true,
+        "desc": "水深渊法师"
+    },
+    {
+        "titleIDRawNum": 5001,
+        "titleNameTextMapHash": 1306608279,
+        "isInverted": true,
+        "desc": "债务处理人"
+    },
+    {
+        "titleIDRawNum": 5002,
+        "titleNameTextMapHash": 510473727,
+        "isInverted": true,
+        "desc": "雷萤术士"
+    },
+    {
+        "titleIDRawNum": 6001,
+        "titleNameTextMapHash": 1074946407,
+        "desc": "遗迹守卫"
+    },
+    {
+        "titleIDRawNum": 6002,
+        "titleNameTextMapHash": 1867418743,
+        "desc": "遗迹猎者"
+    },
+    {
+        "titleIDRawNum": 7001,
+        "titleNameTextMapHash": 2475795295,
+        "desc": "盗宝团斥候"
+    },
+    {
+        "titleIDRawNum": 7002,
+        "titleNameTextMapHash": 1400128311,
+        "desc": "盗宝团神射手"
+    },
+    {
+        "titleIDRawNum": 7003,
+        "titleNameTextMapHash": 1902406215,
+        "desc": "盗宝团掘墓者"
+    },
+    {
+        "titleIDRawNum": 7004,
+        "titleNameTextMapHash": 3843706759,
+        "desc": "盗宝团女斧手"
+    },
+    {
+        "titleIDRawNum": 7005,
+        "titleNameTextMapHash": 1327255903,
+        "desc": "「溜溜」"
+    },
+    {
+        "titleIDRawNum": 7006,
+        "titleNameTextMapHash": 505271079,
+        "desc": "「怪鸟」"
+    },
+    {
+        "titleIDRawNum": 7007,
+        "titleNameTextMapHash": 2072107391,
+        "desc": "「卡门」"
+    },
+    {
+        "titleIDRawNum": 7008,
+        "titleNameTextMapHash": 1341597039,
+        "desc": "「大姐头」"
+    },
+    {
+        "titleIDRawNum": 7011,
+        "titleNameTextMapHash": 3021789503,
+        "desc": "千岩军士兵"
+    },
+    {
+        "titleIDRawNum": 7012,
+        "titleNameTextMapHash": 701893295,
+        "desc": "千岩军教头"
+    },
+    {
+        "titleIDRawNum": 7111,
+        "titleNameTextMapHash": 898493423,
+        "desc": "盗宝团空手胖"
+    },
+    {
+        "titleIDRawNum": 7112,
+        "titleNameTextMapHash": 3498832663,
+        "desc": "盗宝团船橹"
+    },
+    {
+        "titleIDRawNum": 7121,
+        "titleNameTextMapHash": 2877411191,
+        "desc": "盗宝团投掷火"
+    },
+    {
+        "titleIDRawNum": 7122,
+        "titleNameTextMapHash": 1290509175,
+        "desc": "盗宝团投掷水"
+    },
+    {
+        "titleIDRawNum": 7123,
+        "titleNameTextMapHash": 748026823,
+        "desc": "盗宝团投掷电"
+    },
+    {
+        "titleIDRawNum": 7124,
+        "titleNameTextMapHash": 459203023,
+        "desc": "盗宝团投掷冰"
+    },
+    {
+        "titleIDRawNum": 7131,
+        "titleNameTextMapHash": 1459083847,
+        "desc": "盗宝团肌肉男空手"
+    },
+    {
+        "titleIDRawNum": 7132,
+        "titleNameTextMapHash": 1958846447,
+        "desc": "盗宝团肌肉男单手锤"
+    },
+    {
+        "titleIDRawNum": 10001,
+        "titleNameTextMapHash": 841627719,
+        "desc": "香菱线冰史莱姆-精英"
+    }
+]

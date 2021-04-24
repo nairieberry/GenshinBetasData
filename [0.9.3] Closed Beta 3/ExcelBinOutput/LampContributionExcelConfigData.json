@@ -1,0 +1,27 @@
+[
+    {
+        "idRawNum": 1,
+        "contributionRawNum": 800,
+        "rewardIdRawNum": 460101
+    },
+    {
+        "idRawNum": 2,
+        "contributionRawNum": 2400,
+        "rewardIdRawNum": 460102
+    },
+    {
+        "idRawNum": 3,
+        "contributionRawNum": 4800,
+        "rewardIdRawNum": 460103
+    },
+    {
+        "idRawNum": 4,
+        "contributionRawNum": 8000,
+        "rewardIdRawNum": 460104
+    },
+    {
+        "idRawNum": 5,
+        "contributionRawNum": 12000,
+        "rewardIdRawNum": 460105
+    }
+]

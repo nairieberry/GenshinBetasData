@@ -1,0 +1,245 @@
+[
+    {
+        "propName": "Actor_MaxHPRatio",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 3.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 3.0
+    },
+    {
+        "propName": "Actor_DefenceRatio",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 3.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 3.0
+    },
+    {
+        "propName": "Actor_AttackRatio",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 3.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 3.0
+    },
+    {
+        "propName": "Actor_CriticalDelta",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 1.0099999904632568,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 1.0,
+        "succeedOwner": true
+    },
+    {
+        "propName": "Actor_AntiCriticalDelta",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 1.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 1.0,
+        "succeedOwner": true
+    },
+    {
+        "propName": "Actor_CriticalHurtDelta",
+        "overallMinRawNum": -0.5,
+        "overallMaxRawNum": 3.0,
+        "limitTagMinRawNum": -0.5,
+        "limitTagMaxRawNum": 3.0,
+        "succeedOwner": true
+    },
+    {
+        "propName": "Actor_ChargeEfficiencyDelta",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 1.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 1.0
+    },
+    {
+        "propName": "Actor_AddHurtDelta",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 3.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 3.0,
+        "succeedOwner": true
+    },
+    {
+        "propName": "Actor_SubHurtDelta",
+        "overallMinRawNum": -1.0,
+        "overallMaxRawNum": 0.949999988079071,
+        "limitTagMinRawNum": -1.0,
+        "limitTagMaxRawNum": 0.949999988079071,
+        "succeedOwner": true
+    },
+    {
+        "propName": "Actor_HealAddDelta",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 3.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 2.0
+    },
+    {
+        "propName": "Actor_HealedAddDelta",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 3.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 2.0
+    },
+    {
+        "propName": "Actor_FireAddHurtDelta",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 3.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 2.0
+    },
+    {
+        "propName": "Actor_ElecAddHurtDelta",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 3.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 2.0
+    },
+    {
+        "propName": "Actor_WaterAddHurtDelta",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 3.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 2.0
+    },
+    {
+        "propName": "Actor_GrassAddHurtDelta",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 3.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 2.0
+    },
+    {
+        "propName": "Actor_WindAddHurtDelta",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 3.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 2.0
+    },
+    {
+        "propName": "Actor_IceAddHurtDelta",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 3.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 2.0
+    },
+    {
+        "propName": "Actor_RockAddHurtDelta",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 3.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 2.0
+    },
+    {
+        "propName": "Actor_PhysicalAddHurtDelta",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 3.0,
+        "limitTagMinRawNum": -0.8999999761581421,
+        "limitTagMaxRawNum": 2.0
+    },
+    {
+        "propName": "Actor_FireSubHurtDelta",
+        "overallMinRawNum": -2.0,
+        "overallMaxRawNum": 1.0,
+        "limitTagMinRawNum": -1.0,
+        "limitTagMaxRawNum": 1.0
+    },
+    {
+        "propName": "Actor_ElecSubHurtDelta",
+        "overallMinRawNum": -2.0,
+        "overallMaxRawNum": 1.0,
+        "limitTagMinRawNum": -1.0,
+        "limitTagMaxRawNum": 1.0
+    },
+    {
+        "propName": "Actor_WaterSubHurtDelta",
+        "overallMinRawNum": -2.0,
+        "overallMaxRawNum": 1.0,
+        "limitTagMinRawNum": -1.0,
+        "limitTagMaxRawNum": 1.0
+    },
+    {
+        "propName": "Actor_GrassSubHurtDelta",
+        "overallMinRawNum": -2.0,
+        "overallMaxRawNum": 1.0,
+        "limitTagMinRawNum": -1.0,
+        "limitTagMaxRawNum": 1.0
+    },
+    {
+        "propName": "Actor_WindSubHurtDelta",
+        "overallMinRawNum": -2.0,
+        "overallMaxRawNum": 1.0,
+        "limitTagMinRawNum": -1.0,
+        "limitTagMaxRawNum": 1.0
+    },
+    {
+        "propName": "Actor_IceSubHurtDelta",
+        "overallMinRawNum": -2.0,
+        "overallMaxRawNum": 1.0,
+        "limitTagMinRawNum": -1.0,
+        "limitTagMaxRawNum": 1.0
+    },
+    {
+        "propName": "Actor_RockSubHurtDelta",
+        "overallMinRawNum": -2.0,
+        "overallMaxRawNum": 1.0,
+        "limitTagMinRawNum": -1.0,
+        "limitTagMaxRawNum": 1.0
+    },
+    {
+        "propName": "Actor_PhysicalSubHurtDelta",
+        "overallMinRawNum": -2.0,
+        "overallMaxRawNum": 1.0,
+        "limitTagMinRawNum": -1.0,
+        "limitTagMaxRawNum": 1.0
+    },
+    {
+        "propName": "Actor_AddGravityScale",
+        "overallMinRawNum": -2.0,
+        "overallMaxRawNum": 99.0,
+        "limitTagMinRawNum": -2.0,
+        "limitTagMaxRawNum": 99.0
+    },
+    {
+        "propName": "Actor_SkillCDMinusRatio",
+        "overallMinRawNum": -5.0,
+        "overallMaxRawNum": 0.800000011920929,
+        "limitTagMinRawNum": -2.0,
+        "limitTagMaxRawNum": 0.6700000166893005
+    },
+    {
+        "propName": "Actor_ShieldCostMinusRatio",
+        "overallMinRawNum": -5.0,
+        "overallMaxRawNum": 0.800000011920929,
+        "limitTagMinRawNum": -2.0,
+        "limitTagMaxRawNum": 0.6700000166893005
+    },
+    {
+        "propName": "Entity_ChargeSpeedRatioDelta",
+        "overallMinRawNum": -0.800000011920929,
+        "overallMaxRawNum": 10.0
+    },
+    {
+        "propName": "Entity_MassRatio",
+        "overallMaxRawNum": 10000.0
+    },
+    {
+        "propName": "Entity_WeightRatio",
+        "overallMaxRawNum": 10000.0
+    },
+    {
+        "propName": "Animator_MoveSpeedRatio",
+        "overallMinRawNum": -0.20000000298023224,
+        "overallMaxRawNum": 0.25
+    },
+    {
+        "propName": "Actor_EndureDelta",
+        "succeedOwner": true
+    },
+    {
+        "propName": "Actor_HitHeadDmgRatio",
+        "overallMinRawNum": -0.8999999761581421,
+        "overallMaxRawNum": 3.0,
+        "succeedOwner": true
+    }
+]

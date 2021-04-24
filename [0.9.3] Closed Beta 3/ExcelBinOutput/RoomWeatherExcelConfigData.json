@@ -1,0 +1,26 @@
+[
+    {
+        "idRawNum": 1,
+        "roomIDRawNum": 1004,
+        "areaIDRawNum": 1,
+        "profileName": "Data/Environment/Indoor/Indoor_Knight01_EnvrioArea"
+    },
+    {
+        "idRawNum": 2,
+        "roomIDRawNum": 1004,
+        "areaIDRawNum": 3,
+        "profileName": "Data/Environment/Indoor/Indoor_Knight01_EnvrioArea_WindDragon"
+    },
+    {
+        "idRawNum": 3,
+        "roomIDRawNum": 1008,
+        "areaIDRawNum": 1,
+        "profileName": "Data/Environment/Indoor/IndoorScene_Md_Church_EnvrioArea"
+    },
+    {
+        "idRawNum": 4,
+        "roomIDRawNum": 1008,
+        "areaIDRawNum": 3,
+        "profileName": "Data/Environment/Indoor/IndoorScene_Md_Church_EnvrioArea_WindDragon"
+    }
+]

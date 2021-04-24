@@ -1,0 +1,397 @@
+[
+    {
+        "scene_idRawNum": 3,
+        "area_idRawNum": 1,
+        "levelRawNum": 1,
+        "consume_item": {},
+        "action_vec": [
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "area_idRawNum": 1,
+        "levelRawNum": 2,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 3
+        },
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    5
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "area_idRawNum": 1,
+        "levelRawNum": 3,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 10
+        },
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    5
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "area_idRawNum": 2,
+        "levelRawNum": 1,
+        "consume_item": {},
+        "action_vec": [
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "area_idRawNum": 2,
+        "levelRawNum": 2,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 1
+        },
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    5
+                ],
+                "param2_vec": []
+            },
+            {
+                "type": "WORLD_AREA_ACTION_UNLOCK_FORCE",
+                "param1_vec": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "param2_vec": []
+            },
+            {
+                "type": "WORLD_AREA_ACTION_ACTIVATE_ITEM",
+                "param1_vec": [
+                    70220012
+                ],
+                "param2_vec": [
+                    70220011
+                ]
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "area_idRawNum": 2,
+        "levelRawNum": 3,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 10
+        },
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    5
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "area_idRawNum": 3,
+        "levelRawNum": 1,
+        "consume_item": {},
+        "action_vec": [
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "area_idRawNum": 3,
+        "levelRawNum": 2,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 3
+        },
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    5
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "area_idRawNum": 3,
+        "levelRawNum": 3,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 10
+        },
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    5
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "area_idRawNum": 4,
+        "levelRawNum": 1,
+        "consume_item": {},
+        "action_vec": [
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "area_idRawNum": 4,
+        "levelRawNum": 2,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 3
+        },
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    5
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "area_idRawNum": 4,
+        "levelRawNum": 3,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 10
+        },
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    5
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    }
+]

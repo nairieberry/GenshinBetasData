@@ -1,0 +1,82 @@
+[
+    {
+        "idRawNum": 10001,
+        "cityIdRawNum": 1,
+        "nextInvestigationIdList": [
+            10002
+        ],
+        "unlockOpenStateType": "OPEN_ADVENTURE_MANUAL_CITY_MENGDE",
+        "rewardIdRawNum": 450001,
+        "titleTextMapHash": 185388919
+    },
+    {
+        "idRawNum": 10002,
+        "cityIdRawNum": 1,
+        "nextInvestigationIdList": [
+            10003
+        ],
+        "rewardIdRawNum": 450002,
+        "titleTextMapHash": 997105687
+    },
+    {
+        "idRawNum": 10003,
+        "cityIdRawNum": 1,
+        "nextInvestigationIdList": [
+            10004
+        ],
+        "rewardIdRawNum": 450003,
+        "titleTextMapHash": 2638738007
+    },
+    {
+        "idRawNum": 10004,
+        "cityIdRawNum": 1,
+        "nextInvestigationIdList": [
+            10005
+        ],
+        "rewardIdRawNum": 450004,
+        "titleTextMapHash": 32830991
+    },
+    {
+        "idRawNum": 10005,
+        "cityIdRawNum": 1,
+        "nextInvestigationIdList": [
+            10006
+        ],
+        "rewardIdRawNum": 450005,
+        "titleTextMapHash": 493621503
+    },
+    {
+        "idRawNum": 10006,
+        "cityIdRawNum": 1,
+        "nextInvestigationIdList": [
+            10007
+        ],
+        "rewardIdRawNum": 450006,
+        "titleTextMapHash": 820212071
+    },
+    {
+        "idRawNum": 10007,
+        "cityIdRawNum": 1,
+        "nextInvestigationIdList": [
+            10008
+        ],
+        "rewardIdRawNum": 450007,
+        "titleTextMapHash": 3388684735
+    },
+    {
+        "idRawNum": 10008,
+        "cityIdRawNum": 1,
+        "nextInvestigationIdList": [
+            10009
+        ],
+        "rewardIdRawNum": 450008,
+        "titleTextMapHash": 2420219631
+    },
+    {
+        "idRawNum": 10009,
+        "cityIdRawNum": 1,
+        "nextInvestigationIdList": [],
+        "rewardIdRawNum": 450009,
+        "titleTextMapHash": 1920411039
+    }
+]

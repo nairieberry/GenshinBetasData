@@ -1,0 +1,698 @@
+[
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 1,
+        "levelRawNum": 1,
+        "consume_item": {},
+        "rewardIDRawNum": 210311,
+        "action_vec": [
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 1,
+        "levelRawNum": 2,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 1
+        },
+        "rewardIDRawNum": 210312,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    7
+                ],
+                "param2_vec": []
+            },
+            {
+                "type": "WORLD_AREA_ACTION_UNLOCK_FORCE",
+                "param1_vec": [
+                    1
+                ],
+                "param2_vec": []
+            },
+            {
+                "type": "WORLD_AREA_ACTION_ACTIVATE_ITEM",
+                "param1_vec": [
+                    70220012
+                ],
+                "param2_vec": [
+                    70220011
+                ]
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 1,
+        "levelRawNum": 3,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 2
+        },
+        "rewardIDRawNum": 210313,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    7
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 1,
+        "levelRawNum": 4,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 4
+        },
+        "rewardIDRawNum": 210314,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    8
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 1,
+        "levelRawNum": 5,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 6
+        },
+        "rewardIDRawNum": 210315,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    8
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 1,
+        "levelRawNum": 6,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 7
+        },
+        "rewardIDRawNum": 210316,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    8
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 1,
+        "levelRawNum": 7,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 8
+        },
+        "rewardIDRawNum": 210317,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    8
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 1,
+        "levelRawNum": 8,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 10
+        },
+        "rewardIDRawNum": 210318,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    8
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 1,
+        "levelRawNum": 9,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 12
+        },
+        "rewardIDRawNum": 210319,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    8
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 1,
+        "levelRawNum": 10,
+        "consume_item": {
+            "item_idRawNum": 107001,
+            "item_numRawNum": 15
+        },
+        "rewardIDRawNum": 210320,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    8
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 2,
+        "levelRawNum": 1,
+        "consume_item": {},
+        "rewardIDRawNum": 210321,
+        "action_vec": [
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 2,
+        "levelRawNum": 2,
+        "consume_item": {
+            "item_idRawNum": 107003,
+            "item_numRawNum": 2
+        },
+        "rewardIDRawNum": 210322,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    7
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 2,
+        "levelRawNum": 3,
+        "consume_item": {
+            "item_idRawNum": 107003,
+            "item_numRawNum": 4
+        },
+        "rewardIDRawNum": 210323,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    7
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 2,
+        "levelRawNum": 4,
+        "consume_item": {
+            "item_idRawNum": 107003,
+            "item_numRawNum": 8
+        },
+        "rewardIDRawNum": 210324,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    8
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 2,
+        "levelRawNum": 5,
+        "consume_item": {
+            "item_idRawNum": 107003,
+            "item_numRawNum": 12
+        },
+        "rewardIDRawNum": 210325,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    8
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 2,
+        "levelRawNum": 6,
+        "consume_item": {
+            "item_idRawNum": 107003,
+            "item_numRawNum": 14
+        },
+        "rewardIDRawNum": 210326,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    8
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 2,
+        "levelRawNum": 7,
+        "consume_item": {
+            "item_idRawNum": 107003,
+            "item_numRawNum": 16
+        },
+        "rewardIDRawNum": 210327,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    8
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 2,
+        "levelRawNum": 8,
+        "consume_item": {
+            "item_idRawNum": 107003,
+            "item_numRawNum": 20
+        },
+        "rewardIDRawNum": 210328,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    8
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 2,
+        "levelRawNum": 9,
+        "consume_item": {
+            "item_idRawNum": 107003,
+            "item_numRawNum": 24
+        },
+        "rewardIDRawNum": 210329,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    8
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    },
+    {
+        "scene_idRawNum": 3,
+        "city_idRawNum": 2,
+        "levelRawNum": 10,
+        "consume_item": {
+            "item_idRawNum": 107003,
+            "item_numRawNum": 30
+        },
+        "rewardIDRawNum": 210330,
+        "action_vec": [
+            {
+                "type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "param1_vec": [
+                    8
+                ],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            },
+            {
+                "param1_vec": [],
+                "param2_vec": []
+            }
+        ]
+    }
+]

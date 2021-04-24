@@ -1,0 +1,250 @@
+[
+    {
+        "envType": "ENVIRONMENT_GENERAL",
+        "weightVec": [
+            {
+                "animalIdRawNum": 70590006,
+                "entityType": "Gadget",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            },
+            {
+                "aliveHourMap": {}
+            },
+            {
+                "aliveHourMap": {}
+            },
+            {
+                "aliveHourMap": {}
+            }
+        ]
+    },
+    {
+        "envType": "ENVIRONMENT_GRASS",
+        "weightVec": [
+            {
+                "animalIdRawNum": 70590008,
+                "entityType": "Gadget",
+                "weightRawNum": 200,
+                "aliveHourMap": {
+                    "18": 24,
+                    "0": 6
+                }
+            },
+            {
+                "animalIdRawNum": 70590006,
+                "entityType": "Gadget",
+                "weightRawNum": 400,
+                "aliveHourMap": {}
+            },
+            {
+                "animalIdRawNum": 70590007,
+                "entityType": "Gadget",
+                "weightRawNum": 400,
+                "aliveHourMap": {}
+            },
+            {
+                "aliveHourMap": {}
+            }
+        ]
+    },
+    {
+        "envType": "ENVIRONMENT_RIVERSIDE",
+        "weightVec": [
+            {
+                "animalIdRawNum": 28010101,
+                "entityType": "Monster",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            },
+            {
+                "animalIdRawNum": 28010102,
+                "entityType": "Monster",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            },
+            {
+                "animalIdRawNum": 28010301,
+                "entityType": "Monster",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            },
+            {
+                "animalIdRawNum": 28010302,
+                "entityType": "Monster",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            }
+        ]
+    },
+    {
+        "envType": "ENVIRONMENT_MOUNTAIN",
+        "weightVec": [
+            {
+                "animalIdRawNum": 28010201,
+                "entityType": "Monster",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            },
+            {
+                "animalIdRawNum": 28010202,
+                "entityType": "Monster",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            },
+            {
+                "animalIdRawNum": 28010203,
+                "entityType": "Monster",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            },
+            {
+                "aliveHourMap": {}
+            }
+        ]
+    },
+    {
+        "envType": "ENVIRONMENT_CRAB",
+        "weightVec": [
+            {
+                "animalIdRawNum": 28010101,
+                "entityType": "Monster",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            },
+            {
+                "animalIdRawNum": 28010102,
+                "entityType": "Monster",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            },
+            {
+                "animalIdRawNum": 28010103,
+                "entityType": "Monster",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            },
+            {
+                "aliveHourMap": {}
+            }
+        ]
+    },
+    {
+        "envType": "ENVIRONMENT_BUTTERFLY",
+        "weightVec": [
+            {
+                "animalIdRawNum": 70590006,
+                "entityType": "Gadget",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            },
+            {
+                "animalIdRawNum": 70590007,
+                "entityType": "Gadget",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            },
+            {
+                "aliveHourMap": {}
+            },
+            {
+                "aliveHourMap": {}
+            }
+        ]
+    },
+    {
+        "envType": "ENVIRONMENT_GRASSSHOPPER",
+        "weightVec": [
+            {
+                "aliveHourMap": {}
+            },
+            {
+                "aliveHourMap": {}
+            },
+            {
+                "aliveHourMap": {}
+            },
+            {
+                "aliveHourMap": {}
+            }
+        ]
+    },
+    {
+        "envType": "ENVIRONMENT_BUSH",
+        "weightVec": [
+            {
+                "animalIdRawNum": 28010201,
+                "entityType": "Monster",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            },
+            {
+                "animalIdRawNum": 70590008,
+                "entityType": "Gadget",
+                "weightRawNum": 100,
+                "aliveHourMap": {
+                    "18": 24,
+                    "0": 6
+                }
+            },
+            {
+                "aliveHourMap": {}
+            },
+            {
+                "aliveHourMap": {}
+            }
+        ]
+    },
+    {
+        "envType": "ENVIRONMENT_FIREFLY",
+        "weightVec": [
+            {
+                "animalIdRawNum": 70590008,
+                "entityType": "Gadget",
+                "weightRawNum": 100,
+                "aliveHourMap": {
+                    "18": 24,
+                    "0": 6
+                }
+            },
+            {
+                "aliveHourMap": {}
+            },
+            {
+                "aliveHourMap": {}
+            },
+            {
+                "aliveHourMap": {}
+            }
+        ]
+    },
+    {
+        "envType": "ENVIRONMENT_WOODS",
+        "weightVec": [
+            {
+                "animalIdRawNum": 70590008,
+                "entityType": "Gadget",
+                "weightRawNum": 800,
+                "aliveHourMap": {
+                    "18": 24,
+                    "0": 6
+                }
+            },
+            {
+                "animalIdRawNum": 70590006,
+                "entityType": "Gadget",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            },
+            {
+                "animalIdRawNum": 70590007,
+                "entityType": "Gadget",
+                "weightRawNum": 100,
+                "aliveHourMap": {}
+            },
+            {
+                "aliveHourMap": {}
+            }
+        ]
+    }
+]

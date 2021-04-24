@@ -1,0 +1,1891 @@
+[
+    {
+        "combineIdRawNum": 11001,
+        "playerLevelRawNum": 1,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112003,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 25,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100075,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112002,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 1329597126
+    },
+    {
+        "combineIdRawNum": 11002,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112004,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 50,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100075,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112003,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 1828014854
+    },
+    {
+        "combineIdRawNum": 11003,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112006,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 25,
+        "randomItems": [
+            {
+                "itemIdRawNum": 110006,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112005,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3177443406
+    },
+    {
+        "combineIdRawNum": 11004,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112007,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 50,
+        "randomItems": [
+            {
+                "itemIdRawNum": 110006,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112006,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 1420463894
+    },
+    {
+        "combineIdRawNum": 11005,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112009,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 25,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100075,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112008,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3520437678
+    },
+    {
+        "combineIdRawNum": 11006,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112010,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 50,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100075,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112009,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 1773897750
+    },
+    {
+        "combineIdRawNum": 11007,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112012,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 25,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101001,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112011,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 1351841822
+    },
+    {
+        "combineIdRawNum": 11008,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112013,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 50,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101001,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112012,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 523072174
+    },
+    {
+        "combineIdRawNum": 11009,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112015,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 50,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101001,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112014,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2641756518
+    },
+    {
+        "combineIdRawNum": 11010,
+        "playerLevelRawNum": 15,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112016,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 125,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101001,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112015,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 316016030
+    },
+    {
+        "combineIdRawNum": 11013,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112021,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 50,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100082,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112020,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2170617830
+    },
+    {
+        "combineIdRawNum": 11014,
+        "playerLevelRawNum": 15,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112022,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 125,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100082,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112021,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 4294958846
+    },
+    {
+        "combineIdRawNum": 11015,
+        "playerLevelRawNum": 15,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112024,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 50,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100053,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112023,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 1853061830
+    },
+    {
+        "combineIdRawNum": 11016,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112025,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 125,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100053,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112024,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 171926742
+    },
+    {
+        "combineIdRawNum": 11017,
+        "playerLevelRawNum": 15,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112027,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 50,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100052,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112026,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 1762789198
+    },
+    {
+        "combineIdRawNum": 11018,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112028,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 125,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100052,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112027,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3440003950
+    },
+    {
+        "combineIdRawNum": 11019,
+        "playerLevelRawNum": 15,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112030,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 50,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101003,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112029,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 4142765958
+    },
+    {
+        "combineIdRawNum": 11020,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112031,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 125,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101003,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112030,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 642306134
+    },
+    {
+        "combineIdRawNum": 11021,
+        "playerLevelRawNum": 15,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112033,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 25,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101002,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112032,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3486589798
+    },
+    {
+        "combineIdRawNum": 11022,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112034,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 50,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101002,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112033,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2752505846
+    },
+    {
+        "combineIdRawNum": 11023,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112036,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 25,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101001,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112035,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 401461790
+    },
+    {
+        "combineIdRawNum": 11024,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 1,
+        "resultItemIdRawNum": 112037,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 50,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101001,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 112036,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 889219350
+    },
+    {
+        "combineIdRawNum": 12001,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114002,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 125,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101001,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114001,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2651610598
+    },
+    {
+        "combineIdRawNum": 12002,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114003,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 350,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101002,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114002,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 403479278
+    },
+    {
+        "combineIdRawNum": 12003,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114004,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 1075,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101003,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114003,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2260626454
+    },
+    {
+        "combineIdRawNum": 12004,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114006,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 125,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101001,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114005,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2329027430
+    },
+    {
+        "combineIdRawNum": 12005,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114007,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 350,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101002,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114006,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2995785342
+    },
+    {
+        "combineIdRawNum": 12006,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114008,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 1075,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101003,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114007,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 747446014
+    },
+    {
+        "combineIdRawNum": 12007,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114010,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 125,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101001,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114009,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3951291014
+    },
+    {
+        "combineIdRawNum": 12008,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114011,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 350,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101002,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114010,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3478835478
+    },
+    {
+        "combineIdRawNum": 12009,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114012,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 1075,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101003,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114011,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 771329718
+    },
+    {
+        "combineIdRawNum": 12010,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114014,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 125,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101001,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114013,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2909080438
+    },
+    {
+        "combineIdRawNum": 12011,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114015,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 350,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101002,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114014,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 1466483694
+    },
+    {
+        "combineIdRawNum": 12012,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114016,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 1075,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101003,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114015,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 1341986030
+    },
+    {
+        "combineIdRawNum": 12013,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114018,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 125,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101001,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114017,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2434660814
+    },
+    {
+        "combineIdRawNum": 12014,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114019,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 350,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101002,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114018,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 927163198
+    },
+    {
+        "combineIdRawNum": 12015,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114020,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 1075,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101003,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114019,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2779801510
+    },
+    {
+        "combineIdRawNum": 12016,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114022,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 125,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101001,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114021,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2594773526
+    },
+    {
+        "combineIdRawNum": 12017,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114023,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 350,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101002,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114022,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3261296230
+    },
+    {
+        "combineIdRawNum": 12018,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 2,
+        "resultItemIdRawNum": 114024,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 1075,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101003,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 114023,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2895350334
+    },
+    {
+        "combineIdRawNum": 13001,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 3,
+        "resultItemIdRawNum": 104302,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 175,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100085,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104301,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3417974494
+    },
+    {
+        "combineIdRawNum": 13002,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 3,
+        "resultItemIdRawNum": 104303,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 550,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100082,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104302,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2551102798
+    },
+    {
+        "combineIdRawNum": 13003,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 3,
+        "resultItemIdRawNum": 104305,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 175,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100085,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104304,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3054984326
+    },
+    {
+        "combineIdRawNum": 13004,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 3,
+        "resultItemIdRawNum": 104306,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 550,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100082,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104305,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3611636350
+    },
+    {
+        "combineIdRawNum": 13005,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 3,
+        "resultItemIdRawNum": 104308,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 175,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100085,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104307,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3706082558
+    },
+    {
+        "combineIdRawNum": 13006,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 3,
+        "resultItemIdRawNum": 104309,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 550,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100082,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104308,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 266410710
+    },
+    {
+        "combineIdRawNum": 13007,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 3,
+        "resultItemIdRawNum": 104311,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 175,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100085,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104310,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2472596486
+    },
+    {
+        "combineIdRawNum": 13008,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 3,
+        "resultItemIdRawNum": 104312,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 550,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100082,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104311,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 802548054
+    },
+    {
+        "combineIdRawNum": 13009,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 3,
+        "resultItemIdRawNum": 104314,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 175,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100085,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104313,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2691955750
+    },
+    {
+        "combineIdRawNum": 13010,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 3,
+        "resultItemIdRawNum": 104315,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 550,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100082,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104314,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2443908542
+    },
+    {
+        "combineIdRawNum": 13011,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 3,
+        "resultItemIdRawNum": 104317,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 175,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100085,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104316,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3070043686
+    },
+    {
+        "combineIdRawNum": 13012,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 3,
+        "resultItemIdRawNum": 104318,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 550,
+        "randomItems": [
+            {
+                "itemIdRawNum": 100082,
+                "countRawNum": 1
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104317,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3609653678
+    },
+    {
+        "combineIdRawNum": 14001,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 4,
+        "resultItemIdRawNum": 111006,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 100,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 100072,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100053,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "effectDescTextMapHash": 2591474998
+    },
+    {
+        "combineIdRawNum": 14002,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 4,
+        "resultItemIdRawNum": 111007,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 100,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 100072,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100026,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "effectDescTextMapHash": 486996030
+    },
+    {
+        "combineIdRawNum": 14003,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 4,
+        "resultItemIdRawNum": 111008,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 100,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 100085,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100052,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "effectDescTextMapHash": 109232974
+    },
+    {
+        "combineIdRawNum": 14004,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 4,
+        "resultItemIdRawNum": 111009,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 100,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 100085,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100057,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "effectDescTextMapHash": 2655203190
+    },
+    {
+        "combineIdRawNum": 14005,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 4,
+        "resultItemIdRawNum": 111010,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 100,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 100072,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100054,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "effectDescTextMapHash": 3885553262
+    },
+    {
+        "combineIdRawNum": 14006,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 4,
+        "resultItemIdRawNum": 111011,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 100,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 100072,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100058,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "effectDescTextMapHash": 2335632110
+    },
+    {
+        "combineIdRawNum": 14008,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 4,
+        "resultItemIdRawNum": 111013,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 100,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 100081,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100053,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "effectDescTextMapHash": 3994443734
+    },
+    {
+        "combineIdRawNum": 14009,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 4,
+        "resultItemIdRawNum": 111014,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 100,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 100081,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100026,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "effectDescTextMapHash": 993141678
+    },
+    {
+        "combineIdRawNum": 14010,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 4,
+        "resultItemIdRawNum": 111015,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 100,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 100083,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100052,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "effectDescTextMapHash": 4244326390
+    },
+    {
+        "combineIdRawNum": 14011,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 4,
+        "resultItemIdRawNum": 111016,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 100,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 100083,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100057,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "effectDescTextMapHash": 1382868598
+    },
+    {
+        "combineIdRawNum": 14012,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 4,
+        "resultItemIdRawNum": 111017,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 100,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 100081,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100054,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "effectDescTextMapHash": 1796918390
+    },
+    {
+        "combineIdRawNum": 14013,
+        "playerLevelRawNum": 5,
+        "combineTypeRawNum": 4,
+        "resultItemIdRawNum": 111018,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 100,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 100081,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100058,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "effectDescTextMapHash": 2474011518
+    },
+    {
+        "combineIdRawNum": 15001,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104112,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 300,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104111,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 969838134
+    },
+    {
+        "combineIdRawNum": 15002,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104113,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 900,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104112,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 439431990
+    },
+    {
+        "combineIdRawNum": 15003,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104114,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 2700,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104113,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 827014342
+    },
+    {
+        "combineIdRawNum": 15004,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104122,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 300,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104121,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 985089150
+    },
+    {
+        "combineIdRawNum": 15005,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104123,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 900,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104122,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 1375946966
+    },
+    {
+        "combineIdRawNum": 15006,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104124,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 2700,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104123,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3623939486
+    },
+    {
+        "combineIdRawNum": 15010,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104142,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 300,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104141,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 714537582
+    },
+    {
+        "combineIdRawNum": 15011,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104143,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 900,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104142,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3043838430
+    },
+    {
+        "combineIdRawNum": 15012,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104144,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 2700,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104143,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 254418566
+    },
+    {
+        "combineIdRawNum": 15013,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104152,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 300,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104151,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 1864851190
+    },
+    {
+        "combineIdRawNum": 15014,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104153,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 900,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104152,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3484055638
+    },
+    {
+        "combineIdRawNum": 15015,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104154,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 2700,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104153,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 56549918
+    },
+    {
+        "combineIdRawNum": 15016,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104162,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 300,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104161,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3041544262
+    },
+    {
+        "combineIdRawNum": 15017,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104163,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 900,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104162,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 2246972942
+    },
+    {
+        "combineIdRawNum": 15018,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104164,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 2700,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104163,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 1231409150
+    },
+    {
+        "combineIdRawNum": 15019,
+        "playerLevelRawNum": 10,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104172,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 300,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104171,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 1789214542
+    },
+    {
+        "combineIdRawNum": 15020,
+        "playerLevelRawNum": 20,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104173,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 900,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104172,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3947090006
+    },
+    {
+        "combineIdRawNum": 15021,
+        "playerLevelRawNum": 30,
+        "combineTypeRawNum": 5,
+        "resultItemIdRawNum": 104174,
+        "resultItemCountRawNum": 1,
+        "scoinCostRawNum": 2700,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 104173,
+                "countRawNum": 3
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 68505830
+    },
+    {
+        "combineIdRawNum": 16003,
+        "playerLevelRawNum": 1,
+        "combineTypeRawNum": 4,
+        "resultItemIdRawNum": 100490,
+        "resultItemCountRawNum": 1,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 100487,
+                "countRawNum": 1
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3673190870
+    },
+    {
+        "combineIdRawNum": 16004,
+        "playerLevelRawNum": 1,
+        "combineTypeRawNum": 4,
+        "resultItemIdRawNum": 100491,
+        "resultItemCountRawNum": 1,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 100488,
+                "countRawNum": 1
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3775252070
+    },
+    {
+        "combineIdRawNum": 16005,
+        "playerLevelRawNum": 1,
+        "combineTypeRawNum": 4,
+        "resultItemIdRawNum": 100492,
+        "resultItemCountRawNum": 1,
+        "randomItems": [
+            {}
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 100489,
+                "countRawNum": 1
+            },
+            {},
+            {}
+        ],
+        "effectDescTextMapHash": 3608614078
+    }
+]

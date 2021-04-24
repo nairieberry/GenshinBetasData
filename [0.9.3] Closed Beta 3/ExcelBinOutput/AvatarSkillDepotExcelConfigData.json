@@ -1,0 +1,2315 @@
+[
+    {
+        "idRawNum": 101,
+        "energySkillRawNum": 10014,
+        "skills": [
+            10011,
+            10012,
+            0,
+            0
+        ],
+        "subSkills": [
+            10300,
+            10101,
+            10102,
+            10001
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 201,
+        "energySkillRawNum": 10019,
+        "skills": [
+            10024,
+            10018,
+            10013,
+            0
+        ],
+        "subSkills": [
+            10020,
+            10021,
+            10052,
+            10053,
+            10111,
+            10101,
+            10001,
+            10102,
+            5002010
+        ],
+        "leaderTalentRawNum": 211,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+        ],
+        "talentStarName": "Talent_Ayaka",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 221,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 222,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {
+                "proudSkillGroupIdRawNum": 223
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 301,
+        "energySkillRawNum": 10034,
+        "skills": [
+            10031,
+            10033,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10001,
+            10102,
+            5003010
+        ],
+        "leaderTalentRawNum": 1300,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+        ],
+        "talentStarName": "Talent_Qin",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 321,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 322,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {
+                "proudSkillGroupIdRawNum": 323
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 501,
+        "skills": [
+            100540,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [
+            10035,
+            10101,
+            10001,
+            10102,
+            10054,
+            5005010
+        ],
+        "extraAbilities": [
+            "Avatar_PlayerBoy_ExtraAttack_Common",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 502,
+        "skills": [
+            100541,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10001,
+            10102,
+            10054,
+            5005010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "Talent_PlayerBoy_Fire",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 503,
+        "skills": [
+            100542,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10001,
+            10102,
+            10054,
+            5005010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "Talent_PlayerBoy_Water",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 504,
+        "energySkillRawNum": 10068,
+        "skills": [
+            100543,
+            10067,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10001,
+            10102,
+            10006,
+            10054,
+            5005010
+        ],
+        "leaderTalentRawNum": 1481,
+        "extraAbilities": [
+            "Avatar_PlayerBoy_ExtraAttack_Wind",
+            "",
+            ""
+        ],
+        "talents": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ],
+        "talentStarName": "Talent_PlayerBoy_Wind",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 721,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 722,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 505,
+        "skills": [
+            100544,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10001,
+            10102,
+            10054,
+            5005010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "Talent_PlayerBoy_Ice",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 506,
+        "energySkillRawNum": 10078,
+        "skills": [
+            100545,
+            10077,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10001,
+            10102,
+            10054,
+            5005010
+        ],
+        "leaderTalentRawNum": 1641,
+        "extraAbilities": [
+            "Avatar_PlayerBoy_ExtraAttack_Rock",
+            "",
+            ""
+        ],
+        "talents": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96
+        ],
+        "talentStarName": "Talent_PlayerBoy_Rock",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 921,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 922,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 507,
+        "skills": [
+            100546,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10001,
+            10102,
+            10054,
+            5005010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "Talent_PlayerBoy_Electric",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 508,
+        "skills": [
+            100547,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10001,
+            10102,
+            10054,
+            5005010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "Talent_PlayerBoy_Grass",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 601,
+        "energySkillRawNum": 10062,
+        "skills": [
+            10060,
+            10061,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102,
+            10003,
+            5006010
+        ],
+        "leaderTalentRawNum": 1100,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+        ],
+        "talentStarName": "Talent_Lisa",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 421,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 422,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {
+                "proudSkillGroupIdRawNum": 423
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 701,
+        "skills": [
+            100550,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [
+            10035,
+            10101,
+            10001,
+            10102,
+            10055,
+            5007010
+        ],
+        "extraAbilities": [
+            "Avatar_PlayerGirl_ExtraAttack_Common",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 702,
+        "skills": [
+            100551,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10001,
+            10102,
+            10055,
+            5007010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "Talent_PlayerGirl_Fire",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 703,
+        "skills": [
+            100552,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10001,
+            10102,
+            10055,
+            5007010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "Talent_PlayerGirl_Water",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 704,
+        "energySkillRawNum": 10068,
+        "skills": [
+            100553,
+            10067,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10001,
+            10102,
+            10006,
+            10055,
+            5007010
+        ],
+        "leaderTalentRawNum": 1481,
+        "extraAbilities": [
+            "Avatar_PlayerGirl_ExtraAttack_Wind",
+            "",
+            ""
+        ],
+        "talents": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ],
+        "talentStarName": "Talent_PlayerGirl_Wind",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 721,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 722,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 705,
+        "skills": [
+            100554,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10001,
+            10102,
+            10055,
+            5007010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "Talent_PlayerGirl_Ice",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 706,
+        "energySkillRawNum": 10078,
+        "skills": [
+            100555,
+            10077,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10001,
+            10102,
+            10055,
+            5007010
+        ],
+        "leaderTalentRawNum": 1641,
+        "extraAbilities": [
+            "Avatar_PlayerGirl_ExtraAttack_Rock",
+            "",
+            ""
+        ],
+        "talents": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96
+        ],
+        "talentStarName": "Talent_PlayerGirl_Rock",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 921,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 922,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 707,
+        "skills": [
+            100556,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10001,
+            10102,
+            10055,
+            5007010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "Talent_PlayerGirl_Electric",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 708,
+        "skills": [
+            100557,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10001,
+            10102,
+            10055,
+            5007010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "Talent_PlayerGirl_Grass",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 1401,
+        "energySkillRawNum": 10072,
+        "skills": [
+            10070,
+            10071,
+            0,
+            0
+        ],
+        "subSkills": [
+            10076,
+            10079,
+            10080,
+            10101,
+            10102,
+            10003,
+            5014010
+        ],
+        "leaderTalentRawNum": 1560,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146
+        ],
+        "talentStarName": "Talent_Barbara",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 1421,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 1422,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {
+                "proudSkillGroupIdRawNum": 1423
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 1501,
+        "energySkillRawNum": 10075,
+        "skills": [
+            10073,
+            10074,
+            0,
+            0
+        ],
+        "subSkills": [
+            10081,
+            10101,
+            10001,
+            10102,
+            5015010
+        ],
+        "leaderTalentRawNum": 1050,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            151,
+            152,
+            153,
+            154,
+            155,
+            156
+        ],
+        "talentStarName": "Talent_Kaeya",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 1521,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 1522,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {
+                "proudSkillGroupIdRawNum": 1523
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 1601,
+        "energySkillRawNum": 10165,
+        "skills": [
+            10160,
+            10161,
+            0,
+            0
+        ],
+        "subSkills": [
+            10162,
+            10163,
+            10101,
+            10102,
+            5016010
+        ],
+        "leaderTalentRawNum": 1400,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            161,
+            162,
+            163,
+            164,
+            165,
+            166
+        ],
+        "talentStarName": "Talent_Diluc",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 1621,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 1622,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {
+                "proudSkillGroupIdRawNum": 1623
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 2001,
+        "energySkillRawNum": 10203,
+        "skills": [
+            10201,
+            10202,
+            0,
+            0
+        ],
+        "subSkills": [
+            10204,
+            10101,
+            10102,
+            5020010
+        ],
+        "leaderTalentRawNum": 2011,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206
+        ],
+        "talentStarName": "Talent_Razor",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 2021,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 2022,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {
+                "proudSkillGroupIdRawNum": 2023
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 2101,
+        "energySkillRawNum": 10017,
+        "skills": [
+            10041,
+            10032,
+            0,
+            0
+        ],
+        "subSkills": [
+            10042,
+            10043,
+            10211,
+            10101,
+            10102,
+            5021010
+        ],
+        "attackModeSkillRawNum": 20000,
+        "leaderTalentRawNum": 1000,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216
+        ],
+        "talentStarName": "Talent_Ambor",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 2121,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 2122,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {
+                "proudSkillGroupIdRawNum": 2123
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 2201,
+        "energySkillRawNum": 10225,
+        "skills": [
+            10221,
+            10224,
+            0,
+            0
+        ],
+        "subSkills": [
+            10222,
+            10223,
+            10101,
+            10102,
+            5022010
+        ],
+        "attackModeSkillRawNum": 20000,
+        "leaderTalentRawNum": 2211,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            221,
+            222,
+            223,
+            224,
+            225,
+            226
+        ],
+        "talentStarName": "Talent_Venti",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 2221,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 2222,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {
+                "proudSkillGroupIdRawNum": 2223
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 2301,
+        "energySkillRawNum": 10235,
+        "skills": [
+            10231,
+            10232,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10002,
+            10102,
+            5023010
+        ],
+        "leaderTalentRawNum": 2311,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            231,
+            232,
+            233,
+            234,
+            235,
+            236
+        ],
+        "talentStarName": "Talent_Xiangling",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 2321,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 2322,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {
+                "proudSkillGroupIdRawNum": 2323
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 2401,
+        "energySkillRawNum": 10245,
+        "skills": [
+            10241,
+            10242,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102,
+            5024010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            241,
+            242,
+            243,
+            244,
+            245,
+            246
+        ],
+        "talentStarName": "Talent_Beidou",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 2421,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 2422,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {
+                "proudSkillGroupIdRawNum": 2423
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 2501,
+        "energySkillRawNum": 10385,
+        "skills": [
+            10381,
+            10382,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102,
+            10001,
+            5025010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            251,
+            252,
+            253,
+            254,
+            255,
+            256
+        ],
+        "talentStarName": "Talent_Xingqiu",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 2521,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 2522,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 2601,
+        "energySkillRawNum": 10265,
+        "skills": [
+            10261,
+            10262,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102,
+            10002,
+            10263,
+            10264
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            261,
+            262,
+            263,
+            264,
+            265,
+            266
+        ],
+        "talentStarName": "Talent_Xiao",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 2621,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 2622,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {
+                "proudSkillGroupIdRawNum": 2623
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 2701,
+        "energySkillRawNum": 10274,
+        "skills": [
+            10271,
+            10272,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102,
+            10003,
+            10273,
+            10275,
+            5027010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            271,
+            272,
+            273,
+            274,
+            275,
+            276
+        ],
+        "talentStarName": "Talent_Ningguang",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 2721,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 2722,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {
+                "proudSkillGroupIdRawNum": 2723
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 2901,
+        "energySkillRawNum": 10295,
+        "skills": [
+            10291,
+            10292,
+            0,
+            0
+        ],
+        "subSkills": [
+            10300,
+            10101,
+            10102,
+            10003,
+            5029010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            291,
+            292,
+            293,
+            294,
+            295,
+            296
+        ],
+        "talentStarName": "Talent_Klee",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 2921,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 2922,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 3001,
+        "energySkillRawNum": 10303,
+        "skills": [
+            10301,
+            10302,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102,
+            10002,
+            5030010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            301,
+            302,
+            303,
+            304,
+            305,
+            306
+        ],
+        "talentStarName": "Talent_Zhongli",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 3021,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 3022,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {
+                "proudSkillGroupIdRawNum": 3023
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 3101,
+        "energySkillRawNum": 10313,
+        "skills": [
+            10311,
+            10312,
+            0,
+            0
+        ],
+        "subSkills": [
+            10314,
+            10315,
+            10316,
+            10101,
+            10102,
+            5031010
+        ],
+        "attackModeSkillRawNum": 20000,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            311,
+            312,
+            313,
+            314,
+            315,
+            316
+        ],
+        "talentStarName": "Talent_Fischl",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 3121,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 3122,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 3201,
+        "energySkillRawNum": 10323,
+        "skills": [
+            10321,
+            10322,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102,
+            10001,
+            5032010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            321,
+            322,
+            323,
+            324,
+            325,
+            326
+        ],
+        "talentStarName": "Talent_Bennett",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 3221,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 3222,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 3301,
+        "energySkillRawNum": 10333,
+        "skills": [
+            10331,
+            10332,
+            0,
+            0
+        ],
+        "subSkills": [
+            10334,
+            10335,
+            10336,
+            10337,
+            10101,
+            10102,
+            10001,
+            5033010
+        ],
+        "attackModeSkillRawNum": 20000,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            331,
+            332,
+            333,
+            334,
+            335,
+            336
+        ],
+        "talentStarName": "Talent_Tartaglia",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 3321,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 3322,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {
+                "proudSkillGroupIdRawNum": 3323
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 3401,
+        "energySkillRawNum": 10343,
+        "skills": [
+            10341,
+            10342,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102,
+            5034010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            341,
+            342,
+            343,
+            344,
+            345,
+            346
+        ],
+        "talentStarName": "Talent_Noel",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 3421,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 3422,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 3501,
+        "energySkillRawNum": 10353,
+        "skills": [
+            10351,
+            10352,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102,
+            10355,
+            10001
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            351,
+            352,
+            353,
+            354,
+            355,
+            356
+        ],
+        "talentStarName": "Talent_Qiqi",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 3521,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 3522,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 3601,
+        "energySkillRawNum": 10403,
+        "skills": [
+            10401,
+            10402,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            361,
+            362,
+            363,
+            364,
+            365,
+            366
+        ],
+        "talentStarName": "Talent_Chongyun",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 3621,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 3622,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 3701,
+        "energySkillRawNum": 10373,
+        "skills": [
+            10371,
+            10372,
+            0,
+            0
+        ],
+        "subSkills": [
+            10374,
+            10101,
+            10102
+        ],
+        "attackModeSkillRawNum": 20000,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            371,
+            372,
+            373,
+            374,
+            375,
+            376
+        ],
+        "talentStarName": "Talent_Ganyu",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 3721,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 3722,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 3801,
+        "energySkillRawNum": 10453,
+        "skills": [
+            10451,
+            10452,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 3901,
+        "energySkillRawNum": 10395,
+        "skills": [
+            10391,
+            10392,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102,
+            10393,
+            10394
+        ],
+        "attackModeSkillRawNum": 20000,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "Talent_Noel",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 4101,
+        "energySkillRawNum": 10415,
+        "skills": [
+            10411,
+            10412,
+            10413,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 4201,
+        "energySkillRawNum": 10425,
+        "skills": [
+            10421,
+            10422,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102,
+            10423,
+            5042010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "Talent_Noel",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 4301,
+        "energySkillRawNum": 10435,
+        "skills": [
+            10431,
+            10432,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102,
+            10003,
+            10433
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "Talent_Barbara",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 4401,
+        "energySkillRawNum": 10443,
+        "skills": [
+            10441,
+            10442,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102,
+            5034010
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 8011,
+        "skills": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 9011,
+        "skills": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 10011,
+        "skills": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 12011,
+        "skills": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 13011,
+        "skills": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "subSkills": [],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 25011,
+        "energySkillRawNum": 10255,
+        "skills": [
+            10251,
+            10362,
+            0,
+            0
+        ],
+        "subSkills": [
+            10252,
+            10253,
+            10101,
+            10102
+        ],
+        "attackModeSkillRawNum": 20000,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 28011,
+        "energySkillRawNum": 10283,
+        "skills": [
+            10281,
+            10282,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 30011,
+        "energySkillRawNum": 11305,
+        "skills": [
+            11301,
+            11302,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            311,
+            312,
+            313,
+            314,
+            315,
+            316
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {
+                "proudSkillGroupIdRawNum": 3121,
+                "needAvatarPromoteLevelRawNum": 1
+            },
+            {
+                "proudSkillGroupIdRawNum": 3122,
+                "needAvatarPromoteLevelRawNum": 4
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 37011,
+        "energySkillRawNum": 11373,
+        "skills": [
+            11371,
+            11372,
+            0,
+            0
+        ],
+        "subSkills": [
+            11374,
+            11375,
+            10101,
+            10102
+        ],
+        "attackModeSkillRawNum": 20000,
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "Talent_Test_NoStar",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 38001,
+        "skills": [
+            10241,
+            10061,
+            0,
+            0
+        ],
+        "subSkills": [
+            10101,
+            10102
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 46011,
+        "energySkillRawNum": 10463,
+        "skills": [
+            10461,
+            10462,
+            0,
+            0
+        ],
+        "subSkills": [
+            10081,
+            10101,
+            10001,
+            10102
+        ],
+        "extraAbilities": [
+            "",
+            "",
+            ""
+        ],
+        "talents": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "talentStarName": "Talent_Kaeya",
+        "inherentProudSkillOpens": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    }
+]

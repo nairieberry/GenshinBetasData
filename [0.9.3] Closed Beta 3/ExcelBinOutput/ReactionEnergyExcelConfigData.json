@@ -1,0 +1,26 @@
+[
+    {
+        "type": "Burning",
+        "minDurabilityRawNum": 100.0,
+        "maxDurabilityRawNum": 150.0,
+        "costRatioRawNum": 0.009999999776482582,
+        "configIDRawNum": 2017,
+        "poolSizeRawNum": 4.0,
+        "poolRevivePeriodRawNum": 30.0,
+        "poolReviveEnergyRawNum": 4.0,
+        "isPersistent": true,
+        "costPeriodRawNum": 3.0,
+        "dropProbRawNum": 63
+    },
+    {
+        "type": "Freeze",
+        "minDurabilityRawNum": 80.0,
+        "maxDurabilityRawNum": 120.0,
+        "costRatioRawNum": 0.009999999776482582,
+        "configIDRawNum": 2022,
+        "poolSizeRawNum": 4.0,
+        "poolRevivePeriodRawNum": 30.0,
+        "poolReviveEnergyRawNum": 4.0,
+        "dropProbRawNum": 50
+    }
+]

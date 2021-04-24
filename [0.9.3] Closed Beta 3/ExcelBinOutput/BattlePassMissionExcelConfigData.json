@@ -1,0 +1,781 @@
+[
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPointRawNum": 100,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 997093914,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 70002,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_WORLD_LEVEL_UP",
+            "paramList": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "addPointRawNum": 15,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 2302196186,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 70003,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_WORLD_LEVEL_UP",
+            "paramList": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "addPointRawNum": 5,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 4005515146,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 70004,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_WORLD_LEVEL_UP",
+            "paramList": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "addPointRawNum": 5,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 2636298202,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 70005,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_AVATAR_EXPEDITION",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "addPointRawNum": 5,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 2044035354,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 70006,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_LOGIN",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "addPointRawNum": 5,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 214224506,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 70007,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_DUNGEON",
+            "paramList": [
+                "4001",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "addPointRawNum": 5,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 2050923042,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 70008,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_DO_COOK",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 5
+    },
+    {
+        "addPointRawNum": 5,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 4018209306,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 70009,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_RELIQUARY_UPGRADE",
+            "paramList": [
+                "",
+                "",
+                "2"
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPointRawNum": 100,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 3656481546,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 70010,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_DUNGEON",
+            "paramList": [
+                "4001",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 20
+    },
+    {
+        "addPointRawNum": 5,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 2827990770,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 70011,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_COST_MATERIAL",
+            "paramList": [
+                "106",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 100
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "addPointRawNum": 15,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 3095948034,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 70012,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_COST_MATERIAL",
+            "paramList": [
+                "106",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 200
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPointRawNum": 100,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 2818641058,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 70013,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MONSTER_DIE",
+            "paramList": [
+                "29020101",
+                "可联机",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "addPointRawNum": 15,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 499910770,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71010,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MONSTER_DIE",
+            "paramList": [
+                "29020101",
+                "可联机",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "addPointRawNum": 15,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 3977492314,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71014,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_TOWER_LEVEL",
+            "paramList": [
+                "10",
+                "1",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "addPointRawNum": 18,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 1091900170,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71018,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_COST_MATERIAL",
+            "paramList": [
+                "107",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 50
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPointRawNum": 120,
+        "scheduleIdRawNum": 9999,
+        "descTextMapHash": 603524810,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71023,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_COST_MATERIAL",
+            "paramList": [
+                "107",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 500
+    },
+    {
+        "addPointRawNum": 4,
+        "descTextMapHash": 2174883162,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71001,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_LOGIN",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "addPointRawNum": 10,
+        "descTextMapHash": 3539947034,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71002,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_DAILY_TASK",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 4
+    },
+    {
+        "addPointRawNum": 6,
+        "descTextMapHash": 3702925250,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71003,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_START_AVATAR_EXPEDITION",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "addPointRawNum": 10,
+        "descTextMapHash": 1535960986,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71004,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_DUNGEON",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "addPointRawNum": 10,
+        "descTextMapHash": 1468373370,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71005,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_WORLD_BOSS_REWARD",
+            "paramList": [
+                "2",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "addPointRawNum": 4,
+        "descTextMapHash": 3490696106,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71006,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_DO_COOK",
+            "paramList": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 5
+    },
+    {
+        "addPointRawNum": 4,
+        "descTextMapHash": 481656074,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71007,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_ANY_RELIQUARY_UPGRADE",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "addPointRawNum": 4,
+        "descTextMapHash": 2215960114,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71025,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_RAND_TASK",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "addPointRawNum": 4,
+        "descTextMapHash": 833683122,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71026,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_DO_FORGE",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "addPointRawNum": 10,
+        "descTextMapHash": 537936482,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71027,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_OPEN_BLOSSOM_CHEST",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 4
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "addPointRawNum": 18,
+        "descTextMapHash": 257261266,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71008,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "paramList": [
+                "100021;100022;100023;100024;100025;100055;100057",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 10
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "addPointRawNum": 18,
+        "descTextMapHash": 520541282,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71009,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "paramList": [
+                "100026;100027;100028;100029;100030;100031;100033;100034;100058",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 10
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "addPointRawNum": 30,
+        "descTextMapHash": 2969225778,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71011,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MONSTER_DIE",
+            "paramList": [
+                "20040101;20040201;20040301",
+                "可联机",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "addPointRawNum": 30,
+        "descTextMapHash": 3085244482,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71012,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MONSTER_DIE",
+            "paramList": [
+                "29020101;29020102",
+                "可联机",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "addPointRawNum": 30,
+        "descTextMapHash": 1065832130,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71013,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_DUNGEON",
+            "paramList": [
+                "2020;2021;2022;2023",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "addPointRawNum": 12,
+        "descTextMapHash": 1115685402,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71015,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_RAND_TASK",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 5
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "addPointRawNum": 30,
+        "descTextMapHash": 3944492762,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71016,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_OBTAIN_RELIQUARY_NUM",
+            "paramList": [
+                "5",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "addPointRawNum": 18,
+        "descTextMapHash": 646844474,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71017,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_COST_MATERIAL",
+            "paramList": [
+                "106",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 900
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "addPointRawNum": 18,
+        "descTextMapHash": 249021970,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71019,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_COST_MATERIAL",
+            "paramList": [
+                "202",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 500000
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPointRawNum": 200,
+        "descTextMapHash": 3013661458,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71020,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_GACHA_NUM",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 10
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPointRawNum": 200,
+        "descTextMapHash": 3859786,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71021,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_TOWER_LEVEL",
+            "paramList": [
+                "8",
+                "5",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPointRawNum": 120,
+        "descTextMapHash": 1674742826,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71022,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_COST_MATERIAL",
+            "paramList": [
+                "106",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 5500
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPointRawNum": 120,
+        "descTextMapHash": 3480378178,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "idRawNum": 71024,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_COST_MATERIAL",
+            "paramList": [
+                "202",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3000000
+    }
+]

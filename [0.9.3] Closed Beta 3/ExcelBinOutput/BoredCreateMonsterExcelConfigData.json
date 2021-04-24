@@ -1,0 +1,454 @@
+[
+    {
+        "player_levelRawNum": 1,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 101
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 2,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 102
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 3,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 103
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 4,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 104
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 5,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 105
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 6,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 106
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 7,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 107
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 8,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 108
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 9,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 109
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 10,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 110
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 11,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 111
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 12,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 112
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 13,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 113
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 14,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 114
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 15,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 115
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 16,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 116
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 17,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 117
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 18,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 118
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 19,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 119
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 20,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 120
+            },
+            {
+                "weightRawNum": 100,
+                "idRawNum": 220
+            },
+            {
+                "weightRawNum": 100,
+                "idRawNum": 320
+            }
+        ]
+    },
+    {
+        "player_levelRawNum": 21,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 121
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 22,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 122
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 23,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 123
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 24,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 124
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 25,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 125
+            },
+            {
+                "weightRawNum": 100,
+                "idRawNum": 225
+            },
+            {
+                "weightRawNum": 100,
+                "idRawNum": 325
+            }
+        ]
+    },
+    {
+        "player_levelRawNum": 26,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 126
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 27,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 127
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 28,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 128
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 29,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 129
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 30,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 130
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 31,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 131
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 32,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 132
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 33,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 133
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 34,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 134
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 35,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 135
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 36,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 136
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 37,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 137
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 38,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 138
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 39,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 139
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "player_levelRawNum": 40,
+        "monster_config_vec": [
+            {
+                "weightRawNum": 100,
+                "idRawNum": 140
+            },
+            {},
+            {}
+        ]
+    }
+]

@@ -1,0 +1,2270 @@
+[
+    {
+        "idRawNum": 3003001,
+        "pointTypeRawNum": 1001,
+        "gadgetIdRawNum": 70520001,
+        "itemIdRawNum": 101001,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999930,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 35
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003003,
+        "pointTypeRawNum": 1002,
+        "gadgetIdRawNum": 70520002,
+        "itemIdRawNum": 101002,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 20,
+        "refreshIdRawNum": 999931,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 5
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003004,
+        "pointTypeRawNum": 1003,
+        "gadgetIdRawNum": 70520003,
+        "itemIdRawNum": 101003,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 30,
+        "refreshIdRawNum": 999932,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 4
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003005,
+        "pointTypeRawNum": 1004,
+        "gadgetIdRawNum": 70520018,
+        "itemIdRawNum": 100028,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 30,
+        "refreshIdRawNum": 999933,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 4
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003009,
+        "pointTypeRawNum": 2001,
+        "gadgetIdRawNum": 70520009,
+        "itemIdRawNum": 100016,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999900,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 60
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003010,
+        "pointTypeRawNum": 2002,
+        "gadgetIdRawNum": 70520004,
+        "itemIdRawNum": 100011,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 5,
+        "refreshIdRawNum": 999900,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 40
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003015,
+        "pointTypeRawNum": 2003,
+        "gadgetIdRawNum": 70520006,
+        "itemIdRawNum": 100013,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 5,
+        "refreshIdRawNum": 999900,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 5
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003016,
+        "pointTypeRawNum": 2019,
+        "gadgetIdRawNum": 70520007,
+        "itemIdRawNum": 100014,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 5,
+        "refreshIdRawNum": 999900,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 5
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003017,
+        "pointTypeRawNum": 2004,
+        "gadgetIdRawNum": 70520005,
+        "itemIdRawNum": 100012,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999900,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 60
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003019,
+        "pointTypeRawNum": 2005,
+        "gadgetIdRawNum": 70520008,
+        "itemIdRawNum": 100015,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999900,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 40
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003021,
+        "pointTypeRawNum": 2006,
+        "gadgetIdRawNum": 70540003,
+        "itemIdRawNum": 100001,
+        "extraItemIdVec": [],
+        "cdRawNum": 5,
+        "priorityRawNum": 20,
+        "refreshIdRawNum": 999900,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 30
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003022,
+        "pointTypeRawNum": 2007,
+        "gadgetIdRawNum": 70540005,
+        "itemIdRawNum": 100020,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999900,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 50
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003034,
+        "pointTypeRawNum": 2008,
+        "gadgetIdRawNum": 70590013,
+        "itemIdRawNum": 100056,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999921,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003036,
+        "pointTypeRawNum": 2009,
+        "gadgetIdRawNum": 70520013,
+        "itemIdRawNum": 100063,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999900,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003023,
+        "pointTypeRawNum": 3001,
+        "gadgetIdRawNum": 70540003,
+        "itemIdRawNum": 100001,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 5,
+        "priorityRawNum": 20,
+        "refreshIdRawNum": 999900,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 80
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003024,
+        "pointTypeRawNum": 3002,
+        "gadgetIdRawNum": 70540001,
+        "itemIdRawNum": 100051,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999900,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 70
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003025,
+        "pointTypeRawNum": 3003,
+        "gadgetIdRawNum": 70540004,
+        "itemIdRawNum": 100062,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999900,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003031,
+        "pointTypeRawNum": 3005,
+        "gadgetIdRawNum": 70510006,
+        "itemIdRawNum": 100053,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999920,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ],
+        "init_disable_interact": true
+    },
+    {
+        "idRawNum": 3003032,
+        "pointTypeRawNum": 3006,
+        "gadgetIdRawNum": 70510005,
+        "itemIdRawNum": 100054,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999920,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003033,
+        "pointTypeRawNum": 3007,
+        "gadgetIdRawNum": 70510004,
+        "itemIdRawNum": 100055,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999921,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 80
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003035,
+        "pointTypeRawNum": 3008,
+        "gadgetIdRawNum": 70510007,
+        "itemIdRawNum": 100052,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999920,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ],
+        "init_disable_interact": true
+    },
+    {
+        "idRawNum": 3003037,
+        "pointTypeRawNum": 3009,
+        "gadgetIdRawNum": 70510009,
+        "itemIdRawNum": 100057,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999920,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ],
+        "init_disable_interact": true
+    },
+    {
+        "idRawNum": 3003038,
+        "pointTypeRawNum": 3010,
+        "gadgetIdRawNum": 70510012,
+        "itemIdRawNum": 100058,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999920,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ],
+        "init_disable_interact": true
+    },
+    {
+        "idRawNum": 3003039,
+        "pointTypeRawNum": 3011,
+        "gadgetIdRawNum": 70540021,
+        "itemIdRawNum": 100002,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999900,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003100,
+        "pointTypeRawNum": 2010,
+        "gadgetIdRawNum": 70540013,
+        "itemIdRawNum": 100021,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999921,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003101,
+        "pointTypeRawNum": 2011,
+        "gadgetIdRawNum": 70540022,
+        "itemIdRawNum": 100022,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999921,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003102,
+        "pointTypeRawNum": 2012,
+        "gadgetIdRawNum": 70540018,
+        "itemIdRawNum": 100023,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999921,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003103,
+        "pointTypeRawNum": 2013,
+        "gadgetIdRawNum": 70540019,
+        "itemIdRawNum": 100024,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999921,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003104,
+        "pointTypeRawNum": 2014,
+        "gadgetIdRawNum": 70540020,
+        "itemIdRawNum": 100025,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999921,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003105,
+        "pointTypeRawNum": 2015,
+        "gadgetIdRawNum": 70540014,
+        "itemIdRawNum": 100026,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999900,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003106,
+        "pointTypeRawNum": 2016,
+        "gadgetIdRawNum": 70540008,
+        "itemIdRawNum": 100027,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999921,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003112,
+        "pointTypeRawNum": 2023,
+        "gadgetIdRawNum": 70540015,
+        "itemIdRawNum": 100029,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999921,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003114,
+        "pointTypeRawNum": 2025,
+        "gadgetIdRawNum": 70540012,
+        "itemIdRawNum": 100030,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999921,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003115,
+        "pointTypeRawNum": 2026,
+        "gadgetIdRawNum": 70540026,
+        "itemIdRawNum": 100034,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999921,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003116,
+        "pointTypeRawNum": 2027,
+        "gadgetIdRawNum": 70540027,
+        "itemIdRawNum": 100032,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999900,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003117,
+        "pointTypeRawNum": 2028,
+        "gadgetIdRawNum": 70540029,
+        "itemIdRawNum": 100031,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999921,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003118,
+        "pointTypeRawNum": 2029,
+        "gadgetIdRawNum": 70540028,
+        "itemIdRawNum": 100033,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "refreshIdRawNum": 999921,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ]
+    },
+    {
+        "idRawNum": 3003026,
+        "pointTypeRawNum": 4001001,
+        "gadgetIdRawNum": 70590004,
+        "itemIdRawNum": 107001,
+        "extraItemIdVec": [],
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 100
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003026,
+        "pointTypeRawNum": 4002,
+        "gadgetIdRawNum": 70590021,
+        "itemIdRawNum": 107003,
+        "extraItemIdVec": [],
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 100
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003028,
+        "pointTypeRawNum": 4001003,
+        "gadgetIdRawNum": 70600064,
+        "itemIdRawNum": 100151,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 1
+            }
+        ]
+    },
+    {
+        "idRawNum": 1004001,
+        "pointTypeRawNum": 9001,
+        "gadgetIdRawNum": 71700002,
+        "itemIdRawNum": 100178,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004002,
+        "pointTypeRawNum": 9002,
+        "gadgetIdRawNum": 71700003,
+        "itemIdRawNum": 100179,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004003,
+        "pointTypeRawNum": 9003,
+        "gadgetIdRawNum": 71700004,
+        "itemIdRawNum": 100180,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004004,
+        "pointTypeRawNum": 9004,
+        "gadgetIdRawNum": 71700005,
+        "itemIdRawNum": 100181,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004005,
+        "pointTypeRawNum": 9005,
+        "gadgetIdRawNum": 71700006,
+        "itemIdRawNum": 100182,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004006,
+        "pointTypeRawNum": 9006,
+        "gadgetIdRawNum": 71700007,
+        "itemIdRawNum": 100183,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004007,
+        "pointTypeRawNum": 9007,
+        "gadgetIdRawNum": 71700009,
+        "itemIdRawNum": 100188,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004008,
+        "pointTypeRawNum": 9008,
+        "gadgetIdRawNum": 71700010,
+        "itemIdRawNum": 100189,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004009,
+        "pointTypeRawNum": 9009,
+        "gadgetIdRawNum": 71700011,
+        "itemIdRawNum": 100190,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004010,
+        "pointTypeRawNum": 9010,
+        "gadgetIdRawNum": 71700012,
+        "itemIdRawNum": 100191,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004011,
+        "pointTypeRawNum": 9011,
+        "gadgetIdRawNum": 71700013,
+        "itemIdRawNum": 100192,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004012,
+        "pointTypeRawNum": 9012,
+        "gadgetIdRawNum": 71700014,
+        "itemIdRawNum": 100193,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004013,
+        "pointTypeRawNum": 9013,
+        "gadgetIdRawNum": 71700015,
+        "itemIdRawNum": 100194,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004014,
+        "pointTypeRawNum": 9014,
+        "gadgetIdRawNum": 71700016,
+        "itemIdRawNum": 100195,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004015,
+        "pointTypeRawNum": 9015,
+        "gadgetIdRawNum": 71700017,
+        "itemIdRawNum": 100196,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004016,
+        "pointTypeRawNum": 9016,
+        "gadgetIdRawNum": 71700018,
+        "itemIdRawNum": 100197,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004017,
+        "pointTypeRawNum": 9017,
+        "gadgetIdRawNum": 71700019,
+        "itemIdRawNum": 100198,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004018,
+        "pointTypeRawNum": 9018,
+        "gadgetIdRawNum": 71700020,
+        "itemIdRawNum": 100199,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004019,
+        "pointTypeRawNum": 9019,
+        "gadgetIdRawNum": 71700021,
+        "itemIdRawNum": 100200,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004020,
+        "pointTypeRawNum": 9020,
+        "gadgetIdRawNum": 71700023,
+        "itemIdRawNum": 100202,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004021,
+        "pointTypeRawNum": 9021,
+        "gadgetIdRawNum": 71700024,
+        "itemIdRawNum": 100203,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004022,
+        "pointTypeRawNum": 9022,
+        "gadgetIdRawNum": 71700025,
+        "itemIdRawNum": 100204,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004023,
+        "pointTypeRawNum": 9023,
+        "gadgetIdRawNum": 71700026,
+        "itemIdRawNum": 100205,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004024,
+        "pointTypeRawNum": 9024,
+        "gadgetIdRawNum": 71700027,
+        "itemIdRawNum": 100206,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004025,
+        "pointTypeRawNum": 9025,
+        "gadgetIdRawNum": 71700028,
+        "itemIdRawNum": 100207,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004026,
+        "pointTypeRawNum": 9026,
+        "gadgetIdRawNum": 71700029,
+        "itemIdRawNum": 100208,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004027,
+        "pointTypeRawNum": 9027,
+        "gadgetIdRawNum": 71700022,
+        "itemIdRawNum": 100201,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004028,
+        "pointTypeRawNum": 9028,
+        "gadgetIdRawNum": 71700039,
+        "itemIdRawNum": 100223,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004029,
+        "pointTypeRawNum": 9029,
+        "gadgetIdRawNum": 71700042,
+        "itemIdRawNum": 100226,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004030,
+        "pointTypeRawNum": 9030,
+        "gadgetIdRawNum": 71700043,
+        "itemIdRawNum": 100227,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004031,
+        "pointTypeRawNum": 9031,
+        "gadgetIdRawNum": 71700044,
+        "itemIdRawNum": 100228,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004032,
+        "pointTypeRawNum": 9032,
+        "gadgetIdRawNum": 71700048,
+        "itemIdRawNum": 100229,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004033,
+        "pointTypeRawNum": 9033,
+        "gadgetIdRawNum": 71700049,
+        "itemIdRawNum": 100230,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004034,
+        "pointTypeRawNum": 9034,
+        "gadgetIdRawNum": 71700050,
+        "itemIdRawNum": 100239,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004035,
+        "pointTypeRawNum": 9035,
+        "gadgetIdRawNum": 71700051,
+        "itemIdRawNum": 100240,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004036,
+        "pointTypeRawNum": 9036,
+        "gadgetIdRawNum": 71700052,
+        "itemIdRawNum": 100241,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004037,
+        "pointTypeRawNum": 9037,
+        "gadgetIdRawNum": 71700054,
+        "itemIdRawNum": 100388,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004038,
+        "pointTypeRawNum": 9038,
+        "gadgetIdRawNum": 71700055,
+        "itemIdRawNum": 100389,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004039,
+        "pointTypeRawNum": 9039,
+        "gadgetIdRawNum": 71700056,
+        "itemIdRawNum": 100390,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004040,
+        "pointTypeRawNum": 9040,
+        "gadgetIdRawNum": 71700057,
+        "itemIdRawNum": 100391,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004041,
+        "pointTypeRawNum": 9041,
+        "gadgetIdRawNum": 71700058,
+        "itemIdRawNum": 100399,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004042,
+        "pointTypeRawNum": 9042,
+        "gadgetIdRawNum": 71700059,
+        "itemIdRawNum": 100400,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004043,
+        "pointTypeRawNum": 9043,
+        "gadgetIdRawNum": 71700060,
+        "itemIdRawNum": 100401,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004044,
+        "pointTypeRawNum": 9044,
+        "gadgetIdRawNum": 71700061,
+        "itemIdRawNum": 100402,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004045,
+        "pointTypeRawNum": 9045,
+        "gadgetIdRawNum": 71700062,
+        "itemIdRawNum": 100403,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004046,
+        "pointTypeRawNum": 9046,
+        "gadgetIdRawNum": 71700063,
+        "itemIdRawNum": 100404,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004047,
+        "pointTypeRawNum": 9047,
+        "gadgetIdRawNum": 71700064,
+        "itemIdRawNum": 100405,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004048,
+        "pointTypeRawNum": 9048,
+        "gadgetIdRawNum": 71700065,
+        "itemIdRawNum": 100406,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004049,
+        "pointTypeRawNum": 9049,
+        "gadgetIdRawNum": 71700066,
+        "itemIdRawNum": 100407,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004050,
+        "pointTypeRawNum": 9050,
+        "gadgetIdRawNum": 71700067,
+        "itemIdRawNum": 100408,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004051,
+        "pointTypeRawNum": 9051,
+        "gadgetIdRawNum": 71700068,
+        "itemIdRawNum": 100409,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004052,
+        "pointTypeRawNum": 9052,
+        "gadgetIdRawNum": 71700069,
+        "itemIdRawNum": 100410,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004053,
+        "pointTypeRawNum": 9053,
+        "gadgetIdRawNum": 71700070,
+        "itemIdRawNum": 100411,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004054,
+        "pointTypeRawNum": 9054,
+        "gadgetIdRawNum": 71700071,
+        "itemIdRawNum": 100412,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004055,
+        "pointTypeRawNum": 9055,
+        "gadgetIdRawNum": 71700072,
+        "itemIdRawNum": 100413,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004056,
+        "pointTypeRawNum": 9056,
+        "gadgetIdRawNum": 71700074,
+        "itemIdRawNum": 100426,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004057,
+        "pointTypeRawNum": 9057,
+        "gadgetIdRawNum": 71700078,
+        "itemIdRawNum": 100432,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004058,
+        "pointTypeRawNum": 9058,
+        "gadgetIdRawNum": 71700079,
+        "itemIdRawNum": 100433,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004059,
+        "pointTypeRawNum": 9059,
+        "gadgetIdRawNum": 71700080,
+        "itemIdRawNum": 100434,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004060,
+        "pointTypeRawNum": 9060,
+        "gadgetIdRawNum": 71700081,
+        "itemIdRawNum": 100435,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004061,
+        "pointTypeRawNum": 9061,
+        "gadgetIdRawNum": 71700082,
+        "itemIdRawNum": 100436,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004062,
+        "pointTypeRawNum": 9062,
+        "gadgetIdRawNum": 71700084,
+        "itemIdRawNum": 100437,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004063,
+        "pointTypeRawNum": 9063,
+        "gadgetIdRawNum": 71700085,
+        "itemIdRawNum": 100438,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004064,
+        "pointTypeRawNum": 9064,
+        "gadgetIdRawNum": 71700086,
+        "itemIdRawNum": 100439,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004065,
+        "pointTypeRawNum": 9065,
+        "gadgetIdRawNum": 71700087,
+        "itemIdRawNum": 100440,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004066,
+        "pointTypeRawNum": 9066,
+        "gadgetIdRawNum": 71700088,
+        "itemIdRawNum": 100441,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004067,
+        "pointTypeRawNum": 9067,
+        "gadgetIdRawNum": 71700089,
+        "itemIdRawNum": 100442,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004068,
+        "pointTypeRawNum": 9068,
+        "gadgetIdRawNum": 71700090,
+        "itemIdRawNum": 100443,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004069,
+        "pointTypeRawNum": 9069,
+        "gadgetIdRawNum": 71700091,
+        "itemIdRawNum": 100444,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004070,
+        "pointTypeRawNum": 9070,
+        "gadgetIdRawNum": 71700092,
+        "itemIdRawNum": 100445,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004071,
+        "pointTypeRawNum": 9071,
+        "gadgetIdRawNum": 71700110,
+        "itemIdRawNum": 100480,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004072,
+        "pointTypeRawNum": 9072,
+        "gadgetIdRawNum": 71700111,
+        "itemIdRawNum": 100481,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004073,
+        "pointTypeRawNum": 9073,
+        "gadgetIdRawNum": 71700112,
+        "itemIdRawNum": 100482,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004074,
+        "pointTypeRawNum": 9074,
+        "gadgetIdRawNum": 71700113,
+        "itemIdRawNum": 100483,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004075,
+        "pointTypeRawNum": 9075,
+        "gadgetIdRawNum": 71700114,
+        "itemIdRawNum": 100484,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004076,
+        "pointTypeRawNum": 9076,
+        "gadgetIdRawNum": 71700115,
+        "itemIdRawNum": 100507,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004077,
+        "pointTypeRawNum": 9077,
+        "gadgetIdRawNum": 71700116,
+        "itemIdRawNum": 100508,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 1004078,
+        "pointTypeRawNum": 9078,
+        "gadgetIdRawNum": 71700117,
+        "itemIdRawNum": 100509,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 1004,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 20000001,
+        "pointTypeRawNum": 1000001,
+        "gadgetIdRawNum": 70590005,
+        "itemIdRawNum": 107002,
+        "extraItemIdVec": [],
+        "cdRawNum": 20,
+        "priorityRawNum": 20,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 20000,
+                "countRawNum": 7
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003029,
+        "pointTypeRawNum": 9101,
+        "gadgetIdRawNum": 70710008,
+        "itemIdRawNum": 100306,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 10
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003030,
+        "pointTypeRawNum": 9102,
+        "gadgetIdRawNum": 70710008,
+        "itemIdRawNum": 100307,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 10
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003031,
+        "pointTypeRawNum": 9103,
+        "gadgetIdRawNum": 70710008,
+        "itemIdRawNum": 100308,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 10
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003040,
+        "pointTypeRawNum": 9104,
+        "gadgetIdRawNum": 70520017,
+        "itemIdRawNum": 100064,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003041,
+        "pointTypeRawNum": 9105,
+        "gadgetIdRawNum": 70710008,
+        "itemIdRawNum": 100352,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003042,
+        "pointTypeRawNum": 9107,
+        "gadgetIdRawNum": 70710063,
+        "itemIdRawNum": 100450,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003043,
+        "pointTypeRawNum": 9108,
+        "gadgetIdRawNum": 70710064,
+        "itemIdRawNum": 100451,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 20
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003044,
+        "pointTypeRawNum": 9109,
+        "gadgetIdRawNum": 70710068,
+        "itemIdRawNum": 100456,
+        "extraItemIdVec": [],
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 20007009,
+        "pointTypeRawNum": 9106,
+        "gadgetIdRawNum": 70710020,
+        "itemIdRawNum": 100349,
+        "extraItemIdVec": [],
+        "cdRawNum": 5,
+        "priorityRawNum": 20,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 20007,
+                "countRawNum": 6
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003045,
+        "pointTypeRawNum": 9110,
+        "gadgetIdRawNum": 71700098,
+        "itemIdRawNum": 100468,
+        "extraItemIdVec": [],
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003046,
+        "pointTypeRawNum": 9111,
+        "gadgetIdRawNum": 70210102,
+        "itemIdRawNum": 100467,
+        "extraItemIdVec": [],
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 1
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003047,
+        "pointTypeRawNum": 9112,
+        "gadgetIdRawNum": 70710008,
+        "itemIdRawNum": 100495,
+        "extraItemIdVec": [],
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 5
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003048,
+        "pointTypeRawNum": 9113,
+        "gadgetIdRawNum": 70710008,
+        "itemIdRawNum": 100512,
+        "extraItemIdVec": [],
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 5
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003049,
+        "pointTypeRawNum": 9114,
+        "gadgetIdRawNum": 70710008,
+        "itemIdRawNum": 100513,
+        "extraItemIdVec": [],
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 5
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003050,
+        "pointTypeRawNum": 9115,
+        "gadgetIdRawNum": 70710008,
+        "itemIdRawNum": 100514,
+        "extraItemIdVec": [],
+        "cdRawNum": 1,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 5
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003051,
+        "pointTypeRawNum": 9116,
+        "gadgetIdRawNum": 70710008,
+        "itemIdRawNum": 100524,
+        "extraItemIdVec": [],
+        "pointLocation": "POINT_AIR",
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3004,
+                "countRawNum": 10
+            }
+        ],
+        "isForbidGuest": true
+    },
+    {
+        "idRawNum": 3003052,
+        "pointTypeRawNum": 9117,
+        "gadgetIdRawNum": 70710112,
+        "itemIdRawNum": 100525,
+        "extraItemIdVec": [],
+        "cdRawNum": 10,
+        "priorityRawNum": 10,
+        "blockLimits": [
+            {
+                "blockIdRawNum": 3003,
+                "countRawNum": 10
+            }
+        ],
+        "isForbidGuest": true
+    }
+]

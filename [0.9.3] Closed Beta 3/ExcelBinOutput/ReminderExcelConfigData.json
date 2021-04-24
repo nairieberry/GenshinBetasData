@@ -1,0 +1,4300 @@
+[
+    {
+        "idRawNum": 1003,
+        "speakerTextMapHash": 2133776080,
+        "contentTextMapHash": 885979864,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 1004,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1004,
+        "speakerTextMapHash": 2021804656,
+        "contentTextMapHash": 1598115064,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1105001,
+        "speakerTextMapHash": 2441905088,
+        "contentTextMapHash": 2836482480,
+        "delayRawNum": 1.0,
+        "showTimeRawNum": 1.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1105002,
+        "speakerTextMapHash": 2015718880,
+        "contentTextMapHash": 2166664952,
+        "delayRawNum": 1.0,
+        "showTimeRawNum": 1.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1106001,
+        "speakerTextMapHash": 1684752512,
+        "contentTextMapHash": 3387197592,
+        "delayRawNum": 1.0,
+        "showTimeRawNum": 1.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1106002,
+        "speakerTextMapHash": 4167619040,
+        "contentTextMapHash": 2376993656,
+        "delayRawNum": 1.0,
+        "showTimeRawNum": 1.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1106003,
+        "speakerTextMapHash": 2122527544,
+        "contentTextMapHash": 3336527728,
+        "delayRawNum": 1.0,
+        "showTimeRawNum": 1.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1107001,
+        "speakerTextMapHash": 3342911536,
+        "contentTextMapHash": 2614713752,
+        "showTimeRawNum": 6.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1107002,
+        "speakerTextMapHash": 3613484824,
+        "contentTextMapHash": 4252668792,
+        "showTimeRawNum": 6.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1107003,
+        "speakerTextMapHash": 3697262048,
+        "contentTextMapHash": 1481040840,
+        "showTimeRawNum": 6.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1109001,
+        "speakerTextMapHash": 4029172360,
+        "contentTextMapHash": 2854147960,
+        "delayRawNum": 1.0,
+        "showTimeRawNum": 15.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1109002,
+        "speakerTextMapHash": 2991415528,
+        "contentTextMapHash": 2725864976,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1109004,
+        "speakerTextMapHash": 3371620280,
+        "contentTextMapHash": 1337305776,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1109005,
+        "speakerTextMapHash": 3026962712,
+        "contentTextMapHash": 518372472,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1109006,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1109006,
+        "speakerTextMapHash": 3424599128,
+        "contentTextMapHash": 1720799480,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1109007,
+        "speakerTextMapHash": 2440423736,
+        "contentTextMapHash": 2407884488,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1109008,
+        "speakerTextMapHash": 1775306168,
+        "contentTextMapHash": 3122367128,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1109009,
+        "speakerTextMapHash": 3663364552,
+        "contentTextMapHash": 1703039280,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1109010,
+        "speakerTextMapHash": 2283542808,
+        "contentTextMapHash": 3723220000,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1109011,
+        "speakerTextMapHash": 2343914080,
+        "contentTextMapHash": 3921831672,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1109012,
+        "speakerTextMapHash": 595316280,
+        "contentTextMapHash": 2327717416,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1109013,
+        "speakerTextMapHash": 3040571880,
+        "contentTextMapHash": 3219540088,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 1109014,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1109014,
+        "speakerTextMapHash": 4113670432,
+        "contentTextMapHash": 2530066592,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1109015,
+        "speakerTextMapHash": 4251475624,
+        "contentTextMapHash": 958297432,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 1109016,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1109016,
+        "speakerTextMapHash": 297123352,
+        "contentTextMapHash": 1595508640,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1109017,
+        "speakerTextMapHash": 3983358664,
+        "contentTextMapHash": 1008576248,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110004,
+        "speakerTextMapHash": 1457768232,
+        "contentTextMapHash": 6168552,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110005,
+        "speakerTextMapHash": 665960736,
+        "contentTextMapHash": 2119217176,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110006,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110006,
+        "speakerTextMapHash": 2371692792,
+        "contentTextMapHash": 4125606496,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110007,
+        "speakerTextMapHash": 1171298040,
+        "contentTextMapHash": 208356256,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110008,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110008,
+        "speakerTextMapHash": 2909148896,
+        "contentTextMapHash": 3290639552,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110009,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110009,
+        "speakerTextMapHash": 3142323040,
+        "contentTextMapHash": 1105514224,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110010,
+        "speakerTextMapHash": 790414184,
+        "contentTextMapHash": 3011850632,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110011,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110011,
+        "speakerTextMapHash": 1144833360,
+        "contentTextMapHash": 566266408,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110012,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110012,
+        "speakerTextMapHash": 3768801816,
+        "contentTextMapHash": 3076576160,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110013,
+        "speakerTextMapHash": 977791704,
+        "contentTextMapHash": 3069805152,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110014,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110014,
+        "speakerTextMapHash": 2873570336,
+        "contentTextMapHash": 2470266456,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110015,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110015,
+        "speakerTextMapHash": 2551615696,
+        "contentTextMapHash": 791332696,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110016,
+        "speakerTextMapHash": 195839624,
+        "contentTextMapHash": 1267911904,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110017,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110017,
+        "speakerTextMapHash": 193977280,
+        "contentTextMapHash": 1635048328,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110018,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110018,
+        "speakerTextMapHash": 1525067864,
+        "contentTextMapHash": 1367386496,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110019,
+        "speakerTextMapHash": 3140924176,
+        "contentTextMapHash": 3869285136,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110020,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110020,
+        "speakerTextMapHash": 645502728,
+        "contentTextMapHash": 3225525600,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110021,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110021,
+        "speakerTextMapHash": 3313879512,
+        "contentTextMapHash": 1585953000,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110022,
+        "speakerTextMapHash": 1491434656,
+        "contentTextMapHash": 1768792768,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110023,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110023,
+        "speakerTextMapHash": 2977508400,
+        "contentTextMapHash": 2180576016,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110024,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110024,
+        "speakerTextMapHash": 3200106584,
+        "contentTextMapHash": 3042145264,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110025,
+        "speakerTextMapHash": 3671326992,
+        "contentTextMapHash": 2095959624,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110026,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110026,
+        "speakerTextMapHash": 772327656,
+        "contentTextMapHash": 3568542408,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110027,
+        "speakerTextMapHash": 1047789008,
+        "contentTextMapHash": 3662636984,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110028,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110028,
+        "speakerTextMapHash": 1194698792,
+        "contentTextMapHash": 2952236736,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110029,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110029,
+        "speakerTextMapHash": 1415710768,
+        "contentTextMapHash": 4268090848,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110030,
+        "speakerTextMapHash": 3225191856,
+        "contentTextMapHash": 840400608,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110031,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110031,
+        "speakerTextMapHash": 2684009360,
+        "contentTextMapHash": 3433398696,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110032,
+        "speakerTextMapHash": 2561345168,
+        "contentTextMapHash": 531425600,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110033,
+        "speakerTextMapHash": 3189316512,
+        "contentTextMapHash": 2978882120,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110034,
+        "speakerTextMapHash": 1824240304,
+        "contentTextMapHash": 1330899864,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110100,
+        "speakerTextMapHash": 2403918944,
+        "contentTextMapHash": 4017748768,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110101,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110101,
+        "speakerTextMapHash": 772156936,
+        "contentTextMapHash": 2026049384,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110102,
+        "speakerTextMapHash": 2576653000,
+        "contentTextMapHash": 3383542784,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110103,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110103,
+        "speakerTextMapHash": 2544393152,
+        "contentTextMapHash": 464591320,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110104,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110104,
+        "speakerTextMapHash": 3751104056,
+        "contentTextMapHash": 64770368,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110035,
+        "speakerTextMapHash": 1368896800,
+        "contentTextMapHash": 3435064640,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110038,
+        "speakerTextMapHash": 2489083880,
+        "contentTextMapHash": 2216204160,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110039,
+        "speakerTextMapHash": 553192056,
+        "contentTextMapHash": 847050680,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110042,
+        "speakerTextMapHash": 677000728,
+        "contentTextMapHash": 3999346840,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110036,
+        "speakerTextMapHash": 3831577488,
+        "contentTextMapHash": 794252584,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110037,
+        "speakerTextMapHash": 559799120,
+        "contentTextMapHash": 176768552,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110040,
+        "speakerTextMapHash": 2037572688,
+        "contentTextMapHash": 1523498544,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110041,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110041,
+        "speakerTextMapHash": 1173136616,
+        "contentTextMapHash": 3360084096,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110043,
+        "speakerTextMapHash": 3136348832,
+        "contentTextMapHash": 3084621320,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1120001,
+        "speakerTextMapHash": 2010234520,
+        "contentTextMapHash": 2963212280,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1120002,
+        "speakerTextMapHash": 303939152,
+        "contentTextMapHash": 1443524864,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1120003,
+        "speakerTextMapHash": 948974304,
+        "contentTextMapHash": 888725776,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1120004,
+        "speakerTextMapHash": 328614616,
+        "contentTextMapHash": 807022200,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1120005,
+        "speakerTextMapHash": 1005630992,
+        "contentTextMapHash": 2335548160,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110044,
+        "speakerTextMapHash": 2478064424,
+        "contentTextMapHash": 3554360088,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110045,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110045,
+        "speakerTextMapHash": 1990847568,
+        "contentTextMapHash": 3779829024,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110046,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110046,
+        "speakerTextMapHash": 613193640,
+        "contentTextMapHash": 4170157808,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110070,
+        "speakerTextMapHash": 2354170168,
+        "contentTextMapHash": 4187735104,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110071,
+        "speakerTextMapHash": 138064128,
+        "contentTextMapHash": 2119423464,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110051,
+        "speakerTextMapHash": 319335600,
+        "contentTextMapHash": 2235112296,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 1110052,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110052,
+        "speakerTextMapHash": 3797074776,
+        "contentTextMapHash": 393327080,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110053,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110053,
+        "speakerTextMapHash": 1287225088,
+        "contentTextMapHash": 251845272,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110054,
+        "speakerTextMapHash": 2552129008,
+        "contentTextMapHash": 1753104304,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 1110055,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110055,
+        "speakerTextMapHash": 2136800760,
+        "contentTextMapHash": 2645062720,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110056,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110056,
+        "speakerTextMapHash": 2811287576,
+        "contentTextMapHash": 1217299600,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110057,
+        "speakerTextMapHash": 2426331352,
+        "contentTextMapHash": 810459440,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 1110058,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110058,
+        "speakerTextMapHash": 3579138168,
+        "contentTextMapHash": 106576240,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110059,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110059,
+        "speakerTextMapHash": 700890280,
+        "contentTextMapHash": 497060896,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110061,
+        "speakerTextMapHash": 2840583240,
+        "contentTextMapHash": 3784577512,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 1110062,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110062,
+        "speakerTextMapHash": 1375390400,
+        "contentTextMapHash": 770433688,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110063,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110063,
+        "speakerTextMapHash": 3666058208,
+        "contentTextMapHash": 3633542064,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110072,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110072,
+        "speakerTextMapHash": 2080592240,
+        "contentTextMapHash": 1218769848,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110073,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110073,
+        "speakerTextMapHash": 3237130272,
+        "contentTextMapHash": 357363144,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110064,
+        "speakerTextMapHash": 1448108208,
+        "contentTextMapHash": 1794640056,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 1110065,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110065,
+        "speakerTextMapHash": 908900264,
+        "contentTextMapHash": 1309475720,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110066,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110066,
+        "speakerTextMapHash": 1766051488,
+        "contentTextMapHash": 2029759952,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110074,
+        "speakerTextMapHash": 1274993560,
+        "contentTextMapHash": 2538792632,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110075,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110075,
+        "speakerTextMapHash": 4250329184,
+        "contentTextMapHash": 2846458912,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110076,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110076,
+        "speakerTextMapHash": 1832519704,
+        "contentTextMapHash": 916110912,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110077,
+        "speakerTextMapHash": 2683211232,
+        "contentTextMapHash": 1581717160,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110078,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110078,
+        "speakerTextMapHash": 1043986072,
+        "contentTextMapHash": 4090985208,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110079,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110079,
+        "speakerTextMapHash": 3776342376,
+        "contentTextMapHash": 300671256,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110080,
+        "speakerTextMapHash": 3383973208,
+        "contentTextMapHash": 3413370120,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110081,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110081,
+        "speakerTextMapHash": 1818782880,
+        "contentTextMapHash": 1256312048,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110082,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110082,
+        "speakerTextMapHash": 568760936,
+        "contentTextMapHash": 3958469976,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110083,
+        "speakerTextMapHash": 1485827768,
+        "contentTextMapHash": 4152066544,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110084,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110084,
+        "speakerTextMapHash": 3036367880,
+        "contentTextMapHash": 3967127776,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110085,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110085,
+        "speakerTextMapHash": 2430676176,
+        "contentTextMapHash": 2494187272,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110086,
+        "speakerTextMapHash": 4186380728,
+        "contentTextMapHash": 1721346296,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110087,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110087,
+        "speakerTextMapHash": 786576200,
+        "contentTextMapHash": 1156848472,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110088,
+        "speakerTextMapHash": 1439758208,
+        "contentTextMapHash": 1492378320,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110089,
+        "speakerTextMapHash": 3696472768,
+        "contentTextMapHash": 3181052016,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110090,
+        "speakerTextMapHash": 3491697384,
+        "contentTextMapHash": 399029328,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110091,
+        "speakerTextMapHash": 103635504,
+        "contentTextMapHash": 4266490552,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110095,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110092,
+        "speakerTextMapHash": 1266842568,
+        "contentTextMapHash": 1496940656,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110093,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110093,
+        "speakerTextMapHash": 1985640032,
+        "contentTextMapHash": 2154751576,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110094,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110094,
+        "speakerTextMapHash": 3749150496,
+        "contentTextMapHash": 3171443176,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110095,
+        "speakerTextMapHash": 3182309888,
+        "contentTextMapHash": 2999123912,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110096,
+        "speakerTextMapHash": 2104624536,
+        "contentTextMapHash": 2196792808,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110097,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110097,
+        "speakerTextMapHash": 1651879368,
+        "contentTextMapHash": 3101422792,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110098,
+        "speakerTextMapHash": 3386957080,
+        "contentTextMapHash": 2643256520,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110099,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110099,
+        "speakerTextMapHash": 2856593184,
+        "contentTextMapHash": 1182745912,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110105,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110105,
+        "speakerTextMapHash": 2338801568,
+        "contentTextMapHash": 2267923472,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110106,
+        "speakerTextMapHash": 1296459384,
+        "contentTextMapHash": 2420334744,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110107,
+        "speakerTextMapHash": 1987039704,
+        "contentTextMapHash": 2484477032,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110108,
+        "speakerTextMapHash": 1668093720,
+        "contentTextMapHash": 819327608,
+        "delayRawNum": 1.0,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110109,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110109,
+        "speakerTextMapHash": 2156947496,
+        "contentTextMapHash": 640357312,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110110,
+        "speakerTextMapHash": 3672562760,
+        "contentTextMapHash": 1527742144,
+        "delayRawNum": 1.0,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110111,
+        "speakerTextMapHash": 3806761768,
+        "contentTextMapHash": 3795123928,
+        "delayRawNum": 1.0,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110112,
+        "speakerTextMapHash": 1378109896,
+        "contentTextMapHash": 1242049520,
+        "showTimeRawNum": 2.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110113,
+        "speakerTextMapHash": 952697160,
+        "contentTextMapHash": 96799280,
+        "showTimeRawNum": 2.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110114,
+        "speakerTextMapHash": 689998992,
+        "contentTextMapHash": 1768763984,
+        "showTimeRawNum": 2.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110115,
+        "speakerTextMapHash": 1145361552,
+        "contentTextMapHash": 2155620360,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 1110116,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110116,
+        "speakerTextMapHash": 4154269912,
+        "contentTextMapHash": 3396260704,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 1110117,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110117,
+        "speakerTextMapHash": 3714089864,
+        "contentTextMapHash": 3458716672,
+        "showTimeRawNum": 2.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110119,
+        "speakerTextMapHash": 1266641952,
+        "contentTextMapHash": 1389947704,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110120,
+        "speakerTextMapHash": 3054860064,
+        "contentTextMapHash": 1899165128,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110121,
+        "speakerTextMapHash": 543118512,
+        "contentTextMapHash": 2669302048,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110122,
+        "speakerTextMapHash": 1110330056,
+        "contentTextMapHash": 491254152,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110123,
+        "speakerTextMapHash": 3236027864,
+        "contentTextMapHash": 1173378136,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110124,
+        "speakerTextMapHash": 3535447936,
+        "contentTextMapHash": 516174552,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110125,
+        "speakerTextMapHash": 404441056,
+        "contentTextMapHash": 1144892592,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110126,
+        "speakerTextMapHash": 1438243168,
+        "contentTextMapHash": 1166265736,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110127,
+        "speakerTextMapHash": 3628702728,
+        "contentTextMapHash": 2302417896,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110128,
+        "speakerTextMapHash": 3190582688,
+        "contentTextMapHash": 2395173384,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110129,
+        "speakerTextMapHash": 3677177792,
+        "contentTextMapHash": 1883968840,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110130,
+        "speakerTextMapHash": 2438782920,
+        "contentTextMapHash": 1789429640,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110131,
+        "speakerTextMapHash": 1528319016,
+        "contentTextMapHash": 576636968,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110132,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110132,
+        "speakerTextMapHash": 460910032,
+        "contentTextMapHash": 2794903928,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110133,
+        "speakerTextMapHash": 1754207312,
+        "contentTextMapHash": 391721984,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110134,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110134,
+        "speakerTextMapHash": 2630590352,
+        "contentTextMapHash": 759431360,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110135,
+        "speakerTextMapHash": 3512773176,
+        "contentTextMapHash": 3175869496,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110136,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110136,
+        "speakerTextMapHash": 443252440,
+        "contentTextMapHash": 2949655096,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110137,
+        "speakerTextMapHash": 3192604360,
+        "contentTextMapHash": 2422757344,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110138,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110138,
+        "speakerTextMapHash": 910794208,
+        "contentTextMapHash": 1985447488,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110139,
+        "speakerTextMapHash": 4053204568,
+        "contentTextMapHash": 1820446656,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110140,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110140,
+        "speakerTextMapHash": 1839636368,
+        "contentTextMapHash": 1095448560,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110141,
+        "speakerTextMapHash": 87899624,
+        "contentTextMapHash": 2624559968,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1110142,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110142,
+        "speakerTextMapHash": 635493704,
+        "contentTextMapHash": 3643592672,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110143,
+        "speakerTextMapHash": 2407923296,
+        "contentTextMapHash": 2960825424,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110144,
+        "speakerTextMapHash": 2252621952,
+        "contentTextMapHash": 3004596520,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110145,
+        "speakerTextMapHash": 230585976,
+        "contentTextMapHash": 565273544,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1110146,
+        "speakerTextMapHash": 1801272064,
+        "contentTextMapHash": 1609823920,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 30020101,
+        "speakerTextMapHash": 2324066792,
+        "contentTextMapHash": 2248581456,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 30020102,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 30020102,
+        "speakerTextMapHash": 1828131040,
+        "contentTextMapHash": 893622792,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 30020103,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 30020103,
+        "speakerTextMapHash": 166373856,
+        "contentTextMapHash": 1798927464,
+        "showTimeRawNum": 7.0,
+        "nextReminderIdRawNum": 30020104,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 30020104,
+        "speakerTextMapHash": 1385945136,
+        "contentTextMapHash": 1124041824,
+        "showTimeRawNum": 2.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 30020111,
+        "speakerTextMapHash": 3712702208,
+        "contentTextMapHash": 3370433680,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 30020112,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 30020112,
+        "speakerTextMapHash": 2710667408,
+        "contentTextMapHash": 1294313480,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 30020113,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 30020113,
+        "speakerTextMapHash": 2909569368,
+        "contentTextMapHash": 2753818920,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 30020114,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 30020114,
+        "speakerTextMapHash": 1769166192,
+        "contentTextMapHash": 3919799384,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 30020115,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 30020115,
+        "speakerTextMapHash": 4293774744,
+        "contentTextMapHash": 1195249792,
+        "showTimeRawNum": 7.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 30020121,
+        "speakerTextMapHash": 712386056,
+        "contentTextMapHash": 639509184,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 30020122,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 30020122,
+        "speakerTextMapHash": 4225481032,
+        "contentTextMapHash": 2568386656,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050101,
+        "speakerTextMapHash": 3903149280,
+        "contentTextMapHash": 1163161608,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050201,
+        "speakerTextMapHash": 4140672664,
+        "contentTextMapHash": 2977509584,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050202,
+        "speakerTextMapHash": 1695131856,
+        "contentTextMapHash": 231995360,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050203,
+        "speakerTextMapHash": 2593420448,
+        "contentTextMapHash": 3408842936,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050204,
+        "speakerTextMapHash": 356685680,
+        "contentTextMapHash": 3253284040,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050205,
+        "speakerTextMapHash": 216481024,
+        "contentTextMapHash": 258768088,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31050206,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050206,
+        "speakerTextMapHash": 2200237480,
+        "contentTextMapHash": 3408782800,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050207,
+        "speakerTextMapHash": 63837352,
+        "contentTextMapHash": 3688782760,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31050208,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050208,
+        "speakerTextMapHash": 2626406624,
+        "contentTextMapHash": 281733664,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31050209,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050209,
+        "speakerTextMapHash": 3346082592,
+        "contentTextMapHash": 3426006296,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31050210,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050210,
+        "speakerTextMapHash": 653348952,
+        "contentTextMapHash": 1720887992,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050211,
+        "speakerTextMapHash": 3321678224,
+        "contentTextMapHash": 3243038840,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31050212,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050212,
+        "speakerTextMapHash": 4286494040,
+        "contentTextMapHash": 441121184,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31050213,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050213,
+        "speakerTextMapHash": 1550178704,
+        "contentTextMapHash": 323434664,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050214,
+        "speakerTextMapHash": 2364670568,
+        "contentTextMapHash": 393531656,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31050215,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050215,
+        "speakerTextMapHash": 603455752,
+        "contentTextMapHash": 547356072,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050216,
+        "speakerTextMapHash": 3700191280,
+        "contentTextMapHash": 3966192768,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31050217,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050217,
+        "speakerTextMapHash": 2104558288,
+        "contentTextMapHash": 1671725280,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31050218,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050218,
+        "speakerTextMapHash": 1134289008,
+        "contentTextMapHash": 3640294816,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31050219,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050219,
+        "speakerTextMapHash": 3140209624,
+        "contentTextMapHash": 3023625472,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31050220,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050220,
+        "speakerTextMapHash": 3650846376,
+        "contentTextMapHash": 4034282016,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31050221,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31050221,
+        "speakerTextMapHash": 3046678512,
+        "contentTextMapHash": 146125056,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040101,
+        "speakerTextMapHash": 26543472,
+        "contentTextMapHash": 2508432128,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040102,
+        "speakerTextMapHash": 120154384,
+        "contentTextMapHash": 3462620800,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040103,
+        "speakerTextMapHash": 601262328,
+        "contentTextMapHash": 1617015840,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040104,
+        "speakerTextMapHash": 279488240,
+        "contentTextMapHash": 725360712,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040110,
+        "speakerTextMapHash": 1469921656,
+        "contentTextMapHash": 1118932056,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040111,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040111,
+        "speakerTextMapHash": 3930458136,
+        "contentTextMapHash": 1061715680,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040112,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040112,
+        "speakerTextMapHash": 1880647200,
+        "contentTextMapHash": 2760582400,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040113,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040113,
+        "speakerTextMapHash": 445654104,
+        "contentTextMapHash": 1281780224,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040121,
+        "speakerTextMapHash": 1672902384,
+        "contentTextMapHash": 3357564960,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040122,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040122,
+        "speakerTextMapHash": 2345343552,
+        "contentTextMapHash": 4075068232,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040120,
+        "speakerTextMapHash": 3476699016,
+        "contentTextMapHash": 2872036136,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040123,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040123,
+        "speakerTextMapHash": 672377304,
+        "contentTextMapHash": 1142409680,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040131,
+        "speakerTextMapHash": 3286698552,
+        "contentTextMapHash": 3283180272,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040132,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040132,
+        "speakerTextMapHash": 2023377440,
+        "contentTextMapHash": 1687521776,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040133,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040133,
+        "speakerTextMapHash": 1777096960,
+        "contentTextMapHash": 100275136,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040134,
+        "speakerTextMapHash": 242770088,
+        "contentTextMapHash": 2250859536,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040135,
+        "speakerTextMapHash": 3910782840,
+        "contentTextMapHash": 3122728144,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040141,
+        "speakerTextMapHash": 2031791208,
+        "contentTextMapHash": 42492928,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040142,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040142,
+        "speakerTextMapHash": 2421713104,
+        "contentTextMapHash": 2433585656,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040143,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040143,
+        "speakerTextMapHash": 3045181312,
+        "contentTextMapHash": 92825312,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040150,
+        "speakerTextMapHash": 8208112,
+        "contentTextMapHash": 912164904,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040160,
+        "speakerTextMapHash": 1364290328,
+        "contentTextMapHash": 1169504328,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040170,
+        "speakerTextMapHash": 3972632040,
+        "contentTextMapHash": 4031203480,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040190,
+        "speakerTextMapHash": 198711136,
+        "contentTextMapHash": 1213782240,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040195,
+        "speakerTextMapHash": 1526668640,
+        "contentTextMapHash": 2709414824,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040204,
+        "speakerTextMapHash": 2587934496,
+        "contentTextMapHash": 3465885520,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040205,
+        "speakerTextMapHash": 2238317200,
+        "contentTextMapHash": 617556720,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040206,
+        "speakerTextMapHash": 3272174248,
+        "contentTextMapHash": 2303511656,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040191,
+        "speakerTextMapHash": 258592376,
+        "contentTextMapHash": 2193480704,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040196,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040196,
+        "speakerTextMapHash": 3735809288,
+        "contentTextMapHash": 2637164728,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040192,
+        "speakerTextMapHash": 1799333280,
+        "contentTextMapHash": 4078011552,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040197,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040197,
+        "speakerTextMapHash": 2270114904,
+        "contentTextMapHash": 3117161672,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040193,
+        "speakerTextMapHash": 1489320768,
+        "contentTextMapHash": 2812086536,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040194,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040194,
+        "speakerTextMapHash": 2353207200,
+        "contentTextMapHash": 1676559640,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040198,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040198,
+        "speakerTextMapHash": 2902417176,
+        "contentTextMapHash": 2775250104,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040199,
+        "speakerTextMapHash": 1621332608,
+        "contentTextMapHash": 2810960048,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040200,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040200,
+        "speakerTextMapHash": 4249364896,
+        "contentTextMapHash": 1384876792,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040201,
+        "speakerTextMapHash": 3616633688,
+        "contentTextMapHash": 209976936,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040202,
+        "speakerTextMapHash": 3622358728,
+        "contentTextMapHash": 2708121664,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040203,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040203,
+        "speakerTextMapHash": 935569736,
+        "contentTextMapHash": 170383056,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040301,
+        "speakerTextMapHash": 3280577000,
+        "contentTextMapHash": 99032128,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040302,
+        "speakerTextMapHash": 2265511272,
+        "contentTextMapHash": 818352032,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040303,
+        "speakerTextMapHash": 872773288,
+        "contentTextMapHash": 1269953152,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040401,
+        "speakerTextMapHash": 175949712,
+        "contentTextMapHash": 2155111752,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040402,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040402,
+        "speakerTextMapHash": 269223448,
+        "contentTextMapHash": 3767578168,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040403,
+        "speakerTextMapHash": 2509678664,
+        "contentTextMapHash": 2692034640,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040501,
+        "speakerTextMapHash": 3323480128,
+        "contentTextMapHash": 217107584,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040503,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040503,
+        "speakerTextMapHash": 135360528,
+        "contentTextMapHash": 1723230736,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040504,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040504,
+        "speakerTextMapHash": 2905713400,
+        "contentTextMapHash": 4263843616,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040502,
+        "speakerTextMapHash": 1175899632,
+        "contentTextMapHash": 565098152,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040505,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040505,
+        "speakerTextMapHash": 3312464048,
+        "contentTextMapHash": 1213689240,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040506,
+        "speakerTextMapHash": 4071901968,
+        "contentTextMapHash": 723658872,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040507,
+        "speakerTextMapHash": 1974964144,
+        "contentTextMapHash": 3084529960,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040508,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040508,
+        "speakerTextMapHash": 381126592,
+        "contentTextMapHash": 3067310264,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040509,
+        "speakerTextMapHash": 3789521352,
+        "contentTextMapHash": 214823584,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040510,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040510,
+        "speakerTextMapHash": 880672464,
+        "contentTextMapHash": 2970859272,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040511,
+        "speakerTextMapHash": 3190116520,
+        "contentTextMapHash": 1716885992,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31040512,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040512,
+        "speakerTextMapHash": 4008648152,
+        "contentTextMapHash": 797913064,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040513,
+        "speakerTextMapHash": 3414417656,
+        "contentTextMapHash": 1031023232,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040514,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040514,
+        "speakerTextMapHash": 3178774936,
+        "contentTextMapHash": 3748016896,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040515,
+        "speakerTextMapHash": 1077257176,
+        "contentTextMapHash": 608294928,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040601,
+        "speakerTextMapHash": 2650903176,
+        "contentTextMapHash": 1789620072,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040602,
+        "speakerTextMapHash": 388089576,
+        "contentTextMapHash": 865834632,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31040603,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31040603,
+        "speakerTextMapHash": 2177679552,
+        "contentTextMapHash": 2543931744,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020102,
+        "speakerTextMapHash": 1341310912,
+        "contentTextMapHash": 1178679024,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020103,
+        "speakerTextMapHash": 1648028864,
+        "contentTextMapHash": 1307244008,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31020104,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020104,
+        "speakerTextMapHash": 3384018064,
+        "contentTextMapHash": 2834121408,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31020105,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020105,
+        "speakerTextMapHash": 813769224,
+        "contentTextMapHash": 3365595992,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020106,
+        "speakerTextMapHash": 2467394192,
+        "contentTextMapHash": 1990414480,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31020107,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020107,
+        "speakerTextMapHash": 3512022120,
+        "contentTextMapHash": 1144228632,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31020108,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020108,
+        "speakerTextMapHash": 3845435856,
+        "contentTextMapHash": 4179803432,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020109,
+        "speakerTextMapHash": 1066690840,
+        "contentTextMapHash": 1890806080,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31020110,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020110,
+        "speakerTextMapHash": 3959134416,
+        "contentTextMapHash": 3281199728,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020201,
+        "speakerTextMapHash": 1379243760,
+        "contentTextMapHash": 2134614400,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31020202,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020202,
+        "speakerTextMapHash": 1532745352,
+        "contentTextMapHash": 634412368,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020301,
+        "speakerTextMapHash": 3883715576,
+        "contentTextMapHash": 4176958344,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020401,
+        "speakerTextMapHash": 2881211976,
+        "contentTextMapHash": 3743344776,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020501,
+        "speakerTextMapHash": 2052294832,
+        "contentTextMapHash": 1913447864,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31020502,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020502,
+        "speakerTextMapHash": 507996912,
+        "contentTextMapHash": 3223936056,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020601,
+        "speakerTextMapHash": 2534999760,
+        "contentTextMapHash": 3210991552,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31020602,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020602,
+        "speakerTextMapHash": 371325424,
+        "contentTextMapHash": 4004808888,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020603,
+        "speakerTextMapHash": 99569976,
+        "contentTextMapHash": 2222163016,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31020604,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020604,
+        "speakerTextMapHash": 2657521760,
+        "contentTextMapHash": 1402388568,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020605,
+        "speakerTextMapHash": 3719143496,
+        "contentTextMapHash": 654000280,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020606,
+        "speakerTextMapHash": 2712940080,
+        "contentTextMapHash": 1953585272,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31020607,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020607,
+        "speakerTextMapHash": 2009229512,
+        "contentTextMapHash": 1278659704,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020701,
+        "speakerTextMapHash": 950698472,
+        "contentTextMapHash": 2256274720,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020702,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020702,
+        "speakerTextMapHash": 335718064,
+        "contentTextMapHash": 2542701712,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020703,
+        "speakerTextMapHash": 2379193040,
+        "contentTextMapHash": 1421871000,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020704,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020704,
+        "speakerTextMapHash": 2447834568,
+        "contentTextMapHash": 783963968,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020801,
+        "speakerTextMapHash": 4280403752,
+        "contentTextMapHash": 3726153904,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 31020802,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020802,
+        "speakerTextMapHash": 437772216,
+        "contentTextMapHash": 1584284728,
+        "showTimeRawNum": 2.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020803,
+        "speakerTextMapHash": 2971393000,
+        "contentTextMapHash": 223696952,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020804,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020804,
+        "speakerTextMapHash": 1661688832,
+        "contentTextMapHash": 734071312,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020805,
+        "speakerTextMapHash": 977427104,
+        "contentTextMapHash": 3069675216,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020806,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020806,
+        "speakerTextMapHash": 189715376,
+        "contentTextMapHash": 14753528,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020807,
+        "speakerTextMapHash": 527026160,
+        "contentTextMapHash": 3223185152,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020808,
+        "speakerTextMapHash": 2293228728,
+        "contentTextMapHash": 2334201240,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 31020809,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020809,
+        "speakerTextMapHash": 670971800,
+        "contentTextMapHash": 2000887480,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 31020810,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020810,
+        "speakerTextMapHash": 982726016,
+        "contentTextMapHash": 3435588000,
+        "showTimeRawNum": 2.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020812,
+        "speakerTextMapHash": 58155152,
+        "contentTextMapHash": 2349963152,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020813,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020813,
+        "speakerTextMapHash": 3358425504,
+        "contentTextMapHash": 1050985872,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020814,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020814,
+        "speakerTextMapHash": 3859405728,
+        "contentTextMapHash": 2177177432,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020815,
+        "speakerTextMapHash": 1976246480,
+        "contentTextMapHash": 2771429328,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020816,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020816,
+        "speakerTextMapHash": 4266991232,
+        "contentTextMapHash": 1920323024,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020817,
+        "speakerTextMapHash": 246527448,
+        "contentTextMapHash": 2369800592,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020818,
+        "speakerTextMapHash": 1010009168,
+        "contentTextMapHash": 2732598656,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020819,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020819,
+        "speakerTextMapHash": 311231992,
+        "contentTextMapHash": 2827437136,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020820,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020820,
+        "speakerTextMapHash": 2336123920,
+        "contentTextMapHash": 3167043952,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020821,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020821,
+        "speakerTextMapHash": 2041808624,
+        "contentTextMapHash": 3290818216,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020822,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020822,
+        "speakerTextMapHash": 268889224,
+        "contentTextMapHash": 881352840,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020823,
+        "speakerTextMapHash": 886931304,
+        "contentTextMapHash": 2032992712,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020824,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020824,
+        "speakerTextMapHash": 3547998080,
+        "contentTextMapHash": 2246565464,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020825,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020825,
+        "speakerTextMapHash": 2152456440,
+        "contentTextMapHash": 1657115224,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020826,
+        "speakerTextMapHash": 1240266112,
+        "contentTextMapHash": 1017925216,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020827,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020827,
+        "speakerTextMapHash": 397390288,
+        "contentTextMapHash": 4164778760,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020828,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020828,
+        "speakerTextMapHash": 1545742496,
+        "contentTextMapHash": 4151690040,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020829,
+        "speakerTextMapHash": 3891204600,
+        "contentTextMapHash": 1896386224,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020830,
+        "speakerTextMapHash": 2479955944,
+        "contentTextMapHash": 918259376,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020831,
+        "speakerTextMapHash": 2706636480,
+        "contentTextMapHash": 1251602408,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020840,
+        "speakerTextMapHash": 2414273776,
+        "contentTextMapHash": 3769624752,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020841,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020841,
+        "speakerTextMapHash": 51916288,
+        "contentTextMapHash": 3295337160,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020842,
+        "speakerTextMapHash": 2311463656,
+        "contentTextMapHash": 1556230800,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 31020843,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020843,
+        "speakerTextMapHash": 2406900960,
+        "contentTextMapHash": 2213719464,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020844,
+        "speakerTextMapHash": 559704080,
+        "contentTextMapHash": 1576628232,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 31020845,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020845,
+        "speakerTextMapHash": 1243570128,
+        "contentTextMapHash": 434445320,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 31020846,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020846,
+        "speakerTextMapHash": 4182882784,
+        "contentTextMapHash": 1614435416,
+        "showTimeRawNum": 2.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020847,
+        "speakerTextMapHash": 2761196152,
+        "contentTextMapHash": 1310656296,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020848,
+        "speakerTextMapHash": 3714645464,
+        "contentTextMapHash": 3861747256,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 31020849,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020849,
+        "speakerTextMapHash": 1975151360,
+        "contentTextMapHash": 1139034352,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 31020850,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31020850,
+        "speakerTextMapHash": 2267090536,
+        "contentTextMapHash": 3848374280,
+        "showTimeRawNum": 2.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31044401,
+        "speakerTextMapHash": 3045591504,
+        "contentTextMapHash": 1041947400,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31044402,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31044402,
+        "speakerTextMapHash": 2105200400,
+        "contentTextMapHash": 3648031488,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 31044403,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31044403,
+        "speakerTextMapHash": 1965927880,
+        "contentTextMapHash": 452480152,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31044404,
+        "speakerTextMapHash": 1229106352,
+        "contentTextMapHash": 2505784016,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 31044405,
+        "speakerTextMapHash": 935728480,
+        "contentTextMapHash": 842238928,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 1001002,
+        "speakerTextMapHash": 33624781,
+        "contentTextMapHash": 4157401972,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1001003,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1001003,
+        "speakerTextMapHash": 2614137685,
+        "contentTextMapHash": 2199854612,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1002001,
+        "speakerTextMapHash": 2054822709,
+        "contentTextMapHash": 4177111820,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1009001,
+        "speakerTextMapHash": 922590021,
+        "contentTextMapHash": 128267068,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 1009002,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1009002,
+        "speakerTextMapHash": 1835946237,
+        "contentTextMapHash": 2187309572,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1009003,
+        "speakerTextMapHash": 581513653,
+        "contentTextMapHash": 1485124220,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1010001,
+        "speakerTextMapHash": 2831769813,
+        "contentTextMapHash": 3861082740,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 1010002,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1010002,
+        "speakerTextMapHash": 551841525,
+        "contentTextMapHash": 126330484,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1010003,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1010003,
+        "speakerTextMapHash": 642807309,
+        "contentTextMapHash": 2501060716,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1010004,
+        "speakerTextMapHash": 2440058797,
+        "contentTextMapHash": 710608212,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 6.0,
+        "nextReminderIdRawNum": 1010005,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1010005,
+        "speakerTextMapHash": 1483928589,
+        "contentTextMapHash": 3905159124,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 1010006,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1010006,
+        "speakerTextMapHash": 3131123965,
+        "contentTextMapHash": 2855398132,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1010007,
+        "speakerTextMapHash": 3244399397,
+        "contentTextMapHash": 3792033524,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1010008,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1010008,
+        "speakerTextMapHash": 440630061,
+        "contentTextMapHash": 4134927172,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 1010009,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1010009,
+        "speakerTextMapHash": 4246711701,
+        "contentTextMapHash": 222060748,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 6.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1031001,
+        "speakerTextMapHash": 2528017757,
+        "contentTextMapHash": 3836514348,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 6.0,
+        "nextReminderIdRawNum": 1031002,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1031002,
+        "speakerTextMapHash": 84317077,
+        "contentTextMapHash": 2558976124,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1031003,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1031003,
+        "speakerTextMapHash": 1132900021,
+        "contentTextMapHash": 819302356,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1031004,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1031004,
+        "speakerTextMapHash": 1972500645,
+        "contentTextMapHash": 1943427364,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1032001,
+        "speakerTextMapHash": 552319797,
+        "contentTextMapHash": 3191815884,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 1032002,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1032002,
+        "speakerTextMapHash": 3371254813,
+        "contentTextMapHash": 407740220,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1021001,
+        "speakerTextMapHash": 2752861389,
+        "contentTextMapHash": 2146516556,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1021002,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1021002,
+        "speakerTextMapHash": 931541573,
+        "contentTextMapHash": 718035076,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1022001,
+        "speakerTextMapHash": 46158517,
+        "contentTextMapHash": 1806201412,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1023001,
+        "speakerTextMapHash": 991546565,
+        "contentTextMapHash": 2376760772,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1023002,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1023002,
+        "speakerTextMapHash": 4197095773,
+        "contentTextMapHash": 1962175764,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1024001,
+        "speakerTextMapHash": 3898579557,
+        "contentTextMapHash": 621563052,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1025001,
+        "speakerTextMapHash": 4097861157,
+        "contentTextMapHash": 1004235540,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1026001,
+        "speakerTextMapHash": 2580043645,
+        "contentTextMapHash": 1050176780,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1027001,
+        "speakerTextMapHash": 3710515413,
+        "contentTextMapHash": 2092536020,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1028001,
+        "speakerTextMapHash": 2621682461,
+        "contentTextMapHash": 4058125124,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 1028002,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1028002,
+        "speakerTextMapHash": 3827215325,
+        "contentTextMapHash": 537876836,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1029001,
+        "speakerTextMapHash": 1265515741,
+        "contentTextMapHash": 2782877380,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1029002,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1029002,
+        "speakerTextMapHash": 2601922421,
+        "contentTextMapHash": 1364477652,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1030001,
+        "speakerTextMapHash": 1725992661,
+        "contentTextMapHash": 1096632340,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1036001,
+        "speakerTextMapHash": 329287269,
+        "contentTextMapHash": 170853404,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1036002,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1036002,
+        "speakerTextMapHash": 4249182533,
+        "contentTextMapHash": 1679056004,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1037001,
+        "speakerTextMapHash": 2104806285,
+        "contentTextMapHash": 1765607100,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 1037002,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1037002,
+        "speakerTextMapHash": 770349285,
+        "contentTextMapHash": 2553166836,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1039005,
+        "speakerTextMapHash": 454738157,
+        "contentTextMapHash": 1338447516,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 1039006,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1039006,
+        "speakerTextMapHash": 1708130109,
+        "contentTextMapHash": 1144993300,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 1039007,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1039007,
+        "speakerTextMapHash": 3234244045,
+        "contentTextMapHash": 2072117916,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 1039008,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1039008,
+        "speakerTextMapHash": 1222462365,
+        "contentTextMapHash": 589745788,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041001,
+        "speakerTextMapHash": 2907316117,
+        "contentTextMapHash": 1061829412,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 1041002,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041002,
+        "speakerTextMapHash": 3538979421,
+        "contentTextMapHash": 1489155468,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1041003,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041003,
+        "speakerTextMapHash": 2251509125,
+        "contentTextMapHash": 3338439756,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 1041004,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041004,
+        "speakerTextMapHash": 1752880389,
+        "contentTextMapHash": 3051709972,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041011,
+        "speakerTextMapHash": 2058439373,
+        "contentTextMapHash": 2253355220,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041021,
+        "speakerTextMapHash": 3634166885,
+        "contentTextMapHash": 1940333492,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041022,
+        "speakerTextMapHash": 2053273997,
+        "contentTextMapHash": 2415815652,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 6.0,
+        "nextReminderIdRawNum": 1041023,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041023,
+        "speakerTextMapHash": 3325958181,
+        "contentTextMapHash": 2713676260,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 6.0,
+        "nextReminderIdRawNum": 1041024,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041024,
+        "speakerTextMapHash": 4219721741,
+        "contentTextMapHash": 493983668,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 1041025,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041025,
+        "speakerTextMapHash": 3707747173,
+        "contentTextMapHash": 2048585964,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041026,
+        "speakerTextMapHash": 1635930381,
+        "contentTextMapHash": 1191192420,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 7.0,
+        "nextReminderIdRawNum": 1041027,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041027,
+        "speakerTextMapHash": 4206761349,
+        "contentTextMapHash": 1507001820,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 1041028,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041028,
+        "speakerTextMapHash": 2833505429,
+        "contentTextMapHash": 2803184012,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 8.0,
+        "nextReminderIdRawNum": 1041029,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041029,
+        "speakerTextMapHash": 3826356973,
+        "contentTextMapHash": 416570252,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041031,
+        "speakerTextMapHash": 3060617893,
+        "contentTextMapHash": 149674292,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041041,
+        "speakerTextMapHash": 992578093,
+        "contentTextMapHash": 3214799996,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041042,
+        "speakerTextMapHash": 3178574821,
+        "contentTextMapHash": 2742761684,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041072,
+        "speakerTextMapHash": 908288533,
+        "contentTextMapHash": 843570596,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041093,
+        "speakerTextMapHash": 3769893997,
+        "contentTextMapHash": 719756204,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 1041094,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041094,
+        "speakerTextMapHash": 2829616533,
+        "contentTextMapHash": 2325056524,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 6.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041112,
+        "speakerTextMapHash": 973273309,
+        "contentTextMapHash": 3315152892,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 1041113,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1041113,
+        "speakerTextMapHash": 191675981,
+        "contentTextMapHash": 1152203332,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1042021,
+        "speakerTextMapHash": 4188028141,
+        "contentTextMapHash": 891155020,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 1042091,
+        "speakerTextMapHash": 393540149,
+        "contentTextMapHash": 4095298540,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 10060501,
+        "speakerTextMapHash": 4021094221,
+        "contentTextMapHash": 1976592468,
+        "showTimeRawNum": 4.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 10060701,
+        "speakerTextMapHash": 3784723309,
+        "contentTextMapHash": 3979685308,
+        "showTimeRawNum": 4.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 10050401,
+        "speakerTextMapHash": 1785810733,
+        "contentTextMapHash": 332514324,
+        "showTimeRawNum": 4.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 10050501,
+        "speakerTextMapHash": 1625855189,
+        "contentTextMapHash": 1025995372,
+        "showTimeRawNum": 4.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 10050601,
+        "speakerTextMapHash": 2676397389,
+        "contentTextMapHash": 1524245404,
+        "showTimeRawNum": 4.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 10050801,
+        "speakerTextMapHash": 4047220533,
+        "contentTextMapHash": 3063346268,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 10050901,
+        "speakerTextMapHash": 2879486253,
+        "contentTextMapHash": 4194721820,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 10051001,
+        "speakerTextMapHash": 346089709,
+        "contentTextMapHash": 370717476,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 10051101,
+        "speakerTextMapHash": 1809054629,
+        "contentTextMapHash": 3924279548,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 10051201,
+        "speakerTextMapHash": 1469948341,
+        "contentTextMapHash": 949382276,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 10051301,
+        "speakerTextMapHash": 3422045437,
+        "contentTextMapHash": 32238452,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 10051401,
+        "speakerTextMapHash": 701643261,
+        "contentTextMapHash": 655009884,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 10051501,
+        "speakerTextMapHash": 2873931613,
+        "contentTextMapHash": 2926539452,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 10051601,
+        "speakerTextMapHash": 1116990781,
+        "contentTextMapHash": 3080210852,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20010004,
+        "speakerTextMapHash": 107120093,
+        "contentTextMapHash": 2333144580,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.5,
+        "nextReminderIdRawNum": 20010005,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010005,
+        "speakerTextMapHash": 1224957205,
+        "contentTextMapHash": 3004375932,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.5,
+        "nextReminderIdRawNum": 20010006,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010006,
+        "speakerTextMapHash": 3846583861,
+        "contentTextMapHash": 3899118980,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 20010007,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010007,
+        "speakerTextMapHash": 3067060021,
+        "contentTextMapHash": 4105717708,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.5,
+        "nextReminderIdRawNum": 20010008,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010008,
+        "speakerTextMapHash": 2397620045,
+        "contentTextMapHash": 2080174852,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010011,
+        "speakerTextMapHash": 2883028845,
+        "contentTextMapHash": 4240257308,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 7.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010012,
+        "speakerTextMapHash": 1763735989,
+        "contentTextMapHash": 1729842308,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 20010013,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010013,
+        "speakerTextMapHash": 1037442565,
+        "contentTextMapHash": 1157711316,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 20010014,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010014,
+        "speakerTextMapHash": 2271117701,
+        "contentTextMapHash": 892181564,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010015,
+        "speakerTextMapHash": 4112267037,
+        "contentTextMapHash": 2300014348,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.5,
+        "nextReminderIdRawNum": 20010016,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010016,
+        "speakerTextMapHash": 1099114533,
+        "contentTextMapHash": 1958565908,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.5,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010017,
+        "speakerTextMapHash": 3195204813,
+        "contentTextMapHash": 3265767996,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 6.5,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010021,
+        "speakerTextMapHash": 614195669,
+        "contentTextMapHash": 956071988,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 6.5,
+        "nextReminderIdRawNum": 20010022,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010022,
+        "speakerTextMapHash": 221711973,
+        "contentTextMapHash": 4220527140,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 20010023,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010023,
+        "speakerTextMapHash": 3946765149,
+        "contentTextMapHash": 1743783812,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 5.5,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010024,
+        "speakerTextMapHash": 1377969997,
+        "contentTextMapHash": 1670086612,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 20010025,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010025,
+        "speakerTextMapHash": 3095227861,
+        "contentTextMapHash": 582291660,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 20010026,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010026,
+        "speakerTextMapHash": 509973221,
+        "contentTextMapHash": 2717378956,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 20010027,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010027,
+        "speakerTextMapHash": 2341394469,
+        "contentTextMapHash": 2996438188,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 20010028,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010028,
+        "speakerTextMapHash": 99758317,
+        "contentTextMapHash": 386548052,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.5,
+        "nextReminderIdRawNum": 20010029,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010029,
+        "speakerTextMapHash": 749624565,
+        "contentTextMapHash": 883416972,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.5,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010030,
+        "speakerTextMapHash": 1779440413,
+        "contentTextMapHash": 595173380,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.5,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010031,
+        "speakerTextMapHash": 2190823861,
+        "contentTextMapHash": 1107833548,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 5.5,
+        "nextReminderIdRawNum": 20010032,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010032,
+        "speakerTextMapHash": 598888141,
+        "contentTextMapHash": 2679260356,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.5,
+        "nextReminderIdRawNum": 20010033,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010033,
+        "speakerTextMapHash": 1714221933,
+        "contentTextMapHash": 1334779980,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 5.5,
+        "nextReminderIdRawNum": 20010034,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010034,
+        "speakerTextMapHash": 287753893,
+        "contentTextMapHash": 3977289620,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20010101,
+        "speakerTextMapHash": 847725381,
+        "contentTextMapHash": 1338488756,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 20010102,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20010102,
+        "speakerTextMapHash": 3614621165,
+        "contentTextMapHash": 1844462524,
+        "showTimeRawNum": 4.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20010201,
+        "speakerTextMapHash": 4233887973,
+        "contentTextMapHash": 2176528796,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20010301,
+        "speakerTextMapHash": 2125989093,
+        "contentTextMapHash": 2622885612,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 20010302,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20010401,
+        "speakerTextMapHash": 2443038909,
+        "contentTextMapHash": 1392262516,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 20010402,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20010402,
+        "speakerTextMapHash": 2417028989,
+        "contentTextMapHash": 689898244,
+        "showTimeRawNum": 4.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20010501,
+        "speakerTextMapHash": 903735845,
+        "contentTextMapHash": 307525364,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 20010502,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20010502,
+        "speakerTextMapHash": 1438814573,
+        "contentTextMapHash": 4293078924,
+        "showTimeRawNum": 4.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20010601,
+        "speakerTextMapHash": 183370605,
+        "contentTextMapHash": 1888821476,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 20010602,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20010602,
+        "speakerTextMapHash": 2909460213,
+        "contentTextMapHash": 2893866668,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 20010603,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20010603,
+        "speakerTextMapHash": 2445753845,
+        "contentTextMapHash": 2169349260,
+        "showTimeRawNum": 4.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20010701,
+        "speakerTextMapHash": 1323822661,
+        "contentTextMapHash": 653896900,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 20010702,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20010702,
+        "speakerTextMapHash": 1050629661,
+        "contentTextMapHash": 295570012,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 20010703,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20010703,
+        "speakerTextMapHash": 2706521949,
+        "contentTextMapHash": 389850692,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20010302,
+        "speakerTextMapHash": 8241797,
+        "contentTextMapHash": 1741076316,
+        "showTimeRawNum": 4.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 10010101,
+        "speakerTextMapHash": 1256998133,
+        "contentTextMapHash": 1546389924,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 10010102,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 10010102,
+        "speakerTextMapHash": 496544061,
+        "contentTextMapHash": 701355956,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 10010103,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 10010103,
+        "speakerTextMapHash": 1786193157,
+        "contentTextMapHash": 1160177108,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 10010201,
+        "speakerTextMapHash": 2593793285,
+        "contentTextMapHash": 2370049236,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 10010202,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 10010202,
+        "speakerTextMapHash": 3920042805,
+        "contentTextMapHash": 3670894268,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 20020101,
+        "speakerTextMapHash": 3554516861,
+        "contentTextMapHash": 604495324,
+        "delayRawNum": 15.0,
+        "showTimeRawNum": 7.0,
+        "nextReminderIdRawNum": 20020102,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20020102,
+        "speakerTextMapHash": 243060941,
+        "contentTextMapHash": 1710353820,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 20020103,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20020103,
+        "speakerTextMapHash": 3371571197,
+        "contentTextMapHash": 838382804,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20020201,
+        "speakerTextMapHash": 431818237,
+        "contentTextMapHash": 3223027948,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 20020202,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20020202,
+        "speakerTextMapHash": 764760869,
+        "contentTextMapHash": 726674572,
+        "showTimeRawNum": 5.0,
+        "nextReminderIdRawNum": 20020203,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20020203,
+        "speakerTextMapHash": 2881579477,
+        "contentTextMapHash": 3352381092,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 20020204,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20020204,
+        "speakerTextMapHash": 2188074925,
+        "contentTextMapHash": 2821541900,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 20020205,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20020205,
+        "speakerTextMapHash": 1722866485,
+        "contentTextMapHash": 3136619044,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 20020301,
+        "speakerTextMapHash": 3991991909,
+        "contentTextMapHash": 2392915332,
+        "showTimeRawNum": 10.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 500090101,
+        "speakerTextMapHash": 448671349,
+        "contentTextMapHash": 461753572,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 200230101,
+        "speakerTextMapHash": 1733927669,
+        "contentTextMapHash": 273587764,
+        "showTimeRawNum": 4.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 200230201,
+        "speakerTextMapHash": 1919737021,
+        "contentTextMapHash": 2578825804,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 200230202,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 200230202,
+        "speakerTextMapHash": 1661748301,
+        "contentTextMapHash": 3978401820,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 200230203,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 200230203,
+        "speakerTextMapHash": 1373235677,
+        "contentTextMapHash": 2965962708,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 200220101,
+        "speakerTextMapHash": 2968816677,
+        "contentTextMapHash": 2729458948,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 200220201,
+        "speakerTextMapHash": 480012989,
+        "contentTextMapHash": 3287643020,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 200220202,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 200220202,
+        "speakerTextMapHash": 4279333845,
+        "contentTextMapHash": 3732313684,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 200220301,
+        "speakerTextMapHash": 2831280941,
+        "contentTextMapHash": 1851603156,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 200220401,
+        "speakerTextMapHash": 1269616045,
+        "contentTextMapHash": 4277995060,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 200220501,
+        "speakerTextMapHash": 1555667645,
+        "contentTextMapHash": 335916420,
+        "showTimeRawNum": 3.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 200050201,
+        "speakerTextMapHash": 585444765,
+        "contentTextMapHash": 1510168548,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 200050202,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 200050202,
+        "speakerTextMapHash": 3066469589,
+        "contentTextMapHash": 1871638396,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 200050301,
+        "speakerTextMapHash": 1441612701,
+        "contentTextMapHash": 1875312780,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 200050401,
+        "speakerTextMapHash": 1297998525,
+        "contentTextMapHash": 2381060748,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "nextReminderIdRawNum": 200050402,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 200050402,
+        "speakerTextMapHash": 2609496301,
+        "contentTextMapHash": 2541159228,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 2.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 200050501,
+        "speakerTextMapHash": 3691796141,
+        "contentTextMapHash": 3188740156,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 200050502,
+        "speakerTextMapHash": 2098011669,
+        "contentTextMapHash": 1050583724,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 101700101,
+        "speakerTextMapHash": 1443816725,
+        "contentTextMapHash": 1641510628,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 101700102,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700102,
+        "speakerTextMapHash": 583816685,
+        "contentTextMapHash": 3309340772,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 101700103,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700103,
+        "speakerTextMapHash": 906973029,
+        "contentTextMapHash": 822197076,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 101700104,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700104,
+        "speakerTextMapHash": 3311957405,
+        "contentTextMapHash": 24011924,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 101700202,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700201,
+        "speakerTextMapHash": 2362802717,
+        "contentTextMapHash": 1043932396,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 101700202,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700202,
+        "speakerTextMapHash": 17539053,
+        "contentTextMapHash": 3845179252,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 101700203,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700203,
+        "speakerTextMapHash": 1999014813,
+        "contentTextMapHash": 2560933772,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700204,
+        "speakerTextMapHash": 2658571373,
+        "contentTextMapHash": 4111593316,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 101700205,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700205,
+        "speakerTextMapHash": 1649076901,
+        "contentTextMapHash": 990402340,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 101700206,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700206,
+        "speakerTextMapHash": 1742138189,
+        "contentTextMapHash": 3102610508,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700301,
+        "speakerTextMapHash": 2932234173,
+        "contentTextMapHash": 665330860,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 101700305,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700302,
+        "speakerTextMapHash": 755391493,
+        "contentTextMapHash": 1229838308,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 101700303,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700303,
+        "speakerTextMapHash": 3547635021,
+        "contentTextMapHash": 1044727684,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 101700304,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700304,
+        "speakerTextMapHash": 1431324485,
+        "contentTextMapHash": 1858693764,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700305,
+        "speakerTextMapHash": 259605213,
+        "contentTextMapHash": 1208412316,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700401,
+        "speakerTextMapHash": 3589126605,
+        "contentTextMapHash": 3242327092,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 101700402,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700402,
+        "speakerTextMapHash": 4194025461,
+        "contentTextMapHash": 983461900,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700403,
+        "speakerTextMapHash": 40295325,
+        "contentTextMapHash": 504053924,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 101700404,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700404,
+        "speakerTextMapHash": 3053628133,
+        "contentTextMapHash": 3142823540,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 101700405,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700405,
+        "speakerTextMapHash": 2592288565,
+        "contentTextMapHash": 1783487548,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700501,
+        "speakerTextMapHash": 3484879677,
+        "contentTextMapHash": 226886212,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 101700502,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700502,
+        "speakerTextMapHash": 2144370413,
+        "contentTextMapHash": 4035607092,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 101700503,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700503,
+        "speakerTextMapHash": 2502119589,
+        "contentTextMapHash": 3131829956,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700504,
+        "speakerTextMapHash": 252842453,
+        "contentTextMapHash": 309555028,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700601,
+        "speakerTextMapHash": 2511227733,
+        "contentTextMapHash": 2698247916,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 101700602,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700602,
+        "speakerTextMapHash": 515562397,
+        "contentTextMapHash": 159789100,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 101700604,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700603,
+        "speakerTextMapHash": 710253389,
+        "contentTextMapHash": 2302035716,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700604,
+        "speakerTextMapHash": 1423771933,
+        "contentTextMapHash": 1490700068,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700701,
+        "speakerTextMapHash": 1421191189,
+        "contentTextMapHash": 2280134124,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 101700702,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700702,
+        "speakerTextMapHash": 1897026381,
+        "contentTextMapHash": 3028692476,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 101700703,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700703,
+        "speakerTextMapHash": 365806509,
+        "contentTextMapHash": 2251755668,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 101700704,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700704,
+        "speakerTextMapHash": 915592765,
+        "contentTextMapHash": 364885076,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 101700705,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700705,
+        "speakerTextMapHash": 2547091949,
+        "contentTextMapHash": 2572060556,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 4.0,
+        "nextReminderIdRawNum": 101700706,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700706,
+        "speakerTextMapHash": 2137023637,
+        "contentTextMapHash": 539304308,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 101700707,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700707,
+        "speakerTextMapHash": 1553505829,
+        "contentTextMapHash": 700699252,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700801,
+        "speakerTextMapHash": 3803364653,
+        "contentTextMapHash": 789185852,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "nextReminderIdRawNum": 101700802,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700802,
+        "speakerTextMapHash": 2812501069,
+        "contentTextMapHash": 360287852,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 101700803,
+        "speakerTextMapHash": 1132900733,
+        "contentTextMapHash": 1086601588,
+        "delayRawNum": 1.2000000476837158,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "hasAudio": true
+    },
+    {
+        "idRawNum": 105200101,
+        "speakerTextMapHash": 2419251221,
+        "contentTextMapHash": 2054287876,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 105200201,
+        "speakerTextMapHash": 1701361085,
+        "contentTextMapHash": 92901052,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 105200301,
+        "speakerTextMapHash": 4265089781,
+        "contentTextMapHash": 2600861612,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 105200401,
+        "speakerTextMapHash": 3013336061,
+        "contentTextMapHash": 2286463268,
+        "showTimeRawNum": 5.0,
+        "soundEffect": ""
+    },
+    {
+        "idRawNum": 400001,
+        "speakerTextMapHash": 1864751046,
+        "contentTextMapHash": 3101483171,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "style": "Banner"
+    },
+    {
+        "idRawNum": 400002,
+        "speakerTextMapHash": 1622235430,
+        "contentTextMapHash": 3973019387,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "style": "Banner"
+    },
+    {
+        "idRawNum": 400003,
+        "speakerTextMapHash": 3637755590,
+        "contentTextMapHash": 1796204971,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "style": "Banner"
+    },
+    {
+        "idRawNum": 400004,
+        "speakerTextMapHash": 1625610558,
+        "contentTextMapHash": 3534778627,
+        "showTimeRawNum": 3.0,
+        "soundEffect": "",
+        "style": "Banner"
+    }
+]

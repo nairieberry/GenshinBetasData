@@ -1,0 +1,56 @@
+[
+    {
+        "idRawNum": 1,
+        "cityIdRawNum": 1,
+        "sectionIdRawNum": 1001,
+        "orderRawNum": 1
+    },
+    {
+        "idRawNum": 2,
+        "cityIdRawNum": 1,
+        "sectionIdRawNum": 1002,
+        "orderRawNum": 2
+    },
+    {
+        "idRawNum": 3,
+        "cityIdRawNum": 1,
+        "sectionIdRawNum": 1003,
+        "orderRawNum": 3
+    },
+    {
+        "idRawNum": 4,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2002,
+        "orderRawNum": 1
+    },
+    {
+        "idRawNum": 5,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2001,
+        "orderRawNum": 2
+    },
+    {
+        "idRawNum": 6,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2004,
+        "orderRawNum": 3
+    },
+    {
+        "idRawNum": 7,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2005,
+        "orderRawNum": 4
+    },
+    {
+        "idRawNum": 8,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2006,
+        "orderRawNum": 5
+    },
+    {
+        "idRawNum": 9,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2003,
+        "orderRawNum": 6
+    }
+]

@@ -1,0 +1,325 @@
+[
+    {
+        "idRawNum": 1001,
+        "nameTextMapHash": 1503890796,
+        "rankLevelRawNum": 1,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTimeRawNum": 60,
+        "queueSizeRawNum": 99,
+        "inputVec": [
+            {
+                "idRawNum": 100017,
+                "countRawNum": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "idRawNum": 110001,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_110001",
+        "descTextMapHash": 4133506695
+    },
+    {
+        "idRawNum": 1002,
+        "nameTextMapHash": 372703804,
+        "rankLevelRawNum": 2,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTimeRawNum": 180,
+        "queueSizeRawNum": 99,
+        "inputVec": [
+            {
+                "idRawNum": 100078,
+                "countRawNum": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "idRawNum": 110002,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_110002",
+        "descTextMapHash": 3186098687
+    },
+    {
+        "idRawNum": 1003,
+        "nameTextMapHash": 1695683036,
+        "rankLevelRawNum": 2,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTimeRawNum": 300,
+        "queueSizeRawNum": 99,
+        "inputVec": [
+            {
+                "idRawNum": 100064,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100075,
+                "countRawNum": 1
+            },
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "idRawNum": 110003,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_110003",
+        "descTextMapHash": 393688495
+    },
+    {
+        "idRawNum": 1004,
+        "nameTextMapHash": 2216020564,
+        "rankLevelRawNum": 2,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTimeRawNum": 300,
+        "queueSizeRawNum": 99,
+        "inputVec": [
+            {
+                "idRawNum": 100078,
+                "countRawNum": 2
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "idRawNum": 110004,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_110004",
+        "descTextMapHash": 909688039
+    },
+    {
+        "idRawNum": 1005,
+        "nameTextMapHash": 1168901260,
+        "rankLevelRawNum": 2,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTimeRawNum": 300,
+        "queueSizeRawNum": 99,
+        "inputVec": [
+            {
+                "idRawNum": 100061,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100075,
+                "countRawNum": 1
+            },
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "idRawNum": 110005,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_110005",
+        "descTextMapHash": 1930344319
+    },
+    {
+        "idRawNum": 1006,
+        "nameTextMapHash": 810292988,
+        "rankLevelRawNum": 2,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTimeRawNum": 180,
+        "queueSizeRawNum": 99,
+        "inputVec": [
+            {
+                "idRawNum": 100012,
+                "countRawNum": 2
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "idRawNum": 110006,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_110006",
+        "descTextMapHash": 4069199271
+    },
+    {
+        "idRawNum": 1007,
+        "nameTextMapHash": 1665383932,
+        "rankLevelRawNum": 3,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTimeRawNum": 1200,
+        "queueSizeRawNum": 99,
+        "inputVec": [
+            {
+                "idRawNum": 100073,
+                "countRawNum": 4
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "idRawNum": 100074,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_110007",
+        "descTextMapHash": 2497807391
+    },
+    {
+        "idRawNum": 1008,
+        "nameTextMapHash": 928312324,
+        "rankLevelRawNum": 3,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTimeRawNum": 600,
+        "queueSizeRawNum": 99,
+        "inputVec": [
+            {
+                "idRawNum": 100002,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100051,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 110006,
+                "countRawNum": 1
+            },
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "idRawNum": 110008,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_110008",
+        "descTextMapHash": 246504895
+    },
+    {
+        "idRawNum": 1009,
+        "nameTextMapHash": 2114171828,
+        "rankLevelRawNum": 3,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTimeRawNum": 600,
+        "queueSizeRawNum": 99,
+        "inputVec": [
+            {
+                "idRawNum": 100078,
+                "countRawNum": 3
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "idRawNum": 110009,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_110009",
+        "descTextMapHash": 1273674727
+    },
+    {
+        "idRawNum": 1010,
+        "nameTextMapHash": 440106668,
+        "rankLevelRawNum": 3,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTimeRawNum": 900,
+        "queueSizeRawNum": 99,
+        "inputVec": [
+            {
+                "idRawNum": 100061,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100075,
+                "countRawNum": 2
+            },
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "idRawNum": 110010,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_110010",
+        "descTextMapHash": 2283884551
+    },
+    {
+        "idRawNum": 1011,
+        "nameTextMapHash": 1422746788,
+        "rankLevelRawNum": 3,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTimeRawNum": 1200,
+        "queueSizeRawNum": 99,
+        "inputVec": [
+            {
+                "idRawNum": 100061,
+                "countRawNum": 3
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "idRawNum": 110011,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_110011",
+        "descTextMapHash": 3271894575
+    }
+]

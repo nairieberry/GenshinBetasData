@@ -1,0 +1,14 @@
+[
+    {
+        "itemNameTextMapHash": 3504755200,
+        "icon": "UI_Mall_Purchase_Blessofmoon",
+        "totalLimitDaysRawNum": 5,
+        "daysRawNum": 30,
+        "FNGIGEOJOPE": 300,
+        "hcoinPerDayRawNum": 90,
+        "JDLOIKHDCBM": "ys_chn_primogem2ndstall_tier5",
+        "productId": "ys_chn_blessofmoon_tier5",
+        "priceTier": "Tier_5",
+        "shopType": "SHOP_TYPE_PACKAGE"
+    }
+]

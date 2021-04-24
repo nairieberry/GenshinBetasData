@@ -1,0 +1,677 @@
+[
+    {
+        "idRawNum": 70220001,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 25.100000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70220002,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 25.100000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70220003,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 5.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70220004,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 17.0,
+        "attackCurve": "GROW_CURVE_HP",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70220005,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 17.0,
+        "attackCurve": "GROW_CURVE_HP",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70220007,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 5.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70220023,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 25.100000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70220035,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 17.0,
+        "attackCurve": "GROW_CURVE_HP",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70310001,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 25.100000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70310002,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 25.100000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70310003,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 25.100000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70310004,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 25.100000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70320001,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 100.5,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70320002,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 100.5,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70380004,
+        "hpRawNum": 600.0,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 49.29999923706055,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900006,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900007,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900008,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900009,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900010,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900011,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900012,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 100.5,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900013,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 100.5,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900020,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900021,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70510001,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 10.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70510002,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 10.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70510003,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 10.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70510004,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 10.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70510005,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 10.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70510006,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 10.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70510007,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 10.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70300055,
+        "hpRawNum": 200.0,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900238,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 10.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900239,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 10.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900244,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 10.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900245,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 10.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70220020,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 25.100000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70220028,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 10.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70380006,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 75.4000015258789,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900037,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 100.5,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900207,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 25.100000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900208,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 12.600000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900230,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 12.600000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900248,
+        "hpRawNum": 13.583999633789062,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 25.100000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900249,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 12.600000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900281,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 5.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900301,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 25.100000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70300075,
+        "hpRawNum": 40.75199890136719,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70300076,
+        "hpRawNum": 40.75199890136719,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70300077,
+        "hpRawNum": 6.791999816894531,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70300078,
+        "hpRawNum": 6.791999816894531,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70300079,
+        "hpRawNum": 400.0,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 49.29999923706055,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 10.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70300091,
+        "hpRawNum": 12.225600242614746,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70300101,
+        "hpRawNum": 12.225600242614746,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70300083,
+        "hpRawNum": 20.0,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70300087,
+        "hpRawNum": 20.0,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70300111,
+        "hpRawNum": 11.0,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70300113,
+        "hpRawNum": 11.0,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70220034,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 17.0,
+        "attackCurve": "GROW_CURVE_HP",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70360016,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 2.5,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70360017,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 2.5,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70360018,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 2.5,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70360020,
+        "hpRawNum": 6.791999816894531,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 2.5,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70360021,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 50.20000076293945,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70360022,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 50.20000076293945,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70350021,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 25.100000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70350027,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 25.100000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900275,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 75.4000015258789,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70900269,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 5.0,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70350023,
+        "hpRawNum": 500.0,
+        "hpCurve": "GROW_CURVE_PROGRESSION",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70350019,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 25.100000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70350035,
+        "hpRawNum": 500.0,
+        "hpCurve": "GROW_CURVE_PROGRESSION",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70350036,
+        "hpRawNum": 361.7279968261719,
+        "hpCurve": "GROW_CURVE_DEFENDING",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70360066,
+        "hpRawNum": 1358.4000244140625,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 9.50879955291748,
+        "attackCurve": "GROW_CURVE_HP",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70360069,
+        "hpRawNum": 500.0,
+        "hpCurve": "GROW_CURVE_PROGRESSION",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70220036,
+        "hpRawNum": 4.523471832275391,
+        "hpCurve": "GROW_CURVE_HP",
+        "attackRawNum": 15.100000381469727,
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    },
+    {
+        "idRawNum": 70710116,
+        "hpRawNum": 633.0239868164062,
+        "hpCurve": "GROW_CURVE_DEFENDING",
+        "attackCurve": "GROW_CURVE_ATTACK",
+        "defenseRawNum": 45.0,
+        "defenseCurve": "GROW_CURVE_DEFENSE"
+    }
+]

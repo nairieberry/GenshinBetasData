@@ -1,0 +1,32 @@
+[
+    {
+        "idRawNum": 2,
+        "nameTextMapHash": 1622416906,
+        "prefabPath": "ART/Stages/Area/mengde/Whitebox/IndoorRoomTest1",
+        "navMeshPath": ""
+    },
+    {
+        "idRawNum": 3,
+        "nameTextMapHash": 845643666,
+        "prefabPath": "ART/Stages/Area/mengde/Whitebox/IndoorRoomTest2",
+        "navMeshPath": ""
+    },
+    {
+        "idRawNum": 4,
+        "nameTextMapHash": 3844752490,
+        "prefabPath": "ART/Stages/Area/mengde/Whitebox/Knight_Inside_Library_Test",
+        "navMeshPath": ""
+    },
+    {
+        "idRawNum": 100401,
+        "nameTextMapHash": 1180260306,
+        "prefabPath": "ART/Stages/IndoorScene/IndoorScene_Md_Library",
+        "navMeshPath": ""
+    },
+    {
+        "idRawNum": 100402,
+        "nameTextMapHash": 3908851530,
+        "prefabPath": "ART/Stages/IndoorScene/IndoorScene_Md_Knightoffice",
+        "navMeshPath": ""
+    }
+]

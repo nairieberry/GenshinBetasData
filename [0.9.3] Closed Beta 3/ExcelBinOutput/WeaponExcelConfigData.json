@@ -1,0 +1,4860 @@
+[
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 1,
+        "weaponBaseExpRawNum": 600,
+        "skillAffix": [
+            0,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 23.2450008392334,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Blunt/Equip_Sword_Blunt_OverrideTexture/Equip_Sword_Blunt_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Blunt_Awaken",
+        "weaponPromoteIdRawNum": 11101,
+        "awakenCosts": [],
+        "gachaCardNameHashSuffix": 3348941200,
+        "idRawNum": 11101,
+        "nameTextMapHash": 2410593283,
+        "descTextMapHash": 3807468957,
+        "icon": "UI_EquipIcon_Sword_Blunt",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011101
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 2,
+        "weaponBaseExpRawNum": 1200,
+        "skillAffix": [
+            0,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 32.93000030517578,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Silver/Equip_Sword_Silver_OverrideTexture/Equip_Sword_Silver_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Silver_Awaken",
+        "weaponPromoteIdRawNum": 11201,
+        "awakenCosts": [],
+        "gachaCardNameHashSuffix": 916115113,
+        "idRawNum": 11201,
+        "nameTextMapHash": 2125206395,
+        "descTextMapHash": 2342805333,
+        "icon": "UI_EquipIcon_Sword_Silver",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011201
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            111301,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 38.74129867553711,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.07660000026226044,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Steel/Equip_Sword_Steel_OverrideTexture/Equip_Sword_Steel_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Steel_Awaken",
+        "weaponPromoteIdRawNum": 11301,
+        "storyIdRawNum": 191301,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 176103736,
+        "idRawNum": 11301,
+        "nameTextMapHash": 479076483,
+        "descTextMapHash": 1214777829,
+        "icon": "UI_EquipIcon_Sword_Steel",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011301
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            111302,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 38.74129867553711,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL_HURT",
+                "initValueRawNum": 0.10199999809265137,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Dawn/Equip_Sword_Dawn_OverrideTexture/Equip_Sword_Dawn_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Dawn_Awaken",
+        "weaponPromoteIdRawNum": 11302,
+        "storyIdRawNum": 191302,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 266494027,
+        "idRawNum": 11302,
+        "nameTextMapHash": 1608953539,
+        "descTextMapHash": 1716657229,
+        "icon": "UI_EquipIcon_Sword_Dawn",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011302
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 39.875099182128906,
+                "type": "GROW_CURVE_ATTACK_102"
+            },
+            {
+                "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+                "initValueRawNum": 0.06373299658298492,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Traveler/Equip_Sword_Traveler_OverrideTexture/Equip_Sword_Traveler_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Traveler_Awaken",
+        "weaponPromoteIdRawNum": 11303,
+        "storyIdRawNum": 191303,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 1697410579,
+        "idRawNum": 11303,
+        "nameTextMapHash": 3673792067,
+        "descTextMapHash": 2969158189,
+        "icon": "UI_EquipIcon_Sword_Traveler",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011303
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            111304,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 38.74129867553711,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "initValueRawNum": 30.600000381469727,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Darker/Equip_Sword_Darker_OverrideTexture/Equip_Sword_Darker_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Darker_Awaken",
+        "weaponPromoteIdRawNum": 11304,
+        "storyIdRawNum": 191304,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 4100590481,
+        "idRawNum": 11304,
+        "nameTextMapHash": 160493219,
+        "descTextMapHash": 4211009349,
+        "icon": "UI_EquipIcon_Sword_Darker",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011304
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            111305,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 38.74129867553711,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.07660000026226044,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Sashimi/Equip_Sword_Sashimi_OverrideTexture/Equip_Sword_Sashimi_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Sashimi_Awaken",
+        "weaponPromoteIdRawNum": 11305,
+        "storyIdRawNum": 191305,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 2477636525,
+        "idRawNum": 11305,
+        "nameTextMapHash": 3421967235,
+        "descTextMapHash": 2798582285,
+        "icon": "UI_EquipIcon_Sword_Sashimi",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011305
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            111306,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 37.60749816894531,
+                "type": "GROW_CURVE_ATTACK_104"
+            },
+            {
+                "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "initValueRawNum": 0.11333300173282623,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Mitsurugi/Equip_Sword_Mitsurugi_OverrideTexture/Equip_Sword_Mitsurugi_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Mitsurugi_Awaken",
+        "weaponPromoteIdRawNum": 11306,
+        "storyIdRawNum": 191306,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 3273842833,
+        "idRawNum": 11306,
+        "nameTextMapHash": 1388004931,
+        "descTextMapHash": 3086923557,
+        "icon": "UI_EquipIcon_Sword_Mitsurugi",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011306
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111401,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 41.067100524902344,
+                "type": "GROW_CURVE_ATTACK_204"
+            },
+            {
+                "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "initValueRawNum": 0.1333329975605011,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Zephyrus/Equip_Sword_Zephyrus_OverrideTexture/Equip_Sword_Zephyrus_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Zephyrus_Awaken",
+        "weaponPromoteIdRawNum": 11401,
+        "storyIdRawNum": 191401,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 3494691150,
+        "idRawNum": 11401,
+        "nameTextMapHash": 2474354867,
+        "descTextMapHash": 1169620325,
+        "icon": "UI_EquipIcon_Sword_Zephyrus",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011401
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111402,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.09000000357627869,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Troupe/Equip_Sword_Troupe_OverrideTexture/Equip_Sword_Troupe_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Troupe_Awaken",
+        "weaponPromoteIdRawNum": 11402,
+        "storyIdRawNum": 191402,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 1928908937,
+        "idRawNum": 11402,
+        "nameTextMapHash": 3587621259,
+        "descTextMapHash": 2174961477,
+        "icon": "UI_EquipIcon_Sword_Troupe",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011402
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111403,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 41.067100524902344,
+                "type": "GROW_CURVE_ATTACK_204"
+            },
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "initValueRawNum": 0.11999999731779099,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Fossil/Equip_Sword_Fossil_OverrideTexture/Equip_Sword_Fossil_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Fossil_Awaken",
+        "weaponPromoteIdRawNum": 11403,
+        "storyIdRawNum": 191403,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2379020167,
+        "idRawNum": 11403,
+        "nameTextMapHash": 1990641987,
+        "descTextMapHash": 4131542477,
+        "icon": "UI_EquipIcon_Sword_Fossil",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011403
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111404,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL_HURT",
+                "initValueRawNum": 0.11999999731779099,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Theocrat/Equip_Sword_Theocrat_OverrideTexture/Equip_Sword_Theocrat_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Theocrat_Awaken",
+        "weaponPromoteIdRawNum": 11404,
+        "storyIdRawNum": 191404,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2020765994,
+        "idRawNum": 11404,
+        "nameTextMapHash": 2375993851,
+        "descTextMapHash": 1115870133,
+        "icon": "UI_EquipIcon_Sword_Theocrat",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011404
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111405,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValueRawNum": 0.05999999865889549,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Rockkiller/Equip_Sword_Rockkiller_OverrideTexture/Equip_Sword_Rockkiller_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Rockkiller_Awaken",
+        "weaponPromoteIdRawNum": 11405,
+        "storyIdRawNum": 191405,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2657414613,
+        "idRawNum": 11405,
+        "nameTextMapHash": 1321135667,
+        "descTextMapHash": 750378765,
+        "icon": "UI_EquipIcon_Sword_Rockkiller",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011405
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111406,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 43.734901428222656,
+                "type": "GROW_CURVE_ATTACK_202"
+            },
+            {
+                "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "initValueRawNum": 0.05999999865889549,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Proto/Equip_Sword_Proto_OverrideTexture/Equip_Sword_Proto_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Proto_Awaken",
+        "weaponPromoteIdRawNum": 11406,
+        "storyIdRawNum": 191406,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 158565327,
+        "idRawNum": 11406,
+        "nameTextMapHash": 1991707099,
+        "descTextMapHash": 626666981,
+        "icon": "UI_EquipIcon_Sword_Proto",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011406
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111407,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "initValueRawNum": 36.0,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Exotic/Equip_Sword_Exotic_OverrideTexture/Equip_Sword_Exotic_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Exotic_Awaken",
+        "weaponPromoteIdRawNum": 11407,
+        "storyIdRawNum": 191407,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2058594818,
+        "idRawNum": 11407,
+        "nameTextMapHash": 4103022435,
+        "descTextMapHash": 904885541,
+        "icon": "UI_EquipIcon_Sword_Exotic",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011407
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111408,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 43.734901428222656,
+                "type": "GROW_CURVE_ATTACK_202"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL_HURT",
+                "initValueRawNum": 0.07999999821186066,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Blackrock/Equip_Sword_Blackrock_OverrideTexture/Equip_Sword_Blackrock_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Blackrock_Awaken",
+        "weaponPromoteIdRawNum": 11408,
+        "storyIdRawNum": 191408,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 1322009253,
+        "idRawNum": 11408,
+        "nameTextMapHash": 3378007475,
+        "descTextMapHash": 2690715037,
+        "icon": "UI_EquipIcon_Sword_Blackrock",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011408
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111409,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "initValueRawNum": 0.09000000357627869,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Bloodstained/Equip_Sword_Bloodstained_OverrideTexture/Equip_Sword_Bloodstained_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Bloodstained_Awaken",
+        "weaponPromoteIdRawNum": 11409,
+        "storyIdRawNum": 191409,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2898785106,
+        "idRawNum": 11409,
+        "nameTextMapHash": 3796905611,
+        "descTextMapHash": 1253880813,
+        "icon": "UI_EquipIcon_Sword_Bloodstained",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011409
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111410,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 43.734901428222656,
+                "type": "GROW_CURVE_ATTACK_202"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValueRawNum": 0.03999999910593033,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Outlaw/Equip_Sword_Outlaw_OverrideTexture/Equip_Sword_Outlaw_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Outlaw_Awaken",
+        "weaponPromoteIdRawNum": 11410,
+        "storyIdRawNum": 191410,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 576826403,
+        "idRawNum": 11410,
+        "nameTextMapHash": 2947140987,
+        "descTextMapHash": 3674581941,
+        "icon": "UI_EquipIcon_Sword_Outlaw",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011410
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 43.734901428222656,
+                "type": "GROW_CURVE_ATTACK_202"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValueRawNum": 0.03999999910593033,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Heartseeker/Equip_Sword_Heartseeker_OverrideTexture/Equip_Sword_Heartseeker_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Heartseeker_Awaken",
+        "weaponPromoteIdRawNum": 11411,
+        "storyIdRawNum": 191411,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 1023323240,
+        "idRawNum": 11411,
+        "nameTextMapHash": 1203074099,
+        "descTextMapHash": 1278086517,
+        "icon": "UI_EquipIcon_Sword_Heartseeker",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011411
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 43.734901428222656,
+                "type": "GROW_CURVE_ATTACK_202"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValueRawNum": 0.03999999910593033,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Psalmus/Equip_Sword_Psalmus_OverrideTexture/Equip_Sword_Psalmus_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Psalmus_Awaken",
+        "weaponPromoteIdRawNum": 11412,
+        "storyIdRawNum": 191412,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 3433003780,
+        "idRawNum": 11412,
+        "nameTextMapHash": 1773425155,
+        "descTextMapHash": 3798627613,
+        "icon": "UI_EquipIcon_Sword_Psalmus",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011412
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111501,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 47.5369987487793,
+                "type": "GROW_CURVE_ATTACK_302"
+            },
+            {
+                "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "initValueRawNum": 0.07199999690055847,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Falcon/Equip_Sword_Falcon_OverrideTexture/Equip_Sword_Falcon_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Falcon_Awaken",
+        "weaponPromoteIdRawNum": 11501,
+        "storyIdRawNum": 191501,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 962107900,
+        "idRawNum": 11501,
+        "nameTextMapHash": 902264035,
+        "descTextMapHash": 291327109,
+        "icon": "UI_EquipIcon_Sword_Falcon",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011501
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111502,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "initValueRawNum": 0.11999999731779099,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Dvalin/Equip_Sword_Dvalin_OverrideTexture/Equip_Sword_Dvalin_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Dvalin_Awaken",
+        "weaponPromoteIdRawNum": 11502,
+        "storyIdRawNum": 191502,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 3665043217,
+        "idRawNum": 11502,
+        "nameTextMapHash": 4055003299,
+        "descTextMapHash": 3627658141,
+        "icon": "UI_EquipIcon_Sword_Dvalin",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011502
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111503,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.1080000028014183,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Widsith/Equip_Sword_Widsith_OverrideTexture/Equip_Sword_Widsith_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Widsith_Awaken",
+        "weaponPromoteIdRawNum": 11503,
+        "storyIdRawNum": 191503,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 2409067244,
+        "idRawNum": 11503,
+        "nameTextMapHash": 2949448555,
+        "descTextMapHash": 1179976749,
+        "icon": "UI_EquipIcon_Sword_Widsith",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011503
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Kunwu/Equip_Sword_Kunwu_OverrideTexture/Equip_Sword_Kunwu_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Kunwu_Awaken",
+        "weaponPromoteIdRawNum": 11504,
+        "storyIdRawNum": 191504,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 1740198803,
+        "idRawNum": 11504,
+        "nameTextMapHash": 944332883,
+        "descTextMapHash": 1389297045,
+        "icon": "UI_EquipIcon_Sword_Kunwu",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011504
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Morax/Equip_Sword_Morax_OverrideTexture/Equip_Sword_Morax_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Morax_Awaken",
+        "weaponPromoteIdRawNum": 11505,
+        "storyIdRawNum": 191505,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 3535326333,
+        "idRawNum": 11505,
+        "nameTextMapHash": 1345343763,
+        "descTextMapHash": 1273837837,
+        "icon": "UI_EquipIcon_Sword_Morax",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011505
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Transcend/Equip_Sword_Transcend_OverrideTexture/Equip_Sword_Transcend_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Transcend_Awaken",
+        "weaponPromoteIdRawNum": 11506,
+        "storyIdRawNum": 191506,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 2706294933,
+        "idRawNum": 11506,
+        "nameTextMapHash": 231836963,
+        "descTextMapHash": 224422549,
+        "icon": "UI_EquipIcon_Sword_Transcend",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011506
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Boreas/Equip_Sword_Boreas_OverrideTexture/Equip_Sword_Boreas_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Boreas_Awaken",
+        "weaponPromoteIdRawNum": 11507,
+        "storyIdRawNum": 191507,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 973089515,
+        "idRawNum": 11507,
+        "nameTextMapHash": 3780343147,
+        "descTextMapHash": 1210667381,
+        "icon": "UI_EquipIcon_Sword_Boreas",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011507
+    },
+    {
+        "weaponType": "WEAPON_SWORD_ONE_HAND",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Pillars/Equip_Sword_Pillars_OverrideTexture/Equip_Sword_Pillars_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Sword_Pillars_Awaken",
+        "weaponPromoteIdRawNum": 11508,
+        "storyIdRawNum": 191508,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 831326989,
+        "idRawNum": 11508,
+        "nameTextMapHash": 1664039091,
+        "descTextMapHash": 2004615341,
+        "icon": "UI_EquipIcon_Sword_Pillars",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50011508
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 1,
+        "weaponBaseExpRawNum": 600,
+        "skillAffix": [
+            0,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 23.2450008392334,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Aniki/Equip_Claymore_Aniki_OverrideTexture/Equip_Claymore_Aniki_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Aniki_Awaken",
+        "weaponPromoteIdRawNum": 12101,
+        "awakenCosts": [],
+        "gachaCardNameHashSuffix": 3288337370,
+        "idRawNum": 12101,
+        "nameTextMapHash": 2666951267,
+        "descTextMapHash": 2490958125,
+        "icon": "UI_EquipIcon_Claymore_Aniki",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012101
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 2,
+        "weaponBaseExpRawNum": 1200,
+        "skillAffix": [
+            0,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 32.93000030517578,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Oyaji/Equip_Claymore_Oyaji_OverrideTexture/Equip_Claymore_Oyaji_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Oyaji_Awaken",
+        "weaponPromoteIdRawNum": 12201,
+        "awakenCosts": [],
+        "gachaCardNameHashSuffix": 544317873,
+        "idRawNum": 12201,
+        "nameTextMapHash": 1182966603,
+        "descTextMapHash": 169605981,
+        "icon": "UI_EquipIcon_Claymore_Oyaji",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012201
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            112301,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 38.74129867553711,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "initValueRawNum": 0.07660000026226044,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Glaive/Equip_Claymore_Glaive_OverrideTexture/Equip_Claymore_Glaive_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Glaive_Awaken",
+        "weaponPromoteIdRawNum": 12301,
+        "storyIdRawNum": 192301,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 1853975585,
+        "idRawNum": 12301,
+        "nameTextMapHash": 1479961579,
+        "descTextMapHash": 1887050717,
+        "icon": "UI_EquipIcon_Claymore_Glaive",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012301
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            112302,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 37.60749816894531,
+                "type": "GROW_CURVE_ATTACK_104"
+            },
+            {
+                "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "initValueRawNum": 40.79999923706055,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Siegfry/Equip_Claymore_Siegfry_OverrideTexture/Equip_Claymore_Siegfry_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Siegfry_Awaken",
+        "weaponPromoteIdRawNum": 12302,
+        "storyIdRawNum": 192302,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 1415556819,
+        "idRawNum": 12302,
+        "nameTextMapHash": 4090429643,
+        "descTextMapHash": 3230364157,
+        "icon": "UI_EquipIcon_Claymore_Siegfry",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012302
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            112303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 39.875099182128906,
+                "type": "GROW_CURVE_ATTACK_102"
+            },
+            {
+                "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+                "initValueRawNum": 0.06373299658298492,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Tin/Equip_Claymore_Tin_OverrideTexture/Equip_Claymore_Tin_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Tin_Awaken",
+        "weaponPromoteIdRawNum": 12303,
+        "storyIdRawNum": 192303,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 1036638865,
+        "idRawNum": 12303,
+        "nameTextMapHash": 850802171,
+        "descTextMapHash": 2243594437,
+        "icon": "UI_EquipIcon_Claymore_Tin",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012303
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            112304,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 38.74129867553711,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "initValueRawNum": 30.600000381469727,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Quartz/Equip_Claymore_Quartz_OverrideTexture/Equip_Claymore_Quartz_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Quartz_Awaken",
+        "weaponPromoteIdRawNum": 12304,
+        "storyIdRawNum": 192304,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 57757500,
+        "idRawNum": 12304,
+        "nameTextMapHash": 1516554699,
+        "descTextMapHash": 3918253109,
+        "icon": "UI_EquipIcon_Claymore_Quartz",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012304
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            112305,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 38.74129867553711,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.07660000026226044,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Reasoning/Equip_Claymore_Reasoning_OverrideTexture/Equip_Claymore_Reasoning_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Reasoning_Awaken",
+        "weaponPromoteIdRawNum": 12305,
+        "storyIdRawNum": 192305,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 2596096229,
+        "idRawNum": 12305,
+        "nameTextMapHash": 3097441915,
+        "descTextMapHash": 2797040229,
+        "icon": "UI_EquipIcon_Claymore_Reasoning",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012305
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            112306,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 38.74129867553711,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "initValueRawNum": 0.07660000026226044,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Mitsurugi/Equip_Claymore_Mitsurugi_OverrideTexture/Equip_Claymore_Mitsurugi_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Mitsurugi_Awaken",
+        "weaponPromoteIdRawNum": 12306,
+        "storyIdRawNum": 192306,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 4099821067,
+        "idRawNum": 12306,
+        "nameTextMapHash": 2614170427,
+        "descTextMapHash": 599093453,
+        "icon": "UI_EquipIcon_Claymore_Mitsurugi",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012306
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            112401,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 41.067100524902344,
+                "type": "GROW_CURVE_ATTACK_204"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValueRawNum": 0.07999999821186066,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Zephyrus/Equip_Claymore_Zephyrus_OverrideTexture/Equip_Claymore_Zephyrus_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Zephyrus_Awaken",
+        "weaponPromoteIdRawNum": 12401,
+        "storyIdRawNum": 192401,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 3739832421,
+        "idRawNum": 12401,
+        "nameTextMapHash": 735056795,
+        "descTextMapHash": 4068970301,
+        "icon": "UI_EquipIcon_Claymore_Zephyrus",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012401
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            112402,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "initValueRawNum": 0.10000000149011612,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Troupe/Equip_Claymore_Troupe_OverrideTexture/Equip_Claymore_Troupe_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Troupe_Awaken",
+        "weaponPromoteIdRawNum": 12402,
+        "storyIdRawNum": 192402,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 23777242,
+        "idRawNum": 12402,
+        "nameTextMapHash": 930640955,
+        "descTextMapHash": 2055764669,
+        "icon": "UI_EquipIcon_Claymore_Troupe",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012402
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            112403,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 41.067100524902344,
+                "type": "GROW_CURVE_ATTACK_204"
+            },
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "initValueRawNum": 0.11999999731779099,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Fossil/Equip_Claymore_Fossil_OverrideTexture/Equip_Claymore_Fossil_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Fossil_Awaken",
+        "weaponPromoteIdRawNum": 12403,
+        "storyIdRawNum": 192403,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2476832950,
+        "idRawNum": 12403,
+        "nameTextMapHash": 1675686363,
+        "descTextMapHash": 3985911901,
+        "icon": "UI_EquipIcon_Claymore_Fossil",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012403
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            112404,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 43.734901428222656,
+                "type": "GROW_CURVE_ATTACK_202"
+            },
+            {
+                "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "initValueRawNum": 0.05999999865889549,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Theocrat/Equip_Claymore_Theocrat_OverrideTexture/Equip_Claymore_Theocrat_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Theocrat_Awaken",
+        "weaponPromoteIdRawNum": 12404,
+        "storyIdRawNum": 192404,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2223812256,
+        "idRawNum": 12404,
+        "nameTextMapHash": 877751435,
+        "descTextMapHash": 205162989,
+        "icon": "UI_EquipIcon_Claymore_Theocrat",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012404
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            112405,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "initValueRawNum": 36.0,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Perdue/Equip_Claymore_Perdue_OverrideTexture/Equip_Claymore_Perdue_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Perdue_Awaken",
+        "weaponPromoteIdRawNum": 12405,
+        "storyIdRawNum": 192405,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 916950270,
+        "idRawNum": 12405,
+        "nameTextMapHash": 3684723963,
+        "descTextMapHash": 2688397213,
+        "icon": "UI_EquipIcon_Claymore_Perdue",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012405
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            112406,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 43.734901428222656,
+                "type": "GROW_CURVE_ATTACK_202"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.05999999865889549,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Proto/Equip_Claymore_Proto_OverrideTexture/Equip_Claymore_Proto_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Proto_Awaken",
+        "weaponPromoteIdRawNum": 12406,
+        "storyIdRawNum": 192406,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 3634821416,
+        "idRawNum": 12406,
+        "nameTextMapHash": 3722933411,
+        "descTextMapHash": 356356197,
+        "icon": "UI_EquipIcon_Claymore_Proto",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012406
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            112407,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+                "initValueRawNum": 0.11259999871253967,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Exotic/Equip_Claymore_Exotic_OverrideTexture/Equip_Claymore_Exotic_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Exotic_Awaken",
+        "weaponPromoteIdRawNum": 12407,
+        "storyIdRawNum": 192407,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 3014887376,
+        "idRawNum": 12407,
+        "nameTextMapHash": 680510411,
+        "descTextMapHash": 1683286045,
+        "icon": "UI_EquipIcon_Claymore_Exotic",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012407
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            112408,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL_HURT",
+                "initValueRawNum": 0.11999999731779099,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Blackrock/Equip_Claymore_Blackrock_OverrideTexture/Equip_Claymore_Blackrock_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Blackrock_Awaken",
+        "weaponPromoteIdRawNum": 12408,
+        "storyIdRawNum": 192408,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2589106325,
+        "idRawNum": 12408,
+        "nameTextMapHash": 20848859,
+        "descTextMapHash": 4287559013,
+        "icon": "UI_EquipIcon_Claymore_Blackrock",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012408
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            112409,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.09000000357627869,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Kione/Equip_Claymore_Kione_OverrideTexture/Equip_Claymore_Kione_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Kione_Awaken",
+        "weaponPromoteIdRawNum": 12409,
+        "storyIdRawNum": 192409,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 1875670885,
+        "idRawNum": 12409,
+        "nameTextMapHash": 1437658243,
+        "descTextMapHash": 4199357237,
+        "icon": "UI_EquipIcon_Claymore_Kione",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012409
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            112410,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 41.067100524902344,
+                "type": "GROW_CURVE_ATTACK_204"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL_HURT",
+                "initValueRawNum": 0.1599999964237213,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Lapis/Equip_Claymore_Lapis_OverrideTexture/Equip_Claymore_Lapis_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Lapis_Awaken",
+        "weaponPromoteIdRawNum": 12410,
+        "storyIdRawNum": 192410,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2190420900,
+        "idRawNum": 12410,
+        "nameTextMapHash": 2006422931,
+        "descTextMapHash": 3110406349,
+        "icon": "UI_EquipIcon_Claymore_Lapis",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012410
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 41.067100524902344,
+                "type": "GROW_CURVE_ATTACK_204"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL_HURT",
+                "initValueRawNum": 0.1599999964237213,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Dragonfell/Equip_Claymore_Dragonfell_OverrideTexture/Equip_Claymore_Dragonfell_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Dragonfell_Awaken",
+        "weaponPromoteIdRawNum": 12411,
+        "storyIdRawNum": 192411,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2712675064,
+        "idRawNum": 12411,
+        "nameTextMapHash": 2753539619,
+        "descTextMapHash": 2688837757,
+        "icon": "UI_EquipIcon_Claymore_Dragonfell",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012411
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            112501,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 47.5369987487793,
+                "type": "GROW_CURVE_ATTACK_302"
+            },
+            {
+                "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "initValueRawNum": 0.07999999821186066,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Dvalin/Equip_Claymore_Dvalin_OverrideTexture/Equip_Claymore_Dvalin_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Dvalin_Awaken",
+        "weaponPromoteIdRawNum": 12501,
+        "storyIdRawNum": 192501,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 4003214417,
+        "idRawNum": 12501,
+        "nameTextMapHash": 1089950259,
+        "descTextMapHash": 2724154045,
+        "icon": "UI_EquipIcon_Claymore_Dvalin",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012501
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            112502,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.1080000028014183,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Wolfmound/Equip_Claymore_Wolfmound_OverrideTexture/Equip_Claymore_Wolfmound_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Wolfmound_Awaken",
+        "weaponPromoteIdRawNum": 12502,
+        "storyIdRawNum": 192502,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 4113952488,
+        "idRawNum": 12502,
+        "nameTextMapHash": 3995710363,
+        "descTextMapHash": 401408237,
+        "icon": "UI_EquipIcon_Claymore_Wolfmound",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012502
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            112503,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.1080000028014183,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Widsith/Equip_Claymore_Widsith_OverrideTexture/Equip_Claymore_Widsith_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Widsith_Awaken",
+        "weaponPromoteIdRawNum": 12503,
+        "storyIdRawNum": 192503,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 1627480080,
+        "idRawNum": 12503,
+        "nameTextMapHash": 1075647299,
+        "descTextMapHash": 3478455989,
+        "icon": "UI_EquipIcon_Claymore_Widsith",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012503
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 50.73830032348633,
+                "type": "GROW_CURVE_ATTACK_303"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Kunwu/Equip_Claymore_Kunwu_OverrideTexture/Equip_Claymore_Kunwu_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Kunwu_Awaken",
+        "weaponPromoteIdRawNum": 12504,
+        "storyIdRawNum": 192504,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 1732088389,
+        "idRawNum": 12504,
+        "nameTextMapHash": 2792766467,
+        "descTextMapHash": 3341255373,
+        "icon": "UI_EquipIcon_Claymore_Kunwu",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012504
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 44.33580017089844,
+                "type": "GROW_CURVE_ATTACK_304"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Morax/Equip_Claymore_Morax_OverrideTexture/Equip_Claymore_Morax_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Morax_Awaken",
+        "weaponPromoteIdRawNum": 12505,
+        "storyIdRawNum": 192505,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 2434129349,
+        "idRawNum": 12505,
+        "nameTextMapHash": 977648923,
+        "descTextMapHash": 2108387445,
+        "icon": "UI_EquipIcon_Claymore_Morax",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012505
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 44.33580017089844,
+                "type": "GROW_CURVE_ATTACK_304"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Appease/Equip_Claymore_Appease_OverrideTexture/Equip_Claymore_Appease_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Appease_Awaken",
+        "weaponPromoteIdRawNum": 12506,
+        "storyIdRawNum": 192506,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 1627443127,
+        "idRawNum": 12506,
+        "nameTextMapHash": 2597527627,
+        "descTextMapHash": 1872955621,
+        "icon": "UI_EquipIcon_Claymore_Appease",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012506
+    },
+    {
+        "weaponType": "WEAPON_CLAYMORE",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 44.33580017089844,
+                "type": "GROW_CURVE_ATTACK_304"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Moonlight/Equip_Claymore_Moonlight_OverrideTexture/Equip_Claymore_Moonlight_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Claymore_Moonlight_Awaken",
+        "weaponPromoteIdRawNum": 12508,
+        "storyIdRawNum": 192508,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 4180326718,
+        "idRawNum": 12508,
+        "nameTextMapHash": 759708203,
+        "descTextMapHash": 2717637085,
+        "icon": "UI_EquipIcon_Claymore_Moonlight",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50012508
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 1,
+        "weaponBaseExpRawNum": 600,
+        "skillAffix": [
+            0,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 23.2450008392334,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Gewalt/Equip_Pole_Gewalt_OverrideTexture/Equip_Pole_Gewalt_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Gewalt_Awaken",
+        "weaponPromoteIdRawNum": 13101,
+        "awakenCosts": [],
+        "gachaCardNameHashSuffix": 2043974835,
+        "idRawNum": 13101,
+        "nameTextMapHash": 2796697027,
+        "descTextMapHash": 1707406541,
+        "icon": "UI_EquipIcon_Pole_Gewalt",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013101
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 2,
+        "weaponBaseExpRawNum": 1200,
+        "skillAffix": [
+            0,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 32.93000030517578,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Rod/Equip_Pole_Rod_OverrideTexture/Equip_Pole_Rod_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Rod_Awaken",
+        "weaponPromoteIdRawNum": 13201,
+        "awakenCosts": [],
+        "gachaCardNameHashSuffix": 4234149687,
+        "idRawNum": 13201,
+        "nameTextMapHash": 3070169307,
+        "descTextMapHash": 1460440477,
+        "icon": "UI_EquipIcon_Pole_Rod",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013201
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            113301,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 38.74129867553711,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValueRawNum": 0.050999999046325684,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Ruby/Equip_Pole_Ruby_OverrideTexture/Equip_Pole_Ruby_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Ruby_Awaken",
+        "weaponPromoteIdRawNum": 13301,
+        "storyIdRawNum": 193301,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 3145191929,
+        "idRawNum": 13301,
+        "nameTextMapHash": 1390797107,
+        "descTextMapHash": 3496480741,
+        "icon": "UI_EquipIcon_Pole_Ruby",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013301
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            113302,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 39.875099182128906,
+                "type": "GROW_CURVE_ATTACK_102"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.05106699839234352,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Halberd/Equip_Pole_Halberd_OverrideTexture/Equip_Pole_Halberd_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Halberd_Awaken",
+        "weaponPromoteIdRawNum": 13302,
+        "storyIdRawNum": 193302,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 1569285405,
+        "idRawNum": 13302,
+        "nameTextMapHash": 618786571,
+        "descTextMapHash": 4218316925,
+        "icon": "UI_EquipIcon_Pole_Halberd",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013302
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            113303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 37.60749816894531,
+                "type": "GROW_CURVE_ATTACK_104"
+            },
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "initValueRawNum": 0.10213299840688705,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Noire/Equip_Pole_Noire_OverrideTexture/Equip_Pole_Noire_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Noire_Awaken",
+        "weaponPromoteIdRawNum": 13303,
+        "storyIdRawNum": 193303,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 837291574,
+        "idRawNum": 13303,
+        "nameTextMapHash": 4103766499,
+        "descTextMapHash": 2692633181,
+        "icon": "UI_EquipIcon_Pole_Noire",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013303
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            113401,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 41.067100524902344,
+                "type": "GROW_CURVE_ATTACK_204"
+            },
+            {
+                "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "initValueRawNum": 48.0,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Stardust/Equip_Pole_Stardust_OverrideTexture/Equip_Pole_Stardust_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Stardust_Awaken",
+        "weaponPromoteIdRawNum": 13401,
+        "storyIdRawNum": 193401,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2592195516,
+        "idRawNum": 13401,
+        "nameTextMapHash": 2664629131,
+        "descTextMapHash": 1575094381,
+        "icon": "UI_EquipIcon_Pole_Stardust",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013401
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            113402,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "initValueRawNum": 0.10000000149011612,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Proto/Equip_Pole_Proto_OverrideTexture/Equip_Pole_Proto_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Proto_Awaken",
+        "weaponPromoteIdRawNum": 13402,
+        "storyIdRawNum": 193402,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 679881581,
+        "idRawNum": 13402,
+        "nameTextMapHash": 1154009435,
+        "descTextMapHash": 2616355533,
+        "icon": "UI_EquipIcon_Pole_Proto",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013402
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            113403,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 43.734901428222656,
+                "type": "GROW_CURVE_ATTACK_202"
+            },
+            {
+                "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "initValueRawNum": 0.05999999865889549,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Exotic/Equip_Pole_Exotic_OverrideTexture/Equip_Pole_Exotic_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Exotic_Awaken",
+        "weaponPromoteIdRawNum": 13403,
+        "storyIdRawNum": 193403,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2190949322,
+        "idRawNum": 13403,
+        "nameTextMapHash": 578575283,
+        "descTextMapHash": 4181232573,
+        "icon": "UI_EquipIcon_Pole_Exotic",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013403
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            113404,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL_HURT",
+                "initValueRawNum": 0.11999999731779099,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Blackrock/Equip_Pole_Blackrock_OverrideTexture/Equip_Pole_Blackrock_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Blackrock_Awaken",
+        "weaponPromoteIdRawNum": 13404,
+        "storyIdRawNum": 193404,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 3820752596,
+        "idRawNum": 13404,
+        "nameTextMapHash": 481755219,
+        "descTextMapHash": 2074162709,
+        "icon": "UI_EquipIcon_Pole_Blackrock",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013404
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            113405,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 41.067100524902344,
+                "type": "GROW_CURVE_ATTACK_204"
+            },
+            {
+                "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "initValueRawNum": 0.1333329975605011,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Gladiator/Equip_Pole_Gladiator_OverrideTexture/Equip_Pole_Gladiator_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Gladiator_Awaken",
+        "weaponPromoteIdRawNum": 13405,
+        "storyIdRawNum": 193405,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 645868516,
+        "idRawNum": 13405,
+        "nameTextMapHash": 4049410651,
+        "descTextMapHash": 885061045,
+        "icon": "UI_EquipIcon_Pole_Gladiator",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013405
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            113406,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "initValueRawNum": 0.09000000357627869,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Lapis/Equip_Pole_Lapis_OverrideTexture/Equip_Pole_Lapis_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Lapis_Awaken",
+        "weaponPromoteIdRawNum": 13406,
+        "storyIdRawNum": 193406,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2881599016,
+        "idRawNum": 13406,
+        "nameTextMapHash": 716252627,
+        "descTextMapHash": 366604621,
+        "icon": "UI_EquipIcon_Pole_Lapis",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013406
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "initValueRawNum": 0.09000000357627869,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Zephyrus/Equip_Pole_Zephyrus_OverrideTexture/Equip_Pole_Zephyrus_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Zephyrus_Awaken",
+        "weaponPromoteIdRawNum": 13407,
+        "storyIdRawNum": 193407,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 1433892679,
+        "idRawNum": 13407,
+        "nameTextMapHash": 3755004051,
+        "descTextMapHash": 2331820333,
+        "icon": "UI_EquipIcon_Pole_Zephyrus",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013407
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.1080000028014183,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Zephyrus/Equip_Pole_Zephyrus_OverrideTexture/Equip_Pole_Zephyrus_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Zephyrus_Awaken",
+        "weaponPromoteIdRawNum": 13501,
+        "storyIdRawNum": 193501,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 1433892679,
+        "idRawNum": 13501,
+        "nameTextMapHash": 3235324891,
+        "descTextMapHash": 3487544829,
+        "icon": "UI_EquipIcon_Pole_Zephyrus",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013501
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.1080000028014183,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Dvalin/Equip_Pole_Dvalin_OverrideTexture/Equip_Pole_Dvalin_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Dvalin_Awaken",
+        "weaponPromoteIdRawNum": 13502,
+        "storyIdRawNum": 193502,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 2548736281,
+        "idRawNum": 13502,
+        "nameTextMapHash": 4158505619,
+        "descTextMapHash": 2400004301,
+        "icon": "UI_EquipIcon_Pole_Dvalin",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013502
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.1080000028014183,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Zephyrus/Equip_Pole_Zephyrus_OverrideTexture/Equip_Pole_Zephyrus_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Zephyrus_Awaken",
+        "weaponPromoteIdRawNum": 13503,
+        "storyIdRawNum": 193503,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 1433892679,
+        "idRawNum": 13503,
+        "nameTextMapHash": 469555475,
+        "descTextMapHash": 2968469189,
+        "icon": "UI_EquipIcon_Pole_Zephyrus",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013503
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            113504,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.1080000028014183,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Kunwu/Equip_Pole_Kunwu_OverrideTexture/Equip_Pole_Kunwu_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Kunwu_Awaken",
+        "weaponPromoteIdRawNum": 13504,
+        "storyIdRawNum": 193504,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 866984674,
+        "idRawNum": 13504,
+        "nameTextMapHash": 197755235,
+        "descTextMapHash": 786121517,
+        "icon": "UI_EquipIcon_Pole_Kunwu",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013504
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            113505,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 47.5369987487793,
+                "type": "GROW_CURVE_ATTACK_302"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValueRawNum": 0.04800000041723251,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Morax/Equip_Pole_Morax_OverrideTexture/Equip_Pole_Morax_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Morax_Awaken",
+        "weaponPromoteIdRawNum": 13505,
+        "storyIdRawNum": 193505,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 2361985760,
+        "idRawNum": 13505,
+        "nameTextMapHash": 1997709467,
+        "descTextMapHash": 1074834109,
+        "icon": "UI_EquipIcon_Pole_Morax",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013505
+    },
+    {
+        "weaponType": "WEAPON_POLE",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            113506,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.1080000028014183,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Regicide/Equip_Pole_Regicide_OverrideTexture/Equip_Pole_Regicide_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Pole_Regicide_Awaken",
+        "weaponPromoteIdRawNum": 13506,
+        "storyIdRawNum": 193506,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 737217907,
+        "idRawNum": 13506,
+        "nameTextMapHash": 3532343811,
+        "descTextMapHash": 1699329373,
+        "icon": "UI_EquipIcon_Pole_Regicide",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50013506
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 1,
+        "weaponBaseExpRawNum": 600,
+        "skillAffix": [
+            0,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 23.2450008392334,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Apprentice/Equip_Catalyst_Apprentice_OverrideTexture/Equip_Catalyst_Apprentice_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Apprentice_Awaken",
+        "weaponPromoteIdRawNum": 14101,
+        "awakenCosts": [],
+        "gachaCardNameHashSuffix": 3008420473,
+        "idRawNum": 14101,
+        "nameTextMapHash": 3584825427,
+        "descTextMapHash": 62211301,
+        "icon": "UI_EquipIcon_Catalyst_Apprentice",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014101
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 2,
+        "weaponBaseExpRawNum": 1200,
+        "skillAffix": [
+            0,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 32.93000030517578,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Pocket/Equip_Catalyst_Pocket_OverrideTexture/Equip_Catalyst_Pocket_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Pocket_Awaken",
+        "weaponPromoteIdRawNum": 14201,
+        "awakenCosts": [],
+        "gachaCardNameHashSuffix": 3554959689,
+        "idRawNum": 14201,
+        "nameTextMapHash": 2705029563,
+        "descTextMapHash": 728247149,
+        "icon": "UI_EquipIcon_Catalyst_Pocket",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014201
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            114301,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 37.60749816894531,
+                "type": "GROW_CURVE_ATTACK_104"
+            },
+            {
+                "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "initValueRawNum": 40.79999923706055,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Intro/Equip_Catalyst_Intro_OverrideTexture/Equip_Catalyst_Intro_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Intro_Awaken",
+        "weaponPromoteIdRawNum": 14301,
+        "storyIdRawNum": 194301,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 2255397968,
+        "idRawNum": 14301,
+        "nameTextMapHash": 2279290283,
+        "descTextMapHash": 1128957,
+        "icon": "UI_EquipIcon_Catalyst_Intro",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014301
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            114302,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 37.60749816894531,
+                "type": "GROW_CURVE_ATTACK_104"
+            },
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "initValueRawNum": 0.10213299840688705,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Pulpfic/Equip_Catalyst_Pulpfic_OverrideTexture/Equip_Catalyst_Pulpfic_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Pulpfic_Awaken",
+        "weaponPromoteIdRawNum": 14302,
+        "storyIdRawNum": 194302,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 1161391248,
+        "idRawNum": 14302,
+        "nameTextMapHash": 3500935003,
+        "descTextMapHash": 4081562589,
+        "icon": "UI_EquipIcon_Catalyst_Pulpfic",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014302
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            114303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 38.74129867553711,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "initValueRawNum": 0.08500000089406967,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Lightnov/Equip_Catalyst_Lightnov_OverrideTexture/Equip_Catalyst_Lightnov_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Lightnov_Awaken",
+        "weaponPromoteIdRawNum": 14303,
+        "storyIdRawNum": 194303,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 506295131,
+        "idRawNum": 14303,
+        "nameTextMapHash": 1406746947,
+        "descTextMapHash": 201204037,
+        "icon": "UI_EquipIcon_Catalyst_Lightnov",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014303
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            114304,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 39.875099182128906,
+                "type": "GROW_CURVE_ATTACK_102"
+            },
+            {
+                "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "initValueRawNum": 20.399999618530273,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Jade/Equip_Catalyst_Jade_OverrideTexture/Equip_Catalyst_Jade_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Jade_Awaken",
+        "unRotate": true,
+        "weaponPromoteIdRawNum": 14304,
+        "storyIdRawNum": 194304,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 1264623936,
+        "idRawNum": 14304,
+        "nameTextMapHash": 2963220587,
+        "descTextMapHash": 4004013141,
+        "icon": "UI_EquipIcon_Catalyst_Jade",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014304
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            114305,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 39.875099182128906,
+                "type": "GROW_CURVE_ATTACK_102"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValueRawNum": 0.03400000184774399,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Phoney/Equip_Catalyst_Phoney_OverrideTexture/Equip_Catalyst_Phoney_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Phoney_Awaken",
+        "unRotate": true,
+        "weaponPromoteIdRawNum": 14305,
+        "storyIdRawNum": 194305,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 1673592154,
+        "idRawNum": 14305,
+        "nameTextMapHash": 3719372715,
+        "descTextMapHash": 2737744437,
+        "icon": "UI_EquipIcon_Catalyst_Phoney",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014305
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            114306,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 38.74129867553711,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "initValueRawNum": 30.600000381469727,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Amber/Equip_Catalyst_Amber_OverrideTexture/Equip_Catalyst_Amber_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Amber_Awaken",
+        "unRotate": true,
+        "weaponPromoteIdRawNum": 14306,
+        "storyIdRawNum": 194306,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 1877631087,
+        "idRawNum": 14306,
+        "nameTextMapHash": 302691299,
+        "descTextMapHash": 3867432845,
+        "icon": "UI_EquipIcon_Catalyst_Amber",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014306
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            114401,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "initValueRawNum": 0.10000000149011612,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Zephyrus/Equip_Catalyst_Zephyrus_OverrideTexture/Equip_Catalyst_Zephyrus_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Zephyrus_Awaken",
+        "weaponPromoteIdRawNum": 14401,
+        "storyIdRawNum": 194401,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2160753017,
+        "idRawNum": 14401,
+        "nameTextMapHash": 623534363,
+        "descTextMapHash": 311411373,
+        "icon": "UI_EquipIcon_Catalyst_Zephyrus",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014401
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            114402,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL_HURT",
+                "initValueRawNum": 0.11999999731779099,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Troupe/Equip_Catalyst_Troupe_OverrideTexture/Equip_Catalyst_Troupe_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Troupe_Awaken",
+        "weaponPromoteIdRawNum": 14402,
+        "storyIdRawNum": 194402,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 4033235202,
+        "idRawNum": 14402,
+        "nameTextMapHash": 1163263227,
+        "descTextMapHash": 3079323733,
+        "icon": "UI_EquipIcon_Catalyst_Troupe",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014402
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            114403,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 41.067100524902344,
+                "type": "GROW_CURVE_ATTACK_204"
+            },
+            {
+                "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "initValueRawNum": 48.0,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Fossil/Equip_Catalyst_Fossil_OverrideTexture/Equip_Catalyst_Fossil_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Fossil_Awaken",
+        "weaponPromoteIdRawNum": 14403,
+        "storyIdRawNum": 194403,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 100146517,
+        "idRawNum": 14403,
+        "nameTextMapHash": 2195665683,
+        "descTextMapHash": 789905885,
+        "icon": "UI_EquipIcon_Catalyst_Fossil",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014403
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            114404,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 43.734901428222656,
+                "type": "GROW_CURVE_ATTACK_202"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.05999999865889549,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Theocrat/Equip_Catalyst_Theocrat_OverrideTexture/Equip_Catalyst_Theocrat_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Theocrat_Awaken",
+        "weaponPromoteIdRawNum": 14404,
+        "storyIdRawNum": 194404,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 3139897436,
+        "idRawNum": 14404,
+        "nameTextMapHash": 3827789435,
+        "descTextMapHash": 2717009405,
+        "icon": "UI_EquipIcon_Catalyst_Theocrat",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014404
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            114405,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValueRawNum": 0.05999999865889549,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Resurrection/Equip_Catalyst_Resurrection_OverrideTexture/Equip_Catalyst_Resurrection_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Resurrection_Awaken",
+        "unRotate": true,
+        "weaponPromoteIdRawNum": 14405,
+        "storyIdRawNum": 194405,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 3859760046,
+        "idRawNum": 14405,
+        "nameTextMapHash": 37147251,
+        "descTextMapHash": 3980674549,
+        "icon": "UI_EquipIcon_Catalyst_Resurrection",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014405
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            114406,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 41.067100524902344,
+                "type": "GROW_CURVE_ATTACK_204"
+            },
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "initValueRawNum": 0.11999999731779099,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Proto/Equip_Catalyst_Proto_OverrideTexture/Equip_Catalyst_Proto_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Proto_Awaken",
+        "unRotate": true,
+        "weaponPromoteIdRawNum": 14406,
+        "storyIdRawNum": 194406,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 3185332339,
+        "idRawNum": 14406,
+        "nameTextMapHash": 2521338131,
+        "descTextMapHash": 1207804933,
+        "icon": "UI_EquipIcon_Catalyst_Proto",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014406
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            114407,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 43.734901428222656,
+                "type": "GROW_CURVE_ATTACK_202"
+            },
+            {
+                "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "initValueRawNum": 24.0,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Exotic/Equip_Catalyst_Exotic_OverrideTexture/Equip_Catalyst_Exotic_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Exotic_Awaken",
+        "weaponPromoteIdRawNum": 14407,
+        "storyIdRawNum": 194407,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 575833493,
+        "idRawNum": 14407,
+        "nameTextMapHash": 1072884907,
+        "descTextMapHash": 727794477,
+        "icon": "UI_EquipIcon_Catalyst_Exotic",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014407
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            114408,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL_HURT",
+                "initValueRawNum": 0.11999999731779099,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Blackrock/Equip_Catalyst_Blackrock_OverrideTexture/Equip_Catalyst_Blackrock_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Blackrock_Awaken",
+        "unRotate": true,
+        "weaponPromoteIdRawNum": 14408,
+        "storyIdRawNum": 194408,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 1108158988,
+        "idRawNum": 14408,
+        "nameTextMapHash": 3273999011,
+        "descTextMapHash": 3555971517,
+        "icon": "UI_EquipIcon_Catalyst_Blackrock",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014408
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            114409,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 41.067100524902344,
+                "type": "GROW_CURVE_ATTACK_204"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.11999999731779099,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Truelens/Equip_Catalyst_Truelens_OverrideTexture/Equip_Catalyst_Truelens_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Truelens_Awaken",
+        "unRotate": true,
+        "weaponPromoteIdRawNum": 14409,
+        "storyIdRawNum": 194409,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2673951069,
+        "idRawNum": 14409,
+        "nameTextMapHash": 3156385731,
+        "descTextMapHash": 2055966237,
+        "icon": "UI_EquipIcon_Catalyst_Truelens",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014409
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            114410,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "initValueRawNum": 0.10000000149011612,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Outlaw/Equip_Catalyst_Outlaw_OverrideTexture/Equip_Catalyst_Outlaw_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Outlaw_Awaken",
+        "weaponPromoteIdRawNum": 14410,
+        "storyIdRawNum": 194410,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 772861185,
+        "idRawNum": 14410,
+        "nameTextMapHash": 3090373787,
+        "descTextMapHash": 2844428397,
+        "icon": "UI_EquipIcon_Catalyst_Outlaw",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014410
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "initValueRawNum": 0.10000000149011612,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Lanternrite/Equip_Catalyst_Lanternrite_OverrideTexture/Equip_Catalyst_Lanternrite_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Lanternrite_Awaken",
+        "unRotate": true,
+        "weaponPromoteIdRawNum": 14411,
+        "storyIdRawNum": 194411,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 3987900959,
+        "idRawNum": 14411,
+        "nameTextMapHash": 415851979,
+        "descTextMapHash": 3629661149,
+        "icon": "UI_EquipIcon_Catalyst_Lanternrite",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014411
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            114501,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 47.5369987487793,
+                "type": "GROW_CURVE_ATTACK_302"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.07199999690055847,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Dvalin/Equip_Catalyst_Dvalin_OverrideTexture/Equip_Catalyst_Dvalin_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Dvalin_Awaken",
+        "weaponPromoteIdRawNum": 14501,
+        "storyIdRawNum": 194501,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 187001540,
+        "idRawNum": 14501,
+        "nameTextMapHash": 807607555,
+        "descTextMapHash": 929689749,
+        "icon": "UI_EquipIcon_Catalyst_Dvalin",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014501
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            114502,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValueRawNum": 0.07199999690055847,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Fourwinds/Equip_Catalyst_Fourwinds_OverrideTexture/Equip_Catalyst_Fourwinds_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Fourwinds_Awaken",
+        "weaponPromoteIdRawNum": 14502,
+        "storyIdRawNum": 194502,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 562554965,
+        "idRawNum": 14502,
+        "nameTextMapHash": 1455107995,
+        "descTextMapHash": 2188385645,
+        "icon": "UI_EquipIcon_Catalyst_Fourwinds",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014502
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            114503,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.1080000028014183,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Widsith/Equip_Catalyst_Widsith_OverrideTexture/Equip_Catalyst_Widsith_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Widsith_Awaken",
+        "weaponPromoteIdRawNum": 14503,
+        "storyIdRawNum": 194503,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 1415262739,
+        "idRawNum": 14503,
+        "nameTextMapHash": 452043283,
+        "descTextMapHash": 3761771325,
+        "icon": "UI_EquipIcon_Catalyst_Widsith",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014503
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 50.73830032348633,
+                "type": "GROW_CURVE_ATTACK_303"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Kunwu/Equip_Catalyst_Kunwu_OverrideTexture/Equip_Catalyst_Kunwu_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Kunwu_Awaken",
+        "unRotate": true,
+        "weaponPromoteIdRawNum": 14504,
+        "storyIdRawNum": 194504,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 2659753013,
+        "idRawNum": 14504,
+        "nameTextMapHash": 693354267,
+        "descTextMapHash": 1610195525,
+        "icon": "UI_EquipIcon_Catalyst_Kunwu",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014504
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 44.33580017089844,
+                "type": "GROW_CURVE_ATTACK_304"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Morax/Equip_Catalyst_Morax_OverrideTexture/Equip_Catalyst_Morax_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Morax_Awaken",
+        "unRotate": true,
+        "weaponPromoteIdRawNum": 14505,
+        "storyIdRawNum": 194505,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 4290942239,
+        "idRawNum": 14505,
+        "nameTextMapHash": 4007372867,
+        "descTextMapHash": 1564641749,
+        "icon": "UI_EquipIcon_Catalyst_Morax",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014505
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 44.33580017089844,
+                "type": "GROW_CURVE_ATTACK_304"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Kaleido/Equip_Catalyst_Kaleido_OverrideTexture/Equip_Catalyst_Kaleido_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Kaleido_Awaken",
+        "unRotate": true,
+        "weaponPromoteIdRawNum": 14506,
+        "storyIdRawNum": 194506,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 1621782753,
+        "idRawNum": 14506,
+        "nameTextMapHash": 1890163363,
+        "descTextMapHash": 1589431549,
+        "icon": "UI_EquipIcon_Catalyst_Kaleido",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014506
+    },
+    {
+        "weaponType": "WEAPON_CATALYST",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 44.33580017089844,
+                "type": "GROW_CURVE_ATTACK_304"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Hypostasis/Equip_Catalyst_Hypostasis_OverrideTexture/Equip_Catalyst_Hypostasis_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Hypostasis_Awaken",
+        "unRotate": true,
+        "weaponPromoteIdRawNum": 14508,
+        "storyIdRawNum": 194508,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 864224784,
+        "idRawNum": 14508,
+        "nameTextMapHash": 4123950051,
+        "descTextMapHash": 3639034925,
+        "icon": "UI_EquipIcon_Catalyst_Hypostasis",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50014508
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 1,
+        "weaponBaseExpRawNum": 600,
+        "skillAffix": [
+            0,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 23.2450008392334,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Hunters/Equip_Bow_Hunters_OverrideTexture/Equip_Bow_Hunters_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+        "weaponPromoteIdRawNum": 15101,
+        "awakenCosts": [],
+        "gachaCardNameHashSuffix": 3268741295,
+        "idRawNum": 15101,
+        "nameTextMapHash": 3600623979,
+        "descTextMapHash": 2408955477,
+        "icon": "UI_EquipIcon_Bow_Hunters",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015101
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 2,
+        "weaponBaseExpRawNum": 1200,
+        "skillAffix": [
+            0,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 32.93000030517578,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Old/Equip_Bow_Old_OverrideTexture/Equip_Bow_Old_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Old_Awaken",
+        "weaponPromoteIdRawNum": 15201,
+        "awakenCosts": [],
+        "gachaCardNameHashSuffix": 2068918254,
+        "idRawNum": 15201,
+        "nameTextMapHash": 2340970067,
+        "descTextMapHash": 905810789,
+        "icon": "UI_EquipIcon_Bow_Old",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015201
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            115301,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 39.875099182128906,
+                "type": "GROW_CURVE_ATTACK_102"
+            },
+            {
+                "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "initValueRawNum": 20.399999618530273,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Crowfeather/Equip_Bow_Crowfeather_OverrideTexture/Equip_Bow_Crowfeather_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Crowfeather_Awaken",
+        "weaponPromoteIdRawNum": 15301,
+        "storyIdRawNum": 195301,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 556754703,
+        "idRawNum": 15301,
+        "nameTextMapHash": 3975746731,
+        "descTextMapHash": 367902357,
+        "icon": "UI_EquipIcon_Bow_Crowfeather",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015301
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            115302,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 38.74129867553711,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL_HURT",
+                "initValueRawNum": 0.10199999809265137,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Arjuna/Equip_Bow_Arjuna_OverrideTexture/Equip_Bow_Arjuna_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Arjuna_Awaken",
+        "weaponPromoteIdRawNum": 15302,
+        "storyIdRawNum": 195302,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 565312932,
+        "idRawNum": 15302,
+        "nameTextMapHash": 656120259,
+        "descTextMapHash": 894007269,
+        "icon": "UI_EquipIcon_Bow_Arjuna",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015302
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            115303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 37.60749816894531,
+                "type": "GROW_CURVE_ATTACK_104"
+            },
+            {
+                "propType": "FIGHT_PROP_HP_PERCENT",
+                "initValueRawNum": 0.10213299840688705,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Curve/Equip_Bow_Curve_OverrideTexture/Equip_Bow_Curve_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Curve_Awaken",
+        "weaponPromoteIdRawNum": 15303,
+        "storyIdRawNum": 195303,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 980682567,
+        "idRawNum": 15303,
+        "nameTextMapHash": 4267718859,
+        "descTextMapHash": 851960253,
+        "icon": "UI_EquipIcon_Bow_Curve",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015303
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            115304,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 37.60749816894531,
+                "type": "GROW_CURVE_ATTACK_104"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValueRawNum": 0.06800000369548798,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Sling/Equip_Bow_Sling_OverrideTexture/Equip_Bow_Sling_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Sling_Awaken",
+        "weaponPromoteIdRawNum": 15304,
+        "storyIdRawNum": 195304,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 1886251179,
+        "idRawNum": 15304,
+        "nameTextMapHash": 1021898539,
+        "descTextMapHash": 2260945613,
+        "icon": "UI_EquipIcon_Bow_Sling",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015304
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            115305,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 39.875099182128906,
+                "type": "GROW_CURVE_ATTACK_102"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL_HURT",
+                "initValueRawNum": 0.06800000369548798,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Msg/Equip_Bow_Msg_OverrideTexture/Equip_Bow_Msg_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Msg_Awaken",
+        "weaponPromoteIdRawNum": 15305,
+        "storyIdRawNum": 195305,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 4113057059,
+        "idRawNum": 15305,
+        "nameTextMapHash": 4139294531,
+        "descTextMapHash": 2838701821,
+        "icon": "UI_EquipIcon_Bow_Msg",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015305
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 3,
+        "weaponBaseExpRawNum": 1800,
+        "skillAffix": [
+            115306,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 38.74129867553711,
+                "type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.07660000026226044,
+                "type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Hardwood/Equip_Bow_Hardwood_OverrideTexture/Equip_Bow_Hardwood_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Hardwood_Awaken",
+        "weaponPromoteIdRawNum": 15306,
+        "storyIdRawNum": 195306,
+        "awakenCosts": [
+            500,
+            1000,
+            2000,
+            4000
+        ],
+        "gachaCardNameHashSuffix": 319159537,
+        "idRawNum": 15306,
+        "nameTextMapHash": 2242027395,
+        "descTextMapHash": 2789017349,
+        "icon": "UI_EquipIcon_Bow_Hardwood",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015306
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            115401,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 41.067100524902344,
+                "type": "GROW_CURVE_ATTACK_204"
+            },
+            {
+                "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "initValueRawNum": 0.1333329975605011,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Zephyrus/Equip_Bow_Zephyrus_OverrideTexture/Equip_Bow_Zephyrus_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Zephyrus_Awaken",
+        "weaponPromoteIdRawNum": 15401,
+        "storyIdRawNum": 195401,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2657109870,
+        "idRawNum": 15401,
+        "nameTextMapHash": 1240067179,
+        "descTextMapHash": 2697551509,
+        "icon": "UI_EquipIcon_Bow_Zephyrus",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015401
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            115402,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "initValueRawNum": 36.0,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Troupe/Equip_Bow_Troupe_OverrideTexture/Equip_Bow_Troupe_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Troupe_Awaken",
+        "weaponPromoteIdRawNum": 15402,
+        "storyIdRawNum": 195402,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2601636751,
+        "idRawNum": 15402,
+        "nameTextMapHash": 2556914683,
+        "descTextMapHash": 1284213621,
+        "icon": "UI_EquipIcon_Bow_Troupe",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015402
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            115403,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 43.734901428222656,
+                "type": "GROW_CURVE_ATTACK_202"
+            },
+            {
+                "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "initValueRawNum": 0.06666699796915054,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Fossil/Equip_Bow_Fossil_OverrideTexture/Equip_Bow_Fossil_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Fossil_Awaken",
+        "weaponPromoteIdRawNum": 15403,
+        "storyIdRawNum": 195403,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 4260288170,
+        "idRawNum": 15403,
+        "nameTextMapHash": 2400012995,
+        "descTextMapHash": 59873837,
+        "icon": "UI_EquipIcon_Bow_Fossil",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015403
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            115404,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValueRawNum": 0.05999999865889549,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Theocrat/Equip_Bow_Theocrat_OverrideTexture/Equip_Bow_Theocrat_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Theocrat_Awaken",
+        "weaponPromoteIdRawNum": 15404,
+        "storyIdRawNum": 195404,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 1614344246,
+        "idRawNum": 15404,
+        "nameTextMapHash": 2832648187,
+        "descTextMapHash": 1025771861,
+        "icon": "UI_EquipIcon_Bow_Theocrat",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015404
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            115405,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "initValueRawNum": 0.09000000357627869,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Recluse/Equip_Bow_Recluse_OverrideTexture/Equip_Bow_Recluse_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Recluse_Awaken",
+        "weaponPromoteIdRawNum": 15405,
+        "storyIdRawNum": 195405,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 1121153349,
+        "idRawNum": 15405,
+        "nameTextMapHash": 3169209451,
+        "descTextMapHash": 3931321797,
+        "icon": "UI_EquipIcon_Bow_Recluse",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015405
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            115406,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL_HURT",
+                "initValueRawNum": 0.11999999731779099,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Proto/Equip_Bow_Proto_OverrideTexture/Equip_Bow_Proto_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Proto_Awaken",
+        "weaponPromoteIdRawNum": 15406,
+        "storyIdRawNum": 195406,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 1017758247,
+        "idRawNum": 15406,
+        "nameTextMapHash": 3625393819,
+        "descTextMapHash": 2174225037,
+        "icon": "UI_EquipIcon_Bow_Proto",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015406
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            115407,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 41.067100524902344,
+                "type": "GROW_CURVE_ATTACK_204"
+            },
+            {
+                "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "initValueRawNum": 0.11999999731779099,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Exotic/Equip_Bow_Exotic_OverrideTexture/Equip_Bow_Exotic_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Exotic_Awaken",
+        "weaponPromoteIdRawNum": 15407,
+        "storyIdRawNum": 195407,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 1422002975,
+        "idRawNum": 15407,
+        "nameTextMapHash": 411685275,
+        "descTextMapHash": 1166197037,
+        "icon": "UI_EquipIcon_Bow_Exotic",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015407
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            115408,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 43.734901428222656,
+                "type": "GROW_CURVE_ATTACK_202"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.05999999865889549,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Blackrock/Equip_Bow_Blackrock_OverrideTexture/Equip_Bow_Blackrock_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Blackrock_Awaken",
+        "weaponPromoteIdRawNum": 15408,
+        "storyIdRawNum": 195408,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 980064486,
+        "idRawNum": 15408,
+        "nameTextMapHash": 3447737235,
+        "descTextMapHash": 1032617965,
+        "icon": "UI_EquipIcon_Bow_Blackrock",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015408
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            115409,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.4010009765625,
+                "type": "GROW_CURVE_ATTACK_201"
+            },
+            {
+                "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "initValueRawNum": 0.09000000357627869,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Viridescent/Equip_Bow_Viridescent_OverrideTexture/Equip_Bow_Viridescent_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Viridescent_Awaken",
+        "weaponPromoteIdRawNum": 15409,
+        "storyIdRawNum": 195409,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 847578010,
+        "idRawNum": 15409,
+        "nameTextMapHash": 3439749859,
+        "descTextMapHash": 3378934725,
+        "icon": "UI_EquipIcon_Bow_Viridescent",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015409
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            115410,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 41.067100524902344,
+                "type": "GROW_CURVE_ATTACK_204"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValueRawNum": 0.07999999821186066,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Outlaw/Equip_Bow_Outlaw_OverrideTexture/Equip_Bow_Outlaw_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Outlaw_Awaken",
+        "weaponPromoteIdRawNum": 15410,
+        "storyIdRawNum": 195410,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 2498436072,
+        "idRawNum": 15410,
+        "nameTextMapHash": 2417717595,
+        "descTextMapHash": 726318957,
+        "icon": "UI_EquipIcon_Bow_Outlaw",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015410
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 4,
+        "weaponBaseExpRawNum": 100000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 41.067100524902344,
+                "type": "GROW_CURVE_ATTACK_204"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValueRawNum": 0.07999999821186066,
+                "type": "GROW_CURVE_CRITICAL_201"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_ Fallensun/Equip_Bow_ Fallensun_OverrideTexture/Equip_Bow_ Fallensun_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_ Fallensun_Awaken",
+        "weaponPromoteIdRawNum": 15411,
+        "storyIdRawNum": 195411,
+        "awakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "gachaCardNameHashSuffix": 1714986894,
+        "idRawNum": 15411,
+        "nameTextMapHash": 2425414923,
+        "descTextMapHash": 3884152605,
+        "icon": "UI_EquipIcon_Bow_ Fallensun",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015411
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            115501,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 47.5369987487793,
+                "type": "GROW_CURVE_ATTACK_302"
+            },
+            {
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValueRawNum": 0.04800000041723251,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Dvalin/Equip_Bow_Dvalin_OverrideTexture/Equip_Bow_Dvalin_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Dvalin_Awaken",
+        "weaponPromoteIdRawNum": 15501,
+        "storyIdRawNum": 195501,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 2247736037,
+        "idRawNum": 15501,
+        "nameTextMapHash": 3933622347,
+        "descTextMapHash": 1491045405,
+        "icon": "UI_EquipIcon_Bow_Dvalin",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015501
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            115502,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.1080000028014183,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Amos/Equip_Bow_Amos_OverrideTexture/Equip_Bow_Amos_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Amos_Awaken",
+        "weaponPromoteIdRawNum": 15502,
+        "storyIdRawNum": 195502,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 617960552,
+        "idRawNum": 15502,
+        "nameTextMapHash": 828711395,
+        "descTextMapHash": 2543630901,
+        "icon": "UI_EquipIcon_Bow_Amos",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015502
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            115503,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 45.9364013671875,
+                "type": "GROW_CURVE_ATTACK_301"
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                "initValueRawNum": 0.1080000028014183,
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Widsith/Equip_Bow_Widsith_OverrideTexture/Equip_Bow_Widsith_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Widsith_Awaken",
+        "weaponPromoteIdRawNum": 15503,
+        "storyIdRawNum": 195503,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 765414498,
+        "idRawNum": 15503,
+        "nameTextMapHash": 3112679155,
+        "descTextMapHash": 1305978565,
+        "icon": "UI_EquipIcon_Bow_Widsith",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015503
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 50.73830032348633,
+                "type": "GROW_CURVE_ATTACK_303"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Kunwu/Equip_Bow_Kunwu_OverrideTexture/Equip_Bow_Kunwu_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Kunwu_Awaken",
+        "weaponPromoteIdRawNum": 15504,
+        "storyIdRawNum": 195504,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 668422992,
+        "idRawNum": 15504,
+        "nameTextMapHash": 565329475,
+        "descTextMapHash": 1330189981,
+        "icon": "UI_EquipIcon_Bow_Kunwu",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015504
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 44.33580017089844,
+                "type": "GROW_CURVE_ATTACK_304"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Morax/Equip_Bow_Morax_OverrideTexture/Equip_Bow_Morax_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Morax_Awaken",
+        "weaponPromoteIdRawNum": 15505,
+        "storyIdRawNum": 195505,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 4283587632,
+        "idRawNum": 15505,
+        "nameTextMapHash": 1994081075,
+        "descTextMapHash": 1352415965,
+        "icon": "UI_EquipIcon_Bow_Morax",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015505
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.73509979248047,
+                "type": "GROW_CURVE_ATTACK_305"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Moonfall/Equip_Bow_Moonfall_OverrideTexture/Equip_Bow_Moonfall_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Moonfall_Awaken",
+        "weaponPromoteIdRawNum": 15506,
+        "storyIdRawNum": 195506,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 2824780903,
+        "idRawNum": 15506,
+        "nameTextMapHash": 2824690859,
+        "descTextMapHash": 1315071109,
+        "icon": "UI_EquipIcon_Bow_Moonfall",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015506
+    },
+    {
+        "weaponType": "WEAPON_BOW",
+        "rankLevelRawNum": 5,
+        "weaponBaseExpRawNum": 500000,
+        "skillAffix": [
+            111303,
+            0
+        ],
+        "weaponProp": [
+            {
+                "propType": "FIGHT_PROP_BASE_ATTACK",
+                "initValueRawNum": 42.73509979248047,
+                "type": "GROW_CURVE_ATTACK_305"
+            },
+            {
+                "type": "GROW_CURVE_CRITICAL_301"
+            }
+        ],
+        "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Kirin/Equip_Bow_Kirin_OverrideTexture/Equip_Bow_Kirin_02_Tex_Diffuse",
+        "awakenIcon": "UI_EquipIcon_Bow_Kirin_Awaken",
+        "weaponPromoteIdRawNum": 15508,
+        "storyIdRawNum": 195508,
+        "awakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "gachaCardNameHashSuffix": 419365691,
+        "idRawNum": 15508,
+        "nameTextMapHash": 4230231107,
+        "descTextMapHash": 954648749,
+        "icon": "UI_EquipIcon_Bow_Kirin",
+        "itemType": "ITEM_WEAPON",
+        "weightRawNum": 1,
+        "rankRawNum": 10,
+        "gadgetIdRawNum": 50015508
+    }
+]

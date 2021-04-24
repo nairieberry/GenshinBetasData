@@ -1,0 +1,26 @@
+[
+    {
+        "fetter_levelRawNum": 1,
+        "need_expRawNum": 1000
+    },
+    {
+        "fetter_levelRawNum": 2,
+        "need_expRawNum": 1550
+    },
+    {
+        "fetter_levelRawNum": 3,
+        "need_expRawNum": 2050
+    },
+    {
+        "fetter_levelRawNum": 4,
+        "need_expRawNum": 2600
+    },
+    {
+        "fetter_levelRawNum": 5,
+        "need_expRawNum": 3175
+    },
+    {
+        "fetter_levelRawNum": 6,
+        "need_expRawNum": 3750
+    }
+]

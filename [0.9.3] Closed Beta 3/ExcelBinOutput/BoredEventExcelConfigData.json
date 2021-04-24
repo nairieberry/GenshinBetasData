@@ -1,0 +1,57 @@
+[
+    {
+        "event_type": "BOARD_EVENT_GAME",
+        "paramRawNum": 300,
+        "is_enable": true,
+        "add_boredRawNum": 20,
+        "max_boredRawNum": 400
+    },
+    {
+        "event_type": "BOARD_EVENT_GATHER",
+        "paramRawNum": 1,
+        "is_enable": true,
+        "add_boredRawNum": 1,
+        "max_boredRawNum": 19
+    },
+    {
+        "event_type": "BOARD_EVENT_KILL_MONSTER",
+        "paramRawNum": 1,
+        "is_enable": true,
+        "add_boredRawNum": 1,
+        "max_boredRawNum": 19
+    },
+    {
+        "event_type": "BOARD_EVENT_ACCELERATE",
+        "paramRawNum": 1,
+        "is_enable": true,
+        "add_boredRawNum": 1,
+        "max_boredRawNum": 9
+    },
+    {
+        "event_type": "BOARD_EVENT_USE_ITEM",
+        "paramRawNum": 1,
+        "is_enable": true,
+        "add_boredRawNum": 1,
+        "max_boredRawNum": 19
+    },
+    {
+        "event_type": "BOARD_EVENT_CHANGE_AVATAR",
+        "paramRawNum": 1,
+        "is_enable": true,
+        "add_boredRawNum": 1,
+        "max_boredRawNum": 9
+    },
+    {
+        "event_type": "BOARD_EVENT_SKILL",
+        "paramRawNum": 1,
+        "is_enable": true,
+        "add_boredRawNum": 1,
+        "max_boredRawNum": 19
+    },
+    {
+        "event_type": "BOARD_EVENT_REGION",
+        "paramRawNum": 1,
+        "add_boredRawNum": 2,
+        "max_boredRawNum": 2
+    }
+]

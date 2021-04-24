@@ -1,0 +1,178 @@
+[
+    {
+        "idRawNum": 9999,
+        "beginDateStr": "1999-03-23",
+        "endDateStr": "1999-04-23",
+        "cycleList": [
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "extraPaidRewardIdRawNum": 700001,
+        "extraPaidAddPointRawNum": 1000,
+        "normalRewardList": [],
+        "showImage": "",
+        "showRewardList": [
+            13504,
+            13505,
+            13506
+        ],
+        "stroyRewardList": [
+            13504,
+            13505,
+            13506
+        ],
+        "storyIdRawNum": 1001
+    },
+    {
+        "idRawNum": 1001,
+        "beginDateStr": "2020-03-23",
+        "endDateStr": "2020-04-30",
+        "cycleList": [
+            5,
+            6,
+            7,
+            7,
+            7,
+            7
+        ],
+        "extraPaidRewardIdRawNum": 700001,
+        "extraPaidAddPointRawNum": 1000,
+        "normalRewardList": [
+            116002,
+            116004,
+            116005,
+            116006
+        ],
+        "showImage": "UI_BattlePass_Reward_01",
+        "showRewardList": [
+            11409,
+            12409,
+            14405,
+            15409,
+            13405
+        ],
+        "stroyRewardList": [
+            11409,
+            12409,
+            14405,
+            15409,
+            13405
+        ],
+        "storyIdRawNum": 1001
+    },
+    {
+        "idRawNum": 1002,
+        "beginDateStr": "2020-05-01",
+        "endDateStr": "2020-05-17",
+        "cycleList": [
+            7,
+            7,
+            7,
+            10
+        ],
+        "extraPaidRewardIdRawNum": 700001,
+        "extraPaidAddPointRawNum": 1000,
+        "normalRewardList": [
+            116002,
+            116004,
+            116005,
+            116006
+        ],
+        "showImage": "UI_BattlePass_Reward_01",
+        "showRewardList": [
+            11409,
+            12409,
+            14405,
+            15409,
+            13405
+        ],
+        "stroyRewardList": [
+            11409,
+            12409,
+            14405,
+            15409,
+            13405
+        ],
+        "storyIdRawNum": 1001
+    },
+    {
+        "idRawNum": 1003,
+        "beginDateStr": "2020-05-18",
+        "endDateStr": "2020-06-10",
+        "cycleList": [
+            7,
+            7,
+            7,
+            7,
+            7,
+            7
+        ],
+        "extraPaidRewardIdRawNum": 700001,
+        "extraPaidAddPointRawNum": 1000,
+        "normalRewardList": [
+            116002,
+            116004,
+            116005,
+            116006
+        ],
+        "showImage": "UI_BattlePass_Reward_01",
+        "showRewardList": [
+            11409,
+            12409,
+            14405,
+            15409,
+            13405
+        ],
+        "stroyRewardList": [
+            11409,
+            12409,
+            14405,
+            15409,
+            13405
+        ],
+        "storyIdRawNum": 1001
+    },
+    {
+        "idRawNum": 1004,
+        "beginDateStr": "2020-06-11",
+        "endDateStr": "2020-08-03",
+        "cycleList": [
+            4,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7
+        ],
+        "extraPaidRewardIdRawNum": 700001,
+        "extraPaidAddPointRawNum": 1000,
+        "normalRewardList": [
+            116002,
+            116004,
+            116005,
+            116006
+        ],
+        "showImage": "UI_BattlePass_Reward_01",
+        "showRewardList": [
+            11409,
+            12409,
+            14405,
+            15409,
+            13405
+        ],
+        "stroyRewardList": [
+            11409,
+            12409,
+            14405,
+            15409,
+            13405
+        ],
+        "storyIdRawNum": 1001
+    }
+]

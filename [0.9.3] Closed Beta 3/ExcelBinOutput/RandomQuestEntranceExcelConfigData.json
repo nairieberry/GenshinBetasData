@@ -1,0 +1,458 @@
+[
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30000,
+        "filterList": [
+            {
+                "filterFactor": "",
+                "filterParamList": []
+            },
+            {
+                "filterFactor": "",
+                "filterParamList": []
+            },
+            {
+                "filterFactor": "",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30001,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterType": "RQ_FILTER_PLAYER_LEVEL",
+                "filterFactor": "{PlayerLevel}",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30002,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterType": "RQ_FILTER_PLAYER_LEVEL",
+                "filterFactor": "{PlayerLevel}",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30003,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterType": "RQ_FILTER_PLAYER_LEVEL",
+                "filterFactor": "{PlayerLevel}",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30004,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterType": "RQ_FILTER_PLAYER_LEVEL",
+                "filterFactor": "{PlayerLevel}",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30005,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterType": "RQ_FILTER_PLAYER_LEVEL",
+                "filterFactor": "{PlayerLevel}",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30006,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterType": "RQ_FILTER_PLAYER_LEVEL",
+                "filterFactor": "{PlayerLevel}",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30007,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterType": "RQ_FILTER_PLAYER_LEVEL",
+                "filterFactor": "{PlayerLevel}",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30011,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterFactor": "",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30012,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterFactor": "",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30013,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterFactor": "",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30014,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterFactor": "",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30015,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterFactor": "",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30021,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID2}",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30022,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID2}",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30023,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID2}",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30024,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID2}",
+                "filterParamList": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30025,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "filterType": "RQ_FILTER_PLAYER_POS_RING",
+                "filterFactor": "{QuestRescuePos}",
+                "filterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID}",
+                "filterParamList": []
+            },
+            {
+                "filterType": "RQ_FILTER_NPC",
+                "filterFactor": "{QuestNpcID2}",
+                "filterParamList": []
+            }
+        ]
+    }
+]

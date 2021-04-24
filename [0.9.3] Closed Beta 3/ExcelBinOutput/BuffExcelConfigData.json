@@ -1,0 +1,1408 @@
+[
+    {
+        "groupIdRawNum": 1,
+        "name": "攻击提升料理",
+        "desc": "提升30%攻击，持续时间3分钟",
+        "timeRawNum": 180.0,
+        "serverBuffIdRawNum": 1,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Item_Food_Attack",
+        "modifierName": "AttackModifier"
+    },
+    {
+        "groupIdRawNum": 1,
+        "name": "防御提升料理",
+        "desc": "提升30%防御，持续时间3分钟",
+        "timeRawNum": 180.0,
+        "serverBuffIdRawNum": 2,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Item_Food_Defence",
+        "modifierName": "DefenceModifier"
+    },
+    {
+        "groupIdRawNum": 2,
+        "name": "生命提升料理",
+        "desc": "提升50%最大生命，持续时间3分钟",
+        "timeRawNum": 180.0,
+        "serverBuffIdRawNum": 3,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Item_Food_MaxHP",
+        "modifierName": "MaxHPModifier"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "hot单回-1阶",
+        "desc": "8%+190",
+        "timeRawNum": 31.0,
+        "serverBuffIdRawNum": 100101,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv1_1"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "hot单回-1阶",
+        "desc": "9%+230",
+        "timeRawNum": 31.0,
+        "serverBuffIdRawNum": 100102,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv1_2"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "hot单回-1阶",
+        "desc": "10%+270",
+        "timeRawNum": 31.0,
+        "serverBuffIdRawNum": 100103,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv1_3"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "hot单回-1阶",
+        "desc": "14%+320",
+        "timeRawNum": 31.0,
+        "serverBuffIdRawNum": 100104,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv1_4"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "hot单回-2阶",
+        "desc": "18%+320",
+        "timeRawNum": 31.0,
+        "serverBuffIdRawNum": 100201,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv2_1"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "hot单回-2阶",
+        "desc": "20%+400",
+        "timeRawNum": 31.0,
+        "serverBuffIdRawNum": 100202,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv2_2"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "hot单回-2阶",
+        "desc": "22%+490",
+        "timeRawNum": 31.0,
+        "serverBuffIdRawNum": 100203,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv2_3"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "hot单回-2阶",
+        "desc": "26%+590",
+        "timeRawNum": 31.0,
+        "serverBuffIdRawNum": 100204,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv2_4"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "hot单回-3阶",
+        "desc": "26%+650",
+        "timeRawNum": 31.0,
+        "serverBuffIdRawNum": 100301,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv3_1"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "hot单回-3阶",
+        "desc": "28%+890",
+        "timeRawNum": 31.0,
+        "serverBuffIdRawNum": 100302,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv3_2"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "hot单回-3阶",
+        "desc": "30%+1120",
+        "timeRawNum": 31.0,
+        "serverBuffIdRawNum": 100303,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv3_3"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "hot单回-3阶",
+        "desc": "34%+1410",
+        "timeRawNum": 31.0,
+        "serverBuffIdRawNum": 100304,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv3_4"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "单回料理-1阶",
+        "desc": "8%+750",
+        "serverBuffIdRawNum": 105101,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv51_1"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "单回料理-1阶",
+        "desc": "9%+900",
+        "serverBuffIdRawNum": 105102,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv51_2"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "单回料理-1阶",
+        "desc": "10%+1100",
+        "serverBuffIdRawNum": 105103,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv51_3"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "单回料理-1阶",
+        "desc": "16%+1200",
+        "serverBuffIdRawNum": 105104,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv51_4"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "单回料理-2阶",
+        "desc": "20%+900",
+        "serverBuffIdRawNum": 105201,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv52_1"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "单回料理-2阶",
+        "desc": "22%+1250",
+        "serverBuffIdRawNum": 105202,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv52_2"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "单回料理-2阶",
+        "desc": "24%+1600",
+        "serverBuffIdRawNum": 105203,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv52_3"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "单回料理-2阶",
+        "desc": "30%+1850",
+        "serverBuffIdRawNum": 105204,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv52_4"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "单回料理-3阶",
+        "desc": "30%+850",
+        "serverBuffIdRawNum": 105301,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv53_1"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "单回料理-3阶",
+        "desc": "32%+1750",
+        "serverBuffIdRawNum": 105302,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv53_2"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "单回料理-3阶",
+        "desc": "34%+2700",
+        "serverBuffIdRawNum": 105303,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv53_3"
+    },
+    {
+        "groupIdRawNum": 10,
+        "name": "单回料理-3阶",
+        "desc": "40%+3350",
+        "serverBuffIdRawNum": 105304,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv53_4"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-1阶",
+        "desc": "27",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110101,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv1_1"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-1阶",
+        "desc": "32",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110102,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv1_2"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-1阶",
+        "desc": "38",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110103,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv1_3"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-1阶",
+        "desc": "46",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110104,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv1_4"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-2阶",
+        "desc": "65",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110201,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv2_1"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-2阶",
+        "desc": "78",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110202,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv2_2"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-2阶",
+        "desc": "92",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110203,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv2_3"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-2阶",
+        "desc": "111",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110204,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv2_4"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-3阶",
+        "desc": "211",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110301,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv3_1"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-3阶",
+        "desc": "256",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110302,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv3_2"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-3阶",
+        "desc": "301",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110303,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv3_3"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-3阶",
+        "desc": "361",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110304,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv3_4"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-4阶",
+        "desc": "238+暴击率6%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110401,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv4_1"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-4阶",
+        "desc": "289+暴击率8%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110402,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv4_2"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-4阶",
+        "desc": "340+暴击率10%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110403,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv4_3"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-4阶",
+        "desc": "408+暴击率14%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110404,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv4_4"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-5阶",
+        "desc": "260+暴击率8%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110501,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv5_1"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-5阶",
+        "desc": "316+暴击率10%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110502,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv5_2"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-5阶",
+        "desc": "371+暴击率12%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110503,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv5_3"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "攻击提升料理-5阶",
+        "desc": "446+暴击率16%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 110504,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv5_4"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-1阶",
+        "desc": "41",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120101,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv1_1"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-1阶",
+        "desc": "49",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120102,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv1_2"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-1阶",
+        "desc": "58",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120103,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv1_3"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-1阶",
+        "desc": "70",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120104,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv1_4"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-2阶",
+        "desc": "82",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120201,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv2_1"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-2阶",
+        "desc": "100",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120202,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv2_2"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-2阶",
+        "desc": "117",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120203,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv2_3"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-2阶",
+        "desc": "141",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120204,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv2_4"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-3阶",
+        "desc": "210",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120301,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv3_1"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-3阶",
+        "desc": "255",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120302,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv3_2"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-3阶",
+        "desc": "301",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120303,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv3_3"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-3阶",
+        "desc": "361",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120304,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv3_4"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-4阶",
+        "desc": "242+治疗效果6%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120401,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv4_1"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-4阶",
+        "desc": "294+治疗效果8%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120402,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv4_2"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-4阶",
+        "desc": "346+治疗效果10%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120403,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv4_3"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-4阶",
+        "desc": "415+治疗效果14%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120404,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv4_4"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-5阶",
+        "desc": "290+治疗效果8%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120501,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv5_1"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-5阶",
+        "desc": "352+治疗效果10%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120502,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv5_2"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-5阶",
+        "desc": "414+治疗效果12%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120503,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv5_3"
+    },
+    {
+        "groupIdRawNum": 12,
+        "name": "防御提升料理-5阶",
+        "desc": "497+治疗效果16%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 120504,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv5_4"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "暴击提升料理-2阶",
+        "desc": "暴击6%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 140201,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv2_1"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "暴击提升料理-2阶",
+        "desc": "暴击9%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 140202,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv2_2"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "暴击提升料理-2阶",
+        "desc": "暴击12%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 140203,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv2_3"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "暴击提升料理-2阶",
+        "desc": "暴击18%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 140204,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv2_4"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "暴击提升料理-3阶",
+        "desc": "暴击10%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 140301,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv3_1"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "暴击提升料理-3阶",
+        "desc": "暴击15%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 140302,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv3_2"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "暴击提升料理-3阶",
+        "desc": "暴击20%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 140303,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv3_3"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "暴击提升料理-3阶",
+        "desc": "暴击20%，爆伤20%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 140304,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv3_4"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "物理增伤料理-3阶",
+        "desc": "物理增伤提升20%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 160201,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Critical_Team",
+        "modifierName": "Physical_Team_Modifier_lv3_1"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "物理增伤料理-3阶",
+        "desc": "物理增伤提升30%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 160202,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Critical_Team",
+        "modifierName": "Physical_Team_Modifier_lv3_2"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "物理增伤料理-3阶",
+        "desc": "物理增伤提升40%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 160203,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Critical_Team",
+        "modifierName": "Physical_Team_Modifier_lv3_3"
+    },
+    {
+        "groupIdRawNum": 11,
+        "name": "物理增伤料理-3阶",
+        "desc": "物理增伤提升60%",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 160204,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Critical_Team",
+        "modifierName": "Physical_Team_Modifier_lv3_4"
+    },
+    {
+        "groupIdRawNum": 20,
+        "name": "复活buff料理-1阶",
+        "desc": "恢复50HP",
+        "serverBuffIdRawNum": 200101,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv1_1"
+    },
+    {
+        "groupIdRawNum": 20,
+        "name": "复活buff料理-1阶",
+        "desc": "恢复100HP",
+        "serverBuffIdRawNum": 200102,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv1_2"
+    },
+    {
+        "groupIdRawNum": 20,
+        "name": "复活buff料理-1阶",
+        "desc": "恢复150HP",
+        "serverBuffIdRawNum": 200103,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv1_3"
+    },
+    {
+        "groupIdRawNum": 20,
+        "name": "复活buff料理-1阶",
+        "desc": "恢复10%+150HP",
+        "serverBuffIdRawNum": 200104,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv1_4"
+    },
+    {
+        "groupIdRawNum": 20,
+        "name": "复活buff料理-2阶",
+        "desc": "恢复250HP",
+        "serverBuffIdRawNum": 200201,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv2_1"
+    },
+    {
+        "groupIdRawNum": 20,
+        "name": "复活buff料理-2阶",
+        "desc": "恢复400HP",
+        "serverBuffIdRawNum": 200202,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv2_2"
+    },
+    {
+        "groupIdRawNum": 20,
+        "name": "复活buff料理-2阶",
+        "desc": "恢复550HP",
+        "serverBuffIdRawNum": 200203,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv2_3"
+    },
+    {
+        "groupIdRawNum": 20,
+        "name": "复活buff料理-2阶",
+        "desc": "恢复20%HP，恢复550HP",
+        "serverBuffIdRawNum": 200204,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv2_4"
+    },
+    {
+        "groupIdRawNum": 20,
+        "name": "复活buff料理-3阶",
+        "desc": "恢复900HP",
+        "serverBuffIdRawNum": 200301,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv3_1"
+    },
+    {
+        "groupIdRawNum": 20,
+        "name": "复活buff料理-3阶",
+        "desc": "恢复1200HP",
+        "serverBuffIdRawNum": 200302,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv3_2"
+    },
+    {
+        "groupIdRawNum": 20,
+        "name": "复活buff料理-3阶",
+        "desc": "恢复1500HP",
+        "serverBuffIdRawNum": 200303,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv3_3"
+    },
+    {
+        "groupIdRawNum": 20,
+        "name": "复活buff料理-3阶",
+        "desc": "恢复30%HP，恢复1500HP",
+        "serverBuffIdRawNum": 200304,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv3_4"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "飞行体力降低-2阶",
+        "desc": "飞行体力消耗降低20%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 210201,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Fly_Team",
+        "modifierName": "Stamina_Fly_Team_Modifier_lv2_1"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "飞行体力降低-2阶",
+        "desc": "飞行体力消耗降低27%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 210202,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Fly_Team",
+        "modifierName": "Stamina_Fly_Team_Modifier_lv2_2"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "飞行体力降低-2阶",
+        "desc": "飞行体力消耗降低35%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 210203,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Fly_Team",
+        "modifierName": "Stamina_Fly_Team_Modifier_lv2_3"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "飞行体力降低-2阶",
+        "desc": "飞行体力消耗降低35%",
+        "timeRawNum": 1800.0,
+        "serverBuffIdRawNum": 210204,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Fly_Team",
+        "modifierName": "Stamina_Fly_Team_Modifier_lv2_4"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "飞行体力降低-3阶",
+        "desc": "飞行、冲刺体力消耗降低20%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 210301,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Fly_Team",
+        "modifierName": "Stamina_Fly_Team_Modifier_lv3_1"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "飞行体力降低-3阶",
+        "desc": "飞行、冲刺体力消耗降低27%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 210302,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Fly_Team",
+        "modifierName": "Stamina_Fly_Team_Modifier_lv3_2"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "飞行体力降低-3阶",
+        "desc": "飞行、冲刺体力消耗降低35%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 210303,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Fly_Team",
+        "modifierName": "Stamina_Fly_Team_Modifier_lv3_3"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "飞行体力降低-3阶",
+        "desc": "飞行、冲刺体力消耗降低35%",
+        "timeRawNum": 1800.0,
+        "serverBuffIdRawNum": 210304,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Fly_Team",
+        "modifierName": "Stamina_Fly_Team_Modifier_lv3_4"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "攀爬体力降低-2阶",
+        "desc": "攀爬体力消耗降低20%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 220201,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Climb_Team",
+        "modifierName": "Stamina_Climb_Team_Modifier_lv2_1"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "攀爬体力降低-2阶",
+        "desc": "攀爬体力消耗降低27%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 220202,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Climb_Team",
+        "modifierName": "Stamina_Climb_Team_Modifier_lv2_2"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "攀爬体力降低-2阶",
+        "desc": "攀爬体力消耗降低35%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 220203,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Climb_Team",
+        "modifierName": "Stamina_Climb_Team_Modifier_lv2_3"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "攀爬体力降低-2阶",
+        "desc": "攀爬体力消耗降低35%",
+        "timeRawNum": 1800.0,
+        "serverBuffIdRawNum": 220204,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Climb_Team",
+        "modifierName": "Stamina_Climb_Team_Modifier_lv2_4"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "攀爬体力降低-3阶",
+        "desc": "攀爬、冲刺体力消耗降低20%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 220301,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Climb_Team",
+        "modifierName": "Stamina_Climb_Team_Modifier_lv3_1"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "攀爬体力降低-3阶",
+        "desc": "攀爬、冲刺体力消耗降低27%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 220302,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Climb_Team",
+        "modifierName": "Stamina_Climb_Team_Modifier_lv3_2"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "攀爬体力降低-3阶",
+        "desc": "攀爬、冲刺体力消耗降低35%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 220303,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Climb_Team",
+        "modifierName": "Stamina_Climb_Team_Modifier_lv3_3"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "攀爬体力降低-3阶",
+        "desc": "攀爬、冲刺体力消耗降低35%",
+        "timeRawNum": 1800.0,
+        "serverBuffIdRawNum": 220304,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Climb_Team",
+        "modifierName": "Stamina_Climb_Team_Modifier_lv3_4"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "冲刺体力降低-2阶",
+        "desc": "冲刺体力消耗降低20%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 230201,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Sprint_Team",
+        "modifierName": "Stamina_Sprint_Team_Modifier_lv2_1"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "冲刺体力降低-2阶",
+        "desc": "冲刺体力消耗降低27%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 230202,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Sprint_Team",
+        "modifierName": "Stamina_Sprint_Team_Modifier_lv2_2"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "冲刺体力降低-2阶",
+        "desc": "冲刺体力消耗降低35%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 230203,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Sprint_Team",
+        "modifierName": "Stamina_Sprint_Team_Modifier_lv2_3"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "冲刺体力降低-2阶",
+        "desc": "冲刺体力消耗降低35%",
+        "timeRawNum": 1800.0,
+        "serverBuffIdRawNum": 230204,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Sprint_Team",
+        "modifierName": "Stamina_Sprint_Team_Modifier_lv2_4"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "游泳体力降低-2阶",
+        "desc": "游泳体力消耗降低20%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 240201,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Swim_Team",
+        "modifierName": "Stamina_Swim_Team_Modifier_lv2_1"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "游泳体力降低-2阶",
+        "desc": "游泳体力消耗降低27%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 240202,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Swim_Team",
+        "modifierName": "Stamina_Swim_Team_Modifier_lv2_2"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "游泳体力降低-2阶",
+        "desc": "游泳体力消耗降低35%",
+        "timeRawNum": 900.0,
+        "serverBuffIdRawNum": 240203,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Swim_Team",
+        "modifierName": "Stamina_Swim_Team_Modifier_lv2_3"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "游泳体力降低-2阶",
+        "desc": "游泳体力消耗降低35%",
+        "timeRawNum": 1800.0,
+        "serverBuffIdRawNum": 240204,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Stamina_Swim_Team",
+        "modifierName": "Stamina_Swim_Team_Modifier_lv2_4"
+    },
+    {
+        "groupIdRawNum": 21,
+        "name": "移速增加药品",
+        "desc": "移动速度提高30%，持续60秒",
+        "timeRawNum": 60.0,
+        "serverBuffIdRawNum": 170201,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "MoveSpeed_lv2_1",
+        "modifierName": "MoveSpeed_Modifier_lv2_1"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素抗性药水",
+        "desc": "火元素抗性提升35%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 130101,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Element_Def_Team",
+        "modifierName": "Element_Def_Fire"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素抗性药水",
+        "desc": "水元素抗性提升35%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 130102,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Element_Def_Team",
+        "modifierName": "Element_Def_Water"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素抗性药水",
+        "desc": "冰元素抗性提升35%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 130103,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Element_Def_Team",
+        "modifierName": "Element_Def_Ice"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素抗性药水",
+        "desc": "风元素抗性提升35%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 130104,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Element_Def_Team",
+        "modifierName": "Element_Def_Wind"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素抗性药水",
+        "desc": "雷元素抗性提升35%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 130105,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Element_Def_Team",
+        "modifierName": "Element_Def_Elec"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素抗性药水",
+        "desc": "岩元素抗性提升35%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 130106,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Element_Def_Team",
+        "modifierName": "Element_Def_Rock"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素抗性药水",
+        "desc": "草元素抗性提升35%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 130107,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Element_Def_Team",
+        "modifierName": "Element_Def_Grass"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素增伤药水",
+        "desc": "火元素伤害提升35%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 135101,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Element_Atk_Team",
+        "modifierName": "Element_Atk_Fire"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素增伤药水",
+        "desc": "水元素伤害提升35%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 135102,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Element_Atk_Team",
+        "modifierName": "Element_Atk_Water"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素增伤药水",
+        "desc": "冰元素伤害提升35%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 135103,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Element_Atk_Team",
+        "modifierName": "Element_Atk_Ice"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素增伤药水",
+        "desc": "风元素伤害提升35%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 135104,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Element_Atk_Team",
+        "modifierName": "Element_Atk_Wind"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素增伤药水",
+        "desc": "雷元素伤害提升35%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 135105,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Element_Atk_Team",
+        "modifierName": "Element_Atk_Elec"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素增伤药水",
+        "desc": "岩元素伤害提升35%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 135106,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Element_Atk_Team",
+        "modifierName": "Element_Atk_Rock"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素增伤药水",
+        "desc": "草元素伤害提升35%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 135107,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Element_Atk_Team",
+        "modifierName": "Element_Atk_Grass"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素抗性料理",
+        "desc": "水、火、电、冰系抵抗提升8%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 130121,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Element_lv2_1",
+        "modifierName": "Def_Element_Modifier_lv1_1"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素抗性料理",
+        "desc": "水、火、电、冰系抵抗提升10%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 130122,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Element_lv2_1",
+        "modifierName": "Def_Element_Modifier_lv1_2"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素抗性料理",
+        "desc": "水、火、电、冰系抵抗提升15%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 130123,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Element_lv2_1",
+        "modifierName": "Def_Element_Modifier_lv1_3"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素提升料理",
+        "desc": "水、火、电、冰系抵抗提升25%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 130124,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Def_Element_lv2_1",
+        "modifierName": "Def_Element_Modifier_lv2_1"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素提升料理",
+        "desc": "电系伤害提升12%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 139901,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Elec_Team",
+        "modifierName": "Elec_Team_Modifier_lv2_1"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素提升料理",
+        "desc": "电系伤害提升18%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 139902,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Elec_Team",
+        "modifierName": "Elec_Team_Modifier_lv2_2"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素提升料理",
+        "desc": "电系伤害提升24%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 139903,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Elec_Team",
+        "modifierName": "Elec_Team_Modifier_lv2_3"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素提升料理",
+        "desc": "火系伤害提升12%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 139904,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Fire_Team",
+        "modifierName": "Fire_Team_Modifier_lv2_1"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素提升料理",
+        "desc": "火系伤害提升18%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 139905,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Fire_Team",
+        "modifierName": "Fire_Team_Modifier_lv2_2"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素提升料理",
+        "desc": "火系伤害提升24%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 139906,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Fire_Team",
+        "modifierName": "Fire_Team_Modifier_lv2_3"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素提升料理",
+        "desc": "水系伤害提升12%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 139907,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Water_Team",
+        "modifierName": "Water_Team_Modifier_lv2_1"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素提升料理",
+        "desc": "水系伤害提升18%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 139908,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Water_Team",
+        "modifierName": "Water_Team_Modifier_lv2_2"
+    },
+    {
+        "groupIdRawNum": 13,
+        "name": "元素提升料理",
+        "desc": "水系伤害提升24%，持续300秒",
+        "timeRawNum": 300.0,
+        "serverBuffIdRawNum": 139909,
+        "serverBuffType": "SERVER_BUFF_TEAM",
+        "abilityName": "Water_Team",
+        "modifierName": "Water_Team_Modifier_lv2_3"
+    }
+]

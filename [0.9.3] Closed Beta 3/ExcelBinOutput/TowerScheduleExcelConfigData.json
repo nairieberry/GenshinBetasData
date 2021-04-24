@@ -1,0 +1,795 @@
+[
+    {
+        "scheduleIdRawNum": 1,
+        "schedules": [
+            {
+                "floorList": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005,
+                    1006,
+                    1007,
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "openTime": "2019-12-01 00:00:00"
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            }
+        ],
+        "closeTime": "2019-12-31 23:59:59",
+        "scheduleRewards": [
+            {
+                "minStarCountRawNum": 40,
+                "rewardIdRawNum": 600001
+            },
+            {
+                "minStarCountRawNum": 60,
+                "rewardIdRawNum": 600002
+            },
+            {
+                "minStarCountRawNum": 80,
+                "rewardIdRawNum": 600003
+            },
+            {
+                "minStarCountRawNum": 100,
+                "rewardIdRawNum": 600004
+            },
+            {
+                "minStarCountRawNum": 120,
+                "rewardIdRawNum": 600005
+            }
+        ],
+        "monthlyLevelConfigIdRawNum": 1050,
+        "descTextMapHash": 3714385344,
+        "buffnameTextMapHash": 2483837807,
+        "icon": "UI_TowerBlessing_1"
+    },
+    {
+        "scheduleIdRawNum": 2,
+        "schedules": [
+            {
+                "floorList": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005,
+                    1006,
+                    1007,
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "openTime": "2020-01-01 04:00:00"
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            }
+        ],
+        "closeTime": "2020-02-01 03:59:59",
+        "scheduleRewards": [
+            {
+                "minStarCountRawNum": 40,
+                "rewardIdRawNum": 600001
+            },
+            {
+                "minStarCountRawNum": 60,
+                "rewardIdRawNum": 600002
+            },
+            {
+                "minStarCountRawNum": 80,
+                "rewardIdRawNum": 600003
+            },
+            {
+                "minStarCountRawNum": 100,
+                "rewardIdRawNum": 600004
+            },
+            {
+                "minStarCountRawNum": 120,
+                "rewardIdRawNum": 600005
+            }
+        ],
+        "monthlyLevelConfigIdRawNum": 1050,
+        "descTextMapHash": 1516989784,
+        "buffnameTextMapHash": 4104607615,
+        "icon": "UI_TowerBlessing_1"
+    },
+    {
+        "scheduleIdRawNum": 3,
+        "schedules": [
+            {
+                "floorList": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005,
+                    1006,
+                    1007,
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "openTime": "2020-02-01 04:00:00"
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            }
+        ],
+        "closeTime": "2020-03-01 03:59:59",
+        "scheduleRewards": [
+            {
+                "minStarCountRawNum": 40,
+                "rewardIdRawNum": 600001
+            },
+            {
+                "minStarCountRawNum": 60,
+                "rewardIdRawNum": 600002
+            },
+            {
+                "minStarCountRawNum": 80,
+                "rewardIdRawNum": 600003
+            },
+            {
+                "minStarCountRawNum": 100,
+                "rewardIdRawNum": 600004
+            },
+            {
+                "minStarCountRawNum": 120,
+                "rewardIdRawNum": 600005
+            }
+        ],
+        "monthlyLevelConfigIdRawNum": 1050,
+        "descTextMapHash": 2570648736,
+        "buffnameTextMapHash": 3934571015,
+        "icon": "UI_TowerBlessing_1"
+    },
+    {
+        "scheduleIdRawNum": 4,
+        "schedules": [
+            {
+                "floorList": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005,
+                    1006,
+                    1007,
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "openTime": "2020-03-01 04:00:00"
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            }
+        ],
+        "closeTime": "2020-04-01 03:59:59",
+        "scheduleRewards": [
+            {
+                "minStarCountRawNum": 40,
+                "rewardIdRawNum": 600001
+            },
+            {
+                "minStarCountRawNum": 60,
+                "rewardIdRawNum": 600002
+            },
+            {
+                "minStarCountRawNum": 80,
+                "rewardIdRawNum": 600003
+            },
+            {
+                "minStarCountRawNum": 100,
+                "rewardIdRawNum": 600004
+            },
+            {
+                "minStarCountRawNum": 120,
+                "rewardIdRawNum": 600005
+            }
+        ],
+        "monthlyLevelConfigIdRawNum": 1050,
+        "descTextMapHash": 4123664176,
+        "buffnameTextMapHash": 3767984887,
+        "icon": "UI_TowerBlessing_1"
+    },
+    {
+        "scheduleIdRawNum": 5,
+        "schedules": [
+            {
+                "floorList": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005,
+                    1006,
+                    1007,
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "openTime": "2020-04-01 04:00:00"
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            }
+        ],
+        "closeTime": "2020-05-01 03:59:59",
+        "scheduleRewards": [
+            {
+                "minStarCountRawNum": 40,
+                "rewardIdRawNum": 600001
+            },
+            {
+                "minStarCountRawNum": 60,
+                "rewardIdRawNum": 600002
+            },
+            {
+                "minStarCountRawNum": 80,
+                "rewardIdRawNum": 600003
+            },
+            {
+                "minStarCountRawNum": 100,
+                "rewardIdRawNum": 600004
+            },
+            {
+                "minStarCountRawNum": 120,
+                "rewardIdRawNum": 600005
+            }
+        ],
+        "monthlyLevelConfigIdRawNum": 1050,
+        "descTextMapHash": 3978917856,
+        "buffnameTextMapHash": 1663768071,
+        "icon": "UI_TowerBlessing_1"
+    },
+    {
+        "scheduleIdRawNum": 6,
+        "schedules": [
+            {
+                "floorList": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005,
+                    1006,
+                    1007,
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "openTime": "2020-05-01 04:00:00"
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            }
+        ],
+        "closeTime": "2020-06-01 03:59:59",
+        "scheduleRewards": [
+            {
+                "minStarCountRawNum": 40,
+                "rewardIdRawNum": 600001
+            },
+            {
+                "minStarCountRawNum": 60,
+                "rewardIdRawNum": 600002
+            },
+            {
+                "minStarCountRawNum": 80,
+                "rewardIdRawNum": 600003
+            },
+            {
+                "minStarCountRawNum": 100,
+                "rewardIdRawNum": 600004
+            },
+            {
+                "minStarCountRawNum": 120,
+                "rewardIdRawNum": 600005
+            }
+        ],
+        "monthlyLevelConfigIdRawNum": 1050,
+        "descTextMapHash": 3593144536,
+        "buffnameTextMapHash": 2744295383,
+        "icon": "UI_TowerBlessing_1"
+    },
+    {
+        "scheduleIdRawNum": 7,
+        "schedules": [
+            {
+                "floorList": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005,
+                    1006,
+                    1007,
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "openTime": "2020-06-01 04:00:00"
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            }
+        ],
+        "closeTime": "2020-07-01 03:59:59",
+        "scheduleRewards": [
+            {
+                "minStarCountRawNum": 40,
+                "rewardIdRawNum": 600001
+            },
+            {
+                "minStarCountRawNum": 60,
+                "rewardIdRawNum": 600002
+            },
+            {
+                "minStarCountRawNum": 80,
+                "rewardIdRawNum": 600003
+            },
+            {
+                "minStarCountRawNum": 100,
+                "rewardIdRawNum": 600004
+            },
+            {
+                "minStarCountRawNum": 120,
+                "rewardIdRawNum": 600005
+            }
+        ],
+        "monthlyLevelConfigIdRawNum": 1050,
+        "descTextMapHash": 2599040504,
+        "buffnameTextMapHash": 1304554391,
+        "icon": "UI_TowerBlessing_1"
+    },
+    {
+        "scheduleIdRawNum": 8,
+        "schedules": [
+            {
+                "floorList": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005,
+                    1006,
+                    1007,
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "openTime": "2020-07-01 04:00:00"
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            }
+        ],
+        "closeTime": "2020-08-01 03:59:59",
+        "scheduleRewards": [
+            {
+                "minStarCountRawNum": 40,
+                "rewardIdRawNum": 600001
+            },
+            {
+                "minStarCountRawNum": 60,
+                "rewardIdRawNum": 600002
+            },
+            {
+                "minStarCountRawNum": 80,
+                "rewardIdRawNum": 600003
+            },
+            {
+                "minStarCountRawNum": 100,
+                "rewardIdRawNum": 600004
+            },
+            {
+                "minStarCountRawNum": 120,
+                "rewardIdRawNum": 600005
+            }
+        ],
+        "monthlyLevelConfigIdRawNum": 1051,
+        "descTextMapHash": 2690337128,
+        "buffnameTextMapHash": 1948496735,
+        "icon": "UI_TowerBlessing_2"
+    },
+    {
+        "scheduleIdRawNum": 9,
+        "schedules": [
+            {
+                "floorList": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005,
+                    1006,
+                    1007,
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "openTime": "2020-08-01 04:00:00"
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            }
+        ],
+        "closeTime": "2020-09-01 03:59:59",
+        "scheduleRewards": [
+            {
+                "minStarCountRawNum": 40,
+                "rewardIdRawNum": 600001
+            },
+            {
+                "minStarCountRawNum": 60,
+                "rewardIdRawNum": 600002
+            },
+            {
+                "minStarCountRawNum": 80,
+                "rewardIdRawNum": 600003
+            },
+            {
+                "minStarCountRawNum": 100,
+                "rewardIdRawNum": 600004
+            },
+            {
+                "minStarCountRawNum": 120,
+                "rewardIdRawNum": 600005
+            }
+        ],
+        "monthlyLevelConfigIdRawNum": 1052,
+        "descTextMapHash": 1960877592,
+        "buffnameTextMapHash": 2667635327,
+        "icon": "UI_TowerBlessing_3"
+    },
+    {
+        "scheduleIdRawNum": 10,
+        "schedules": [
+            {
+                "floorList": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005,
+                    1006,
+                    1007,
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "openTime": "2020-09-01 04:00:00"
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            }
+        ],
+        "closeTime": "2020-10-01 03:59:59",
+        "scheduleRewards": [
+            {
+                "minStarCountRawNum": 40,
+                "rewardIdRawNum": 600001
+            },
+            {
+                "minStarCountRawNum": 60,
+                "rewardIdRawNum": 600002
+            },
+            {
+                "minStarCountRawNum": 80,
+                "rewardIdRawNum": 600003
+            },
+            {
+                "minStarCountRawNum": 100,
+                "rewardIdRawNum": 600004
+            },
+            {
+                "minStarCountRawNum": 120,
+                "rewardIdRawNum": 600005
+            }
+        ],
+        "monthlyLevelConfigIdRawNum": 1053,
+        "descTextMapHash": 603662104,
+        "buffnameTextMapHash": 1307677487,
+        "icon": "UI_TowerBlessing_3"
+    },
+    {
+        "scheduleIdRawNum": 11,
+        "schedules": [
+            {
+                "floorList": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005,
+                    1006,
+                    1007,
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "openTime": "2020-10-01 04:00:00"
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            }
+        ],
+        "closeTime": "2020-11-01 03:59:59",
+        "scheduleRewards": [
+            {
+                "minStarCountRawNum": 40,
+                "rewardIdRawNum": 600001
+            },
+            {
+                "minStarCountRawNum": 60,
+                "rewardIdRawNum": 600002
+            },
+            {
+                "minStarCountRawNum": 80,
+                "rewardIdRawNum": 600003
+            },
+            {
+                "minStarCountRawNum": 100,
+                "rewardIdRawNum": 600004
+            },
+            {
+                "minStarCountRawNum": 120,
+                "rewardIdRawNum": 600005
+            }
+        ],
+        "monthlyLevelConfigIdRawNum": 1050,
+        "descTextMapHash": 1063730352,
+        "buffnameTextMapHash": 298652839,
+        "icon": "UI_TowerBlessing_1"
+    },
+    {
+        "scheduleIdRawNum": 12,
+        "schedules": [
+            {
+                "floorList": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005,
+                    1006,
+                    1007,
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "openTime": "2020-11-01 04:00:00"
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            }
+        ],
+        "closeTime": "2020-12-01 03:59:59",
+        "scheduleRewards": [
+            {
+                "minStarCountRawNum": 40,
+                "rewardIdRawNum": 600001
+            },
+            {
+                "minStarCountRawNum": 60,
+                "rewardIdRawNum": 600002
+            },
+            {
+                "minStarCountRawNum": 80,
+                "rewardIdRawNum": 600003
+            },
+            {
+                "minStarCountRawNum": 100,
+                "rewardIdRawNum": 600004
+            },
+            {
+                "minStarCountRawNum": 120,
+                "rewardIdRawNum": 600005
+            }
+        ],
+        "monthlyLevelConfigIdRawNum": 1051,
+        "descTextMapHash": 3469738288,
+        "buffnameTextMapHash": 1144171311,
+        "icon": "UI_TowerBlessing_2"
+    },
+    {
+        "scheduleIdRawNum": 13,
+        "schedules": [
+            {
+                "floorList": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005,
+                    1006,
+                    1007,
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "openTime": "2020-12-01 04:00:00"
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            },
+            {
+                "floorList": [],
+                "openTime": ""
+            }
+        ],
+        "closeTime": "2021-01-01 03:59:59",
+        "scheduleRewards": [
+            {
+                "minStarCountRawNum": 40,
+                "rewardIdRawNum": 600001
+            },
+            {
+                "minStarCountRawNum": 60,
+                "rewardIdRawNum": 600002
+            },
+            {
+                "minStarCountRawNum": 80,
+                "rewardIdRawNum": 600003
+            },
+            {
+                "minStarCountRawNum": 100,
+                "rewardIdRawNum": 600004
+            },
+            {
+                "minStarCountRawNum": 120,
+                "rewardIdRawNum": 600005
+            }
+        ],
+        "monthlyLevelConfigIdRawNum": 1052,
+        "descTextMapHash": 3605593864,
+        "buffnameTextMapHash": 3750899287,
+        "icon": "UI_TowerBlessing_3"
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "animalIdRawNum": 70590006,
+        "entityType": "Gadget",
+        "gatherItemIdRawNum": 100072,
+        "escapeRadiusRawNum": 4,
+        "escapeTimeRawNum": 1,
+        "aliveTimeRawNum": 60,
+        "excludeWeathers": "雨,雷雨,雪"
+    },
+    {
+        "animalIdRawNum": 28010101,
+        "entityType": "Monster",
+        "gatherItemIdRawNum": 100073,
+        "excludeWeathers": ""
+    },
+    {
+        "animalIdRawNum": 28010102,
+        "entityType": "Monster",
+        "gatherItemIdRawNum": 100073,
+        "excludeWeathers": ""
+    },
+    {
+        "animalIdRawNum": 28010103,
+        "entityType": "Monster",
+        "gatherItemIdRawNum": 100073,
+        "excludeWeathers": ""
+    },
+    {
+        "animalIdRawNum": 70590007,
+        "entityType": "Gadget",
+        "gatherItemIdRawNum": 100072,
+        "escapeRadiusRawNum": 4,
+        "escapeTimeRawNum": 1,
+        "aliveTimeRawNum": 60,
+        "excludeWeathers": "雨,雷雨,雪"
+    },
+    {
+        "animalIdRawNum": 70590008,
+        "entityType": "Gadget",
+        "gatherItemIdRawNum": 100082,
+        "escapeRadiusRawNum": 3,
+        "escapeTimeRawNum": 3,
+        "aliveTimeRawNum": 30,
+        "excludeWeathers": "雨,雷雨,雪"
+    },
+    {
+        "animalIdRawNum": 28010201,
+        "entityType": "Monster",
+        "gatherItemIdRawNum": 100083,
+        "excludeWeathers": ""
+    },
+    {
+        "animalIdRawNum": 28010202,
+        "entityType": "Monster",
+        "gatherItemIdRawNum": 100083,
+        "excludeWeathers": ""
+    },
+    {
+        "animalIdRawNum": 28010203,
+        "entityType": "Monster",
+        "gatherItemIdRawNum": 100083,
+        "excludeWeathers": ""
+    },
+    {
+        "animalIdRawNum": 28010301,
+        "entityType": "Monster",
+        "gatherItemIdRawNum": 100081,
+        "excludeWeathers": ""
+    },
+    {
+        "animalIdRawNum": 28010302,
+        "entityType": "Monster",
+        "gatherItemIdRawNum": 100081,
+        "excludeWeathers": ""
+    },
+    {
+        "animalIdRawNum": 28010303,
+        "entityType": "Monster",
+        "gatherItemIdRawNum": 100081,
+        "excludeWeathers": ""
+    },
+    {
+        "animalIdRawNum": 28050101,
+        "entityType": "Monster",
+        "gatherItemIdRawNum": 100085,
+        "excludeWeathers": ""
+    },
+    {
+        "animalIdRawNum": 28040101,
+        "entityType": "Monster",
+        "gatherItemIdRawNum": 100084,
+        "excludeWeathers": ""
+    },
+    {
+        "animalIdRawNum": 28040102,
+        "entityType": "Monster",
+        "gatherItemIdRawNum": 100084,
+        "excludeWeathers": ""
+    },
+    {
+        "animalIdRawNum": 28040103,
+        "entityType": "Monster",
+        "gatherItemIdRawNum": 100084,
+        "excludeWeathers": ""
+    },
+    {
+        "animalIdRawNum": 28050102,
+        "entityType": "Monster",
+        "gatherItemIdRawNum": 100085,
+        "excludeWeathers": ""
+    }
+]

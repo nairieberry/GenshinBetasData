@@ -1,0 +1,62 @@
+[
+    {
+        "guideName": "GuideWeaponChange",
+        "type": "GET_NEW_ITEM",
+        "openState": "OPEN_STATE_WEAPON_CHANGE_GUIDE"
+    },
+    {
+        "guideName": "GuideAvatarUpgrade",
+        "type": "GET_NEW_ITEM",
+        "openState": "OPEN_STATE_PLAYER_LVUP_GUIDE"
+    },
+    {
+        "guideName": "GuideRelic",
+        "type": "GET_NEW_ITEM",
+        "openState": "OPEN_STATE_GUIDE_RELIC"
+    },
+    {
+        "guideName": "GuideWeaponUpgrade",
+        "type": "OPENSTATE_CHANGE",
+        "openState": "OPEN_STATE_WEAPON_PROMOTE_GUIDE"
+    },
+    {
+        "guideName": "GuideTalent",
+        "type": "OPENSTATE_CHANGE",
+        "openState": "OPEN_STATE_GUIDE_TALENT"
+    },
+    {
+        "guideName": "GuideRelicPromote",
+        "type": "OPENSTATE_CHANGE",
+        "openState": "OPEN_STATE_GUIDE_RELIC_PROM"
+    },
+    {
+        "guideName": "GuideGacha",
+        "type": "OPENSTATE_CHANGE",
+        "openState": "OPEN_STATE_GUIDE_GACHA"
+    },
+    {
+        "guideName": "GuideTeam",
+        "type": "HAS_AVATAR_NUM",
+        "param1RawNum": 5
+    },
+    {
+        "guideName": "GuideAvatarPromote",
+        "type": "ANY_AVATAR_LEVEL",
+        "param1RawNum": 20
+    },
+    {
+        "guideName": "GuideBag",
+        "type": "GET_NEW_ITEM",
+        "openState": "OPEN_STATE_GUIDE_BAG"
+    },
+    {
+        "guideName": "GuideMultiplayer",
+        "type": "OPENSTATE_CHANGE",
+        "openState": "OPEN_STATE_GUIDE_MULTIPLAYER"
+    },
+    {
+        "guideName": "GuideDungeonReward",
+        "type": "OPENSTATE_CHANGE",
+        "openState": "OPEN_STATE_GUIDE_DUNGEONREWARD"
+    }
+]

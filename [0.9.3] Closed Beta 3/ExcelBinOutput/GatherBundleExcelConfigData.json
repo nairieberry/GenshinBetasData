@@ -1,0 +1,355 @@
+[
+    {
+        "idRawNum": 1,
+        "bundleName": "苹果树（通用正式）",
+        "baseGadgetIdRawNum": 70290002,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3001,
+                "offsetXRawNum": -1.0709999799728394,
+                "offsetYRawNum": 1.6180000305175781,
+                "offsetZRawNum": 0.7139999866485596,
+                "rotYRawNum": 265.0
+            },
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3001,
+                "offsetXRawNum": 0.8700000047683716,
+                "offsetYRawNum": 2.628000020980835,
+                "offsetZRawNum": -1.0110000371932983,
+                "rotYRawNum": 314.0
+            },
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3001,
+                "offsetXRawNum": 0.0430000014603138,
+                "offsetYRawNum": 2.9079999923706055,
+                "offsetZRawNum": 1.38100004196167
+            },
+            {}
+        ]
+    },
+    {
+        "idRawNum": 2,
+        "bundleName": "树莓树（通用正式）",
+        "baseGadgetIdRawNum": 70290001,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3002,
+                "offsetXRawNum": 0.017000000923871994,
+                "offsetYRawNum": 0.5690000057220459,
+                "offsetZRawNum": 0.4009999930858612
+            },
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3002,
+                "offsetXRawNum": -0.06499999761581421,
+                "offsetYRawNum": 0.8550000190734863,
+                "offsetZRawNum": -0.3959999978542328
+            },
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3002,
+                "offsetXRawNum": 0.2680000066757202,
+                "offsetYRawNum": 1.2669999599456787,
+                "offsetZRawNum": -0.10300000011920929
+            },
+            {}
+        ]
+    },
+    {
+        "idRawNum": 3,
+        "bundleName": "鸟窝（通用正式）",
+        "baseGadgetIdRawNum": 70290003,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3003,
+                "offsetYRawNum": 0.10300000011920929,
+                "offsetZRawNum": -0.09099999815225601
+            },
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3003,
+                "offsetYRawNum": 0.10300000011920929,
+                "offsetZRawNum": 0.10100000351667404
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 4,
+        "bundleName": "鸟窝树",
+        "baseGadgetIdRawNum": 70290004,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3003,
+                "offsetXRawNum": -1.1790000200271606,
+                "offsetYRawNum": 7.043000221252441,
+                "offsetZRawNum": 0.49399998784065247
+            },
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3003,
+                "offsetXRawNum": -1.1790000200271606,
+                "offsetYRawNum": 7.043000221252441,
+                "offsetZRawNum": 0.7540000081062317
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 5,
+        "bundleName": "冰雾花套组（通用正式）",
+        "baseGadgetIdRawNum": 70290008,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3008
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 6,
+        "bundleName": "火焰花套组（通用正式）",
+        "baseGadgetIdRawNum": 70290009,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3005
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 7,
+        "bundleName": "电气岩套组（通用正式）",
+        "baseGadgetIdRawNum": 70290010,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3006
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 8,
+        "bundleName": "蒲公英套组（蒙德正式）",
+        "baseGadgetIdRawNum": 70290011,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3009
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 9,
+        "bundleName": "复合烈焰花套组",
+        "baseGadgetIdRawNum": 70900233,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 6667,
+                "offsetYRawNum": 1.0
+            },
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 6668,
+                "offsetYRawNum": 1.0
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 10,
+        "bundleName": "人参果树",
+        "baseGadgetIdRawNum": 70290012,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3101,
+                "offsetXRawNum": -11.800000190734863,
+                "offsetYRawNum": 6.5,
+                "offsetZRawNum": -2.0299999713897705
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 11,
+        "bundleName": "绝云椒椒套组（璃月正式）",
+        "baseGadgetIdRawNum": 70290013,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 2016
+            },
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 2016,
+                "offsetXRawNum": 0.763700008392334,
+                "offsetYRawNum": 0.5486999750137329,
+                "offsetZRawNum": -0.003800000064074993,
+                "rotXRawNum": 80.73200225830078,
+                "rotYRawNum": -162.2310028076172,
+                "rotZRawNum": -76.52300262451172
+            },
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 2016,
+                "offsetXRawNum": -0.2815000116825104,
+                "offsetYRawNum": -0.12729999423027039,
+                "offsetZRawNum": -0.021400000900030136,
+                "rotXRawNum": -16.357999801635742,
+                "rotYRawNum": -29.299999237060547,
+                "rotZRawNum": -18.42799949645996
+            },
+            {}
+        ]
+    },
+    {
+        "idRawNum": 12,
+        "bundleName": "莲蓬套组（璃月正式）",
+        "baseGadgetIdRawNum": 70290014,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 2015,
+                "offsetXRawNum": -0.27000001072883606,
+                "offsetZRawNum": -0.48100000619888306
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 13,
+        "bundleName": "石珀套组（璃月正式）",
+        "baseGadgetIdRawNum": 70290016,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3010
+            },
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "idRawNum": 14,
+        "bundleName": "日落果树（通用正式）",
+        "baseGadgetIdRawNum": 70290002,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3011,
+                "offsetXRawNum": -1.0709999799728394,
+                "offsetYRawNum": 1.6180000305175781,
+                "offsetZRawNum": 0.7139999866485596,
+                "rotYRawNum": 265.0
+            },
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3011,
+                "offsetXRawNum": 0.8700000047683716,
+                "offsetYRawNum": 2.628000020980835,
+                "offsetZRawNum": -1.0110000371932983,
+                "rotYRawNum": 314.0
+            },
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 3011,
+                "offsetXRawNum": 0.0430000014603138,
+                "offsetYRawNum": 2.9079999923706055,
+                "offsetZRawNum": 1.38100004196167
+            },
+            {}
+        ]
+    },
+    {
+        "idRawNum": 15,
+        "bundleName": "落落莓树（蒙德正式）",
+        "baseGadgetIdRawNum": 70540011,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 2011
+            },
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 2011,
+                "offsetXRawNum": -0.21400000154972076,
+                "offsetYRawNum": -0.257999986410141,
+                "offsetZRawNum": 0.05900000035762787,
+                "rotXRawNum": -11.27299976348877,
+                "rotYRawNum": -18.243999481201172,
+                "rotZRawNum": -19.239999771118164
+            },
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 2011,
+                "offsetXRawNum": 0.09950000047683716,
+                "offsetYRawNum": -0.27090001106262207,
+                "offsetZRawNum": 0.21369999647140503,
+                "rotXRawNum": -11.484999656677246,
+                "rotYRawNum": 87.7750015258789,
+                "rotZRawNum": -19.979999542236328
+            },
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 2011,
+                "offsetXRawNum": 0.01140000019222498,
+                "offsetYRawNum": -0.2727000117301941,
+                "offsetZRawNum": -0.1469999998807907,
+                "rotXRawNum": -15.513999938964844,
+                "rotYRawNum": 149.82699584960938,
+                "rotZRawNum": 4.688000202178955
+            }
+        ]
+    },
+    {
+        "idRawNum": 16,
+        "bundleName": "霓裳花树（璃月正式）",
+        "baseGadgetIdRawNum": 70290015,
+        "points": [
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 2023
+            },
+            {
+                "pointIDRawNum": 70500000,
+                "pointTypeRawNum": 2023,
+                "offsetXRawNum": 0.03564999997615814,
+                "offsetYRawNum": -0.010742999613285065,
+                "offsetZRawNum": -0.07316199690103531,
+                "rotXRawNum": 16.170000076293945,
+                "rotYRawNum": -16.429000854492188,
+                "rotZRawNum": 19.389999389648438
+            },
+            {},
+            {}
+        ]
+    }
+]

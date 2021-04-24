@@ -1,0 +1,187 @@
+[
+    {
+        "tagIDRawNum": 1001,
+        "tagName": "蒙德",
+        "tagDesp": "角色属于蒙德"
+    },
+    {
+        "tagIDRawNum": 1002,
+        "tagName": "璃月",
+        "tagDesp": "角色属于璃月"
+    },
+    {
+        "tagIDRawNum": 1003,
+        "tagName": "稻妻",
+        "tagDesp": "角色属于稻妻"
+    },
+    {
+        "tagIDRawNum": 1011,
+        "tagName": "主角",
+        "tagDesp": "男主/女主分类"
+    },
+    {
+        "tagIDRawNum": 1021,
+        "tagName": "冒险家协会",
+        "tagDesp": "所属"
+    },
+    {
+        "tagIDRawNum": 1022,
+        "tagName": "西风骑士团",
+        "tagDesp": "所属，例如骑士团羁绊功能可以用这个tag完成"
+    },
+    {
+        "tagIDRawNum": 1041,
+        "tagName": "成男体型",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 1042,
+        "tagName": "成女体型",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 1043,
+        "tagName": "少男体型",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 1044,
+        "tagName": "少女体型",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 1045,
+        "tagName": "萝莉体型",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 1051,
+        "tagName": "单手剑武器",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 1052,
+        "tagName": "双手剑武器",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 1053,
+        "tagName": "长柄武器",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 1054,
+        "tagName": "法器武器",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 1055,
+        "tagName": "弓箭武器",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 1096,
+        "tagName": "诺艾尔",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 1097,
+        "tagName": "北斗",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 1098,
+        "tagName": "行秋",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 1099,
+        "tagName": "钟离",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 3001,
+        "tagName": "生物",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 3002,
+        "tagName": "非生物",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 3003,
+        "tagName": "人形",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 3004,
+        "tagName": "非人形",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 3005,
+        "tagName": "自带元素",
+        "tagDesp": ""
+    },
+    {
+        "tagIDRawNum": 4001,
+        "tagName": "丘丘人",
+        "tagDesp": "任意类丘丘人"
+    },
+    {
+        "tagIDRawNum": 4002,
+        "tagName": "史莱姆",
+        "tagDesp": "任意类史莱姆"
+    },
+    {
+        "tagIDRawNum": 4003,
+        "tagName": "元素球",
+        "tagDesp": "任意类元素球"
+    },
+    {
+        "tagIDRawNum": 4004,
+        "tagName": "萨满怪",
+        "tagDesp": "任意类萨满"
+    },
+    {
+        "tagIDRawNum": 4005,
+        "tagName": "遗迹怪",
+        "tagDesp": "任意类遗迹怪"
+    },
+    {
+        "tagIDRawNum": 4006,
+        "tagName": "盗宝团",
+        "tagDesp": "盗宝团怪物"
+    },
+    {
+        "tagIDRawNum": 4007,
+        "tagName": "千岩军",
+        "tagDesp": "千岩军怪物"
+    },
+    {
+        "tagIDRawNum": 4008,
+        "tagName": "植物怪",
+        "tagDesp": "植物怪怪物"
+    },
+    {
+        "tagIDRawNum": 4901,
+        "tagName": "远程怪",
+        "tagDesp": "怪物分类_远程"
+    },
+    {
+        "tagIDRawNum": 4902,
+        "tagName": "近战怪",
+        "tagDesp": "怪物分类_近战"
+    },
+    {
+        "tagIDRawNum": 4903,
+        "tagName": "队长怪",
+        "tagDesp": "怪物分类 队长"
+    },
+    {
+        "tagIDRawNum": 9001,
+        "tagName": "动物",
+        "tagDesp": ""
+    }
+]
