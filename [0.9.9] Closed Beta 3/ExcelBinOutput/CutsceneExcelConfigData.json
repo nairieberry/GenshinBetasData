@@ -1,0 +1,122 @@
+[
+    {
+        "idRawNum": 1,
+        "path": "TEST/TEST_Chest_CutSence"
+    },
+    {
+        "idRawNum": 2,
+        "path": "TEST/TEST_GoddessLvUp_CutSence"
+    },
+    {
+        "idRawNum": 3,
+        "path": "Scene_CutScene/Cs_Scene_GoddessUpgrade_01"
+    },
+    {
+        "idRawNum": 4,
+        "path": "Scene_CutScene/Cs_Scene_DungeonGate_01"
+    },
+    {
+        "idRawNum": 5,
+        "path": "Scene_CutScene/Cs_Scene_DungeonGate_02"
+    },
+    {
+        "idRawNum": 6,
+        "path": "Scene_CutScene/Cs_Scene_GoddessActive"
+    },
+    {
+        "idRawNum": 7,
+        "path": "Scene_CutScene/Cs_Scene_GoddessUpgradeDefault"
+    },
+    {
+        "idRawNum": 8,
+        "path": "Scene_CutScene/Cs_Scene_DragonNestSealGate"
+    },
+    {
+        "idRawNum": 9,
+        "path": "Scene_CutScene/Cs_MDAQ501_SwordBreak01"
+    },
+    {
+        "idRawNum": 200201,
+        "path": "Scene_CutScene/Cs_MDAQ071_DvalinCombat2"
+    },
+    {
+        "idRawNum": 10,
+        "path": "Scene_CutScene/Cs_MDAQ501_DvalinSealOpen01"
+    },
+    {
+        "idRawNum": 11,
+        "path": "Scene_CutScene/Cs_MDAQ501_DvalinSealOpen02"
+    },
+    {
+        "idRawNum": 12,
+        "path": "Scene_CutScene/Cs_MDAQ501_DvalinSealOpen03"
+    },
+    {
+        "idRawNum": 13,
+        "path": "Scene_CutScene/Cs_RecyclableDungeon_GetReward"
+    },
+    {
+        "idRawNum": 14,
+        "path": "Scene_CutScene/Cs_Scene_GoddessUpgradeDefault_SFX"
+    },
+    {
+        "idRawNum": 2101401,
+        "path": "Scene_CutScene/Cs_LYIQ21014_LiYueShow"
+    },
+    {
+        "idRawNum": 133104440,
+        "path": "Scene_CutScene/Cs_Scene_LY_TripleCampSeals"
+    },
+    {
+        "idRawNum": 133104488,
+        "path": "Scene_CutScene/Cs_Scene_LY_CalcifPoolDungeonUnlock"
+    },
+    {
+        "idRawNum": 133104585,
+        "path": "Scene_CutScene/Cs_Scene_LY_TripleCampSeals_Unlocked"
+    },
+    {
+        "idRawNum": 133103334,
+        "path": "Scene_CutScene/Cs_Scene_LY_StoneNiddlesRiseField"
+    },
+    {
+        "idRawNum": 310301001,
+        "path": "Scene_CutScene/Cs_Scene_LY_GuShiTaiPuzzle_01"
+    },
+    {
+        "idRawNum": 310301002,
+        "path": "Scene_CutScene/Cs_Scene_LY_GuShiTaiPuzzle_02"
+    },
+    {
+        "idRawNum": 310301003,
+        "path": "Scene_CutScene/Cs_Scene_LY_GuShiTaiPuzzle_03"
+    },
+    {
+        "idRawNum": 310301004,
+        "path": "Scene_CutScene/Cs_Scene_LY_GuShiTaiPuzzle_04"
+    },
+    {
+        "idRawNum": 310301005,
+        "path": "Scene_CutScene/Cs_Scene_LY_GuShiTaiPuzzle_05"
+    },
+    {
+        "idRawNum": 310301501,
+        "path": "Scene_CutScene/Cs_Scene_JueYunJianTempleUnlock"
+    },
+    {
+        "idRawNum": 310301502,
+        "path": "Scene_CutScene/Cs_Scene_JueYunJianTempleUnlock_Bottom"
+    },
+    {
+        "idRawNum": 310624801,
+        "path": "Scene_CutScene/Cs_Scene_LY_DunYuLingPuzzle"
+    },
+    {
+        "idRawNum": 310405301,
+        "path": "Scene_CutScene/Cs_LYIQ21004_TheLostTreasure"
+    },
+    {
+        "idRawNum": 310405302,
+        "path": "Scene_CutScene/Cs_LYIQ21004_TheLostTreasure_Contact"
+    }
+]

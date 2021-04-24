@@ -1,0 +1,46 @@
+[
+    {
+        "stageIDRawNum": 1,
+        "picPath": "UI_LoadingPic_MengDe"
+    },
+    {
+        "stageIDRawNum": 2,
+        "picPath": "UI_LoadingPic_MengDe"
+    },
+    {
+        "stageIDRawNum": 3,
+        "picPath": "UI_LoadingPic_LiYue"
+    },
+    {
+        "stageIDRawNum": 4,
+        "picPath": "UI_LoadingPic_LiYue"
+    },
+    {
+        "stageIDRawNum": 5,
+        "picPath": "UI_LoadingPic_Dungeon"
+    },
+    {
+        "stageIDRawNum": 6,
+        "picPath": "UI_LoadingPic_Dungeon"
+    },
+    {
+        "stageIDRawNum": 7,
+        "picPath": "UI_LoadingPic_Dungeon"
+    },
+    {
+        "stageIDRawNum": 8,
+        "picPath": ""
+    },
+    {
+        "stageIDRawNum": 9,
+        "picPath": ""
+    },
+    {
+        "stageIDRawNum": 10,
+        "picPath": ""
+    },
+    {
+        "stageIDRawNum": 11,
+        "picPath": ""
+    }
+]

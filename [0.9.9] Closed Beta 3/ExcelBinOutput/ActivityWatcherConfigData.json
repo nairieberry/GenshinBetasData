@@ -1,0 +1,194 @@
+[
+    {
+        "activityIdRawNum": 5001,
+        "rewardIDRawNum": 490001,
+        "rewardPreviewRawNum": 2101,
+        "activitychallengetipsTextMapHash": 2697096236,
+        "idRawNum": 1500101,
+        "triggerConfig": {
+            "triggerType": "UNKNOWN_ENUM_FIELD [421]",
+            "paramList": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "activityIdRawNum": 5001,
+        "rewardIDRawNum": 490002,
+        "rewardPreviewRawNum": 2102,
+        "activitychallengetipsTextMapHash": 3701519284,
+        "idRawNum": 1500102,
+        "triggerConfig": {
+            "triggerType": "UNKNOWN_ENUM_FIELD [421]",
+            "paramList": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 5
+    },
+    {
+        "activityIdRawNum": 5001,
+        "rewardIDRawNum": 490003,
+        "rewardPreviewRawNum": 2103,
+        "activitychallengetipsTextMapHash": 629295564,
+        "idRawNum": 1500103,
+        "triggerConfig": {
+            "triggerType": "UNKNOWN_ENUM_FIELD [421]",
+            "paramList": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 10
+    },
+    {
+        "activityIdRawNum": 5001,
+        "rewardIDRawNum": 490004,
+        "rewardPreviewRawNum": 2103,
+        "activitychallengetipsTextMapHash": 983142724,
+        "idRawNum": 1500104,
+        "triggerConfig": {
+            "triggerType": "UNKNOWN_ENUM_FIELD [421]",
+            "paramList": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 20
+    },
+    {
+        "activityIdRawNum": 5001,
+        "rewardIDRawNum": 490009,
+        "rewardPreviewRawNum": 2103,
+        "activitychallengetipsTextMapHash": 2624728716,
+        "idRawNum": 1500105,
+        "triggerConfig": {
+            "triggerType": "UNKNOWN_ENUM_FIELD [423]",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 10000
+    },
+    {
+        "activityIdRawNum": 5001,
+        "rewardIDRawNum": 490010,
+        "rewardPreviewRawNum": 2103,
+        "activitychallengetipsTextMapHash": 188995388,
+        "idRawNum": 1500106,
+        "triggerConfig": {
+            "triggerType": "UNKNOWN_ENUM_FIELD [423]",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 40000
+    },
+    {
+        "activityIdRawNum": 5001,
+        "rewardIDRawNum": 490011,
+        "rewardPreviewRawNum": 2103,
+        "activitychallengetipsTextMapHash": 3778165036,
+        "idRawNum": 1500107,
+        "triggerConfig": {
+            "triggerType": "UNKNOWN_ENUM_FIELD [423]",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 80000
+    },
+    {
+        "activityIdRawNum": 5001,
+        "rewardIDRawNum": 490012,
+        "rewardPreviewRawNum": 2103,
+        "activitychallengetipsTextMapHash": 657588332,
+        "idRawNum": 1500108,
+        "triggerConfig": {
+            "triggerType": "UNKNOWN_ENUM_FIELD [423]",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 160000
+    },
+    {
+        "activityIdRawNum": 5001,
+        "rewardIDRawNum": 490005,
+        "rewardPreviewRawNum": 2103,
+        "activitychallengetipsTextMapHash": 2316566244,
+        "idRawNum": 1500109,
+        "triggerConfig": {
+            "triggerType": "UNKNOWN_ENUM_FIELD [422]",
+            "paramList": [
+                "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 5
+    },
+    {
+        "activityIdRawNum": 5001,
+        "rewardIDRawNum": 490006,
+        "rewardPreviewRawNum": 2103,
+        "activitychallengetipsTextMapHash": 444731300,
+        "idRawNum": 1500110,
+        "triggerConfig": {
+            "triggerType": "UNKNOWN_ENUM_FIELD [422]",
+            "paramList": [
+                "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 10
+    },
+    {
+        "activityIdRawNum": 5001,
+        "rewardIDRawNum": 490007,
+        "rewardPreviewRawNum": 2103,
+        "activitychallengetipsTextMapHash": 4171652956,
+        "idRawNum": 1500111,
+        "triggerConfig": {
+            "triggerType": "UNKNOWN_ENUM_FIELD [422]",
+            "paramList": [
+                "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 30
+    },
+    {
+        "activityIdRawNum": 5001,
+        "rewardIDRawNum": 490008,
+        "rewardPreviewRawNum": 2103,
+        "activitychallengetipsTextMapHash": 2251264044,
+        "idRawNum": 1500112,
+        "triggerConfig": {
+            "triggerType": "UNKNOWN_ENUM_FIELD [422]",
+            "paramList": [
+                "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 100
+    }
+]

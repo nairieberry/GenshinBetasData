@@ -1,0 +1,26 @@
+[
+    {
+        "zoneMinLevelRawNum": 1,
+        "chestLevelRawNum": 1
+    },
+    {
+        "zoneMinLevelRawNum": 6,
+        "chestLevelRawNum": 6
+    },
+    {
+        "zoneMinLevelRawNum": 11,
+        "chestLevelRawNum": 11
+    },
+    {
+        "zoneMinLevelRawNum": 16,
+        "chestLevelRawNum": 16
+    },
+    {
+        "zoneMinLevelRawNum": 21,
+        "chestLevelRawNum": 21
+    },
+    {
+        "zoneMinLevelRawNum": 26,
+        "chestLevelRawNum": 26
+    }
+]

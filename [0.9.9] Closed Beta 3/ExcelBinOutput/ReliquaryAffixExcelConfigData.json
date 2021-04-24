@@ -1,0 +1,1694 @@
+[
+    {
+        "idRawNum": 101021,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 23.899999618530273,
+        "weightRawNum": 1500,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101022,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 29.8799991607666,
+        "weightRawNum": 1200,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201021,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 50.189998626708984,
+        "weightRawNum": 1500,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201022,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 60.95000076293945,
+        "weightRawNum": 1200,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201023,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 71.69999694824219,
+        "weightRawNum": 900,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301021,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 100.37999725341797,
+        "weightRawNum": 1500,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301022,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 114.72000122070312,
+        "weightRawNum": 1200,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301023,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 129.05999755859375,
+        "weightRawNum": 900,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301024,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 143.39999389648438,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401021,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 150.57000732421875,
+        "weightRawNum": 1500,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401022,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 172.0800018310547,
+        "weightRawNum": 1200,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401023,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 193.58999633789062,
+        "weightRawNum": 900,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401024,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 215.10000610351562,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501021,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 209.1300048828125,
+        "weightRawNum": 1500,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501022,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 239.0,
+        "weightRawNum": 1200,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501023,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 268.8800048828125,
+        "weightRawNum": 900,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501024,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 2,
+        "propType": "FIGHT_PROP_HP",
+        "propValueRawNum": 298.75,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101031,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.012500000186264515,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101032,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.015699999406933784,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201031,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.017500000074505806,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201032,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.021299999207258224,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201033,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.025100000202655792,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301031,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.02630000002682209,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301032,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.03009999915957451,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301033,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.033799998462200165,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301034,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.03759999945759773,
+        "weightRawNum": 400,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401031,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.035100001841783524,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401032,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.04010000079870224,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401033,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.045099999755620956,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401034,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.05009999871253967,
+        "weightRawNum": 400,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501031,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.04390000179409981,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501032,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.05009999871253967,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501033,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.05640000104904175,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501034,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.06270000338554382,
+        "weightRawNum": 400,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101051,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 1.559999942779541,
+        "weightRawNum": 1500,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101052,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 1.9500000476837158,
+        "weightRawNum": 1200,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201051,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 3.2699999809265137,
+        "weightRawNum": 1500,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201052,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 3.9700000286102295,
+        "weightRawNum": 1200,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201053,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 4.670000076293945,
+        "weightRawNum": 900,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301051,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 6.539999961853027,
+        "weightRawNum": 1500,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301052,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 7.46999979019165,
+        "weightRawNum": 1200,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301053,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 8.399999618530273,
+        "weightRawNum": 900,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301054,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 9.34000015258789,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401051,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 9.800000190734863,
+        "weightRawNum": 1500,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401052,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 11.199999809265137,
+        "weightRawNum": 1200,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401053,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 12.600000381469727,
+        "weightRawNum": 900,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401054,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 14.0,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501051,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 13.619999885559082,
+        "weightRawNum": 1500,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501052,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 15.5600004196167,
+        "weightRawNum": 1200,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501053,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 17.510000228881836,
+        "weightRawNum": 900,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501054,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 19.450000762939453,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101061,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.012500000186264515,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101062,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.015699999406933784,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201061,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.017500000074505806,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201062,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.021299999207258224,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201063,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.025100000202655792,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301061,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.02630000002682209,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301062,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.03009999915957451,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301063,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.033799998462200165,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301064,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.03759999945759773,
+        "weightRawNum": 400,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401061,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.035100001841783524,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401062,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.04010000079870224,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401063,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.045099999755620956,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401064,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.05009999871253967,
+        "weightRawNum": 400,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501061,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.04390000179409981,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501062,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.05009999871253967,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501063,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.05640000104904175,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501064,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.06270000338554382,
+        "weightRawNum": 400,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101081,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 1.8899999856948853,
+        "weightRawNum": 1500,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101082,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 2.359999895095825,
+        "weightRawNum": 1200,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201081,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 3.9700000286102295,
+        "weightRawNum": 1500,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201082,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 4.820000171661377,
+        "weightRawNum": 1200,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201083,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 5.670000076293945,
+        "weightRawNum": 900,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301081,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 7.929999828338623,
+        "weightRawNum": 1500,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301082,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 9.069999694824219,
+        "weightRawNum": 1200,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301083,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 10.199999809265137,
+        "weightRawNum": 900,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301084,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 11.329999923706055,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401081,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 11.899999618530273,
+        "weightRawNum": 1500,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401082,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 13.600000381469727,
+        "weightRawNum": 1200,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401083,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 15.300000190734863,
+        "weightRawNum": 900,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401084,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 17.0,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501081,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 16.530000686645508,
+        "weightRawNum": 1500,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501082,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 18.889999389648438,
+        "weightRawNum": 1200,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501083,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 21.25,
+        "weightRawNum": 900,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501084,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 23.610000610351562,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101091,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.015699999406933784,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101092,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.019600000232458115,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201091,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.021900000050663948,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201092,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.026599999517202377,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201093,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.031300000846385956,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301091,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.03290000185370445,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301092,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.03759999945759773,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301093,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.04230000078678131,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301094,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.04699999839067459,
+        "weightRawNum": 400,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401091,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.04390000179409981,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401092,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.05009999871253967,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401093,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.05640000104904175,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401094,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.06270000338554382,
+        "weightRawNum": 400,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501091,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.05480000004172325,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501092,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.06270000338554382,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501093,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.07050000131130219,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501094,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.07829999923706055,
+        "weightRawNum": 400,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101231,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.013899999670684338,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101232,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.017400000244379044,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201231,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.019500000402331352,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201232,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.02370000071823597,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201233,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.027899999171495438,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301231,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.029200000688433647,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301232,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.033399999141693115,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301233,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.03759999945759773,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301234,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.04179999977350235,
+        "weightRawNum": 400,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401231,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.039000000804662704,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401232,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.044599998742341995,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401233,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.05009999871253967,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401234,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.05570000037550926,
+        "weightRawNum": 400,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501231,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.048700001090765,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501232,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.05570000037550926,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501233,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.06270000338554382,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501234,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.06960000097751617,
+        "weightRawNum": 400,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101241,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 5.010000228881836,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101242,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 6.269999980926514,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201241,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 7.019999980926514,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201242,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 8.520000457763672,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201243,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 10.029999732971191,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301241,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 10.529999732971191,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301242,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 12.029999732971191,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301243,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 13.529999732971191,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301244,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 15.039999961853027,
+        "weightRawNum": 400,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401241,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 14.039999961853027,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401242,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 16.040000915527344,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401243,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 18.049999237060547,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401244,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 20.049999237060547,
+        "weightRawNum": 400,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501241,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 17.540000915527344,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501242,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 20.049999237060547,
+        "weightRawNum": 800,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501243,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 22.559999465942383,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501244,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 24,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 25.059999465942383,
+        "weightRawNum": 400,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101201,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.00839999970048666,
+        "weightRawNum": 750,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101202,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.010400000028312206,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201201,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.011699999682605267,
+        "weightRawNum": 750,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201202,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.0142000000923872,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201203,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.016699999570846558,
+        "weightRawNum": 450,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301201,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.017500000074505806,
+        "weightRawNum": 750,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301202,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.019999999552965164,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301203,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.022600000724196434,
+        "weightRawNum": 450,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301204,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.025100000202655792,
+        "weightRawNum": 300,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401201,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.023399999365210533,
+        "weightRawNum": 750,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401202,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.02669999934732914,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401203,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.03009999915957451,
+        "weightRawNum": 450,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401204,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.033399999141693115,
+        "weightRawNum": 300,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501201,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.029200000688433647,
+        "weightRawNum": 750,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501202,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.033399999141693115,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501203,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.03759999945759773,
+        "weightRawNum": 450,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501204,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.04179999977350235,
+        "weightRawNum": 300,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101221,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.016699999570846558,
+        "weightRawNum": 750,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 101222,
+        "depot_idRawNum": 101,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.020899999886751175,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201221,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.023399999365210533,
+        "weightRawNum": 750,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201222,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.0284000001847744,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 201223,
+        "depot_idRawNum": 201,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.033399999141693115,
+        "weightRawNum": 450,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301221,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.035100001841783524,
+        "weightRawNum": 750,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301222,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.04010000079870224,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301223,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.045099999755620956,
+        "weightRawNum": 450,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 301224,
+        "depot_idRawNum": 301,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.05009999871253967,
+        "weightRawNum": 300,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401221,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.046799998730421066,
+        "weightRawNum": 750,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401222,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.05350000038743019,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401223,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.060100000351667404,
+        "weightRawNum": 450,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 401224,
+        "depot_idRawNum": 401,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.06679999828338623,
+        "weightRawNum": 300,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501221,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.05849999934434891,
+        "weightRawNum": 750,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501222,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.06679999828338623,
+        "weightRawNum": 600,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501223,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.07519999891519547,
+        "weightRawNum": 450,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 501224,
+        "depot_idRawNum": 501,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.08349999785423279,
+        "weightRawNum": 300,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 998001,
+        "depot_idRawNum": 998,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.156700000166893,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 998002,
+        "depot_idRawNum": 998,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.156700000166893,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 998003,
+        "depot_idRawNum": 998,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.19580000638961792,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 998004,
+        "depot_idRawNum": 998,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.10440000146627426,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 998005,
+        "depot_idRawNum": 998,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.17409999668598175,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 998006,
+        "depot_idRawNum": 998,
+        "group_idRawNum": 25,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 62.65999984741211,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 998007,
+        "depot_idRawNum": 998,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.20890000462532043,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 997001,
+        "depot_idRawNum": 997,
+        "group_idRawNum": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValueRawNum": 0.07519999891519547,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 997002,
+        "depot_idRawNum": 997,
+        "group_idRawNum": 6,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "propValueRawNum": 0.07519999891519547,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 997003,
+        "depot_idRawNum": 997,
+        "group_idRawNum": 9,
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "propValueRawNum": 0.09399999678134918,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 997004,
+        "depot_idRawNum": 997,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 0.05009999871253967,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 997005,
+        "depot_idRawNum": 997,
+        "group_idRawNum": 23,
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "propValueRawNum": 0.08349999785423279,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 997006,
+        "depot_idRawNum": 997,
+        "group_idRawNum": 25,
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "propValueRawNum": 30.079999923706055,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 997007,
+        "depot_idRawNum": 997,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 0.10019999742507935,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 999001,
+        "depot_idRawNum": 999,
+        "group_idRawNum": 22,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "propValueRawNum": 3.5,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 999002,
+        "depot_idRawNum": 999,
+        "group_idRawNum": 20,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "propValueRawNum": 1.0,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 999003,
+        "depot_idRawNum": 999,
+        "group_idRawNum": 5,
+        "propType": "FIGHT_PROP_ATTACK",
+        "propValueRawNum": 233333.0,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    },
+    {
+        "idRawNum": 999004,
+        "depot_idRawNum": 999,
+        "group_idRawNum": 8,
+        "propType": "FIGHT_PROP_DEFENSE",
+        "propValueRawNum": 233333.0,
+        "weightRawNum": 1000,
+        "upgradeWeightRawNum": 1000
+    }
+]

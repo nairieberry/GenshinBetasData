@@ -1,0 +1,784 @@
+[
+    {
+        "idRawNum": 1,
+        "dungeon_entry_idRawNum": 48,
+        "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+        "descTextMapHash": 1612886129,
+        "cond_comb": "LOGIC_OR",
+        "satisfied_cond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1RawNum": 22,
+                "param2RawNum": 0
+            },
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1RawNum": 39604,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Cubic_Normal",
+        "system_open_ui_idRawNum": 4,
+        "reward_data_idRawNum": 220404,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 2,
+        "dungeon_entry_idRawNum": 50,
+        "type": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
+        "descTextMapHash": 3914992809,
+        "is_daily_refresh": true,
+        "cond_comb": "LOGIC_OR",
+        "satisfied_cond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1RawNum": 16,
+                "param2RawNum": 0
+            },
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1RawNum": 38406,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Water",
+        "system_open_ui_idRawNum": 8,
+        "reward_data_idRawNum": 220402,
+        "description_cycle_reward_list": [
+            [
+                114001,
+                114002,
+                114003,
+                114004
+            ],
+            [
+                114005,
+                114006,
+                114007,
+                114008
+            ],
+            [
+                114009,
+                114010,
+                114011,
+                114012
+            ],
+            [
+                114001,
+                114002,
+                114003,
+                114004,
+                114005,
+                114006,
+                114007,
+                114008,
+                114009,
+                114010,
+                114011,
+                114012
+            ]
+        ]
+    },
+    {
+        "idRawNum": 3,
+        "dungeon_entry_idRawNum": 135,
+        "type": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
+        "descTextMapHash": 1293176289,
+        "is_daily_refresh": true,
+        "cond_comb": "LOGIC_OR",
+        "satisfied_cond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1RawNum": 16,
+                "param2RawNum": 0
+            },
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1RawNum": 38406,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Thunder",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 220407,
+        "description_cycle_reward_list": [
+            [
+                114013,
+                114014,
+                114015,
+                114016
+            ],
+            [
+                114017,
+                114018,
+                114019,
+                114020
+            ],
+            [
+                114021,
+                114022,
+                114023,
+                114024
+            ],
+            [
+                114013,
+                114014,
+                114015,
+                114016,
+                114017,
+                114018,
+                114019,
+                114020,
+                114021,
+                114022,
+                114023,
+                114024
+            ]
+        ]
+    },
+    {
+        "idRawNum": 4,
+        "dungeon_entry_idRawNum": 117,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 77310385,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_HuZhongTian",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 220406,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 6,
+        "dungeon_entry_idRawNum": 42,
+        "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+        "descTextMapHash": 2667941777,
+        "cond_comb": "LOGIC_OR",
+        "satisfied_cond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1RawNum": 22,
+                "param2RawNum": 0
+            },
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1RawNum": 39604,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Cubic_Normal_1",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 220405,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 7,
+        "dungeon_entry_idRawNum": 137,
+        "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+        "descTextMapHash": 767933225,
+        "cond_comb": "LOGIC_OR",
+        "satisfied_cond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1RawNum": 22,
+                "param2RawNum": 0
+            },
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1RawNum": 39604,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Cubic_Normal_2",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 220409,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 8,
+        "dungeon_entry_idRawNum": 107,
+        "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+        "descTextMapHash": 692041689,
+        "cond_comb": "LOGIC_OR",
+        "satisfied_cond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1RawNum": 22,
+                "param2RawNum": 0
+            },
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1RawNum": 39604,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Cubic_Normal_3",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 220410,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 9,
+        "dungeon_entry_idRawNum": 139,
+        "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+        "descTextMapHash": 142290817,
+        "cond_comb": "LOGIC_OR",
+        "satisfied_cond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1RawNum": 22,
+                "param2RawNum": 0
+            },
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1RawNum": 39604,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Cubic_Normal_4",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 220411,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 10,
+        "dungeon_entry_idRawNum": 44,
+        "type": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
+        "descTextMapHash": 2905358345,
+        "is_daily_refresh": true,
+        "cond_comb": "LOGIC_OR",
+        "satisfied_cond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1RawNum": 27,
+                "param2RawNum": 0
+            },
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1RawNum": 100318,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Ice",
+        "system_open_ui_idRawNum": 6,
+        "reward_data_idRawNum": 220403,
+        "description_cycle_reward_list": [
+            [
+                104301,
+                104302,
+                104303
+            ],
+            [
+                104304,
+                104305,
+                104306
+            ],
+            [
+                104307,
+                104308,
+                104309
+            ],
+            [
+                104301,
+                104302,
+                104303,
+                104304,
+                104305,
+                104306,
+                104307,
+                104308,
+                104309
+            ]
+        ]
+    },
+    {
+        "idRawNum": 11,
+        "dungeon_entry_idRawNum": 131,
+        "type": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
+        "descTextMapHash": 2189301337,
+        "is_daily_refresh": true,
+        "cond_comb": "LOGIC_OR",
+        "satisfied_cond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1RawNum": 27,
+                "param2RawNum": 0
+            },
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1RawNum": 100318,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Fire",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 220408,
+        "description_cycle_reward_list": [
+            [
+                104310,
+                104311,
+                104312
+            ],
+            [
+                104313,
+                104314,
+                104315
+            ],
+            [
+                104316,
+                104317,
+                104318
+            ],
+            [
+                104310,
+                104311,
+                104312,
+                104313,
+                104314,
+                104315,
+                104316,
+                104317,
+                104318
+            ]
+        ]
+    },
+    {
+        "idRawNum": 1001,
+        "dungeon_entry_idRawNum": 45,
+        "type": "DUNGEON_ENTRY_TYPE_OBSCURAE",
+        "descTextMapHash": 2708589641,
+        "satisfied_cond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1RawNum": 20,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Tower_Normal",
+        "system_open_ui_idRawNum": 3,
+        "reward_data_idRawNum": 220412,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 1002,
+        "dungeon_entry_idRawNum": 1,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 3239234745,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Kaeya",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 0,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 1003,
+        "dungeon_entry_idRawNum": 20,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 1162985985,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Amber",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 0,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 1004,
+        "dungeon_entry_idRawNum": 22,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 3920998985,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Lise",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 0,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 1005,
+        "dungeon_entry_idRawNum": 40,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 1972150497,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_DragonTear",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 0,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 1006,
+        "dungeon_entry_idRawNum": 38,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 792448241,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Stormterror",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 0,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 1007,
+        "dungeon_entry_idRawNum": 52,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 3246634345,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Kaeya",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 0,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 1008,
+        "dungeon_entry_idRawNum": 113,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 332916601,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Fatui",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 0,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 1009,
+        "dungeon_entry_idRawNum": 102,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 1575215929,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Diluc",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 0,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 1010,
+        "dungeon_entry_idRawNum": 89,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 2484444193,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Diluc",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 0,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 1011,
+        "dungeon_entry_idRawNum": 119,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 4121744817,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Diluc",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 0,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 1012,
+        "dungeon_entry_idRawNum": 125,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 692976025,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_XiangLing",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 0,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 1013,
+        "dungeon_entry_idRawNum": 129,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 2511450889,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_Diluc",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 0,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 1014,
+        "dungeon_entry_idRawNum": 146,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 3994909113,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_YunHai",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 0,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 1015,
+        "dungeon_entry_idRawNum": 133,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 3007793081,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_YunHai",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 0,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "idRawNum": 1016,
+        "dungeon_entry_idRawNum": 109,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 1047671777,
+        "satisfied_cond": [
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "pic_path": "UI_DungeonPic_YunHai",
+        "system_open_ui_idRawNum": 0,
+        "reward_data_idRawNum": 0,
+        "description_cycle_reward_list": [
+            [],
+            [],
+            [],
+            []
+        ]
+    }
+]

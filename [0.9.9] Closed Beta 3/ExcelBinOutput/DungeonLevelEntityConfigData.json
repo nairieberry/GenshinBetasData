@@ -1,0 +1,1803 @@
+[
+    {
+        "clientIdRawNum": 10000,
+        "idRawNum": 1,
+        "show": true,
+        "levelConfigName": "Level_Avatar_DefenseDown",
+        "descTextMapHash": 3109256178
+    },
+    {
+        "clientIdRawNum": 10001,
+        "idRawNum": 2,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+        "descTextMapHash": 3935856410
+    },
+    {
+        "clientIdRawNum": 10002,
+        "idRawNum": 3,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+        "descTextMapHash": 2165783538
+    },
+    {
+        "clientIdRawNum": 10003,
+        "idRawNum": 4,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Wind",
+        "descTextMapHash": 323728106
+    },
+    {
+        "clientIdRawNum": 10004,
+        "idRawNum": 5,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Ice",
+        "descTextMapHash": 749862618
+    },
+    {
+        "clientIdRawNum": 10005,
+        "idRawNum": 6,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Water",
+        "descTextMapHash": 364338386
+    },
+    {
+        "clientIdRawNum": 10006,
+        "idRawNum": 7,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Grass",
+        "descTextMapHash": 2044372618
+    },
+    {
+        "clientIdRawNum": 10007,
+        "idRawNum": 8,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Rock",
+        "descTextMapHash": 3206664354
+    },
+    {
+        "clientIdRawNum": 10008,
+        "idRawNum": 9,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Electric",
+        "descTextMapHash": 1121743490
+    },
+    {
+        "clientIdRawNum": 10009,
+        "idRawNum": 10,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Fire",
+        "descTextMapHash": 3841742506
+    },
+    {
+        "clientIdRawNum": 10010,
+        "idRawNum": 11,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Wind",
+        "descTextMapHash": 2616124290
+    },
+    {
+        "clientIdRawNum": 10011,
+        "idRawNum": 12,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Ice",
+        "descTextMapHash": 293828714
+    },
+    {
+        "clientIdRawNum": 10012,
+        "idRawNum": 13,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Water",
+        "descTextMapHash": 4052529698
+    },
+    {
+        "clientIdRawNum": 10013,
+        "idRawNum": 14,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Grass",
+        "descTextMapHash": 752183178
+    },
+    {
+        "clientIdRawNum": 10014,
+        "idRawNum": 15,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Rock",
+        "descTextMapHash": 3217463890
+    },
+    {
+        "clientIdRawNum": 10015,
+        "idRawNum": 16,
+        "show": true,
+        "levelConfigName": "LevelEntity_Heal_Down",
+        "descTextMapHash": 3852311098
+    },
+    {
+        "clientIdRawNum": 10016,
+        "idRawNum": 17,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Electric",
+        "descTextMapHash": 199834394
+    },
+    {
+        "clientIdRawNum": 10017,
+        "idRawNum": 18,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Fire",
+        "descTextMapHash": 4289104738
+    },
+    {
+        "clientIdRawNum": 10018,
+        "idRawNum": 19,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Wind",
+        "descTextMapHash": 4248143754
+    },
+    {
+        "clientIdRawNum": 10019,
+        "idRawNum": 20,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Ice",
+        "descTextMapHash": 922981514
+    },
+    {
+        "clientIdRawNum": 10020,
+        "idRawNum": 21,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Water",
+        "descTextMapHash": 1658476274
+    },
+    {
+        "clientIdRawNum": 10021,
+        "idRawNum": 22,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Grass",
+        "descTextMapHash": 2869715682
+    },
+    {
+        "clientIdRawNum": 10022,
+        "idRawNum": 23,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Rock",
+        "descTextMapHash": 4162996914
+    },
+    {
+        "clientIdRawNum": 10023,
+        "idRawNum": 24,
+        "show": true,
+        "levelConfigName": "LevelEntity_MeleeAttackDamageUp",
+        "descTextMapHash": 2298797658
+    },
+    {
+        "clientIdRawNum": 10024,
+        "idRawNum": 25,
+        "show": true,
+        "levelConfigName": "LevelEntity_RangeAttackDamageUp",
+        "descTextMapHash": 2221785706
+    },
+    {
+        "clientIdRawNum": 10025,
+        "idRawNum": 26,
+        "show": true,
+        "levelConfigName": "LevelEntity_MaleAddHurt",
+        "descTextMapHash": 552046058
+    },
+    {
+        "clientIdRawNum": 10026,
+        "idRawNum": 27,
+        "show": true,
+        "levelConfigName": "LevelEntity_FemaleAddHurt",
+        "descTextMapHash": 987434674
+    },
+    {
+        "clientIdRawNum": 10027,
+        "idRawNum": 28,
+        "show": true,
+        "levelConfigName": "LevelEntity_SwordAddHurt",
+        "descTextMapHash": 687548210
+    },
+    {
+        "clientIdRawNum": 10028,
+        "idRawNum": 29,
+        "show": true,
+        "levelConfigName": "LevelEntity_ClaymoreAddHurt",
+        "descTextMapHash": 1589719226
+    },
+    {
+        "clientIdRawNum": 10029,
+        "idRawNum": 30,
+        "show": true,
+        "levelConfigName": "LevelEntity_PoleAddHurt",
+        "descTextMapHash": 1216884570
+    },
+    {
+        "clientIdRawNum": 10030,
+        "idRawNum": 31,
+        "show": true,
+        "levelConfigName": "LevelEntity_CatalystAddHurt",
+        "descTextMapHash": 1042062754
+    },
+    {
+        "clientIdRawNum": 10031,
+        "idRawNum": 32,
+        "show": true,
+        "levelConfigName": "LevelEntity_BowAddHurt",
+        "descTextMapHash": 3667991738
+    },
+    {
+        "clientIdRawNum": 10032,
+        "idRawNum": 33,
+        "show": true,
+        "levelConfigName": "LevelEntity_AvatarDot_Fire",
+        "descTextMapHash": 2541895866
+    },
+    {
+        "clientIdRawNum": 10033,
+        "idRawNum": 34,
+        "show": true,
+        "levelConfigName": "LevelEntity_AvatarDot_Electric",
+        "descTextMapHash": 2012350298
+    },
+    {
+        "clientIdRawNum": 10034,
+        "idRawNum": 35,
+        "show": true,
+        "levelConfigName": "LevelEntity_AvatarDot_Water",
+        "descTextMapHash": 1246044738
+    },
+    {
+        "clientIdRawNum": 10035,
+        "idRawNum": 36,
+        "show": true,
+        "levelConfigName": "LevelEntity_AvatarDot_Ice",
+        "descTextMapHash": 990535402
+    },
+    {
+        "clientIdRawNum": 10036,
+        "idRawNum": 37,
+        "show": true,
+        "levelConfigName": "LevelEntity_AvatarDot_Wind",
+        "descTextMapHash": 3819281194
+    },
+    {
+        "clientIdRawNum": 10037,
+        "idRawNum": 38,
+        "show": true,
+        "levelConfigName": "LevelEntity_AvatarDot_Rock",
+        "descTextMapHash": 2671028298
+    },
+    {
+        "clientIdRawNum": 10038,
+        "idRawNum": 39,
+        "show": true,
+        "levelConfigName": "LevelEntity_AvatarDot_Grass",
+        "descTextMapHash": 1663658170
+    },
+    {
+        "clientIdRawNum": 10039,
+        "idRawNum": 40,
+        "show": true,
+        "levelConfigName": "LevelEntity_RandomThunder",
+        "descTextMapHash": 565097242
+    },
+    {
+        "clientIdRawNum": 10040,
+        "idRawNum": 41,
+        "show": true,
+        "levelConfigName": "Level_Electric_Test",
+        "descTextMapHash": 2769092058
+    },
+    {
+        "clientIdRawNum": 10041,
+        "idRawNum": 42,
+        "show": true,
+        "levelConfigName": "Level_Explode_Test",
+        "descTextMapHash": 1176272362
+    },
+    {
+        "clientIdRawNum": 10042,
+        "idRawNum": 43,
+        "show": true,
+        "levelConfigName": "Level_Superconductor_Test",
+        "descTextMapHash": 3267416482
+    },
+    {
+        "clientIdRawNum": 10043,
+        "idRawNum": 44,
+        "show": true,
+        "levelConfigName": "Level_Melt_Test",
+        "descTextMapHash": 3994675138
+    },
+    {
+        "clientIdRawNum": 10044,
+        "idRawNum": 45,
+        "show": true,
+        "levelConfigName": "Level_Stream_Test",
+        "descTextMapHash": 3986163610
+    },
+    {
+        "clientIdRawNum": 10045,
+        "idRawNum": 46,
+        "show": true,
+        "levelConfigName": "Level_Freeze_Test",
+        "descTextMapHash": 2676159698
+    },
+    {
+        "clientIdRawNum": 10046,
+        "idRawNum": 47,
+        "show": true,
+        "levelConfigName": "Level_Burning_Test",
+        "descTextMapHash": 3059640506
+    },
+    {
+        "clientIdRawNum": 10047,
+        "idRawNum": 48,
+        "show": true,
+        "levelConfigName": "Level_Swril_Test",
+        "descTextMapHash": 1226662090
+    },
+    {
+        "clientIdRawNum": 10048,
+        "idRawNum": 49,
+        "show": true,
+        "levelConfigName": "LevelEntity_Avatar_CriticalUp",
+        "descTextMapHash": 2594743074
+    },
+    {
+        "clientIdRawNum": 10049,
+        "idRawNum": 50,
+        "show": true,
+        "levelConfigName": "LevelEntity_Avatar_CriticalHurtUp",
+        "descTextMapHash": 3994069002
+    },
+    {
+        "clientIdRawNum": 10050,
+        "idRawNum": 51,
+        "levelConfigName": "LevelEntity_Monster_HpUp",
+        "descTextMapHash": 2120603194
+    },
+    {
+        "clientIdRawNum": 10051,
+        "idRawNum": 52,
+        "levelConfigName": "LevelEntity_Monster_HpUp",
+        "descTextMapHash": 471653194
+    },
+    {
+        "clientIdRawNum": 10052,
+        "idRawNum": 53,
+        "levelConfigName": "LevelEntity_Monster_HpUp",
+        "descTextMapHash": 654331522
+    },
+    {
+        "clientIdRawNum": 10053,
+        "idRawNum": 54,
+        "levelConfigName": "LevelEntity_Monster_AttackUp",
+        "descTextMapHash": 1870939802
+    },
+    {
+        "clientIdRawNum": 10054,
+        "idRawNum": 55,
+        "levelConfigName": "LevelEntity_Monster_AttackUp",
+        "descTextMapHash": 14713746
+    },
+    {
+        "clientIdRawNum": 10055,
+        "idRawNum": 56,
+        "levelConfigName": "LevelEntity_Monster_AttackUp",
+        "descTextMapHash": 4005610922
+    },
+    {
+        "clientIdRawNum": 10056,
+        "idRawNum": 57,
+        "show": true,
+        "levelConfigName": "LevelEntity_Avatar_ChargeEfficiencyDown",
+        "descTextMapHash": 693273602
+    },
+    {
+        "clientIdRawNum": 10057,
+        "idRawNum": 58,
+        "show": true,
+        "levelConfigName": "LevelEntity_GenerateElemBall",
+        "descTextMapHash": 2662000594
+    },
+    {
+        "clientIdRawNum": 10058,
+        "idRawNum": 59,
+        "show": true,
+        "levelConfigName": "LevelEntity_Monster_ElementBeHurtDamageDown_All",
+        "descTextMapHash": 2190070890
+    },
+    {
+        "clientIdRawNum": 10059,
+        "idRawNum": 60,
+        "show": true,
+        "levelConfigName": "LevelEntity_PhysicalAddHurt",
+        "descTextMapHash": 3589382330
+    },
+    {
+        "clientIdRawNum": 10060,
+        "idRawNum": 61,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_Ball_AttackSpeed_Heal",
+        "descTextMapHash": 2241943954
+    },
+    {
+        "clientIdRawNum": 10061,
+        "idRawNum": 62,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_Ball_MoveSpeed_Defenc",
+        "descTextMapHash": 111992362
+    },
+    {
+        "clientIdRawNum": 10062,
+        "idRawNum": 1000,
+        "show": true,
+        "levelConfigName": "Level_Avatar_DefenseDown",
+        "descTextMapHash": 313298138
+    },
+    {
+        "clientIdRawNum": 10063,
+        "idRawNum": 1000,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Electric",
+        "descTextMapHash": 2574956682
+    },
+    {
+        "clientIdRawNum": 10064,
+        "idRawNum": 1000,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+        "descTextMapHash": 3841139058
+    },
+    {
+        "clientIdRawNum": 10065,
+        "idRawNum": 1001,
+        "show": true,
+        "levelConfigName": "Level_Avatar_DefenseDown",
+        "descTextMapHash": 4067299970
+    },
+    {
+        "clientIdRawNum": 10066,
+        "idRawNum": 1001,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Fire",
+        "descTextMapHash": 1938435258
+    },
+    {
+        "clientIdRawNum": 10067,
+        "idRawNum": 1001,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+        "descTextMapHash": 2981942066
+    },
+    {
+        "clientIdRawNum": 10068,
+        "idRawNum": 1002,
+        "show": true,
+        "levelConfigName": "Level_Avatar_DefenseDown",
+        "descTextMapHash": 2573579834
+    },
+    {
+        "clientIdRawNum": 10069,
+        "idRawNum": 1002,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Ice",
+        "descTextMapHash": 159022466
+    },
+    {
+        "clientIdRawNum": 10070,
+        "idRawNum": 1002,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Wind",
+        "descTextMapHash": 2728380970
+    },
+    {
+        "clientIdRawNum": 10071,
+        "idRawNum": 1003,
+        "show": true,
+        "levelConfigName": "Level_Avatar_DefenseDown",
+        "descTextMapHash": 3899178122
+    },
+    {
+        "clientIdRawNum": 10072,
+        "idRawNum": 1003,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Electric",
+        "descTextMapHash": 1208004866
+    },
+    {
+        "clientIdRawNum": 10073,
+        "idRawNum": 1003,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Ice",
+        "descTextMapHash": 1508642602
+    },
+    {
+        "clientIdRawNum": 10074,
+        "idRawNum": 1004,
+        "show": true,
+        "levelConfigName": "Level_Avatar_DefenseDown",
+        "descTextMapHash": 2245769674
+    },
+    {
+        "clientIdRawNum": 10075,
+        "idRawNum": 1004,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Fire",
+        "descTextMapHash": 1003737266
+    },
+    {
+        "clientIdRawNum": 10076,
+        "idRawNum": 1004,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Water",
+        "descTextMapHash": 162396994
+    },
+    {
+        "clientIdRawNum": 10077,
+        "idRawNum": 1005,
+        "show": true,
+        "levelConfigName": "Level_Avatar_DefenseDown",
+        "descTextMapHash": 3216507194
+    },
+    {
+        "clientIdRawNum": 10078,
+        "idRawNum": 1005,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Electric",
+        "descTextMapHash": 2832961706
+    },
+    {
+        "clientIdRawNum": 10079,
+        "idRawNum": 1005,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Grass",
+        "descTextMapHash": 878705842
+    },
+    {
+        "clientIdRawNum": 10080,
+        "idRawNum": 1006,
+        "show": true,
+        "levelConfigName": "Level_Avatar_DefenseDown",
+        "descTextMapHash": 3028267906
+    },
+    {
+        "clientIdRawNum": 10081,
+        "idRawNum": 1006,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Fire",
+        "descTextMapHash": 1765573322
+    },
+    {
+        "clientIdRawNum": 10082,
+        "idRawNum": 1006,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Rock",
+        "descTextMapHash": 1681004018
+    },
+    {
+        "clientIdRawNum": 10083,
+        "idRawNum": 1007,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Electric",
+        "descTextMapHash": 431441130
+    },
+    {
+        "clientIdRawNum": 10084,
+        "idRawNum": 1007,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+        "descTextMapHash": 2658411690
+    },
+    {
+        "clientIdRawNum": 10085,
+        "idRawNum": 1007,
+        "show": true,
+        "levelConfigName": "LevelEntity_MeleeAttackDamageUp",
+        "descTextMapHash": 3530148466
+    },
+    {
+        "clientIdRawNum": 10086,
+        "idRawNum": 1008,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Fire",
+        "descTextMapHash": 2635419666
+    },
+    {
+        "clientIdRawNum": 10087,
+        "idRawNum": 1008,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+        "descTextMapHash": 2290386394
+    },
+    {
+        "clientIdRawNum": 10088,
+        "idRawNum": 1008,
+        "show": true,
+        "levelConfigName": "LevelEntity_MeleeAttackDamageUp",
+        "descTextMapHash": 2725887754
+    },
+    {
+        "clientIdRawNum": 10089,
+        "idRawNum": 1009,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Ice",
+        "descTextMapHash": 1565370090
+    },
+    {
+        "clientIdRawNum": 10090,
+        "idRawNum": 1009,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+        "descTextMapHash": 1342230378
+    },
+    {
+        "clientIdRawNum": 10091,
+        "idRawNum": 1009,
+        "show": true,
+        "levelConfigName": "LevelEntity_RangeAttackDamageUp",
+        "descTextMapHash": 285595154
+    },
+    {
+        "clientIdRawNum": 10092,
+        "idRawNum": 1010,
+        "show": true,
+        "levelConfigName": "LevelEntity_Heal_Down",
+        "descTextMapHash": 2452293746
+    },
+    {
+        "clientIdRawNum": 10093,
+        "idRawNum": 1010,
+        "show": true,
+        "levelConfigName": "LevelEntity_MeleeAttackDamageUp",
+        "descTextMapHash": 695945138
+    },
+    {
+        "clientIdRawNum": 10094,
+        "idRawNum": 1010,
+        "show": true,
+        "levelConfigName": "LevelEntity_BowAddHurt",
+        "descTextMapHash": 1332027362
+    },
+    {
+        "clientIdRawNum": 10095,
+        "idRawNum": 1050,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_Charge",
+        "descTextMapHash": 3257312394
+    },
+    {
+        "clientIdRawNum": 10096,
+        "idRawNum": 1050,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_SprintAreaAttack",
+        "descTextMapHash": 3475418714
+    },
+    {
+        "clientIdRawNum": 10097,
+        "idRawNum": 1051,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_SheildUp",
+        "descTextMapHash": 314060434
+    },
+    {
+        "clientIdRawNum": 10098,
+        "idRawNum": 1051,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_HighStaminaAreaAttack",
+        "descTextMapHash": 1374671218
+    },
+    {
+        "clientIdRawNum": 10099,
+        "idRawNum": 1052,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_AttackSpeed",
+        "descTextMapHash": 3503708706
+    },
+    {
+        "clientIdRawNum": 10100,
+        "idRawNum": 1052,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_AttackUpAreaAttack",
+        "descTextMapHash": 3816617762
+    },
+    {
+        "clientIdRawNum": 10101,
+        "idRawNum": 1053,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_CostReduce",
+        "descTextMapHash": 832247562
+    },
+    {
+        "clientIdRawNum": 10102,
+        "idRawNum": 1053,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ExtraAreaAttack",
+        "descTextMapHash": 3475694210
+    },
+    {
+        "clientIdRawNum": 10103,
+        "idRawNum": 1054,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_AttackSpeed",
+        "descTextMapHash": 3894747690
+    },
+    {
+        "clientIdRawNum": 10104,
+        "idRawNum": 1054,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_Ball_MoveSpeed",
+        "descTextMapHash": 179739018
+    },
+    {
+        "clientIdRawNum": 10105,
+        "idRawNum": 1054,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_SprintAreaAttack",
+        "descTextMapHash": 2612942114
+    },
+    {
+        "clientIdRawNum": 10106,
+        "idRawNum": 1055,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_CostReduce",
+        "descTextMapHash": 1053407106
+    },
+    {
+        "clientIdRawNum": 10107,
+        "idRawNum": 1055,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_Ball_Heal",
+        "descTextMapHash": 3591149498
+    },
+    {
+        "clientIdRawNum": 10108,
+        "idRawNum": 1055,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_HighStaminaAreaAttack",
+        "descTextMapHash": 1874715714
+    },
+    {
+        "clientIdRawNum": 10109,
+        "idRawNum": 1056,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_Charge",
+        "descTextMapHash": 2059614322
+    },
+    {
+        "clientIdRawNum": 10110,
+        "idRawNum": 1056,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_Ball_AttackSpeed",
+        "descTextMapHash": 105491298
+    },
+    {
+        "clientIdRawNum": 10111,
+        "idRawNum": 1056,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_AttackUpAreaAttack",
+        "descTextMapHash": 3429740770
+    },
+    {
+        "clientIdRawNum": 10112,
+        "idRawNum": 1057,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_SheildUp",
+        "descTextMapHash": 4028440834
+    },
+    {
+        "clientIdRawNum": 10113,
+        "idRawNum": 1057,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_Ball_Defence",
+        "descTextMapHash": 2444906650
+    },
+    {
+        "clientIdRawNum": 10114,
+        "idRawNum": 1057,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ExtraAreaAttack",
+        "descTextMapHash": 3569583354
+    },
+    {
+        "clientIdRawNum": 10115,
+        "idRawNum": 1060,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+        "descTextMapHash": 2571947322
+    },
+    {
+        "clientIdRawNum": 10116,
+        "idRawNum": 1061,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Superconductor",
+        "descTextMapHash": 2855024690
+    },
+    {
+        "clientIdRawNum": 10117,
+        "idRawNum": 1062,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+        "descTextMapHash": 3878238466
+    },
+    {
+        "clientIdRawNum": 10118,
+        "idRawNum": 1063,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Stream",
+        "descTextMapHash": 4124797314
+    },
+    {
+        "clientIdRawNum": 10119,
+        "idRawNum": 1064,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Shock",
+        "descTextMapHash": 1354856090
+    },
+    {
+        "clientIdRawNum": 10120,
+        "idRawNum": 1065,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Explode",
+        "descTextMapHash": 164079170
+    },
+    {
+        "clientIdRawNum": 10121,
+        "idRawNum": 1066,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+        "descTextMapHash": 1636659242
+    },
+    {
+        "clientIdRawNum": 10122,
+        "idRawNum": 1067,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Melt",
+        "descTextMapHash": 4293122490
+    },
+    {
+        "clientIdRawNum": 10123,
+        "idRawNum": 1068,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Stream",
+        "descTextMapHash": 555461666
+    },
+    {
+        "clientIdRawNum": 10124,
+        "idRawNum": 1069,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Shock",
+        "descTextMapHash": 291401802
+    },
+    {
+        "clientIdRawNum": 10125,
+        "idRawNum": 1070,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+        "descTextMapHash": 1107441178
+    },
+    {
+        "clientIdRawNum": 10126,
+        "idRawNum": 1070,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+        "descTextMapHash": 2449746522
+    },
+    {
+        "clientIdRawNum": 10127,
+        "idRawNum": 1070,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Stream",
+        "descTextMapHash": 2270908410
+    },
+    {
+        "clientIdRawNum": 10128,
+        "idRawNum": 1071,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+        "descTextMapHash": 3383841962
+    },
+    {
+        "clientIdRawNum": 10129,
+        "idRawNum": 1071,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Melt",
+        "descTextMapHash": 2395299498
+    },
+    {
+        "clientIdRawNum": 10130,
+        "idRawNum": 1071,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Stream",
+        "descTextMapHash": 4056979274
+    },
+    {
+        "clientIdRawNum": 10131,
+        "idRawNum": 1100,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+        "descTextMapHash": 2662671394
+    },
+    {
+        "clientIdRawNum": 10132,
+        "idRawNum": 1101,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+        "descTextMapHash": 1015758474
+    },
+    {
+        "clientIdRawNum": 10133,
+        "idRawNum": 1102,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+        "descTextMapHash": 800231858
+    },
+    {
+        "clientIdRawNum": 10134,
+        "idRawNum": 1102,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+        "descTextMapHash": 1167520402
+    },
+    {
+        "clientIdRawNum": 10135,
+        "idRawNum": 1103,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+        "descTextMapHash": 4147304714
+    },
+    {
+        "clientIdRawNum": 10136,
+        "idRawNum": 1103,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+        "descTextMapHash": 2640963306
+    },
+    {
+        "clientIdRawNum": 10137,
+        "idRawNum": 1104,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Stream",
+        "descTextMapHash": 1405883634
+    },
+    {
+        "clientIdRawNum": 10138,
+        "idRawNum": 1104,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Shock",
+        "descTextMapHash": 2345998442
+    },
+    {
+        "clientIdRawNum": 10139,
+        "idRawNum": 1105,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+        "descTextMapHash": 935129274
+    },
+    {
+        "clientIdRawNum": 10140,
+        "idRawNum": 1105,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+        "descTextMapHash": 991294394
+    },
+    {
+        "clientIdRawNum": 10141,
+        "idRawNum": 1106,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+        "descTextMapHash": 2609563922
+    },
+    {
+        "clientIdRawNum": 10142,
+        "idRawNum": 1106,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+        "descTextMapHash": 1450993594
+    },
+    {
+        "clientIdRawNum": 10143,
+        "idRawNum": 1107,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+        "descTextMapHash": 2604484714
+    },
+    {
+        "clientIdRawNum": 10144,
+        "idRawNum": 1108,
+        "show": true,
+        "levelConfigName": "LevelEntity_PhysicalAddHurt",
+        "descTextMapHash": 1004901490
+    },
+    {
+        "clientIdRawNum": 10145,
+        "idRawNum": 1109,
+        "show": true,
+        "levelConfigName": "LevelEntity_PhysicalAddHurt",
+        "descTextMapHash": 43431906
+    },
+    {
+        "clientIdRawNum": 10146,
+        "idRawNum": 1110,
+        "show": true,
+        "levelConfigName": "LevelEntity_PhysicalAddHurt",
+        "descTextMapHash": 4002078290
+    },
+    {
+        "clientIdRawNum": 10147,
+        "idRawNum": 1111,
+        "show": true,
+        "levelConfigName": "LevelEntity_PhysicalAddHurt",
+        "descTextMapHash": 2771248346
+    },
+    {
+        "clientIdRawNum": 10148,
+        "idRawNum": 1112,
+        "show": true,
+        "levelConfigName": "LevelEntity_PhysicalAddHurt",
+        "descTextMapHash": 1026467626
+    },
+    {
+        "clientIdRawNum": 10149,
+        "idRawNum": 1113,
+        "show": true,
+        "levelConfigName": "LevelEntity_PhysicalAddHurt",
+        "descTextMapHash": 3740324946
+    },
+    {
+        "clientIdRawNum": 10150,
+        "idRawNum": 1114,
+        "show": true,
+        "levelConfigName": "Level_Electric_Test",
+        "descTextMapHash": 2886430042
+    },
+    {
+        "clientIdRawNum": 10151,
+        "idRawNum": 1115,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+        "descTextMapHash": 1518088634
+    },
+    {
+        "clientIdRawNum": 10152,
+        "idRawNum": 1115,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "descTextMapHash": 3655999154
+    },
+    {
+        "clientIdRawNum": 10153,
+        "idRawNum": 1116,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Superconductor",
+        "descTextMapHash": 3262904722
+    },
+    {
+        "clientIdRawNum": 10154,
+        "idRawNum": 1116,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "descTextMapHash": 614896858
+    },
+    {
+        "clientIdRawNum": 10155,
+        "idRawNum": 1117,
+        "show": true,
+        "levelConfigName": "Level_Electric_Test",
+        "descTextMapHash": 3198012202
+    },
+    {
+        "clientIdRawNum": 10156,
+        "idRawNum": 1117,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "descTextMapHash": 1498136602
+    },
+    {
+        "clientIdRawNum": 10157,
+        "idRawNum": 1118,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+        "descTextMapHash": 3497848066
+    },
+    {
+        "clientIdRawNum": 10158,
+        "idRawNum": 1118,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Melt",
+        "descTextMapHash": 3462265546
+    },
+    {
+        "clientIdRawNum": 10159,
+        "idRawNum": 1118,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Stream",
+        "descTextMapHash": 1215912466
+    },
+    {
+        "clientIdRawNum": 10160,
+        "idRawNum": 1118,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "descTextMapHash": 3003233706
+    },
+    {
+        "clientIdRawNum": 10161,
+        "idRawNum": 1119,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Superconductor",
+        "descTextMapHash": 1058931314
+    },
+    {
+        "clientIdRawNum": 10162,
+        "idRawNum": 1119,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Melt",
+        "descTextMapHash": 3195210154
+    },
+    {
+        "clientIdRawNum": 10163,
+        "idRawNum": 1119,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Stream",
+        "descTextMapHash": 1223682442
+    },
+    {
+        "clientIdRawNum": 10164,
+        "idRawNum": 1119,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "descTextMapHash": 2581676866
+    },
+    {
+        "clientIdRawNum": 10165,
+        "idRawNum": 1120,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+        "descTextMapHash": 2393611578
+    },
+    {
+        "clientIdRawNum": 10166,
+        "idRawNum": 1121,
+        "show": true,
+        "levelConfigName": "Level_Freeze_Test",
+        "descTextMapHash": 690746482
+    },
+    {
+        "clientIdRawNum": 10167,
+        "idRawNum": 1121,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Superconductor",
+        "descTextMapHash": 1232894650
+    },
+    {
+        "clientIdRawNum": 10168,
+        "idRawNum": 1121,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "descTextMapHash": 2746461074
+    },
+    {
+        "clientIdRawNum": 10169,
+        "idRawNum": 1122,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+        "descTextMapHash": 1720410066
+    },
+    {
+        "clientIdRawNum": 10170,
+        "idRawNum": 1122,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Explode",
+        "descTextMapHash": 2453463594
+    },
+    {
+        "clientIdRawNum": 10171,
+        "idRawNum": 1122,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "descTextMapHash": 1453373442
+    },
+    {
+        "clientIdRawNum": 10172,
+        "idRawNum": 1123,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Superconductor",
+        "descTextMapHash": 2452733498
+    },
+    {
+        "clientIdRawNum": 10173,
+        "idRawNum": 1123,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Explode",
+        "descTextMapHash": 227767066
+    },
+    {
+        "clientIdRawNum": 10174,
+        "idRawNum": 1123,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "descTextMapHash": 1726500442
+    },
+    {
+        "clientIdRawNum": 10175,
+        "idRawNum": 1124,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+        "descTextMapHash": 1975271354
+    },
+    {
+        "clientIdRawNum": 10176,
+        "idRawNum": 1124,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Explode",
+        "descTextMapHash": 3101582170
+    },
+    {
+        "clientIdRawNum": 10177,
+        "idRawNum": 1124,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "descTextMapHash": 2243525538
+    },
+    {
+        "clientIdRawNum": 10178,
+        "idRawNum": 1125,
+        "show": true,
+        "levelConfigName": "Level_Melt_Test",
+        "descTextMapHash": 2619732106
+    },
+    {
+        "clientIdRawNum": 10179,
+        "idRawNum": 1126,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Rock",
+        "descTextMapHash": 3139625826
+    },
+    {
+        "clientIdRawNum": 10180,
+        "idRawNum": 1126,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "descTextMapHash": 3551814986
+    },
+    {
+        "clientIdRawNum": 10181,
+        "idRawNum": 1127,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Rock",
+        "descTextMapHash": 3154081794
+    },
+    {
+        "clientIdRawNum": 10182,
+        "idRawNum": 1127,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "descTextMapHash": 1953360890
+    },
+    {
+        "clientIdRawNum": 10183,
+        "idRawNum": 1128,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Rock",
+        "descTextMapHash": 3312564242
+    },
+    {
+        "clientIdRawNum": 10184,
+        "idRawNum": 1128,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "descTextMapHash": 293165154
+    },
+    {
+        "clientIdRawNum": 10185,
+        "idRawNum": 1129,
+        "show": true,
+        "levelConfigName": "LevelEntity_PhysicalAddHurt",
+        "descTextMapHash": 2820874170
+    },
+    {
+        "clientIdRawNum": 10186,
+        "idRawNum": 1129,
+        "show": true,
+        "levelConfigName": "LevelEntity_Avatar_CriticalUp",
+        "descTextMapHash": 656061794
+    },
+    {
+        "clientIdRawNum": 10187,
+        "idRawNum": 1130,
+        "levelConfigName": "LevelEntity_Monster_HpUp",
+        "descTextMapHash": 971958506
+    },
+    {
+        "clientIdRawNum": 10188,
+        "idRawNum": 1131,
+        "levelConfigName": "LevelEntity_Monster_HpUp",
+        "descTextMapHash": 3151371634
+    },
+    {
+        "clientIdRawNum": 10189,
+        "idRawNum": 1131,
+        "levelConfigName": "LevelEntity_Monster_AttackUp",
+        "descTextMapHash": 1690927338
+    },
+    {
+        "clientIdRawNum": 10190,
+        "idRawNum": 1132,
+        "levelConfigName": "LevelEntity_Monster_HpUp",
+        "descTextMapHash": 3133787834
+    },
+    {
+        "clientIdRawNum": 10191,
+        "idRawNum": 1133,
+        "levelConfigName": "LevelEntity_Monster_AttackUp",
+        "descTextMapHash": 82603434
+    },
+    {
+        "clientIdRawNum": 10192,
+        "idRawNum": 1134,
+        "levelConfigName": "LevelEntity_Monster_AttackUp",
+        "descTextMapHash": 4065652722
+    },
+    {
+        "clientIdRawNum": 10193,
+        "idRawNum": 1135,
+        "levelConfigName": "LevelEntity_Monster_HpUp",
+        "descTextMapHash": 4253180066
+    },
+    {
+        "clientIdRawNum": 10194,
+        "idRawNum": 1135,
+        "levelConfigName": "LevelEntity_Monster_AttackUp",
+        "descTextMapHash": 806823714
+    },
+    {
+        "clientIdRawNum": 10195,
+        "idRawNum": 1136,
+        "levelConfigName": "LevelEntity_Monster_HpUp",
+        "descTextMapHash": 3556034098
+    },
+    {
+        "clientIdRawNum": 10196,
+        "idRawNum": 1137,
+        "levelConfigName": "LevelEntity_Monster_HpUp",
+        "descTextMapHash": 1990364058
+    },
+    {
+        "clientIdRawNum": 10197,
+        "idRawNum": 1137,
+        "levelConfigName": "LevelEntity_Monster_AttackUp",
+        "descTextMapHash": 3346517434
+    },
+    {
+        "clientIdRawNum": 10198,
+        "idRawNum": 1138,
+        "levelConfigName": "LevelEntity_Monster_HpUp",
+        "descTextMapHash": 1671088698
+    },
+    {
+        "clientIdRawNum": 10199,
+        "idRawNum": 1139,
+        "levelConfigName": "LevelEntity_Monster_HpUp",
+        "descTextMapHash": 3622592762
+    },
+    {
+        "clientIdRawNum": 10200,
+        "idRawNum": 1139,
+        "levelConfigName": "LevelEntity_Monster_AttackUp",
+        "descTextMapHash": 1070824778
+    },
+    {
+        "clientIdRawNum": 10201,
+        "idRawNum": 1150,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+        "descTextMapHash": 2844728426
+    },
+    {
+        "clientIdRawNum": 10202,
+        "idRawNum": 1150,
+        "show": true,
+        "levelConfigName": "Level_Explode_Test",
+        "descTextMapHash": 2220947274
+    },
+    {
+        "clientIdRawNum": 10203,
+        "idRawNum": 1150,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv1",
+        "descTextMapHash": 4207839586
+    },
+    {
+        "clientIdRawNum": 10204,
+        "idRawNum": 1151,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Ice",
+        "descTextMapHash": 484213202
+    },
+    {
+        "clientIdRawNum": 10205,
+        "idRawNum": 1151,
+        "show": true,
+        "levelConfigName": "Level_Freeze_Test",
+        "descTextMapHash": 1753040570
+    },
+    {
+        "clientIdRawNum": 10206,
+        "idRawNum": 1151,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "descTextMapHash": 2566076098
+    },
+    {
+        "clientIdRawNum": 10207,
+        "idRawNum": 1152,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+        "descTextMapHash": 1727678882
+    },
+    {
+        "clientIdRawNum": 10208,
+        "idRawNum": 1152,
+        "show": true,
+        "levelConfigName": "Level_Electric_Test",
+        "descTextMapHash": 1609757122
+    },
+    {
+        "clientIdRawNum": 10209,
+        "idRawNum": 1152,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv1",
+        "descTextMapHash": 26702082
+    },
+    {
+        "clientIdRawNum": 10210,
+        "idRawNum": 1153,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+        "descTextMapHash": 1916801482
+    },
+    {
+        "clientIdRawNum": 10211,
+        "idRawNum": 1153,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Ice",
+        "descTextMapHash": 3834234618
+    },
+    {
+        "clientIdRawNum": 10212,
+        "idRawNum": 1153,
+        "show": true,
+        "levelConfigName": "Level_Melt_Test",
+        "descTextMapHash": 279529802
+    },
+    {
+        "clientIdRawNum": 10213,
+        "idRawNum": 1153,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv1",
+        "descTextMapHash": 3795754930
+    },
+    {
+        "clientIdRawNum": 10214,
+        "idRawNum": 1154,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+        "descTextMapHash": 1364065922
+    },
+    {
+        "clientIdRawNum": 10215,
+        "idRawNum": 1154,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+        "descTextMapHash": 2262209402
+    },
+    {
+        "clientIdRawNum": 10216,
+        "idRawNum": 1154,
+        "show": true,
+        "levelConfigName": "Level_Explode_Test",
+        "descTextMapHash": 3572258818
+    },
+    {
+        "clientIdRawNum": 10217,
+        "idRawNum": 1154,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "descTextMapHash": 2928137002
+    },
+    {
+        "clientIdRawNum": 10218,
+        "idRawNum": 1140,
+        "show": true,
+        "levelConfigName": "Level_Swril_Test",
+        "descTextMapHash": 372354778
+    },
+    {
+        "clientIdRawNum": 10219,
+        "idRawNum": 1140,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Wind",
+        "descTextMapHash": 3799529874
+    },
+    {
+        "clientIdRawNum": 10220,
+        "idRawNum": 1140,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "descTextMapHash": 1382236122
+    },
+    {
+        "clientIdRawNum": 10221,
+        "idRawNum": 1141,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+        "descTextMapHash": 1212502994
+    },
+    {
+        "clientIdRawNum": 10222,
+        "idRawNum": 1141,
+        "show": true,
+        "levelConfigName": "Level_Electric_Test",
+        "descTextMapHash": 3902967722
+    },
+    {
+        "clientIdRawNum": 10223,
+        "idRawNum": 1141,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "descTextMapHash": 3703378314
+    },
+    {
+        "clientIdRawNum": 10224,
+        "idRawNum": 1142,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Rock",
+        "descTextMapHash": 294644906
+    },
+    {
+        "clientIdRawNum": 10225,
+        "idRawNum": 1142,
+        "show": true,
+        "levelConfigName": "Level_Freeze_Test",
+        "descTextMapHash": 4131141562
+    },
+    {
+        "clientIdRawNum": 10226,
+        "idRawNum": 1142,
+        "show": true,
+        "levelConfigName": "LevelEntity_ClaymoreAddHurt",
+        "descTextMapHash": 467595474
+    },
+    {
+        "clientIdRawNum": 10227,
+        "idRawNum": 1142,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv5",
+        "descTextMapHash": 1981886906
+    },
+    {
+        "clientIdRawNum": 10228,
+        "idRawNum": 1143,
+        "show": true,
+        "levelConfigName": "Level_Stream_Test",
+        "descTextMapHash": 1278779578
+    },
+    {
+        "clientIdRawNum": 10229,
+        "idRawNum": 1143,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Water",
+        "descTextMapHash": 3098764138
+    },
+    {
+        "clientIdRawNum": 10230,
+        "idRawNum": 1143,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+        "descTextMapHash": 1062424210
+    },
+    {
+        "clientIdRawNum": 10231,
+        "idRawNum": 1143,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "descTextMapHash": 1888307370
+    },
+    {
+        "clientIdRawNum": 10232,
+        "idRawNum": 1144,
+        "show": true,
+        "levelConfigName": "Level_Superconductor_Test",
+        "descTextMapHash": 3546088826
+    },
+    {
+        "clientIdRawNum": 10233,
+        "idRawNum": 1144,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+        "descTextMapHash": 675115306
+    },
+    {
+        "clientIdRawNum": 10234,
+        "idRawNum": 1144,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Ice",
+        "descTextMapHash": 4064836234
+    },
+    {
+        "clientIdRawNum": 10235,
+        "idRawNum": 1144,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "descTextMapHash": 927466538
+    },
+    {
+        "clientIdRawNum": 10236,
+        "idRawNum": 1155,
+        "show": true,
+        "levelConfigName": "LevelEntity_Avatar_CriticalHurtUp",
+        "descTextMapHash": 1110897562
+    },
+    {
+        "clientIdRawNum": 10237,
+        "idRawNum": 1155,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv4",
+        "descTextMapHash": 2621093042
+    },
+    {
+        "clientIdRawNum": 10238,
+        "idRawNum": 1156,
+        "show": true,
+        "levelConfigName": "LevelEntity_PhysicalAddHurt",
+        "descTextMapHash": 2558591162
+    },
+    {
+        "clientIdRawNum": 10239,
+        "idRawNum": 1156,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "descTextMapHash": 2118095530
+    },
+    {
+        "clientIdRawNum": 10240,
+        "idRawNum": 1157,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "descTextMapHash": 2932374578
+    },
+    {
+        "clientIdRawNum": 10241,
+        "idRawNum": 1157,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "descTextMapHash": 2099495794
+    },
+    {
+        "clientIdRawNum": 10242,
+        "idRawNum": 1157,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_HealUp",
+        "descTextMapHash": 1115216922
+    },
+    {
+        "clientIdRawNum": 10243,
+        "idRawNum": 1158,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "descTextMapHash": 1952890626
+    },
+    {
+        "clientIdRawNum": 10244,
+        "idRawNum": 1158,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv5",
+        "descTextMapHash": 318664578
+    },
+    {
+        "clientIdRawNum": 10245,
+        "idRawNum": 1158,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_TowerBuff_CriticalDropElementBall",
+        "descTextMapHash": 1192521962
+    },
+    {
+        "clientIdRawNum": 10246,
+        "idRawNum": 1159,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "descTextMapHash": 577378826
+    },
+    {
+        "clientIdRawNum": 10247,
+        "idRawNum": 1159,
+        "show": true,
+        "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+        "descTextMapHash": 597372458
+    },
+    {
+        "clientIdRawNum": 10248,
+        "idRawNum": 1159,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv4",
+        "descTextMapHash": 2281676746
+    },
+    {
+        "clientIdRawNum": 10249,
+        "idRawNum": 1160,
+        "show": true,
+        "levelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "descTextMapHash": 2464183306
+    },
+    {
+        "clientIdRawNum": 10250,
+        "idRawNum": 1160,
+        "show": true,
+        "levelConfigName": "Level_Stream_Test",
+        "descTextMapHash": 99628242
+    },
+    {
+        "clientIdRawNum": 10251,
+        "idRawNum": 1160,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv5",
+        "descTextMapHash": 3182393114
+    },
+    {
+        "clientIdRawNum": 10252,
+        "idRawNum": 1161,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_AtkDefUpHighHP",
+        "descTextMapHash": 1522564058
+    },
+    {
+        "clientIdRawNum": 10253,
+        "idRawNum": 1161,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "descTextMapHash": 911761730
+    },
+    {
+        "clientIdRawNum": 10254,
+        "idRawNum": 1162,
+        "show": true,
+        "levelConfigName": "LevelEntity_PhysicalAddHurt",
+        "descTextMapHash": 3508493090
+    },
+    {
+        "clientIdRawNum": 10255,
+        "idRawNum": 1162,
+        "show": true,
+        "levelConfigName": "LevelEntity_Monster_ElementBeHurtDamageDown_All",
+        "descTextMapHash": 3671455578
+    },
+    {
+        "clientIdRawNum": 10256,
+        "idRawNum": 1162,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv4",
+        "descTextMapHash": 1835520338
+    },
+    {
+        "clientIdRawNum": 10257,
+        "idRawNum": 1163,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_TowerBuff_CriticalDropElementBall",
+        "descTextMapHash": 788007594
+    },
+    {
+        "clientIdRawNum": 10258,
+        "idRawNum": 1163,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv5",
+        "descTextMapHash": 2316069210
+    },
+    {
+        "clientIdRawNum": 10259,
+        "idRawNum": 1164,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_ChargeEfficiency",
+        "descTextMapHash": 76632138
+    },
+    {
+        "clientIdRawNum": 10260,
+        "idRawNum": 1164,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv5",
+        "descTextMapHash": 3075480170
+    },
+    {
+        "clientIdRawNum": 10261,
+        "idRawNum": 1165,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_UltimateSkillAllBuff",
+        "descTextMapHash": 3055873738
+    },
+    {
+        "clientIdRawNum": 10262,
+        "idRawNum": 1165,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv5",
+        "descTextMapHash": 3754469754
+    },
+    {
+        "clientIdRawNum": 10263,
+        "idRawNum": 1166,
+        "show": true,
+        "levelConfigName": "LevelEntity_TowerBuff_AtkDefUpLowHP",
+        "descTextMapHash": 3097333978
+    },
+    {
+        "clientIdRawNum": 10264,
+        "idRawNum": 1166,
+        "levelConfigName": "LevelEntity_Monster_HpUp_Lv5",
+        "descTextMapHash": 3567075034
+    }
+]

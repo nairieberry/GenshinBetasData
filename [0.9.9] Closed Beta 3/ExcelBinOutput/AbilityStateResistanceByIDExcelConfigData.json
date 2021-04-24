@@ -1,0 +1,197 @@
+[
+    {
+        "idRawNum": 11001,
+        "abilityStates": [
+            "ElementIce",
+            "IsGhostToEnemy",
+            "ElementBurning",
+            "ElementGrassGrowing",
+            "IgnoreTriggerBullet",
+            "ElementElectric",
+            "ElementConductive",
+            "ElementWind",
+            "SpeedDown",
+            "MuteTaunt"
+        ]
+    },
+    {
+        "idRawNum": 11002,
+        "abilityStates": [
+            "ElementIce",
+            "IsGhostToEnemy",
+            "ElementBurning",
+            "ElementGrassGrowing",
+            "IgnoreTriggerBullet",
+            "ElementShock",
+            "ElementConductive",
+            "SpeedUp",
+            "DefenseDown",
+            "MuteTaunt"
+        ]
+    },
+    {
+        "idRawNum": 11003,
+        "abilityStates": [
+            "ElementIce",
+            "ElementGrassGrowing",
+            "ElementShock",
+            "ElementFrozen",
+            "SpeedUp",
+            "Limbo",
+            "ElementConductive",
+            "MuteTaunt",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "idRawNum": 12001,
+        "abilityStates": [
+            "ElementIce",
+            "IsGhostToEnemy",
+            "ElementBurning",
+            "ElementGrassGrowing",
+            "IgnoreTriggerBullet",
+            "MuteTaunt",
+            "None",
+            "None",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "idRawNum": 12002,
+        "abilityStates": [
+            "ElementElectric",
+            "ElementConductive",
+            "ElementWind",
+            "SpeedDown",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "idRawNum": 13001,
+        "abilityStates": [
+            "ElementIce",
+            "ElementConductive",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "idRawNum": 13002,
+        "abilityStates": [
+            "ElementIce",
+            "ElementShock",
+            "MuteTaunt",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "idRawNum": 14001,
+        "abilityStates": [
+            "ElementShock",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "idRawNum": 14002,
+        "abilityStates": [
+            "ElementIce",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "idRawNum": 14003,
+        "abilityStates": [
+            "ElementRock",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "idRawNum": 14004,
+        "abilityStates": [
+            "IgnoreTriggerBullet",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "idRawNum": 14005,
+        "abilityStates": [
+            "ElementGrassGrowing",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "idRawNum": 14006,
+        "abilityStates": [
+            "MuteTaunt",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ]
+    }
+]

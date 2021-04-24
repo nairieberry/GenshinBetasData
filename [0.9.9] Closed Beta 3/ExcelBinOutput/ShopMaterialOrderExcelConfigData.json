@@ -1,0 +1,15 @@
+[
+    {
+        "IdRawNum": 201,
+        "orderRawNum": 999,
+        "shopType": "SHOP_TYPE_HCOIN"
+    },
+    {
+        "IdRawNum": 202,
+        "orderRawNum": 998
+    },
+    {
+        "IdRawNum": 106,
+        "orderRawNum": 500
+    }
+]

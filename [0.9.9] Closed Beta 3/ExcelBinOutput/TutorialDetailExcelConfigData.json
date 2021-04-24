@@ -1,0 +1,1208 @@
+[
+    {
+        "idRawNum": 10301,
+        "nameTextMapHash": 1668899120,
+        "imageNameList": [
+            "UI_AmberTutorial01_01"
+        ],
+        "descriptTextMapHash": 358597968
+    },
+    {
+        "idRawNum": 10302,
+        "nameTextMapHash": 3240498992,
+        "imageNameList": [
+            "UI_AmberTutorial01_02"
+        ],
+        "descriptTextMapHash": 2795791032
+    },
+    {
+        "idRawNum": 10401,
+        "nameTextMapHash": 2557090656,
+        "imageNameList": [
+            "UI_AmberTutorial02_01"
+        ],
+        "descriptTextMapHash": 3817053192
+    },
+    {
+        "idRawNum": 10402,
+        "nameTextMapHash": 3101580704,
+        "imageNameList": [
+            "UI_AmberTutorial02_02"
+        ],
+        "descriptTextMapHash": 2224584216
+    },
+    {
+        "idRawNum": 10403,
+        "nameTextMapHash": 592219464,
+        "imageNameList": [
+            "UI_AmberTutorial02_03"
+        ],
+        "descriptTextMapHash": 2589949112
+    },
+    {
+        "idRawNum": 10601,
+        "nameTextMapHash": 365607456,
+        "imageNameList": [
+            "UI_KaeyaTutorial01_01"
+        ],
+        "descriptTextMapHash": 4264062760
+    },
+    {
+        "idRawNum": 10602,
+        "nameTextMapHash": 221743016,
+        "imageNameList": [
+            "UI_KaeyaTutorial01_02"
+        ],
+        "descriptTextMapHash": 3273686976
+    },
+    {
+        "idRawNum": 10701,
+        "nameTextMapHash": 2553318704,
+        "imageNameList": [
+            "UI_KaeyaTutorial02_01"
+        ],
+        "descriptTextMapHash": 56276424
+    },
+    {
+        "idRawNum": 10702,
+        "nameTextMapHash": 3926754464,
+        "imageNameList": [
+            "UI_KaeyaTutorial02_02"
+        ],
+        "descriptTextMapHash": 86371152
+    },
+    {
+        "idRawNum": 10801,
+        "nameTextMapHash": 519973896,
+        "imageNameList": [
+            "UI_KaeyaTutorial03_01"
+        ],
+        "descriptTextMapHash": 3820571216
+    },
+    {
+        "idRawNum": 10901,
+        "nameTextMapHash": 827755568,
+        "imageNameList": [
+            "UI_LisaTutorial1_01"
+        ],
+        "descriptTextMapHash": 1916980472
+    },
+    {
+        "idRawNum": 10902,
+        "nameTextMapHash": 2536820888,
+        "imageNameList": [
+            "UI_LisaTutorial1_02"
+        ],
+        "descriptTextMapHash": 1913872272
+    },
+    {
+        "idRawNum": 11001,
+        "nameTextMapHash": 1066669192,
+        "imageNameList": [
+            "UI_LisaTutorial2_01"
+        ],
+        "descriptTextMapHash": 3768661112
+    },
+    {
+        "idRawNum": 11002,
+        "nameTextMapHash": 4021510528,
+        "imageNameList": [
+            "UI_LisaTutorial2_02"
+        ],
+        "descriptTextMapHash": 795973000
+    },
+    {
+        "idRawNum": 11101,
+        "nameTextMapHash": 2570446896,
+        "imageNameList": [
+            "UI_LisaTutorial3_01"
+        ],
+        "descriptTextMapHash": 135881680
+    },
+    {
+        "idRawNum": 11102,
+        "nameTextMapHash": 1390371848,
+        "imageNameList": [
+            "UI_LisaTutorial3_02"
+        ],
+        "descriptTextMapHash": 2284690744
+    },
+    {
+        "idRawNum": 11201,
+        "nameTextMapHash": 2712538840,
+        "imageNameList": [
+            "UI_ElementVisual_01"
+        ],
+        "descriptTextMapHash": 955181944
+    },
+    {
+        "idRawNum": 11202,
+        "nameTextMapHash": 2519689480,
+        "imageNameList": [
+            "UI_ElementVisual_02"
+        ],
+        "descriptTextMapHash": 2911403712
+    },
+    {
+        "idRawNum": 11501,
+        "nameTextMapHash": 3257623992,
+        "imageNameList": [
+            "UI_Slime_Water_03_Tutorial01"
+        ],
+        "descriptTextMapHash": 3504988792
+    },
+    {
+        "idRawNum": 11601,
+        "nameTextMapHash": 3853798136,
+        "imageNameList": [
+            "UI_Slime_Water_02_Tutorial01"
+        ],
+        "descriptTextMapHash": 2368331880
+    },
+    {
+        "idRawNum": 11701,
+        "nameTextMapHash": 151482944,
+        "imageNameList": [
+            "UI_Slime_Ice_03_Tutorial01"
+        ],
+        "descriptTextMapHash": 1181663264
+    },
+    {
+        "idRawNum": 11801,
+        "nameTextMapHash": 1055758312,
+        "imageNameList": [
+            "UI_Slime_Ice_02_Tutorial01"
+        ],
+        "descriptTextMapHash": 986323112
+    },
+    {
+        "idRawNum": 11901,
+        "nameTextMapHash": 3350072256,
+        "imageNameList": [
+            "UI_Slime_Wind_03_Tutorial01"
+        ],
+        "descriptTextMapHash": 909932256
+    },
+    {
+        "idRawNum": 12001,
+        "nameTextMapHash": 770714392,
+        "imageNameList": [
+            "UI_Slime_Wind_02_Tutorial01"
+        ],
+        "descriptTextMapHash": 2280166936
+    },
+    {
+        "idRawNum": 12101,
+        "nameTextMapHash": 199239752,
+        "imageNameList": [
+            "UI_Slime_Electric_03_Positive_Tutorial01"
+        ],
+        "descriptTextMapHash": 1597724696
+    },
+    {
+        "idRawNum": 12201,
+        "nameTextMapHash": 3495479760,
+        "imageNameList": [
+            "UI_Slime_Electric_03_Tutorial01"
+        ],
+        "descriptTextMapHash": 3922141816
+    },
+    {
+        "idRawNum": 12301,
+        "nameTextMapHash": 3891332384,
+        "imageNameList": [
+            "UI_Slime_Electric_02_Tutorial01"
+        ],
+        "descriptTextMapHash": 1042958064
+    },
+    {
+        "idRawNum": 12401,
+        "nameTextMapHash": 2192018608,
+        "imageNameList": [
+            "UI_Slime_Grass_03_Tutorial01"
+        ],
+        "descriptTextMapHash": 713877928
+    },
+    {
+        "idRawNum": 12501,
+        "nameTextMapHash": 1434318456,
+        "imageNameList": [
+            "UI_Slime_Grass_02_Tutorial01"
+        ],
+        "descriptTextMapHash": 524933064
+    },
+    {
+        "idRawNum": 12601,
+        "nameTextMapHash": 328425416,
+        "imageNameList": [
+            "UI_Slime_Fire_03_Tutorial01"
+        ],
+        "descriptTextMapHash": 4011116512
+    },
+    {
+        "idRawNum": 12701,
+        "nameTextMapHash": 1355603056,
+        "imageNameList": [
+            "UI_Slime_Fire_02_Tutorial01"
+        ],
+        "descriptTextMapHash": 3631687528
+    },
+    {
+        "idRawNum": 12801,
+        "nameTextMapHash": 1940166488,
+        "imageNameList": [
+            "UI_Slime_Rock_03_Tutorial01"
+        ],
+        "descriptTextMapHash": 706631232
+    },
+    {
+        "idRawNum": 12901,
+        "nameTextMapHash": 395756656,
+        "imageNameList": [
+            "UI_Slime_Rock_02_Tutorial01"
+        ],
+        "descriptTextMapHash": 3446666448
+    },
+    {
+        "idRawNum": 13001,
+        "nameTextMapHash": 948726232,
+        "imageNameList": [
+            "UI_Abyss_Fire_01_Tutorial01"
+        ],
+        "descriptTextMapHash": 2514515712
+    },
+    {
+        "idRawNum": 13101,
+        "nameTextMapHash": 779741728,
+        "imageNameList": [
+            "UI_Abyss_Ice_01_Tutorial01"
+        ],
+        "descriptTextMapHash": 305623064
+    },
+    {
+        "idRawNum": 13201,
+        "nameTextMapHash": 733385016,
+        "imageNameList": [
+            "UI_Abyss_Water_01_Tutorial01"
+        ],
+        "descriptTextMapHash": 2840076664
+    },
+    {
+        "idRawNum": 13301,
+        "nameTextMapHash": 1927837272,
+        "imageNameList": [
+            "UI_Shaman_Water_01_Tutorial01"
+        ],
+        "descriptTextMapHash": 353346088
+    },
+    {
+        "idRawNum": 13401,
+        "nameTextMapHash": 3712530560,
+        "imageNameList": [
+            "UI_Shaman_Grass_01_Tutorial01"
+        ],
+        "descriptTextMapHash": 451787488
+    },
+    {
+        "idRawNum": 13501,
+        "nameTextMapHash": 535507088,
+        "imageNameList": [
+            "UI_Shaman_Wind_01_Tutorial01"
+        ],
+        "descriptTextMapHash": 3512911016
+    },
+    {
+        "idRawNum": 13601,
+        "nameTextMapHash": 1901310040,
+        "imageNameList": [
+            "UI_Defender_None_01_Tutorial01"
+        ],
+        "descriptTextMapHash": 774780816
+    },
+    {
+        "idRawNum": 13701,
+        "nameTextMapHash": 2109314648,
+        "imageNameList": [
+            "UI_Hili_None_01_Tutorial01"
+        ],
+        "descriptTextMapHash": 1166534112
+    },
+    {
+        "idRawNum": 13801,
+        "nameTextMapHash": 1422584392,
+        "imageNameList": [
+            "UI_Hili_None_01_Club_Tutorial01"
+        ],
+        "descriptTextMapHash": 2302798416
+    },
+    {
+        "idRawNum": 13901,
+        "nameTextMapHash": 2844037528,
+        "imageNameList": [
+            "UI_Hili_None_01_Shield_Tutorial01"
+        ],
+        "descriptTextMapHash": 1006457432
+    },
+    {
+        "idRawNum": 14001,
+        "nameTextMapHash": 712898408,
+        "imageNameList": [
+            "UI_Hili_Fire_Bomb_Tutorial01"
+        ],
+        "descriptTextMapHash": 3379010416
+    },
+    {
+        "idRawNum": 14101,
+        "nameTextMapHash": 1568072936,
+        "imageNameList": [
+            "UI_Hili_Fire_Rush_Tutorial01"
+        ],
+        "descriptTextMapHash": 3237369504
+    },
+    {
+        "idRawNum": 14201,
+        "nameTextMapHash": 4264871280,
+        "imageNameList": [
+            "UI_Hili_None_01_Range_Tutorial01"
+        ],
+        "descriptTextMapHash": 972608744
+    },
+    {
+        "idRawNum": 14301,
+        "nameTextMapHash": 798003552,
+        "imageNameList": [
+            "UI_Hili_Fire_Range_Tutorial01"
+        ],
+        "descriptTextMapHash": 1731541120
+    },
+    {
+        "idRawNum": 14401,
+        "nameTextMapHash": 244073440,
+        "imageNameList": [
+            "UI_Hili_Ice_Range_Tutorial01"
+        ],
+        "descriptTextMapHash": 1185606536
+    },
+    {
+        "idRawNum": 14501,
+        "nameTextMapHash": 2024611632,
+        "imageNameList": [
+            "UI_Hili_Electric_Range_Tutorial01"
+        ],
+        "descriptTextMapHash": 1092038368
+    },
+    {
+        "idRawNum": 14601,
+        "nameTextMapHash": 3550908040,
+        "imageNameList": [
+            "UI_Brute_None_Shield_Tutorial01"
+        ],
+        "descriptTextMapHash": 3348796208
+    },
+    {
+        "idRawNum": 14701,
+        "nameTextMapHash": 66306632,
+        "imageNameList": [
+            "UI_Brute_None_Axe_Tutorial01"
+        ],
+        "descriptTextMapHash": 797325408
+    },
+    {
+        "idRawNum": 14801,
+        "nameTextMapHash": 3691166856,
+        "imageNameList": [
+            "UI_Elemental_Wind_01_Tutorial01"
+        ],
+        "descriptTextMapHash": 923176808
+    },
+    {
+        "idRawNum": 14901,
+        "nameTextMapHash": 3514312696,
+        "imageNameList": [
+            "UI_LisaTutorial4_02"
+        ],
+        "descriptTextMapHash": 3377962688
+    },
+    {
+        "idRawNum": 14902,
+        "nameTextMapHash": 1694027096,
+        "imageNameList": [
+            "UI_LisaTutorial4_03"
+        ],
+        "descriptTextMapHash": 3815562744
+    },
+    {
+        "idRawNum": 15001,
+        "nameTextMapHash": 2785120088,
+        "imageNameList": [
+            "UI_FlyTutorial01"
+        ],
+        "descriptTextMapHash": 3050593808
+    },
+    {
+        "idRawNum": 16001,
+        "nameTextMapHash": 1556998864,
+        "imageNameList": [
+            "UI_TimeCheck_03"
+        ],
+        "descriptTextMapHash": 1276434136
+    },
+    {
+        "idRawNum": 16002,
+        "nameTextMapHash": 4169336176,
+        "imageNameList": [
+            "UI_TimeCheck_01"
+        ],
+        "descriptTextMapHash": 985948272
+    },
+    {
+        "idRawNum": 16003,
+        "nameTextMapHash": 981107776,
+        "imageNameList": [
+            "UI_TimeCheck_02"
+        ],
+        "descriptTextMapHash": 906430616
+    },
+    {
+        "idRawNum": 18001,
+        "nameTextMapHash": 1635795704,
+        "imageNameList": [
+            "UI_KaeyaPuzzle1"
+        ],
+        "descriptTextMapHash": 3999372640
+    },
+    {
+        "idRawNum": 18101,
+        "nameTextMapHash": 210305064,
+        "imageNameList": [
+            "UI_KaeyaPuzzle2"
+        ],
+        "descriptTextMapHash": 1635479176
+    },
+    {
+        "idRawNum": 18201,
+        "nameTextMapHash": 1229898856,
+        "imageNameList": [
+            "UI_KaeyaPuzzle3"
+        ],
+        "descriptTextMapHash": 1502072088
+    },
+    {
+        "idRawNum": 18301,
+        "nameTextMapHash": 376909328,
+        "imageNameList": [
+            "UI_KaeyaTutorial04_01"
+        ],
+        "descriptTextMapHash": 2213531896
+    },
+    {
+        "idRawNum": 18302,
+        "nameTextMapHash": 3500021416,
+        "imageNameList": [
+            "UI_KaeyaTutorial04_02"
+        ],
+        "descriptTextMapHash": 350322016
+    },
+    {
+        "idRawNum": 19001,
+        "nameTextMapHash": 3868895944,
+        "imageNameList": [
+            "UI_Playerlevel01"
+        ],
+        "descriptTextMapHash": 959253080
+    },
+    {
+        "idRawNum": 23201,
+        "nameTextMapHash": 1090297296,
+        "imageNameList": [
+            "UI_Helps_TransferPoint"
+        ],
+        "descriptTextMapHash": 4034401168
+    },
+    {
+        "idRawNum": 23401,
+        "nameTextMapHash": 3772516584,
+        "imageNameList": [
+            "UI_DailyTask"
+        ],
+        "descriptTextMapHash": 679296000
+    },
+    {
+        "idRawNum": 23501,
+        "nameTextMapHash": 3170846256,
+        "imageNameList": [
+            "UI_Ambor_Flyingbomber01"
+        ],
+        "descriptTextMapHash": 4171220016
+    },
+    {
+        "idRawNum": 23502,
+        "nameTextMapHash": 1499620424,
+        "imageNameList": [
+            "UI_Ambor_Flyingbomber02"
+        ],
+        "descriptTextMapHash": 1989723688
+    },
+    {
+        "idRawNum": 23601,
+        "nameTextMapHash": 4221416472,
+        "imageNameList": [
+            "UI_Effigy_Electric_01_Tutorial01"
+        ],
+        "descriptTextMapHash": 2672428376
+    },
+    {
+        "idRawNum": 23701,
+        "nameTextMapHash": 1481782784,
+        "imageNameList": [],
+        "descriptTextMapHash": 245410264
+    },
+    {
+        "idRawNum": 23801,
+        "nameTextMapHash": 579337056,
+        "imageNameList": [],
+        "descriptTextMapHash": 1919791352
+    },
+    {
+        "idRawNum": 23901,
+        "nameTextMapHash": 259339384,
+        "imageNameList": [
+            "UI_Formathr_None_Tutorial01"
+        ],
+        "descriptTextMapHash": 2548809368
+    },
+    {
+        "idRawNum": 24001,
+        "nameTextMapHash": 1328915616,
+        "imageNameList": [],
+        "descriptTextMapHash": 2813284552
+    },
+    {
+        "idRawNum": 24101,
+        "nameTextMapHash": 438308648,
+        "imageNameList": [],
+        "descriptTextMapHash": 3953432400
+    },
+    {
+        "idRawNum": 24201,
+        "nameTextMapHash": 1780167608,
+        "imageNameList": [
+            "UI_Hili_None_01_RockShield_Tutorial01"
+        ],
+        "descriptTextMapHash": 1046473112
+    },
+    {
+        "idRawNum": 24301,
+        "nameTextMapHash": 279535568,
+        "imageNameList": [
+            "UI_Brute_None_RockShield_Tutorial01"
+        ],
+        "descriptTextMapHash": 2317677024
+    },
+    {
+        "idRawNum": 24401,
+        "nameTextMapHash": 2337019656,
+        "imageNameList": [
+            "UI_KleeNotebook"
+        ],
+        "descriptTextMapHash": 1056040352
+    },
+    {
+        "idRawNum": 24501,
+        "nameTextMapHash": 368956888,
+        "imageNameList": [
+            "UI_MysticalMark_Alpha"
+        ],
+        "descriptTextMapHash": 3471690776
+    },
+    {
+        "idRawNum": 24601,
+        "nameTextMapHash": 2824153176,
+        "imageNameList": [
+            "UI_SwitchElement"
+        ],
+        "descriptTextMapHash": 3196821320
+    },
+    {
+        "idRawNum": 24701,
+        "nameTextMapHash": 4237072912,
+        "imageNameList": [
+            "UI_Xiangmoyin"
+        ],
+        "descriptTextMapHash": 3076319088
+    },
+    {
+        "idRawNum": 24801,
+        "nameTextMapHash": 2841068696,
+        "imageNameList": [
+            "UI_Effigy_Wind_01_Tutorial01"
+        ],
+        "descriptTextMapHash": 2414001688
+    },
+    {
+        "idRawNum": 24901,
+        "nameTextMapHash": 1436967064,
+        "imageNameList": [
+            "UI_Effigy_Rock_01_Tutorial01"
+        ],
+        "descriptTextMapHash": 557249176
+    },
+    {
+        "idRawNum": 25001,
+        "nameTextMapHash": 3702722280,
+        "imageNameList": [
+            "UI_Shaman_Rock_01_Tutorial01"
+        ],
+        "descriptTextMapHash": 2469801368
+    },
+    {
+        "idRawNum": 25101,
+        "nameTextMapHash": 3728857352,
+        "imageNameList": [
+            "UI_DungeonOpen01"
+        ],
+        "descriptTextMapHash": 2941244152
+    },
+    {
+        "idRawNum": 25102,
+        "nameTextMapHash": 1236559936,
+        "imageNameList": [
+            "UI_DungeonOpen02"
+        ],
+        "descriptTextMapHash": 3738136496
+    },
+    {
+        "idRawNum": 25201,
+        "nameTextMapHash": 2160048864,
+        "imageNameList": [
+            "UI_Activitytask_1"
+        ],
+        "descriptTextMapHash": 3861058824
+    },
+    {
+        "idRawNum": 25301,
+        "nameTextMapHash": 1058608624,
+        "imageNameList": [
+            "UI_Activitytask_2"
+        ],
+        "descriptTextMapHash": 805367464
+    },
+    {
+        "idRawNum": 25401,
+        "nameTextMapHash": 2455794760,
+        "imageNameList": [
+            "UI_Razor_HuntTrap01"
+        ],
+        "descriptTextMapHash": 3949618224
+    },
+    {
+        "idRawNum": 25402,
+        "nameTextMapHash": 3173768504,
+        "imageNameList": [
+            "UI_Razor_HuntTrap02"
+        ],
+        "descriptTextMapHash": 991126760
+    },
+    {
+        "idRawNum": 25501,
+        "nameTextMapHash": 4062143752,
+        "imageNameList": [
+            "UI_PC_MouseTutorial01"
+        ],
+        "descriptTextMapHash": 1067801624
+    },
+    {
+        "idRawNum": 25601,
+        "nameTextMapHash": 3473035872,
+        "imageNameList": [
+            "UI_XQBookMarker"
+        ],
+        "descriptTextMapHash": 3813976416
+    },
+    {
+        "idRawNum": 25701,
+        "nameTextMapHash": 2094037792,
+        "imageNameList": [
+            "UI_Activity_Crucible_01"
+        ],
+        "descriptTextMapHash": 3852256656
+    },
+    {
+        "idRawNum": 25702,
+        "nameTextMapHash": 3184819176,
+        "imageNameList": [
+            "UI_Activity_Crucible_02"
+        ],
+        "descriptTextMapHash": 2240622952
+    },
+    {
+        "idRawNum": 25703,
+        "nameTextMapHash": 2333546288,
+        "imageNameList": [
+            "UI_Activity_Crucible_03"
+        ],
+        "descriptTextMapHash": 1600405520
+    },
+    {
+        "idRawNum": 25704,
+        "nameTextMapHash": 1648424872,
+        "imageNameList": [
+            "UI_Activity_Crucible_04"
+        ],
+        "descriptTextMapHash": 998378032
+    },
+    {
+        "idRawNum": 25705,
+        "nameTextMapHash": 2266168720,
+        "imageNameList": [
+            "UI_Activity_Crucible_05"
+        ],
+        "descriptTextMapHash": 3423267096
+    },
+    {
+        "idRawNum": 25707,
+        "nameTextMapHash": 1675556000,
+        "imageNameList": [
+            "UI_Activity_Crucible_06"
+        ],
+        "descriptTextMapHash": 2257135520
+    },
+    {
+        "idRawNum": 30000,
+        "nameTextMapHash": 1456771616,
+        "imageNameList": [],
+        "descriptTextMapHash": 1664269776
+    },
+    {
+        "idRawNum": 30101,
+        "nameTextMapHash": 3182422176,
+        "imageNameList": [
+            "UI_Tutorial_1"
+        ],
+        "descriptTextMapHash": 3519170480
+    },
+    {
+        "idRawNum": 30201,
+        "nameTextMapHash": 3957234296,
+        "imageNameList": [
+            "UI_Tutorial_2a"
+        ],
+        "descriptTextMapHash": 856876264
+    },
+    {
+        "idRawNum": 30202,
+        "nameTextMapHash": 1192999920,
+        "imageNameList": [
+            "UI_Tutorial_2b"
+        ],
+        "descriptTextMapHash": 2461661152
+    },
+    {
+        "idRawNum": 30301,
+        "nameTextMapHash": 1459600376,
+        "imageNameList": [
+            "UI_Tutorial_3a"
+        ],
+        "descriptTextMapHash": 1754081768
+    },
+    {
+        "idRawNum": 30302,
+        "nameTextMapHash": 3055140184,
+        "imageNameList": [
+            "UI_Tutorial_3b"
+        ],
+        "descriptTextMapHash": 1248067400
+    },
+    {
+        "idRawNum": 30401,
+        "nameTextMapHash": 1790726784,
+        "imageNameList": [
+            "UI_Tutorial_4"
+        ],
+        "descriptTextMapHash": 2271436880
+    },
+    {
+        "idRawNum": 30501,
+        "nameTextMapHash": 3857853008,
+        "imageNameList": [
+            "UI_Tutorial_5"
+        ],
+        "descriptTextMapHash": 515300648
+    },
+    {
+        "idRawNum": 30601,
+        "nameTextMapHash": 261401456,
+        "imageNameList": [
+            "UI_Tutorial_6"
+        ],
+        "descriptTextMapHash": 1797126728
+    },
+    {
+        "idRawNum": 30701,
+        "nameTextMapHash": 2983391968,
+        "imageNameList": [
+            "UI_Tutorial_7"
+        ],
+        "descriptTextMapHash": 2742947008
+    },
+    {
+        "idRawNum": 30801,
+        "nameTextMapHash": 3415351896,
+        "imageNameList": [
+            "UI_Tutorial_8"
+        ],
+        "descriptTextMapHash": 1124734648
+    },
+    {
+        "idRawNum": 30901,
+        "nameTextMapHash": 43427648,
+        "imageNameList": [
+            "UI_Tutorial_9"
+        ],
+        "descriptTextMapHash": 1598706176
+    },
+    {
+        "idRawNum": 31001,
+        "nameTextMapHash": 2703309040,
+        "imageNameList": [
+            "UI_Tutorial_10"
+        ],
+        "descriptTextMapHash": 861735536
+    },
+    {
+        "idRawNum": 31101,
+        "nameTextMapHash": 2269180976,
+        "imageNameList": [
+            "UI_Tutorial_11"
+        ],
+        "descriptTextMapHash": 2354136592
+    },
+    {
+        "idRawNum": 31201,
+        "nameTextMapHash": 2548056752,
+        "imageNameList": [
+            "UI_Tutorial_12"
+        ],
+        "descriptTextMapHash": 1826965608
+    },
+    {
+        "idRawNum": 31301,
+        "nameTextMapHash": 3164001872,
+        "imageNameList": [
+            "UI_Tutorial_13"
+        ],
+        "descriptTextMapHash": 3109000280
+    },
+    {
+        "idRawNum": 31401,
+        "nameTextMapHash": 4195686944,
+        "imageNameList": [
+            "UI_Tutorial_14"
+        ],
+        "descriptTextMapHash": 732132992
+    },
+    {
+        "idRawNum": 31501,
+        "nameTextMapHash": 1107965896,
+        "imageNameList": [
+            "UI_Tutorial_15"
+        ],
+        "descriptTextMapHash": 2211796720
+    },
+    {
+        "idRawNum": 31601,
+        "nameTextMapHash": 2733064640,
+        "imageNameList": [
+            "UI_Tutorial_16"
+        ],
+        "descriptTextMapHash": 4266841448
+    },
+    {
+        "idRawNum": 31701,
+        "nameTextMapHash": 3813469736,
+        "imageNameList": [
+            "UI_Tutorial_17"
+        ],
+        "descriptTextMapHash": 1409406264
+    },
+    {
+        "idRawNum": 31801,
+        "nameTextMapHash": 601133208,
+        "imageNameList": [
+            "UI_Tutorial_18"
+        ],
+        "descriptTextMapHash": 1862290224
+    },
+    {
+        "idRawNum": 31901,
+        "nameTextMapHash": 2747806600,
+        "imageNameList": [
+            "UI_Tutorial_19"
+        ],
+        "descriptTextMapHash": 3245021712
+    },
+    {
+        "idRawNum": 32001,
+        "nameTextMapHash": 1338372392,
+        "imageNameList": [
+            "UI_Tutorial_20"
+        ],
+        "descriptTextMapHash": 1390721760
+    },
+    {
+        "idRawNum": 32101,
+        "nameTextMapHash": 561933152,
+        "imageNameList": [
+            "UI_Tutorial_21"
+        ],
+        "descriptTextMapHash": 4002383280
+    },
+    {
+        "idRawNum": 32201,
+        "nameTextMapHash": 1389992760,
+        "imageNameList": [
+            "UI_Tutorial_22"
+        ],
+        "descriptTextMapHash": 3317238328
+    },
+    {
+        "idRawNum": 32301,
+        "nameTextMapHash": 2934505992,
+        "imageNameList": [
+            "UI_Tutorial_23"
+        ],
+        "descriptTextMapHash": 3216550144
+    },
+    {
+        "idRawNum": 32401,
+        "nameTextMapHash": 900879016,
+        "imageNameList": [
+            "UI_Tutorial_24"
+        ],
+        "descriptTextMapHash": 1452056360
+    },
+    {
+        "idRawNum": 32501,
+        "nameTextMapHash": 1604970336,
+        "imageNameList": [
+            "UI_Tutorial_25a"
+        ],
+        "descriptTextMapHash": 3154867984
+    },
+    {
+        "idRawNum": 32502,
+        "nameTextMapHash": 2094997688,
+        "imageNameList": [
+            "UI_Tutorial_25b"
+        ],
+        "descriptTextMapHash": 2002620672
+    },
+    {
+        "idRawNum": 32601,
+        "nameTextMapHash": 2078707664,
+        "imageNameList": [
+            "UI_Tutorial_26"
+        ],
+        "descriptTextMapHash": 615891736
+    },
+    {
+        "idRawNum": 32701,
+        "nameTextMapHash": 2608212392,
+        "imageNameList": [
+            "UI_Tutorial_27"
+        ],
+        "descriptTextMapHash": 2984862312
+    },
+    {
+        "idRawNum": 32801,
+        "nameTextMapHash": 4248777344,
+        "imageNameList": [
+            "UI_Tutorial_28"
+        ],
+        "descriptTextMapHash": 3418518632
+    },
+    {
+        "idRawNum": 32901,
+        "nameTextMapHash": 380789128,
+        "imageNameList": [
+            "UI_Tutorial_29"
+        ],
+        "descriptTextMapHash": 2870681512
+    },
+    {
+        "idRawNum": 33001,
+        "nameTextMapHash": 1622957736,
+        "imageNameList": [
+            "UI_Tutorial_30"
+        ],
+        "descriptTextMapHash": 1754623912
+    },
+    {
+        "idRawNum": 33101,
+        "nameTextMapHash": 3817641752,
+        "imageNameList": [
+            "UI_Tutorial_31a"
+        ],
+        "descriptTextMapHash": 4173108008
+    },
+    {
+        "idRawNum": 33102,
+        "nameTextMapHash": 493977928,
+        "imageNameList": [
+            "UI_Tutorial_31b"
+        ],
+        "descriptTextMapHash": 3903544712
+    },
+    {
+        "idRawNum": 33201,
+        "nameTextMapHash": 1480828640,
+        "imageNameList": [
+            "UI_Tutorial_32"
+        ],
+        "descriptTextMapHash": 464962160
+    },
+    {
+        "idRawNum": 33301,
+        "nameTextMapHash": 25785400,
+        "imageNameList": [
+            "UI_Tutorial_33"
+        ],
+        "descriptTextMapHash": 954216488
+    },
+    {
+        "idRawNum": 33401,
+        "nameTextMapHash": 430630816,
+        "imageNameList": [
+            "UI_Tutorial_34"
+        ],
+        "descriptTextMapHash": 3954867856
+    },
+    {
+        "idRawNum": 33501,
+        "nameTextMapHash": 3074101600,
+        "imageNameList": [
+            "UI_Tutorial_39"
+        ],
+        "descriptTextMapHash": 4039720784
+    },
+    {
+        "idRawNum": 33601,
+        "nameTextMapHash": 59450320,
+        "imageNameList": [
+            "UI_Tutorial_39b"
+        ],
+        "descriptTextMapHash": 2308598648
+    },
+    {
+        "idRawNum": 33701,
+        "nameTextMapHash": 4055407936,
+        "imageNameList": [
+            "UI_Tutorial_39c"
+        ],
+        "descriptTextMapHash": 3224037216
+    },
+    {
+        "idRawNum": 33801,
+        "nameTextMapHash": 1963222880,
+        "imageNameList": [
+            "UI_Tutorial_40"
+        ],
+        "descriptTextMapHash": 3383827688
+    },
+    {
+        "idRawNum": 33901,
+        "nameTextMapHash": 3692398888,
+        "imageNameList": [
+            "UI_Tutorial_42a"
+        ],
+        "descriptTextMapHash": 2337774208
+    },
+    {
+        "idRawNum": 33902,
+        "nameTextMapHash": 2451906832,
+        "imageNameList": [
+            "UI_Tutorial_42b"
+        ],
+        "descriptTextMapHash": 231192824
+    },
+    {
+        "idRawNum": 40001,
+        "nameTextMapHash": 2238602400,
+        "imageNameList": [
+            "UI_Tutorial_35"
+        ],
+        "descriptTextMapHash": 881756504
+    },
+    {
+        "idRawNum": 40002,
+        "nameTextMapHash": 1458171184,
+        "imageNameList": [
+            "UI_Tutorial_36"
+        ],
+        "descriptTextMapHash": 160429656
+    },
+    {
+        "idRawNum": 40003,
+        "nameTextMapHash": 3623613720,
+        "imageNameList": [
+            "UI_Tutorial_41"
+        ],
+        "descriptTextMapHash": 180671696
+    },
+    {
+        "idRawNum": 50001,
+        "nameTextMapHash": 2627607608,
+        "imageNameList": [
+            "UI_Tutorial_38"
+        ],
+        "descriptTextMapHash": 2367932992
+    },
+    {
+        "idRawNum": 50101,
+        "nameTextMapHash": 71624072,
+        "imageNameList": [
+            "UI_Tutorial_37"
+        ],
+        "descriptTextMapHash": 1563373600
+    },
+    {
+        "idRawNum": 50201,
+        "nameTextMapHash": 1438091400,
+        "imageNameList": [
+            "UI_Tutorial_43"
+        ],
+        "descriptTextMapHash": 723571352
+    },
+    {
+        "idRawNum": 50301,
+        "nameTextMapHash": 918932152,
+        "imageNameList": [
+            "UI_Tutorial_44"
+        ],
+        "descriptTextMapHash": 2176297352
+    },
+    {
+        "idRawNum": 60001,
+        "nameTextMapHash": 3863600984,
+        "imageNameList": [
+            "UI_Tutorial_45a"
+        ],
+        "descriptTextMapHash": 2073165128
+    },
+    {
+        "idRawNum": 60002,
+        "nameTextMapHash": 4243865840,
+        "imageNameList": [
+            "UI_Tutorial_45b"
+        ],
+        "descriptTextMapHash": 1081362216
+    },
+    {
+        "idRawNum": 60201,
+        "nameTextMapHash": 3331898280,
+        "imageNameList": [
+            "UI_Tutorial_46"
+        ],
+        "descriptTextMapHash": 261348152
+    }
+]

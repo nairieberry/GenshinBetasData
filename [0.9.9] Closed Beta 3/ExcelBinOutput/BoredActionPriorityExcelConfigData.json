@@ -1,0 +1,14 @@
+[
+    {
+        "action_type": "BORED_ACTION_CREATE_MONSTER",
+        "weightRawNum": 50
+    },
+    {
+        "action_type": "BORED_ACTION_AMBUSH",
+        "weightRawNum": 0
+    },
+    {
+        "action_type": "BORED_ACTION_ENHANCE_GATHER",
+        "weightRawNum": 0
+    }
+]

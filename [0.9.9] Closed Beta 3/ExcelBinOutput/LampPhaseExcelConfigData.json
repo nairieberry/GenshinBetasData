@@ -1,0 +1,67 @@
+[
+    {
+        "phaseIdRawNum": 1,
+        "nameTextMapHash": 1366724247,
+        "endProgressRawNum": 16000000,
+        "materialVec": [
+            200001,
+            200002,
+            200003
+        ],
+        "GivingIdRawNum": 10,
+        "contributionRawNum": 20,
+        "addProgressRawNum": 20,
+        "rewardIdRawNum": 460001,
+        "notifyGroupIdRawNum": 301001009,
+        "gadgetIdRawNum": 70800018
+    },
+    {
+        "phaseIdRawNum": 2,
+        "nameTextMapHash": 3710451959,
+        "endProgressRawNum": 48000000,
+        "materialVec": [
+            200001,
+            200002,
+            200003
+        ],
+        "GivingIdRawNum": 11,
+        "contributionRawNum": 20,
+        "addProgressRawNum": 20,
+        "rewardIdRawNum": 460002,
+        "notifyGroupIdRawNum": 301001009,
+        "gadgetIdRawNum": 70800019
+    },
+    {
+        "phaseIdRawNum": 3,
+        "nameTextMapHash": 119183415,
+        "endProgressRawNum": 96000000,
+        "materialVec": [
+            200001,
+            200002,
+            200003
+        ],
+        "GivingIdRawNum": 12,
+        "contributionRawNum": 20,
+        "addProgressRawNum": 20,
+        "rewardIdRawNum": 460003,
+        "notifyGroupIdRawNum": 301001009,
+        "gadgetIdRawNum": 70800020
+    },
+    {
+        "phaseIdRawNum": 4,
+        "nameTextMapHash": 3618527783,
+        "endProgressRawNum": 0,
+        "materialVec": [
+            200001,
+            200002,
+            200003
+        ],
+        "GivingIdRawNum": 13,
+        "contributionRawNum": 20,
+        "addProgressRawNum": 0,
+        "isDisplay": true,
+        "rewardIdRawNum": 0,
+        "notifyGroupIdRawNum": 301001009,
+        "gadgetIdRawNum": 0
+    }
+]

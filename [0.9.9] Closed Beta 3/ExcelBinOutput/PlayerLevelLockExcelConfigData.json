@@ -1,0 +1,65 @@
+[
+    {
+        "worldLevelRawNum": 0,
+        "unlockMainQuestIdRawNum": 0,
+        "unlockPlayerLevelRawNum": 0,
+        "playerLevelUpperLimitRawNum": 20,
+        "unlockDescTextMapHash": 3668118392
+    },
+    {
+        "worldLevelRawNum": 1,
+        "unlockMainQuestIdRawNum": 0,
+        "unlockPlayerLevelRawNum": 20,
+        "playerLevelUpperLimitRawNum": 25,
+        "unlockDescTextMapHash": 2168075288
+    },
+    {
+        "worldLevelRawNum": 2,
+        "unlockMainQuestIdRawNum": 25001,
+        "unlockPlayerLevelRawNum": 0,
+        "playerLevelUpperLimitRawNum": 30,
+        "unlockDescTextMapHash": 762318552
+    },
+    {
+        "worldLevelRawNum": 3,
+        "unlockMainQuestIdRawNum": 0,
+        "unlockPlayerLevelRawNum": 30,
+        "playerLevelUpperLimitRawNum": 35,
+        "unlockDescTextMapHash": 2502552624
+    },
+    {
+        "worldLevelRawNum": 4,
+        "unlockMainQuestIdRawNum": 25005,
+        "unlockPlayerLevelRawNum": 0,
+        "playerLevelUpperLimitRawNum": 40,
+        "unlockDescTextMapHash": 639624544
+    },
+    {
+        "worldLevelRawNum": 5,
+        "unlockMainQuestIdRawNum": 0,
+        "unlockPlayerLevelRawNum": 40,
+        "playerLevelUpperLimitRawNum": 45,
+        "unlockDescTextMapHash": 3592007880
+    },
+    {
+        "worldLevelRawNum": 6,
+        "unlockMainQuestIdRawNum": 25009,
+        "unlockPlayerLevelRawNum": 0,
+        "playerLevelUpperLimitRawNum": 50,
+        "unlockDescTextMapHash": 2426735400
+    },
+    {
+        "worldLevelRawNum": 7,
+        "unlockMainQuestIdRawNum": 0,
+        "unlockPlayerLevelRawNum": 50,
+        "playerLevelUpperLimitRawNum": 55,
+        "unlockDescTextMapHash": 1042765424
+    },
+    {
+        "worldLevelRawNum": 8,
+        "unlockMainQuestIdRawNum": 0,
+        "unlockPlayerLevelRawNum": 55,
+        "playerLevelUpperLimitRawNum": 60,
+        "unlockDescTextMapHash": 3983686520
+    }
+]

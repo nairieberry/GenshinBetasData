@@ -1,0 +1,20 @@
+[
+    {
+        "play_type": "PRODUCT_PLAY_TYPE_BATTLE_PASS_NORMAL",
+        "itemNameTextMapHash": 2954122142,
+        "productId": "ys_chn_bp_normal_tier10",
+        "priceTier": "Tier_10"
+    },
+    {
+        "play_type": "PRODUCT_PLAY_TYPE_BATTLE_PASS_EXTRA",
+        "itemNameTextMapHash": 4038667198,
+        "productId": "ys_glb_bp_extra_tier11",
+        "priceTier": "Test_Tier_1"
+    },
+    {
+        "play_type": "PRODUCT_PLAY_TYPE_BATTLE_PASS_UPGRADE",
+        "itemNameTextMapHash": 2707119961,
+        "productId": "ys_glb_bp_upgrade_tier10",
+        "priceTier": "Test_Tier_1"
+    }
+]

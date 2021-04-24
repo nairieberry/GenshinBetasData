@@ -1,0 +1,1022 @@
+[
+    {
+        "idRawNum": 1,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003052,
+        "triggerName": "ENTER_REGION_21"
+    },
+    {
+        "idRawNum": 2,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003055,
+        "triggerName": "ENTER_REGION_22"
+    },
+    {
+        "idRawNum": 1001,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_24"
+    },
+    {
+        "idRawNum": 1002,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_2"
+    },
+    {
+        "idRawNum": 1003,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_27"
+    },
+    {
+        "idRawNum": 1004,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_33"
+    },
+    {
+        "idRawNum": 1011,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133001901,
+        "triggerName": "ENTER_REGION_11"
+    },
+    {
+        "idRawNum": 1012,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133001901,
+        "triggerName": "ENTER_REGION_12"
+    },
+    {
+        "idRawNum": 1013,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_3"
+    },
+    {
+        "idRawNum": 1014,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_4"
+    },
+    {
+        "idRawNum": 1015,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_5"
+    },
+    {
+        "idRawNum": 1016,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_36"
+    },
+    {
+        "idRawNum": 1017,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_35"
+    },
+    {
+        "idRawNum": 1018,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_38"
+    },
+    {
+        "idRawNum": 1019,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003001,
+        "triggerName": "ENTER_REGION_39"
+    },
+    {
+        "idRawNum": 1020,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_40"
+    },
+    {
+        "idRawNum": 1021,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_68"
+    },
+    {
+        "idRawNum": 1022,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_75"
+    },
+    {
+        "idRawNum": 1023,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_7"
+    },
+    {
+        "idRawNum": 1024,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_6"
+    },
+    {
+        "idRawNum": 1025,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_21"
+    },
+    {
+        "idRawNum": 1026,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_22"
+    },
+    {
+        "idRawNum": 1027,
+        "sceneIdRawNum": 1008,
+        "groupIdRawNum": 201008901,
+        "triggerName": "ENTER_REGION_1"
+    },
+    {
+        "idRawNum": 1028,
+        "sceneIdRawNum": 1008,
+        "groupIdRawNum": 201008901,
+        "triggerName": "ENTER_REGION_2"
+    },
+    {
+        "idRawNum": 1029,
+        "sceneIdRawNum": 1008,
+        "groupIdRawNum": 201008901,
+        "triggerName": "ENTER_REGION_3"
+    },
+    {
+        "idRawNum": 1030,
+        "sceneIdRawNum": 1004,
+        "groupIdRawNum": 201004901,
+        "triggerName": "ENTER_REGION_1"
+    },
+    {
+        "idRawNum": 1031,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_14"
+    },
+    {
+        "idRawNum": 1032,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_24"
+    },
+    {
+        "idRawNum": 1033,
+        "sceneIdRawNum": 1009,
+        "groupIdRawNum": 201009901,
+        "triggerName": "ENTER_REGION_1"
+    },
+    {
+        "idRawNum": 1034,
+        "sceneIdRawNum": 1009,
+        "groupIdRawNum": 201009901,
+        "triggerName": "ENTER_REGION_2"
+    },
+    {
+        "idRawNum": 1035,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_66"
+    },
+    {
+        "idRawNum": 1036,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_76"
+    },
+    {
+        "idRawNum": 1037,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_18"
+    },
+    {
+        "idRawNum": 1038,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_19"
+    },
+    {
+        "idRawNum": 1039,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_20"
+    },
+    {
+        "idRawNum": 1040,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_67"
+    },
+    {
+        "idRawNum": 1041,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_68"
+    },
+    {
+        "idRawNum": 1042,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_69"
+    },
+    {
+        "idRawNum": 1043,
+        "sceneIdRawNum": 1005,
+        "groupIdRawNum": 201005901,
+        "triggerName": "ENTER_REGION_3"
+    },
+    {
+        "idRawNum": 1044,
+        "sceneIdRawNum": 1005,
+        "groupIdRawNum": 201005901,
+        "triggerName": "ENTER_REGION_2"
+    },
+    {
+        "idRawNum": 1045,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_21"
+    },
+    {
+        "idRawNum": 1046,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_19"
+    },
+    {
+        "idRawNum": 1047,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_20"
+    },
+    {
+        "idRawNum": 1048,
+        "sceneIdRawNum": 20009,
+        "groupIdRawNum": 220009901,
+        "triggerName": "ENTER_REGION_28"
+    },
+    {
+        "idRawNum": 1049,
+        "sceneIdRawNum": 20009,
+        "groupIdRawNum": 220009901,
+        "triggerName": "ENTER_REGION_29"
+    },
+    {
+        "idRawNum": 1050,
+        "sceneIdRawNum": 20009,
+        "groupIdRawNum": 220009901,
+        "triggerName": "ENTER_REGION_30"
+    },
+    {
+        "idRawNum": 1051,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_25"
+    },
+    {
+        "idRawNum": 1052,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_107"
+    },
+    {
+        "idRawNum": 1053,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_84"
+    },
+    {
+        "idRawNum": 1054,
+        "sceneIdRawNum": 20008,
+        "groupIdRawNum": 220008901,
+        "triggerName": "ENTER_REGION_41"
+    },
+    {
+        "idRawNum": 1055,
+        "sceneIdRawNum": 20008,
+        "groupIdRawNum": 220008901,
+        "triggerName": "ENTER_REGION_42"
+    },
+    {
+        "idRawNum": 1056,
+        "sceneIdRawNum": 20008,
+        "groupIdRawNum": 220008901,
+        "triggerName": "ENTER_REGION_43"
+    },
+    {
+        "idRawNum": 1057,
+        "sceneIdRawNum": 20011,
+        "groupIdRawNum": 220011901,
+        "triggerName": "ENTER_REGION_49"
+    },
+    {
+        "idRawNum": 1058,
+        "sceneIdRawNum": 20011,
+        "groupIdRawNum": 220011901,
+        "triggerName": "ENTER_REGION_50"
+    },
+    {
+        "idRawNum": 1059,
+        "sceneIdRawNum": 20011,
+        "groupIdRawNum": 220011901,
+        "triggerName": "ENTER_REGION_51"
+    },
+    {
+        "idRawNum": 1060,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_28"
+    },
+    {
+        "idRawNum": 1061,
+        "sceneIdRawNum": 20011,
+        "groupIdRawNum": 220011901,
+        "triggerName": "ENTER_REGION_55"
+    },
+    {
+        "idRawNum": 1062,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_33"
+    },
+    {
+        "idRawNum": 1063,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_147"
+    },
+    {
+        "idRawNum": 1064,
+        "sceneIdRawNum": 20016,
+        "groupIdRawNum": 220016901,
+        "triggerName": "ENTER_REGION_4"
+    },
+    {
+        "idRawNum": 1065,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133001901,
+        "triggerName": "ENTER_REGION_162"
+    },
+    {
+        "idRawNum": 1066,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133001901,
+        "triggerName": "ENTER_REGION_163"
+    },
+    {
+        "idRawNum": 1067,
+        "sceneIdRawNum": 1004,
+        "groupIdRawNum": 201004901,
+        "triggerName": "ENTER_REGION_2"
+    },
+    {
+        "idRawNum": 1068,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_60"
+    },
+    {
+        "idRawNum": 1069,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_61"
+    },
+    {
+        "idRawNum": 1070,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_23"
+    },
+    {
+        "idRawNum": 1071,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133001902,
+        "triggerName": "ENTER_REGION_186"
+    },
+    {
+        "idRawNum": 1072,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_63"
+    },
+    {
+        "idRawNum": 1073,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_185"
+    },
+    {
+        "idRawNum": 1074,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133001166,
+        "triggerName": "ENTER_REGION_209"
+    },
+    {
+        "idRawNum": 1075,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133001902,
+        "triggerName": "ENTER_REGION_217"
+    },
+    {
+        "idRawNum": 1076,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133001903,
+        "triggerName": "ENTER_REGION_239"
+    },
+    {
+        "idRawNum": 1077,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_70"
+    },
+    {
+        "idRawNum": 1078,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_225"
+    },
+    {
+        "idRawNum": 1079,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_226"
+    },
+    {
+        "idRawNum": 1080,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_227"
+    },
+    {
+        "idRawNum": 1081,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_78"
+    },
+    {
+        "idRawNum": 1082,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_97"
+    },
+    {
+        "idRawNum": 1083,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_98"
+    },
+    {
+        "idRawNum": 1084,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_99"
+    },
+    {
+        "idRawNum": 1085,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_154"
+    },
+    {
+        "idRawNum": 1086,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_155"
+    },
+    {
+        "idRawNum": 1087,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_156"
+    },
+    {
+        "idRawNum": 1088,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_157"
+    },
+    {
+        "idRawNum": 1089,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_118"
+    },
+    {
+        "idRawNum": 1090,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_119"
+    },
+    {
+        "idRawNum": 1091,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_120"
+    },
+    {
+        "idRawNum": 1092,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_178"
+    },
+    {
+        "idRawNum": 1093,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_463"
+    },
+    {
+        "idRawNum": 1094,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_180"
+    },
+    {
+        "idRawNum": 1095,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_502"
+    },
+    {
+        "idRawNum": 1096,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133001901,
+        "triggerName": "ENTER_REGION_420"
+    },
+    {
+        "idRawNum": 1097,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_257"
+    },
+    {
+        "idRawNum": 1098,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_258"
+    },
+    {
+        "idRawNum": 1099,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_259"
+    },
+    {
+        "idRawNum": 1100,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_504"
+    },
+    {
+        "idRawNum": 1101,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_505"
+    },
+    {
+        "idRawNum": 1102,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_244"
+    },
+    {
+        "idRawNum": 1103,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_512"
+    },
+    {
+        "idRawNum": 1104,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_513"
+    },
+    {
+        "idRawNum": 1105,
+        "sceneIdRawNum": 20009,
+        "groupIdRawNum": 220009901,
+        "triggerName": "ENTER_REGION_56"
+    },
+    {
+        "idRawNum": 1106,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_277"
+    },
+    {
+        "idRawNum": 1107,
+        "sceneIdRawNum": 1004,
+        "groupIdRawNum": 201004901,
+        "triggerName": "ENTER_REGION_3"
+    },
+    {
+        "idRawNum": 1108,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_546"
+    },
+    {
+        "idRawNum": 1109,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_547"
+    },
+    {
+        "idRawNum": 1110,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_555"
+    },
+    {
+        "idRawNum": 1111,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_556"
+    },
+    {
+        "idRawNum": 1112,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_557"
+    },
+    {
+        "idRawNum": 1113,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004904,
+        "triggerName": "ENTER_REGION_282"
+    },
+    {
+        "idRawNum": 1114,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004904,
+        "triggerName": "ENTER_REGION_283"
+    },
+    {
+        "idRawNum": 1115,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004904,
+        "triggerName": "ENTER_REGION_284"
+    },
+    {
+        "idRawNum": 1116,
+        "sceneIdRawNum": 1004,
+        "groupIdRawNum": 201004904,
+        "triggerName": "ENTER_REGION_4"
+    },
+    {
+        "idRawNum": 1117,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004905,
+        "triggerName": "ENTER_REGION_285"
+    },
+    {
+        "idRawNum": 1118,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133001904,
+        "triggerName": "ENTER_REGION_446"
+    },
+    {
+        "idRawNum": 1119,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133001904,
+        "triggerName": "ENTER_REGION_502"
+    },
+    {
+        "idRawNum": 1120,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_316"
+    },
+    {
+        "idRawNum": 1121,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_317"
+    },
+    {
+        "idRawNum": 1122,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_318"
+    },
+    {
+        "idRawNum": 1123,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_321"
+    },
+    {
+        "idRawNum": 1124,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_287"
+    },
+    {
+        "idRawNum": 1125,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_288"
+    },
+    {
+        "idRawNum": 1126,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_289"
+    },
+    {
+        "idRawNum": 1127,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_331"
+    },
+    {
+        "idRawNum": 1129,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133001905,
+        "triggerName": "ENTER_REGION_466"
+    },
+    {
+        "idRawNum": 1130,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133001905,
+        "triggerName": "ENTER_REGION_471"
+    },
+    {
+        "idRawNum": 1131,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_595"
+    },
+    {
+        "idRawNum": 1132,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_596"
+    },
+    {
+        "idRawNum": 1133,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_333"
+    },
+    {
+        "idRawNum": 1134,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_334"
+    },
+    {
+        "idRawNum": 1135,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133103901,
+        "triggerName": "ENTER_REGION_95"
+    },
+    {
+        "idRawNum": 1136,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133103901,
+        "triggerName": "ENTER_REGION_901001"
+    },
+    {
+        "idRawNum": 1137,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_366"
+    },
+    {
+        "idRawNum": 1138,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_373"
+    },
+    {
+        "idRawNum": 1139,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133102901,
+        "triggerName": "ENTER_REGION_368"
+    },
+    {
+        "idRawNum": 1140,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133102901,
+        "triggerName": "ENTER_REGION_367"
+    },
+    {
+        "idRawNum": 1141,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_324"
+    },
+    {
+        "idRawNum": 1142,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_325"
+    },
+    {
+        "idRawNum": 1143,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_601"
+    },
+    {
+        "idRawNum": 1144,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "LEAVE_REGION_606"
+    },
+    {
+        "idRawNum": 1145,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004910,
+        "triggerName": "ENTER_REGION_910043"
+    },
+    {
+        "idRawNum": 1146,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_901001"
+    },
+    {
+        "idRawNum": 1147,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133007901,
+        "triggerName": "ENTER_REGION_901001"
+    },
+    {
+        "idRawNum": 1148,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_901001"
+    },
+    {
+        "idRawNum": 1149,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_901002"
+    },
+    {
+        "idRawNum": 1150,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_901003"
+    },
+    {
+        "idRawNum": 1151,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_901004"
+    },
+    {
+        "idRawNum": 1152,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_901005"
+    },
+    {
+        "idRawNum": 1153,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_901006"
+    },
+    {
+        "idRawNum": 1154,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133107901,
+        "triggerName": "ENTER_REGION_901001"
+    },
+    {
+        "idRawNum": 1155,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133002901,
+        "triggerName": "ENTER_REGION_901007"
+    },
+    {
+        "idRawNum": 1156,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133001905,
+        "triggerName": "ENTER_REGION_905001"
+    },
+    {
+        "idRawNum": 1157,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_901001"
+    },
+    {
+        "idRawNum": 1158,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133107901,
+        "triggerName": "ENTER_REGION_901002"
+    },
+    {
+        "idRawNum": 1159,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133107901,
+        "triggerName": "ENTER_REGION_901003"
+    },
+    {
+        "idRawNum": 1160,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133103904,
+        "triggerName": "ENTER_REGION_904001"
+    },
+    {
+        "idRawNum": 1161,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133107901,
+        "triggerName": "ENTER_REGION_901004"
+    },
+    {
+        "idRawNum": 1162,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133107901,
+        "triggerName": "ENTER_REGION_901005"
+    },
+    {
+        "idRawNum": 1163,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133107901,
+        "triggerName": "ENTER_REGION_901006"
+    },
+    {
+        "idRawNum": 1164,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133107901,
+        "triggerName": "ENTER_REGION_901007"
+    },
+    {
+        "idRawNum": 1165,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133107901,
+        "triggerName": "ENTER_REGION_901008"
+    },
+    {
+        "idRawNum": 1166,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133103901,
+        "triggerName": "ENTER_REGION_901002"
+    },
+    {
+        "idRawNum": 1167,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133103901,
+        "triggerName": "ENTER_REGION_901003"
+    },
+    {
+        "idRawNum": 1168,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133103901,
+        "triggerName": "ENTER_REGION_901004"
+    },
+    {
+        "idRawNum": 1169,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133103901,
+        "triggerName": "ENTER_REGION_901005"
+    },
+    {
+        "idRawNum": 1170,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133103901,
+        "triggerName": "ENTER_REGION_901006"
+    },
+    {
+        "idRawNum": 1171,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133004901,
+        "triggerName": "ENTER_REGION_901002"
+    },
+    {
+        "idRawNum": 1172,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_901002"
+    },
+    {
+        "idRawNum": 1173,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133003901,
+        "triggerName": "ENTER_REGION_901003"
+    },
+    {
+        "idRawNum": 1174,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133102904,
+        "triggerName": "ENTER_REGION_904010"
+    },
+    {
+        "idRawNum": 1175,
+        "sceneIdRawNum": 3,
+        "groupIdRawNum": 133104913,
+        "triggerName": "ENTER_REGION_913006"
+    }
+]

@@ -1,0 +1,662 @@
+[
+    {
+        "idRawNum": 1,
+        "nameTextMapHash": 401327791,
+        "icon": "UI_MonsterIcon_Camp_01",
+        "descTextMapHash": 565619705,
+        "cityIdRawNum": 1,
+        "refreshType": "BLOSSOM_REFRESH_SCOIN",
+        "refreshCountRawNum": 1,
+        "refreshTime": "04:00:00",
+        "openLevelRawNum": 12,
+        "closeLevelRawNum": 0,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 1,
+        "camp_update_need_countRawNum": 1,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 207000400,
+                "preview_rewardRawNum": 4101
+            },
+            {
+                "drop_idRawNum": 207000800,
+                "preview_rewardRawNum": 4103
+            },
+            {
+                "drop_idRawNum": 207000900,
+                "preview_rewardRawNum": 4104
+            },
+            {
+                "drop_idRawNum": 207001000,
+                "preview_rewardRawNum": 4105
+            },
+            {
+                "drop_idRawNum": 207001100,
+                "preview_rewardRawNum": 4106
+            },
+            {
+                "drop_idRawNum": 207001200,
+                "preview_rewardRawNum": 4107
+            },
+            {
+                "drop_idRawNum": 207001300,
+                "preview_rewardRawNum": 4108
+            },
+            {
+                "drop_idRawNum": 207001400,
+                "preview_rewardRawNum": 4109
+            },
+            {
+                "drop_idRawNum": 207001500,
+                "preview_rewardRawNum": 4110
+            }
+        ],
+        "clientShowType": "BLOSSOM_SHOWTYPE_CHALLENGE"
+    },
+    {
+        "idRawNum": 2,
+        "nameTextMapHash": 3301346927,
+        "icon": "UI_MonsterIcon_Camp_02",
+        "descTextMapHash": 3731213553,
+        "cityIdRawNum": 1,
+        "refreshType": "BLOSSOM_REFRESH_EXP",
+        "refreshCountRawNum": 1,
+        "refreshTime": "04:00:00",
+        "openLevelRawNum": 8,
+        "closeLevelRawNum": 0,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 2,
+        "camp_update_need_countRawNum": 1,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 206000400,
+                "preview_rewardRawNum": 4001
+            },
+            {
+                "drop_idRawNum": 206000800,
+                "preview_rewardRawNum": 4003
+            },
+            {
+                "drop_idRawNum": 206000900,
+                "preview_rewardRawNum": 4004
+            },
+            {
+                "drop_idRawNum": 206001000,
+                "preview_rewardRawNum": 4005
+            },
+            {
+                "drop_idRawNum": 206001100,
+                "preview_rewardRawNum": 4006
+            },
+            {
+                "drop_idRawNum": 206001200,
+                "preview_rewardRawNum": 4007
+            },
+            {
+                "drop_idRawNum": 206001300,
+                "preview_rewardRawNum": 4008
+            },
+            {
+                "drop_idRawNum": 206001400,
+                "preview_rewardRawNum": 4009
+            },
+            {
+                "drop_idRawNum": 206001500,
+                "preview_rewardRawNum": 4010
+            }
+        ],
+        "clientShowType": "BLOSSOM_SHOWTYPE_CHALLENGE"
+    },
+    {
+        "idRawNum": 3,
+        "nameTextMapHash": 1214359487,
+        "icon": "UI_MonsterIcon_Camp_01",
+        "descTextMapHash": 4103809745,
+        "cityIdRawNum": 2,
+        "refreshType": "BLOSSOM_REFRESH_SCOIN",
+        "refreshCountRawNum": 1,
+        "refreshTime": "04:00:00",
+        "openLevelRawNum": 12,
+        "closeLevelRawNum": 0,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 1,
+        "camp_update_need_countRawNum": 1,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 207000400,
+                "preview_rewardRawNum": 4101
+            },
+            {
+                "drop_idRawNum": 207000800,
+                "preview_rewardRawNum": 4103
+            },
+            {
+                "drop_idRawNum": 207000900,
+                "preview_rewardRawNum": 4104
+            },
+            {
+                "drop_idRawNum": 207001000,
+                "preview_rewardRawNum": 4105
+            },
+            {
+                "drop_idRawNum": 207001100,
+                "preview_rewardRawNum": 4106
+            },
+            {
+                "drop_idRawNum": 207001200,
+                "preview_rewardRawNum": 4107
+            },
+            {
+                "drop_idRawNum": 207001300,
+                "preview_rewardRawNum": 4108
+            },
+            {
+                "drop_idRawNum": 207001400,
+                "preview_rewardRawNum": 4109
+            },
+            {
+                "drop_idRawNum": 207001500,
+                "preview_rewardRawNum": 4110
+            }
+        ],
+        "clientShowType": "BLOSSOM_SHOWTYPE_CHALLENGE"
+    },
+    {
+        "idRawNum": 4,
+        "nameTextMapHash": 2028433687,
+        "icon": "UI_MonsterIcon_Camp_02",
+        "descTextMapHash": 1074281265,
+        "cityIdRawNum": 2,
+        "refreshType": "BLOSSOM_REFRESH_EXP",
+        "refreshCountRawNum": 1,
+        "refreshTime": "04:00:00",
+        "openLevelRawNum": 12,
+        "closeLevelRawNum": 0,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 2,
+        "camp_update_need_countRawNum": 1,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 206000400,
+                "preview_rewardRawNum": 4001
+            },
+            {
+                "drop_idRawNum": 206000800,
+                "preview_rewardRawNum": 4003
+            },
+            {
+                "drop_idRawNum": 206000900,
+                "preview_rewardRawNum": 4004
+            },
+            {
+                "drop_idRawNum": 206001000,
+                "preview_rewardRawNum": 4005
+            },
+            {
+                "drop_idRawNum": 206001100,
+                "preview_rewardRawNum": 4006
+            },
+            {
+                "drop_idRawNum": 206001200,
+                "preview_rewardRawNum": 4007
+            },
+            {
+                "drop_idRawNum": 206001300,
+                "preview_rewardRawNum": 4008
+            },
+            {
+                "drop_idRawNum": 206001400,
+                "preview_rewardRawNum": 4009
+            },
+            {
+                "drop_idRawNum": 206001500,
+                "preview_rewardRawNum": 4010
+            }
+        ],
+        "clientShowType": "BLOSSOM_SHOWTYPE_CHALLENGE"
+    },
+    {
+        "idRawNum": 5,
+        "nameTextMapHash": 2175153615,
+        "icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "descTextMapHash": 3958603497,
+        "cityIdRawNum": 1,
+        "refreshType": "BLOSSOM_REFRESH_CRYSTAL",
+        "refreshCountRawNum": 3,
+        "refreshTime": "06:00:00",
+        "openLevelRawNum": 2,
+        "closeLevelRawNum": 29,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 0,
+        "camp_update_need_countRawNum": 0,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            }
+        ],
+        "clientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    },
+    {
+        "idRawNum": 6,
+        "nameTextMapHash": 1305217375,
+        "icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "descTextMapHash": 588666081,
+        "cityIdRawNum": 1,
+        "refreshType": "BLOSSOM_REFRESH_CRYSTAL",
+        "refreshCountRawNum": 3,
+        "refreshTime": "06:00:00",
+        "openLevelRawNum": 2,
+        "closeLevelRawNum": 29,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 0,
+        "camp_update_need_countRawNum": 0,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            }
+        ],
+        "clientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    },
+    {
+        "idRawNum": 7,
+        "nameTextMapHash": 3787269007,
+        "icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "descTextMapHash": 1177534665,
+        "cityIdRawNum": 2,
+        "refreshType": "BLOSSOM_REFRESH_CRYSTAL",
+        "refreshCountRawNum": 5,
+        "refreshTime": "06:00:00",
+        "openLevelRawNum": 2,
+        "closeLevelRawNum": 29,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 0,
+        "camp_update_need_countRawNum": 0,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            }
+        ],
+        "clientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    },
+    {
+        "idRawNum": 8,
+        "nameTextMapHash": 1736761551,
+        "icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "descTextMapHash": 363571977,
+        "cityIdRawNum": 2,
+        "refreshType": "BLOSSOM_REFRESH_CRYSTAL",
+        "refreshCountRawNum": 5,
+        "refreshTime": "06:00:00",
+        "openLevelRawNum": 2,
+        "closeLevelRawNum": 29,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 0,
+        "camp_update_need_countRawNum": 0,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            }
+        ],
+        "clientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    },
+    {
+        "idRawNum": 9,
+        "nameTextMapHash": 1649656023,
+        "icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "descTextMapHash": 315729313,
+        "cityIdRawNum": 1,
+        "refreshType": "BLOSSOM_REFRESH_INFUSED_CRYSTAL",
+        "refreshCountRawNum": 3,
+        "refreshTime": "06:00:00",
+        "openLevelRawNum": 30,
+        "closeLevelRawNum": 0,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 0,
+        "camp_update_need_countRawNum": 0,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            }
+        ],
+        "clientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    },
+    {
+        "idRawNum": 10,
+        "nameTextMapHash": 969026335,
+        "icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "descTextMapHash": 560581649,
+        "cityIdRawNum": 1,
+        "refreshType": "BLOSSOM_REFRESH_INFUSED_CRYSTAL",
+        "refreshCountRawNum": 3,
+        "refreshTime": "06:00:00",
+        "openLevelRawNum": 30,
+        "closeLevelRawNum": 0,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 0,
+        "camp_update_need_countRawNum": 0,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            }
+        ],
+        "clientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    },
+    {
+        "idRawNum": 11,
+        "nameTextMapHash": 744591535,
+        "icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "descTextMapHash": 4203860761,
+        "cityIdRawNum": 2,
+        "refreshType": "BLOSSOM_REFRESH_INFUSED_CRYSTAL",
+        "refreshCountRawNum": 5,
+        "refreshTime": "06:00:00",
+        "openLevelRawNum": 30,
+        "closeLevelRawNum": 0,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 0,
+        "camp_update_need_countRawNum": 0,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            }
+        ],
+        "clientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    },
+    {
+        "idRawNum": 12,
+        "nameTextMapHash": 2328046679,
+        "icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "descTextMapHash": 1820652065,
+        "cityIdRawNum": 2,
+        "refreshType": "BLOSSOM_REFRESH_INFUSED_CRYSTAL",
+        "refreshCountRawNum": 5,
+        "refreshTime": "06:00:00",
+        "openLevelRawNum": 30,
+        "closeLevelRawNum": 0,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 0,
+        "camp_update_need_countRawNum": 0,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            },
+            {
+                "drop_idRawNum": 7000000,
+                "preview_rewardRawNum": 0
+            }
+        ],
+        "clientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    }
+]

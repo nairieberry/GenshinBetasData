@@ -1,0 +1,642 @@
+[
+    {
+        "configIdRawNum": 1,
+        "dayCountRawNum": 1,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 201,
+                "countRawNum": 1,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 104101,
+                "countRawNum": 1,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1,
+        "dayCountRawNum": 2,
+        "periodIdRawNum": 2,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 202,
+                "countRawNum": 2,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 104102,
+                "countRawNum": 2,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1,
+        "dayCountRawNum": 3,
+        "periodIdRawNum": 3,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 202,
+                "countRawNum": 2,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 104102,
+                "countRawNum": 2,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 2,
+        "dayCountRawNum": 1,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 201,
+                "countRawNum": 1,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 104101,
+                "countRawNum": 1,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 2,
+        "dayCountRawNum": 2,
+        "periodIdRawNum": 2,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 201,
+                "countRawNum": 1,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 104101,
+                "countRawNum": 1,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 2,
+        "dayCountRawNum": 3,
+        "periodIdRawNum": 3,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 201,
+                "countRawNum": 1,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 104101,
+                "countRawNum": 1,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1001,
+        "dayCountRawNum": 1,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 104002,
+                "countRawNum": 5,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1001,
+        "dayCountRawNum": 2,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 104012,
+                "countRawNum": 10,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1001,
+        "dayCountRawNum": 3,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 104003,
+                "countRawNum": 3,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1001,
+        "dayCountRawNum": 4,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 201,
+                "countRawNum": 50,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1001,
+        "dayCountRawNum": 5,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 104013,
+                "countRawNum": 5,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1001,
+        "dayCountRawNum": 6,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 202,
+                "countRawNum": 20000,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1001,
+        "dayCountRawNum": 7,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 224,
+                "countRawNum": 2,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1002,
+        "dayCountRawNum": 1,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 104001,
+                "countRawNum": 15,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1002,
+        "dayCountRawNum": 2,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 104012,
+                "countRawNum": 15,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1002,
+        "dayCountRawNum": 3,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 104002,
+                "countRawNum": 10,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1002,
+        "dayCountRawNum": 4,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 224,
+                "countRawNum": 1,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1002,
+        "dayCountRawNum": 5,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 202,
+                "countRawNum": 30000,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1002,
+        "dayCountRawNum": 6,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 104003,
+                "countRawNum": 5,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    },
+    {
+        "configIdRawNum": 1002,
+        "dayCountRawNum": 7,
+        "periodIdRawNum": 1,
+        "rewardItemList": [
+            {
+                "itemIdRawNum": 201,
+                "countRawNum": 300,
+                "qualityRawNum": 1
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "qualityRawNum": 0
+            }
+        ]
+    }
+]

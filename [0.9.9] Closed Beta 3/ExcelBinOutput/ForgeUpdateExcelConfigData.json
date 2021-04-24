@@ -1,0 +1,18 @@
+[
+    {
+        "playerLevelRawNum": 1,
+        "forgeQueueNumRawNum": 1
+    },
+    {
+        "playerLevelRawNum": 5,
+        "forgeQueueNumRawNum": 2
+    },
+    {
+        "playerLevelRawNum": 10,
+        "forgeQueueNumRawNum": 3
+    },
+    {
+        "playerLevelRawNum": 15,
+        "forgeQueueNumRawNum": 4
+    }
+]

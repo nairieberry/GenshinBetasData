@@ -1,0 +1,198 @@
+[
+    {
+        "shopIdRawNum": 101,
+        "shopType": "SHOP_TYPE_VIRTUAL_SHOP",
+        "refreshParamRawNum": 0,
+        "openStateType": "OPEN_STATE_SHOP_TYPE_VIRTUAL_SHOP"
+    },
+    {
+        "shopIdRawNum": 102,
+        "shopType": "SHOP_TYPE_PAIMON",
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "openStateType": "OPEN_STATE_SHOP_TYPE_PAIMON"
+    },
+    {
+        "shopIdRawNum": 103,
+        "shopType": "SHOP_TYPE_PACKAGE",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 201,
+        "shopType": "SHOP_TYPE_CITY",
+        "refreshParamRawNum": 0,
+        "openStateType": "OPEN_STATE_SHOP_TYPE_CITY"
+    },
+    {
+        "shopIdRawNum": 202,
+        "shopType": "SHOP_TYPE_BLACKSMITH",
+        "refreshParamRawNum": 0,
+        "openStateType": "OPEN_STATE_SHOP_TYPE_BLACKSMITH"
+    },
+    {
+        "shopIdRawNum": 203,
+        "shopType": "SHOP_TYPE_GROCERY",
+        "refreshParamRawNum": 0,
+        "openStateType": "OPEN_STATE_SHOP_TYPE_GROCERY"
+    },
+    {
+        "shopIdRawNum": 204,
+        "shopType": "SHOP_TYPE_FOOD",
+        "refreshParamRawNum": 0,
+        "openStateType": "OPEN_STATE_SHOP_TYPE_FOOD"
+    },
+    {
+        "shopIdRawNum": 205,
+        "shopType": "SHOP_TYPE_NPC_Flora",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 206,
+        "shopType": "SHOP_TYPE_NPC_Charles",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 207,
+        "shopType": "SHOP_TYPE_NPC_Shiliu",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 208,
+        "shopType": "SHOP_TYPE_NPC_Schulz",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 209,
+        "shopType": "SHOP_TYPE_NPC_Brook",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 210,
+        "shopType": "SHOP_TYPE_NPC_Hopkins",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 211,
+        "shopType": "SHOP_TYPE_NPC_Draff",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 212,
+        "shopType": "SHOP_TYPE_NPC_Chloris",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 301,
+        "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+        "refreshParamRawNum": 0,
+        "openStateType": "OPEN_STATE_SHOP_TYPE_LIYUE_SOUVENIR"
+    },
+    {
+        "shopIdRawNum": 302,
+        "shopType": "SHOP_TYPE_LIYUE_GROCERY",
+        "refreshParamRawNum": 0,
+        "openStateType": "OPEN_STATE_SHOP_TYPE_LIYUE_GROCERY"
+    },
+    {
+        "shopIdRawNum": 303,
+        "shopType": "SHOP_TYPE_LIYUE_RESTAURANT",
+        "refreshParamRawNum": 0,
+        "openStateType": "OPEN_STATE_SHOP_TYPE_LIYUE_RESTAURANT"
+    },
+    {
+        "shopIdRawNum": 304,
+        "shopType": "SHOP_TYPE_NPC_Licai",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 305,
+        "shopType": "SHOP_TYPE_NPC_Yueshu",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 306,
+        "shopType": "SHOP_TYPE_NPC_Gui",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 307,
+        "shopType": "SHOP_TYPE_NPC_Gao",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 308,
+        "shopType": "SHOP_TYPE_NPC_Sun",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 309,
+        "shopType": "SHOP_TYPE_NPC_Qiming",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 310,
+        "shopType": "SHOP_TYPE_NPC_Zhangshun",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 311,
+        "shopType": "SHOP_TYPE_NPC_Chen",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 312,
+        "shopType": "SHOP_TYPE_NPC_ErNiang",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 313,
+        "shopType": "SHOP_TYPE_NPC_Shitou",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 314,
+        "shopType": "SHOP_TYPE_NPC_Jifang",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 315,
+        "shopType": "SHOP_TYPE_NPC_Zhu",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 316,
+        "shopType": "SHOP_TYPE_NPC_Bai",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 317,
+        "shopType": "SHOP_TYPE_NPC_Kai",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 318,
+        "shopType": "SHOP_TYPE_NPC_Linglang",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 319,
+        "shopType": "SHOP_TYPE_NPC_VerrGoldet",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 320,
+        "shopType": "SHOP_TYPE_NPC_Zhou",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 321,
+        "shopType": "SHOP_TYPE_TASK_Ekaterina",
+        "refreshParamRawNum": 0
+    },
+    {
+        "shopIdRawNum": 1001,
+        "shopType": "SHOP_TYPE_SEA_LAMP",
+        "refreshParamRawNum": 0,
+        "openStateType": "OPEN_STATE_SHOP_TYPE_SEA_LAMP"
+    }
+]

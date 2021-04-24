@@ -1,0 +1,98 @@
+[
+    {
+        "IDRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 5,
+        "groupReviseLevelRawNum": 0,
+        "scoreDropIdRawNum": 203000000,
+        "scorePreviewRewardIdRawNum": 2001
+    },
+    {
+        "IDRawNum": 2,
+        "minPlayerLevelRawNum": 6,
+        "maxPlayerLevelRawNum": 10,
+        "groupReviseLevelRawNum": 5,
+        "scoreDropIdRawNum": 203000200,
+        "scorePreviewRewardIdRawNum": 2002
+    },
+    {
+        "IDRawNum": 3,
+        "minPlayerLevelRawNum": 11,
+        "maxPlayerLevelRawNum": 15,
+        "groupReviseLevelRawNum": 12,
+        "scoreDropIdRawNum": 203000400,
+        "scorePreviewRewardIdRawNum": 2003
+    },
+    {
+        "IDRawNum": 4,
+        "minPlayerLevelRawNum": 16,
+        "maxPlayerLevelRawNum": 20,
+        "groupReviseLevelRawNum": 18,
+        "scoreDropIdRawNum": 203000600,
+        "scorePreviewRewardIdRawNum": 2004
+    },
+    {
+        "IDRawNum": 5,
+        "minPlayerLevelRawNum": 21,
+        "maxPlayerLevelRawNum": 25,
+        "groupReviseLevelRawNum": 21,
+        "scoreDropIdRawNum": 203000800,
+        "scorePreviewRewardIdRawNum": 2005
+    },
+    {
+        "IDRawNum": 6,
+        "minPlayerLevelRawNum": 26,
+        "maxPlayerLevelRawNum": 30,
+        "groupReviseLevelRawNum": 27,
+        "scoreDropIdRawNum": 203000900,
+        "scorePreviewRewardIdRawNum": 2006
+    },
+    {
+        "IDRawNum": 7,
+        "minPlayerLevelRawNum": 31,
+        "maxPlayerLevelRawNum": 35,
+        "groupReviseLevelRawNum": 33,
+        "scoreDropIdRawNum": 203001000,
+        "scorePreviewRewardIdRawNum": 2007
+    },
+    {
+        "IDRawNum": 8,
+        "minPlayerLevelRawNum": 36,
+        "maxPlayerLevelRawNum": 40,
+        "groupReviseLevelRawNum": 33,
+        "scoreDropIdRawNum": 203001100,
+        "scorePreviewRewardIdRawNum": 2008
+    },
+    {
+        "IDRawNum": 9,
+        "minPlayerLevelRawNum": 41,
+        "maxPlayerLevelRawNum": 45,
+        "groupReviseLevelRawNum": 33,
+        "scoreDropIdRawNum": 203001200,
+        "scorePreviewRewardIdRawNum": 2009
+    },
+    {
+        "IDRawNum": 10,
+        "minPlayerLevelRawNum": 46,
+        "maxPlayerLevelRawNum": 50,
+        "groupReviseLevelRawNum": 35,
+        "scoreDropIdRawNum": 203001300,
+        "scorePreviewRewardIdRawNum": 2010
+    },
+    {
+        "IDRawNum": 11,
+        "minPlayerLevelRawNum": 51,
+        "maxPlayerLevelRawNum": 55,
+        "groupReviseLevelRawNum": 31,
+        "scoreDropIdRawNum": 203001400,
+        "scorePreviewRewardIdRawNum": 2011
+    },
+    {
+        "IDRawNum": 12,
+        "minPlayerLevelRawNum": 56,
+        "maxPlayerLevelRawNum": 60,
+        "groupReviseLevelRawNum": 29,
+        "scoreDropIdRawNum": 203001500,
+        "scorePreviewRewardIdRawNum": 2012
+    }
+]

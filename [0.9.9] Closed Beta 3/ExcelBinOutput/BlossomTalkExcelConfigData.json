@@ -1,0 +1,530 @@
+[
+    {
+        "idRawNum": 1,
+        "refreshIdRawNum": 6,
+        "groupIdRawNum": 0,
+        "talkId": [
+            8141703
+        ]
+    },
+    {
+        "idRawNum": 2,
+        "refreshIdRawNum": 5,
+        "groupIdRawNum": 1100209,
+        "talkId": [
+            8165804
+        ]
+    },
+    {
+        "idRawNum": 3,
+        "refreshIdRawNum": 5,
+        "groupIdRawNum": 1100211,
+        "talkId": [
+            8165806
+        ]
+    },
+    {
+        "idRawNum": 4,
+        "refreshIdRawNum": 5,
+        "groupIdRawNum": 1100212,
+        "talkId": [
+            8165807
+        ]
+    },
+    {
+        "idRawNum": 5,
+        "refreshIdRawNum": 5,
+        "groupIdRawNum": 1100208,
+        "talkId": [
+            8153703
+        ]
+    },
+    {
+        "idRawNum": 6,
+        "refreshIdRawNum": 5,
+        "groupIdRawNum": 1100210,
+        "talkId": [
+            8153706
+        ]
+    },
+    {
+        "idRawNum": 7,
+        "refreshIdRawNum": 5,
+        "groupIdRawNum": 1100205,
+        "talkId": [
+            8153707
+        ]
+    },
+    {
+        "idRawNum": 8,
+        "refreshIdRawNum": 5,
+        "groupIdRawNum": 1100206,
+        "talkId": [
+            8153708
+        ]
+    },
+    {
+        "idRawNum": 9,
+        "refreshIdRawNum": 5,
+        "groupIdRawNum": 1100305,
+        "talkId": [
+            8159103
+        ]
+    },
+    {
+        "idRawNum": 10,
+        "refreshIdRawNum": 5,
+        "groupIdRawNum": 1100501,
+        "talkId": [
+            8159105
+        ]
+    },
+    {
+        "idRawNum": 11,
+        "refreshIdRawNum": 5,
+        "groupIdRawNum": 1100502,
+        "talkId": [
+            8159106
+        ]
+    },
+    {
+        "idRawNum": 12,
+        "refreshIdRawNum": 8,
+        "groupIdRawNum": 0,
+        "talkId": [
+            8204803
+        ]
+    },
+    {
+        "idRawNum": 13,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200505,
+        "talkId": [
+            8243103
+        ]
+    },
+    {
+        "idRawNum": 14,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200506,
+        "talkId": [
+            8243105
+        ]
+    },
+    {
+        "idRawNum": 15,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200507,
+        "talkId": [
+            8243106
+        ]
+    },
+    {
+        "idRawNum": 16,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200508,
+        "talkId": [
+            8243107
+        ]
+    },
+    {
+        "idRawNum": 17,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200509,
+        "talkId": [
+            8243108
+        ]
+    },
+    {
+        "idRawNum": 18,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200510,
+        "talkId": [
+            8243109
+        ]
+    },
+    {
+        "idRawNum": 19,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200511,
+        "talkId": [
+            8243110
+        ]
+    },
+    {
+        "idRawNum": 20,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200512,
+        "talkId": [
+            8243111
+        ]
+    },
+    {
+        "idRawNum": 21,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200513,
+        "talkId": [
+            8243112
+        ]
+    },
+    {
+        "idRawNum": 22,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200514,
+        "talkId": [
+            8243113
+        ]
+    },
+    {
+        "idRawNum": 23,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200515,
+        "talkId": [
+            8243114
+        ]
+    },
+    {
+        "idRawNum": 24,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200605,
+        "talkId": [
+            8162803
+        ]
+    },
+    {
+        "idRawNum": 25,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200606,
+        "talkId": [
+            8210403
+        ]
+    },
+    {
+        "idRawNum": 26,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200607,
+        "talkId": [
+            8210405
+        ]
+    },
+    {
+        "idRawNum": 27,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200608,
+        "talkId": [
+            8162805
+        ]
+    },
+    {
+        "idRawNum": 28,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200609,
+        "talkId": [
+            8162806
+        ]
+    },
+    {
+        "idRawNum": 29,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200610,
+        "talkId": [
+            8162807
+        ]
+    },
+    {
+        "idRawNum": 30,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200611,
+        "talkId": [
+            8162808
+        ]
+    },
+    {
+        "idRawNum": 31,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2200612,
+        "talkId": [
+            8210406
+        ]
+    },
+    {
+        "idRawNum": 32,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2201201,
+        "talkId": [
+            8210407
+        ]
+    },
+    {
+        "idRawNum": 33,
+        "refreshIdRawNum": 7,
+        "groupIdRawNum": 2201202,
+        "talkId": [
+            8210408
+        ]
+    },
+    {
+        "idRawNum": 34,
+        "refreshIdRawNum": 10,
+        "groupIdRawNum": 0,
+        "talkId": [
+            8141704
+        ]
+    },
+    {
+        "idRawNum": 35,
+        "refreshIdRawNum": 9,
+        "groupIdRawNum": 1100213,
+        "talkId": [
+            8153704
+        ]
+    },
+    {
+        "idRawNum": 36,
+        "refreshIdRawNum": 9,
+        "groupIdRawNum": 1100214,
+        "talkId": [
+            8153709
+        ]
+    },
+    {
+        "idRawNum": 37,
+        "refreshIdRawNum": 9,
+        "groupIdRawNum": 1100503,
+        "talkId": [
+            8159104
+        ]
+    },
+    {
+        "idRawNum": 38,
+        "refreshIdRawNum": 9,
+        "groupIdRawNum": 1100504,
+        "talkId": [
+            8159107
+        ]
+    },
+    {
+        "idRawNum": 39,
+        "refreshIdRawNum": 9,
+        "groupIdRawNum": 1100306,
+        "talkId": [
+            8159108
+        ]
+    },
+    {
+        "idRawNum": 40,
+        "refreshIdRawNum": 9,
+        "groupIdRawNum": 1100216,
+        "talkId": [
+            8153710
+        ]
+    },
+    {
+        "idRawNum": 41,
+        "refreshIdRawNum": 9,
+        "groupIdRawNum": 1100217,
+        "talkId": [
+            8165805
+        ]
+    },
+    {
+        "idRawNum": 42,
+        "refreshIdRawNum": 9,
+        "groupIdRawNum": 1100218,
+        "talkId": [
+            8153711
+        ]
+    },
+    {
+        "idRawNum": 43,
+        "refreshIdRawNum": 9,
+        "groupIdRawNum": 1100219,
+        "talkId": [
+            8165807
+        ]
+    },
+    {
+        "idRawNum": 44,
+        "refreshIdRawNum": 9,
+        "groupIdRawNum": 1100220,
+        "talkId": [
+            8165808
+        ]
+    },
+    {
+        "idRawNum": 45,
+        "refreshIdRawNum": 12,
+        "groupIdRawNum": 0,
+        "talkId": [
+            8204804
+        ]
+    },
+    {
+        "idRawNum": 46,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200516,
+        "talkId": [
+            8243104
+        ]
+    },
+    {
+        "idRawNum": 47,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200517,
+        "talkId": [
+            8243115
+        ]
+    },
+    {
+        "idRawNum": 48,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200518,
+        "talkId": [
+            8243116
+        ]
+    },
+    {
+        "idRawNum": 49,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200519,
+        "talkId": [
+            8243117
+        ]
+    },
+    {
+        "idRawNum": 50,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200520,
+        "talkId": [
+            8243118
+        ]
+    },
+    {
+        "idRawNum": 51,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200521,
+        "talkId": [
+            8243119
+        ]
+    },
+    {
+        "idRawNum": 52,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200522,
+        "talkId": [
+            8243120
+        ]
+    },
+    {
+        "idRawNum": 53,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200523,
+        "talkId": [
+            8243121
+        ]
+    },
+    {
+        "idRawNum": 54,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200524,
+        "talkId": [
+            8243122
+        ]
+    },
+    {
+        "idRawNum": 55,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200525,
+        "talkId": [
+            8243123
+        ]
+    },
+    {
+        "idRawNum": 56,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200526,
+        "talkId": [
+            8243124
+        ]
+    },
+    {
+        "idRawNum": 57,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200613,
+        "talkId": [
+            8162804
+        ]
+    },
+    {
+        "idRawNum": 58,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200614,
+        "talkId": [
+            8210404
+        ]
+    },
+    {
+        "idRawNum": 59,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200615,
+        "talkId": [
+            8210409
+        ]
+    },
+    {
+        "idRawNum": 60,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200616,
+        "talkId": [
+            8162809
+        ]
+    },
+    {
+        "idRawNum": 61,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200617,
+        "talkId": [
+            8162810
+        ]
+    },
+    {
+        "idRawNum": 62,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200618,
+        "talkId": [
+            8162811
+        ]
+    },
+    {
+        "idRawNum": 63,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200619,
+        "talkId": [
+            8162812
+        ]
+    },
+    {
+        "idRawNum": 64,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2200620,
+        "talkId": [
+            8210410
+        ]
+    },
+    {
+        "idRawNum": 65,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2201203,
+        "talkId": [
+            8210411
+        ]
+    },
+    {
+        "idRawNum": 66,
+        "refreshIdRawNum": 11,
+        "groupIdRawNum": 2201204,
+        "talkId": [
+            8210412
+        ]
+    }
+]

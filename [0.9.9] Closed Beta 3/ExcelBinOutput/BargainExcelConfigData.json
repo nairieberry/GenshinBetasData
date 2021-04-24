@@ -1,0 +1,125 @@
+[
+    {
+        "quest_idRawNum": 1013,
+        "idRawNum": 1,
+        "dialog_id": [
+            10130307,
+            10139501,
+            10139401
+        ],
+        "expected_value": [
+            15000,
+            20000
+        ],
+        "spaceRawNum": 6000,
+        "success_talk_id": [
+            101399,
+            101397,
+            101397
+        ],
+        "fail_talk_idRawNum": 101304,
+        "mood_npc_idRawNum": 10248,
+        "mood_upper_limitRawNum": 100,
+        "random_mood": [
+            85,
+            95
+        ],
+        "mood_alert_limitRawNum": 30,
+        "mood_low_limitRawNum": 1,
+        "mood_low_limit_textTextMapHash": 3149181716,
+        "single_fail_mood_deductionRawNum": 30,
+        "single_fail_talk_id": [
+            101395,
+            101394
+        ],
+        "delete_item": true,
+        "item_idRawNum": 100496,
+        "title_textTextMapHash": 435569323,
+        "afford_textTextMapHash": 2219247574,
+        "storage_textTextMapHash": 1360912745,
+        "mood_hint_textTextMapHash": 1618830996,
+        "mood_desc_textTextMapHash": 3718989912
+    },
+    {
+        "quest_idRawNum": 1013,
+        "idRawNum": 2,
+        "dialog_id": [
+            10130705,
+            10138801,
+            10138701
+        ],
+        "expected_value": [
+            18000,
+            25000
+        ],
+        "spaceRawNum": 5500,
+        "success_talk_id": [
+            101392,
+            101390,
+            101390
+        ],
+        "fail_talk_idRawNum": 101308,
+        "mood_npc_idRawNum": 10249,
+        "mood_upper_limitRawNum": 100,
+        "random_mood": [
+            70,
+            80
+        ],
+        "mood_alert_limitRawNum": 25,
+        "mood_low_limitRawNum": 1,
+        "mood_low_limit_textTextMapHash": 933538052,
+        "single_fail_mood_deductionRawNum": 25,
+        "single_fail_talk_id": [
+            101388,
+            101387
+        ],
+        "delete_item": true,
+        "item_idRawNum": 100496,
+        "title_textTextMapHash": 3570074227,
+        "afford_textTextMapHash": 1214739430,
+        "storage_textTextMapHash": 1125033809,
+        "mood_hint_textTextMapHash": 2217562812,
+        "mood_desc_textTextMapHash": 3887094120
+    },
+    {
+        "quest_idRawNum": 1013,
+        "idRawNum": 3,
+        "dialog_id": [
+            10131106,
+            10138101,
+            10138001
+        ],
+        "expected_value": [
+            12000,
+            15000
+        ],
+        "spaceRawNum": 4500,
+        "success_talk_id": [
+            101385,
+            101383,
+            101383
+        ],
+        "fail_talk_idRawNum": 101312,
+        "mood_npc_idRawNum": 10250,
+        "mood_upper_limitRawNum": 100,
+        "random_mood": [
+            60,
+            70
+        ],
+        "mood_alert_limitRawNum": 20,
+        "mood_low_limitRawNum": 1,
+        "mood_low_limit_textTextMapHash": 436925060,
+        "single_fail_mood_deductionRawNum": 20,
+        "single_fail_talk_id": [
+            101381,
+            101380
+        ],
+        "delete_item": true,
+        "item_idRawNum": 100496,
+        "title_textTextMapHash": 2402029419,
+        "afford_textTextMapHash": 450554902,
+        "storage_textTextMapHash": 1711453113,
+        "mood_hint_textTextMapHash": 2743887828,
+        "mood_desc_textTextMapHash": 2590079832
+    }
+]

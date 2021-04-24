@@ -1,0 +1,482 @@
+[
+    {
+        "levelRawNum": 1,
+        "expRawNum": 375,
+        "rewardIdRawNum": 0,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 3456558512
+    },
+    {
+        "levelRawNum": 2,
+        "expRawNum": 500,
+        "rewardIdRawNum": 200002,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2541546504
+    },
+    {
+        "levelRawNum": 3,
+        "expRawNum": 625,
+        "rewardIdRawNum": 200003,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 1991883272
+    },
+    {
+        "levelRawNum": 4,
+        "expRawNum": 725,
+        "rewardIdRawNum": 200004,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 3749208176
+    },
+    {
+        "levelRawNum": 5,
+        "expRawNum": 850,
+        "rewardIdRawNum": 200005,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 4104767080
+    },
+    {
+        "levelRawNum": 6,
+        "expRawNum": 950,
+        "rewardIdRawNum": 200006,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 1457696640
+    },
+    {
+        "levelRawNum": 7,
+        "expRawNum": 1075,
+        "rewardIdRawNum": 200007,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2849188624
+    },
+    {
+        "levelRawNum": 8,
+        "expRawNum": 1200,
+        "rewardIdRawNum": 200008,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 509855248
+    },
+    {
+        "levelRawNum": 9,
+        "expRawNum": 1300,
+        "rewardIdRawNum": 200009,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 3621012528
+    },
+    {
+        "levelRawNum": 10,
+        "expRawNum": 1425,
+        "rewardIdRawNum": 200010,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 1878463584
+    },
+    {
+        "levelRawNum": 11,
+        "expRawNum": 1525,
+        "rewardIdRawNum": 200011,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2404768384
+    },
+    {
+        "levelRawNum": 12,
+        "expRawNum": 1650,
+        "rewardIdRawNum": 200012,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 420062472
+    },
+    {
+        "levelRawNum": 13,
+        "expRawNum": 1775,
+        "rewardIdRawNum": 200013,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 703186704
+    },
+    {
+        "levelRawNum": 14,
+        "expRawNum": 1875,
+        "rewardIdRawNum": 200014,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2665994152
+    },
+    {
+        "levelRawNum": 15,
+        "expRawNum": 2000,
+        "rewardIdRawNum": 200015,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 1983664712
+    },
+    {
+        "levelRawNum": 16,
+        "expRawNum": 2375,
+        "rewardIdRawNum": 200016,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 320297448
+    },
+    {
+        "levelRawNum": 17,
+        "expRawNum": 2500,
+        "rewardIdRawNum": 200017,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 1230229584
+    },
+    {
+        "levelRawNum": 18,
+        "expRawNum": 2625,
+        "rewardIdRawNum": 200018,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 716242768
+    },
+    {
+        "levelRawNum": 19,
+        "expRawNum": 2775,
+        "rewardIdRawNum": 200019,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2466317928
+    },
+    {
+        "levelRawNum": 20,
+        "expRawNum": 2825,
+        "rewardIdRawNum": 200020,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 1,
+        "unlockDescTextMapHash": 1628728000
+    },
+    {
+        "levelRawNum": 21,
+        "expRawNum": 3425,
+        "rewardIdRawNum": 200021,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 3524545056
+    },
+    {
+        "levelRawNum": 22,
+        "expRawNum": 3725,
+        "rewardIdRawNum": 200022,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 133891456
+    },
+    {
+        "levelRawNum": 23,
+        "expRawNum": 4000,
+        "rewardIdRawNum": 200023,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2655229984
+    },
+    {
+        "levelRawNum": 24,
+        "expRawNum": 4300,
+        "rewardIdRawNum": 200024,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2378508816
+    },
+    {
+        "levelRawNum": 25,
+        "expRawNum": 4575,
+        "rewardIdRawNum": 200025,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 2,
+        "unlockDescTextMapHash": 3433628024
+    },
+    {
+        "levelRawNum": 26,
+        "expRawNum": 4875,
+        "rewardIdRawNum": 200026,
+        "expeditionLimitAddRawNum": 1,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 49717336
+    },
+    {
+        "levelRawNum": 27,
+        "expRawNum": 5150,
+        "rewardIdRawNum": 200027,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2693403512
+    },
+    {
+        "levelRawNum": 28,
+        "expRawNum": 5450,
+        "rewardIdRawNum": 200028,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 3678053472
+    },
+    {
+        "levelRawNum": 29,
+        "expRawNum": 5725,
+        "rewardIdRawNum": 200029,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2042883128
+    },
+    {
+        "levelRawNum": 30,
+        "expRawNum": 6025,
+        "rewardIdRawNum": 200030,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 3,
+        "unlockDescTextMapHash": 4010276216
+    },
+    {
+        "levelRawNum": 31,
+        "expRawNum": 6300,
+        "rewardIdRawNum": 200031,
+        "expeditionLimitAddRawNum": 1,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 162049184
+    },
+    {
+        "levelRawNum": 32,
+        "expRawNum": 6600,
+        "rewardIdRawNum": 200032,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 3605760376
+    },
+    {
+        "levelRawNum": 33,
+        "expRawNum": 6900,
+        "rewardIdRawNum": 200033,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 769627272
+    },
+    {
+        "levelRawNum": 34,
+        "expRawNum": 7175,
+        "rewardIdRawNum": 200034,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 1239835536
+    },
+    {
+        "levelRawNum": 35,
+        "expRawNum": 7475,
+        "rewardIdRawNum": 200035,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 4,
+        "unlockDescTextMapHash": 1253021352
+    },
+    {
+        "levelRawNum": 36,
+        "expRawNum": 7750,
+        "rewardIdRawNum": 200036,
+        "expeditionLimitAddRawNum": 1,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 3028589960
+    },
+    {
+        "levelRawNum": 37,
+        "expRawNum": 8050,
+        "rewardIdRawNum": 200037,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 1246291424
+    },
+    {
+        "levelRawNum": 38,
+        "expRawNum": 8325,
+        "rewardIdRawNum": 200038,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 1072506688
+    },
+    {
+        "levelRawNum": 39,
+        "expRawNum": 8625,
+        "rewardIdRawNum": 200039,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2002884568
+    },
+    {
+        "levelRawNum": 40,
+        "expRawNum": 8650,
+        "rewardIdRawNum": 200040,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 5,
+        "unlockDescTextMapHash": 2558194128
+    },
+    {
+        "levelRawNum": 41,
+        "expRawNum": 9350,
+        "rewardIdRawNum": 200041,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 1936105656
+    },
+    {
+        "levelRawNum": 42,
+        "expRawNum": 10075,
+        "rewardIdRawNum": 200042,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2361847384
+    },
+    {
+        "levelRawNum": 43,
+        "expRawNum": 10800,
+        "rewardIdRawNum": 200043,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 163571200
+    },
+    {
+        "levelRawNum": 44,
+        "expRawNum": 11525,
+        "rewardIdRawNum": 200044,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 53151032
+    },
+    {
+        "levelRawNum": 45,
+        "expRawNum": 12250,
+        "rewardIdRawNum": 200045,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 6,
+        "unlockDescTextMapHash": 1495288728
+    },
+    {
+        "levelRawNum": 46,
+        "expRawNum": 12950,
+        "rewardIdRawNum": 200046,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2977825680
+    },
+    {
+        "levelRawNum": 47,
+        "expRawNum": 13675,
+        "rewardIdRawNum": 200047,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2213173624
+    },
+    {
+        "levelRawNum": 48,
+        "expRawNum": 14400,
+        "rewardIdRawNum": 200048,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 1604105280
+    },
+    {
+        "levelRawNum": 49,
+        "expRawNum": 15125,
+        "rewardIdRawNum": 200049,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 3524417696
+    },
+    {
+        "levelRawNum": 50,
+        "expRawNum": 26400,
+        "rewardIdRawNum": 200050,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 7,
+        "unlockDescTextMapHash": 1577812176
+    },
+    {
+        "levelRawNum": 51,
+        "expRawNum": 28800,
+        "rewardIdRawNum": 200051,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 3059285328
+    },
+    {
+        "levelRawNum": 52,
+        "expRawNum": 31200,
+        "rewardIdRawNum": 200052,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 712572160
+    },
+    {
+        "levelRawNum": 53,
+        "expRawNum": 33600,
+        "rewardIdRawNum": 200053,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2180977624
+    },
+    {
+        "levelRawNum": 54,
+        "expRawNum": 36000,
+        "rewardIdRawNum": 200054,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2874306144
+    },
+    {
+        "levelRawNum": 60,
+        "expRawNum": 0,
+        "rewardIdRawNum": 200060,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 4125513776
+    },
+    {
+        "levelRawNum": 55,
+        "expRawNum": 158400,
+        "rewardIdRawNum": 200055,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 3471906168
+    },
+    {
+        "levelRawNum": 56,
+        "expRawNum": 420000,
+        "rewardIdRawNum": 200056,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2211527200
+    },
+    {
+        "levelRawNum": 57,
+        "expRawNum": 686400,
+        "rewardIdRawNum": 200057,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 899459480
+    },
+    {
+        "levelRawNum": 58,
+        "expRawNum": 957600,
+        "rewardIdRawNum": 200058,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2262131352
+    },
+    {
+        "levelRawNum": 59,
+        "expRawNum": 1233600,
+        "rewardIdRawNum": 200059,
+        "expeditionLimitAddRawNum": 0,
+        "unlockWorldLevelRawNum": 0,
+        "unlockDescTextMapHash": 2776322360
+    }
+]

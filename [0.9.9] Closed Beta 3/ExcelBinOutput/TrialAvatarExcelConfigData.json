@@ -1,0 +1,1195 @@
+[
+    {
+        "trialAvatarIdRawNum": 1,
+        "trialAvatarNameTextMapHash": 776415311,
+        "trialAvatarParamList": [
+            10000021,
+            5
+        ],
+        "trialWeaponParamList": [
+            15201,
+            5
+        ],
+        "trialReliquaryList": [
+            1,
+            2
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2
+        ],
+        "trialInherentProudSkillList": [],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 2,
+        "trialAvatarNameTextMapHash": 1236526495,
+        "trialAvatarParamList": [
+            10000015,
+            5
+        ],
+        "trialWeaponParamList": [
+            11201,
+            5
+        ],
+        "trialReliquaryList": [
+            1,
+            2
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2
+        ],
+        "trialInherentProudSkillList": [],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 3,
+        "trialAvatarNameTextMapHash": 2258688927,
+        "trialAvatarParamList": [
+            10000006,
+            5
+        ],
+        "trialWeaponParamList": [
+            14201,
+            5
+        ],
+        "trialReliquaryList": [
+            1,
+            2
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2
+        ],
+        "trialInherentProudSkillList": [],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 4,
+        "trialAvatarNameTextMapHash": 3501221343,
+        "trialAvatarParamList": [
+            10000016,
+            23
+        ],
+        "trialWeaponParamList": [
+            12401,
+            23
+        ],
+        "trialReliquaryList": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2,
+            3
+        ],
+        "trialInherentProudSkillList": [],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 5,
+        "trialAvatarNameTextMapHash": 3128912847,
+        "trialAvatarParamList": [
+            10000022,
+            26
+        ],
+        "trialWeaponParamList": [
+            15301,
+            26
+        ],
+        "trialReliquaryList": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2,
+            3
+        ],
+        "trialInherentProudSkillList": [],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 6,
+        "trialAvatarNameTextMapHash": 945376967,
+        "trialAvatarParamList": [
+            10000015,
+            10
+        ],
+        "trialWeaponParamList": [
+            11301,
+            10
+        ],
+        "trialReliquaryList": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2
+        ],
+        "trialInherentProudSkillList": [],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 7,
+        "trialAvatarNameTextMapHash": 3318432607,
+        "trialAvatarParamList": [
+            10000003,
+            30
+        ],
+        "trialWeaponParamList": [
+            11401,
+            30
+        ],
+        "trialReliquaryList": [
+            41,
+            42,
+            43,
+            44,
+            45
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "trialInherentProudSkillList": [
+            1
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 8,
+        "trialAvatarNameTextMapHash": 1040421927,
+        "trialAvatarParamList": [
+            10000021,
+            15
+        ],
+        "trialWeaponParamList": [
+            15301,
+            15
+        ],
+        "trialReliquaryList": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2
+        ],
+        "trialInherentProudSkillList": [],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 9,
+        "trialAvatarNameTextMapHash": 748788415,
+        "trialAvatarParamList": [
+            10000020,
+            26
+        ],
+        "trialWeaponParamList": [
+            12401,
+            26
+        ],
+        "trialReliquaryList": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2,
+            3
+        ],
+        "trialInherentProudSkillList": [
+            1
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 10,
+        "trialAvatarNameTextMapHash": 808205823,
+        "trialAvatarParamList": [
+            10000006,
+            19
+        ],
+        "trialWeaponParamList": [
+            14301,
+            19
+        ],
+        "trialReliquaryList": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2
+        ],
+        "trialInherentProudSkillList": [],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 11,
+        "trialAvatarNameTextMapHash": 33654519,
+        "trialAvatarParamList": [
+            10000016,
+            18
+        ],
+        "trialWeaponParamList": [
+            12401,
+            18
+        ],
+        "trialReliquaryList": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2
+        ],
+        "trialInherentProudSkillList": [],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 12,
+        "trialAvatarNameTextMapHash": 2378783159,
+        "trialAvatarParamList": [
+            10000025,
+            26
+        ],
+        "trialWeaponParamList": [
+            11406,
+            26
+        ],
+        "trialReliquaryList": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2,
+            3
+        ],
+        "trialInherentProudSkillList": [
+            1
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 13,
+        "trialAvatarNameTextMapHash": 765437199,
+        "trialAvatarParamList": [
+            10000023,
+            16
+        ],
+        "trialWeaponParamList": [
+            13301,
+            16
+        ],
+        "trialReliquaryList": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2
+        ],
+        "trialInherentProudSkillList": [],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 14,
+        "trialAvatarNameTextMapHash": 2583601023,
+        "trialAvatarParamList": [
+            10000029,
+            30
+        ],
+        "trialWeaponParamList": [
+            14401,
+            30
+        ],
+        "trialReliquaryList": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2,
+            3
+        ],
+        "trialInherentProudSkillList": [
+            1
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 15,
+        "trialAvatarNameTextMapHash": 1103185671,
+        "trialAvatarParamList": [
+            10000026,
+            28
+        ],
+        "trialWeaponParamList": [
+            13401,
+            28
+        ],
+        "trialReliquaryList": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2,
+            3
+        ],
+        "trialInherentProudSkillList": [
+            1
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 16,
+        "trialAvatarNameTextMapHash": 4135696559,
+        "trialAvatarParamList": [
+            10000026,
+            32
+        ],
+        "trialWeaponParamList": [
+            13501,
+            32
+        ],
+        "trialReliquaryList": [
+            71,
+            72,
+            73,
+            74,
+            75
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 6
+    },
+    {
+        "trialAvatarIdRawNum": 17,
+        "trialAvatarNameTextMapHash": 3665685135,
+        "trialAvatarParamList": [
+            10000030,
+            35
+        ],
+        "trialWeaponParamList": [
+            13505,
+            35
+        ],
+        "trialReliquaryList": [
+            41,
+            42,
+            43,
+            44,
+            45
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "trialInherentProudSkillList": [
+            1
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 18,
+        "trialAvatarNameTextMapHash": 1486837711,
+        "trialAvatarParamList": [
+            10000022,
+            30
+        ],
+        "trialWeaponParamList": [
+            15401,
+            30
+        ],
+        "trialReliquaryList": [
+            41,
+            42,
+            43,
+            44,
+            45
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "trialInherentProudSkillList": [
+            1
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 1
+    },
+    {
+        "trialAvatarIdRawNum": 19,
+        "trialAvatarNameTextMapHash": 2943089023,
+        "trialAvatarParamList": [
+            10000035,
+            28
+        ],
+        "trialWeaponParamList": [
+            11401,
+            28
+        ],
+        "trialReliquaryList": [
+            51,
+            52,
+            53,
+            54,
+            55
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "trialInherentProudSkillList": [
+            1
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 2
+    },
+    {
+        "trialAvatarIdRawNum": 20,
+        "trialAvatarNameTextMapHash": 1554256983,
+        "trialAvatarParamList": [
+            10000035,
+            35
+        ],
+        "trialWeaponParamList": [
+            11501,
+            35
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "trialInherentProudSkillList": [
+            1
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 4
+    },
+    {
+        "trialAvatarIdRawNum": 1002,
+        "trialAvatarNameTextMapHash": 1819146295,
+        "trialAvatarParamList": [
+            10000002,
+            80
+        ],
+        "trialWeaponParamList": [
+            11401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1003,
+        "trialAvatarNameTextMapHash": 1972853535,
+        "trialAvatarParamList": [
+            10000003,
+            80
+        ],
+        "trialWeaponParamList": [
+            11401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1004,
+        "trialAvatarNameTextMapHash": 3005586415,
+        "trialAvatarParamList": [
+            10000006,
+            80
+        ],
+        "trialWeaponParamList": [
+            14401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1014,
+        "trialAvatarNameTextMapHash": 872391743,
+        "trialAvatarParamList": [
+            10000014,
+            80
+        ],
+        "trialWeaponParamList": [
+            14401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1015,
+        "trialAvatarNameTextMapHash": 1410336847,
+        "trialAvatarParamList": [
+            10000015,
+            80
+        ],
+        "trialWeaponParamList": [
+            11401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1016,
+        "trialAvatarNameTextMapHash": 3511815431,
+        "trialAvatarParamList": [
+            10000016,
+            80
+        ],
+        "trialWeaponParamList": [
+            12401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1020,
+        "trialAvatarNameTextMapHash": 775559887,
+        "trialAvatarParamList": [
+            10000020,
+            80
+        ],
+        "trialWeaponParamList": [
+            12401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1021,
+        "trialAvatarNameTextMapHash": 1459154503,
+        "trialAvatarParamList": [
+            10000021,
+            80
+        ],
+        "trialWeaponParamList": [
+            15401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1022,
+        "trialAvatarNameTextMapHash": 4179282703,
+        "trialAvatarParamList": [
+            10000022,
+            80
+        ],
+        "trialWeaponParamList": [
+            15401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1023,
+        "trialAvatarNameTextMapHash": 1498278487,
+        "trialAvatarParamList": [
+            10000023,
+            80
+        ],
+        "trialWeaponParamList": [
+            13401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1024,
+        "trialAvatarNameTextMapHash": 3409661535,
+        "trialAvatarParamList": [
+            10000024,
+            80
+        ],
+        "trialWeaponParamList": [
+            12401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1025,
+        "trialAvatarNameTextMapHash": 1609592359,
+        "trialAvatarParamList": [
+            10000025,
+            80
+        ],
+        "trialWeaponParamList": [
+            11406,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1026,
+        "trialAvatarNameTextMapHash": 1072868407,
+        "trialAvatarParamList": [
+            10000026,
+            80
+        ],
+        "trialWeaponParamList": [
+            13401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1027,
+        "trialAvatarNameTextMapHash": 3151346615,
+        "trialAvatarParamList": [
+            10000027,
+            80
+        ],
+        "trialWeaponParamList": [
+            14401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1029,
+        "trialAvatarNameTextMapHash": 1779434415,
+        "trialAvatarParamList": [
+            10000029,
+            80
+        ],
+        "trialWeaponParamList": [
+            14401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1030,
+        "trialAvatarNameTextMapHash": 1445392895,
+        "trialAvatarParamList": [
+            10000030,
+            80
+        ],
+        "trialWeaponParamList": [
+            13505,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1031,
+        "trialAvatarNameTextMapHash": 4045924167,
+        "trialAvatarParamList": [
+            10000031,
+            80
+        ],
+        "trialWeaponParamList": [
+            15401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1032,
+        "trialAvatarNameTextMapHash": 22443783,
+        "trialAvatarParamList": [
+            10000032,
+            80
+        ],
+        "trialWeaponParamList": [
+            11401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1033,
+        "trialAvatarNameTextMapHash": 2952148911,
+        "trialAvatarParamList": [
+            10000033,
+            80
+        ],
+        "trialWeaponParamList": [
+            15401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1034,
+        "trialAvatarNameTextMapHash": 2175602863,
+        "trialAvatarParamList": [
+            10000034,
+            80
+        ],
+        "trialWeaponParamList": [
+            12401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1035,
+        "trialAvatarNameTextMapHash": 94668479,
+        "trialAvatarParamList": [
+            10000035,
+            80
+        ],
+        "trialWeaponParamList": [
+            11401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1036,
+        "trialAvatarNameTextMapHash": 747845575,
+        "trialAvatarParamList": [
+            10000036,
+            80
+        ],
+        "trialWeaponParamList": [
+            12401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    },
+    {
+        "trialAvatarIdRawNum": 1037,
+        "trialAvatarNameTextMapHash": 1890963975,
+        "trialAvatarParamList": [
+            10000037,
+            80
+        ],
+        "trialWeaponParamList": [
+            15401,
+            80
+        ],
+        "trialReliquaryList": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "trialSkillDepotIdRawNum": 0,
+        "trialTalentList": [],
+        "trialInherentProudSkillList": [
+            1,
+            2
+        ],
+        "PJFKLFNGFBK": 0,
+        "trialAvatarSkillLevelRawNum": 8
+    }
+]

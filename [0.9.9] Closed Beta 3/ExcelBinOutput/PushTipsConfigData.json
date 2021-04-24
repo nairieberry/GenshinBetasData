@@ -1,0 +1,652 @@
+[
+    {
+        "pushTipsIdRawNum": 1001,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 3665313113,
+        "subtitleTextMapHash": 2769704249,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 300
+    },
+    {
+        "pushTipsIdRawNum": 1002,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 3899143345,
+        "subtitleTextMapHash": 3449255193,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Water",
+        "tabIcon": "UI_MessageIcon_Water",
+        "tutorialIdRawNum": 303
+    },
+    {
+        "pushTipsIdRawNum": 1003,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 1790314473,
+        "subtitleTextMapHash": 3349342737,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Ice",
+        "tabIcon": "UI_MessageIcon_Ice",
+        "tutorialIdRawNum": 304
+    },
+    {
+        "pushTipsIdRawNum": 1004,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2628910121,
+        "subtitleTextMapHash": 1597185521,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Fire",
+        "tabIcon": "UI_MessageIcon_Fire",
+        "tutorialIdRawNum": 305
+    },
+    {
+        "pushTipsIdRawNum": 1005,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 3066593193,
+        "subtitleTextMapHash": 2258065617,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Rock",
+        "tabIcon": "UI_MessageIcon_Rock",
+        "tutorialIdRawNum": 306
+    },
+    {
+        "pushTipsIdRawNum": 1006,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 812990745,
+        "subtitleTextMapHash": 1285217017,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Frost",
+        "tabIcon": "UI_MessageIcon_Frost",
+        "tutorialIdRawNum": 307
+    },
+    {
+        "pushTipsIdRawNum": 1007,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 948087641,
+        "subtitleTextMapHash": 743110097,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Frost",
+        "tabIcon": "UI_MessageIcon_Frost",
+        "tutorialIdRawNum": 308
+    },
+    {
+        "pushTipsIdRawNum": 1008,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 1358544385,
+        "subtitleTextMapHash": 1833887401,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Melting",
+        "tabIcon": "UI_MessageIcon_Melting",
+        "tutorialIdRawNum": 309
+    },
+    {
+        "pushTipsIdRawNum": 1009,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 1959302641,
+        "subtitleTextMapHash": 613274225,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Melting",
+        "tabIcon": "UI_MessageIcon_Melting",
+        "tutorialIdRawNum": 311
+    },
+    {
+        "pushTipsIdRawNum": 1010,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2271436353,
+        "subtitleTextMapHash": 4172535977,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Electrification",
+        "tabIcon": "UI_MessageIcon_Electrification",
+        "tutorialIdRawNum": 313
+    },
+    {
+        "pushTipsIdRawNum": 1011,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 516261009,
+        "subtitleTextMapHash": 1792864937,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Electrification",
+        "tabIcon": "UI_MessageIcon_Electrification",
+        "tutorialIdRawNum": 314
+    },
+    {
+        "pushTipsIdRawNum": 1012,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2169454977,
+        "subtitleTextMapHash": 3128133761,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Electrification",
+        "tabIcon": "UI_MessageIcon_Electrification",
+        "tutorialIdRawNum": 315
+    },
+    {
+        "pushTipsIdRawNum": 1013,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 808709249,
+        "subtitleTextMapHash": 2585560945,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Overload",
+        "tabIcon": "UI_MessageIcon_Overload",
+        "tutorialIdRawNum": 316
+    },
+    {
+        "pushTipsIdRawNum": 1014,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 1372593881,
+        "subtitleTextMapHash": 3155456209,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Superconductivity",
+        "tabIcon": "UI_MessageIcon_Superconductivity",
+        "tutorialIdRawNum": 317
+    },
+    {
+        "pushTipsIdRawNum": 1015,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 645269873,
+        "subtitleTextMapHash": 207428761,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combustion",
+        "tabIcon": "UI_MessageIcon_Combustion",
+        "tutorialIdRawNum": 318
+    },
+    {
+        "pushTipsIdRawNum": 1016,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 4080086321,
+        "subtitleTextMapHash": 698595289,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Wind",
+        "tabIcon": "UI_MessageIcon_Wind",
+        "tutorialIdRawNum": 319
+    },
+    {
+        "pushTipsIdRawNum": 1018,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 3626565793,
+        "subtitleTextMapHash": 3311627201,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 325
+    },
+    {
+        "pushTipsIdRawNum": 1019,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 3284310641,
+        "subtitleTextMapHash": 3314016153,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 326
+    },
+    {
+        "pushTipsIdRawNum": 1020,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2330080513,
+        "subtitleTextMapHash": 2894787777,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Rock",
+        "tabIcon": "UI_MessageIcon_Rock",
+        "tutorialIdRawNum": 327
+    },
+    {
+        "pushTipsIdRawNum": 1021,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 1158414689,
+        "subtitleTextMapHash": 665757393,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 328
+    },
+    {
+        "pushTipsIdRawNum": 1022,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 3698430601,
+        "subtitleTextMapHash": 4153267401,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 329
+    },
+    {
+        "pushTipsIdRawNum": 1023,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 3304770257,
+        "subtitleTextMapHash": 3794581337,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 330
+    },
+    {
+        "pushTipsIdRawNum": 1025,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2689901049,
+        "subtitleTextMapHash": 753562657,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 332
+    },
+    {
+        "pushTipsIdRawNum": 1026,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 1581854825,
+        "subtitleTextMapHash": 727947145,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Wind",
+        "tabIcon": "UI_MessageIcon_Wind",
+        "tutorialIdRawNum": 333
+    },
+    {
+        "pushTipsIdRawNum": 1027,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 726451777,
+        "subtitleTextMapHash": 828579865,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 320
+    },
+    {
+        "pushTipsIdRawNum": 1028,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 432840657,
+        "subtitleTextMapHash": 3973639121,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 310
+    },
+    {
+        "pushTipsIdRawNum": 1029,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2908987545,
+        "subtitleTextMapHash": 1921416289,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 312
+    },
+    {
+        "pushTipsIdRawNum": 1030,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 3036886785,
+        "subtitleTextMapHash": 4061968929,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 335
+    },
+    {
+        "pushTipsIdRawNum": 1031,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2475442305,
+        "subtitleTextMapHash": 2592221625,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 336
+    },
+    {
+        "pushTipsIdRawNum": 1032,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 536908009,
+        "subtitleTextMapHash": 130096633,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 337
+    },
+    {
+        "pushTipsIdRawNum": 1033,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 4207435409,
+        "subtitleTextMapHash": 624650049,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 338
+    },
+    {
+        "pushTipsIdRawNum": 1034,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2029253537,
+        "subtitleTextMapHash": 4005874017,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combustion",
+        "tabIcon": "UI_MessageIcon_Rock",
+        "tutorialIdRawNum": 339
+    },
+    {
+        "pushTipsIdRawNum": 2009,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2007970505,
+        "subtitleTextMapHash": 2669186113,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Slime_Ice_03",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 117
+    },
+    {
+        "pushTipsIdRawNum": 2015,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 4103883697,
+        "subtitleTextMapHash": 708205273,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Slime_Rock_03",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 128
+    },
+    {
+        "pushTipsIdRawNum": 2016,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 1176662753,
+        "subtitleTextMapHash": 2238185265,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Elemental_Wind_01",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 148
+    },
+    {
+        "pushTipsIdRawNum": 2019,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 983262641,
+        "subtitleTextMapHash": 1651513409,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Hili_None_01",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 139
+    },
+    {
+        "pushTipsIdRawNum": 2027,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 737513537,
+        "subtitleTextMapHash": 1035681785,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Brute_None_01",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 146
+    },
+    {
+        "pushTipsIdRawNum": 2032,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 3524944833,
+        "subtitleTextMapHash": 629251145,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Abyss_Fire_01",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 130
+    },
+    {
+        "pushTipsIdRawNum": 2033,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2750968081,
+        "subtitleTextMapHash": 379251705,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Abyss_Ice_01",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 131
+    },
+    {
+        "pushTipsIdRawNum": 2034,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2753992329,
+        "subtitleTextMapHash": 2028162345,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Abyss_Water_01",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 132
+    },
+    {
+        "pushTipsIdRawNum": 2035,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 1317226121,
+        "subtitleTextMapHash": 893416089,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Defender_Noner_01",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 136
+    },
+    {
+        "pushTipsIdRawNum": 2036,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 695659273,
+        "subtitleTextMapHash": 3569621505,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Effigy_Electric",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 236
+    },
+    {
+        "pushTipsIdRawNum": 2039,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 608100217,
+        "subtitleTextMapHash": 805632737,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Formathr_None",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 239
+    },
+    {
+        "pushTipsIdRawNum": 2042,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 3166128689,
+        "subtitleTextMapHash": 1003108497,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Hili_None_01",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 242
+    },
+    {
+        "pushTipsIdRawNum": 2043,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 1267238113,
+        "subtitleTextMapHash": 253019449,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Brute_None_01",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 243
+    },
+    {
+        "pushTipsIdRawNum": 2044,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 1864380169,
+        "subtitleTextMapHash": 3352259657,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Effigy_Wind",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 248
+    },
+    {
+        "pushTipsIdRawNum": 2045,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 1655531169,
+        "subtitleTextMapHash": 1119161553,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Effigy_Rock",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 249
+    },
+    {
+        "pushTipsIdRawNum": 2046,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 3783179305,
+        "subtitleTextMapHash": 408557929,
+        "pushTipsType": "PUSH_TIPS_MONSTER",
+        "showIcon": "UI_MonsterIcon_Shaman_Rock_01",
+        "tabIcon": "UI_MessageIcon_Monster",
+        "tutorialIdRawNum": 250
+    },
+    {
+        "pushTipsIdRawNum": 3001,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 832613729,
+        "subtitleTextMapHash": 213624321,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Important",
+        "tabIcon": "UI_MessageIcon_Important",
+        "tutorialIdRawNum": 400
+    },
+    {
+        "pushTipsIdRawNum": 3002,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 5903009,
+        "subtitleTextMapHash": 1889969177,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Important",
+        "tabIcon": "UI_MessageIcon_Important",
+        "tutorialIdRawNum": 251
+    },
+    {
+        "pushTipsIdRawNum": 3003,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 1502970465,
+        "subtitleTextMapHash": 1806243985,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Important",
+        "tabIcon": "UI_MessageIcon_Important",
+        "tutorialIdRawNum": 255
+    },
+    {
+        "pushTipsIdRawNum": 3004,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 512758049,
+        "subtitleTextMapHash": 1942560321,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Important",
+        "tabIcon": "UI_MessageIcon_Important",
+        "tutorialIdRawNum": 401
+    },
+    {
+        "pushTipsIdRawNum": 3005,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2292460673,
+        "subtitleTextMapHash": 603363457,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Important",
+        "tabIcon": "UI_MessageIcon_Important",
+        "tutorialIdRawNum": 402
+    },
+    {
+        "pushTipsIdRawNum": 3006,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2912874473,
+        "subtitleTextMapHash": 1566594849,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Important",
+        "tabIcon": "UI_MessageIcon_Important",
+        "tutorialIdRawNum": 403
+    },
+    {
+        "pushTipsIdRawNum": 3007,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 3288947737,
+        "subtitleTextMapHash": 214315073,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Important",
+        "tabIcon": "UI_MessageIcon_Important",
+        "tutorialIdRawNum": 404
+    },
+    {
+        "pushTipsIdRawNum": 3008,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 1568677497,
+        "subtitleTextMapHash": 1910692289,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Important",
+        "tabIcon": "UI_MessageIcon_Important",
+        "tutorialIdRawNum": 405
+    },
+    {
+        "pushTipsIdRawNum": 3009,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2297871529,
+        "subtitleTextMapHash": 278525073,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Important",
+        "tabIcon": "UI_MessageIcon_Important",
+        "tutorialIdRawNum": 406
+    },
+    {
+        "pushTipsIdRawNum": 3010,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 3311162833,
+        "subtitleTextMapHash": 2608538457,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Important",
+        "tabIcon": "UI_MessageIcon_Important",
+        "tutorialIdRawNum": 407
+    },
+    {
+        "pushTipsIdRawNum": 4001,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 4250646353,
+        "subtitleTextMapHash": 3082613009,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 500
+    },
+    {
+        "pushTipsIdRawNum": 4002,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2256468817,
+        "subtitleTextMapHash": 332782761,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 501
+    },
+    {
+        "pushTipsIdRawNum": 4003,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 1050883041,
+        "subtitleTextMapHash": 504040697,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 502
+    },
+    {
+        "pushTipsIdRawNum": 4004,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 2371679841,
+        "subtitleTextMapHash": 3873926521,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 503
+    },
+    {
+        "pushTipsIdRawNum": 5001,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 282785921,
+        "subtitleTextMapHash": 4044337945,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Important",
+        "tabIcon": "UI_MessageIcon_Important",
+        "tutorialIdRawNum": 601
+    },
+    {
+        "pushTipsIdRawNum": 5002,
+        "rewardIdRawNum": 300001,
+        "titleTextMapHash": 3101984153,
+        "subtitleTextMapHash": 2108063041,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Important",
+        "tabIcon": "UI_MessageIcon_Important",
+        "tutorialIdRawNum": 602
+    },
+    {
+        "pushTipsIdRawNum": 6001,
+        "rewardIdRawNum": 0,
+        "titleTextMapHash": 1726235993,
+        "subtitleTextMapHash": 2127352857,
+        "pushTipsType": "PUSH_TIPS_TUTORIAL",
+        "showIcon": "UI_MessageIcon_Combat",
+        "tabIcon": "UI_MessageIcon_Combat",
+        "tutorialIdRawNum": 257
+    }
+]

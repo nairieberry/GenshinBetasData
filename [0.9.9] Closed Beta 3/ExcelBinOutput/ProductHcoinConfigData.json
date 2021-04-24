@@ -1,0 +1,74 @@
+[
+    {
+        "itemNameTextMapHash": 1638154887,
+        "primNameTextMapHash": 2013732707,
+        "icon": "UI_Mall_Purchase_Primogem1ststall",
+        "MIHCIDNGDDL": 60,
+        "BCKADFDOCHF": 0,
+        "JCGABHAEJEN": 0,
+        "seqenceRawNum": 6,
+        "productId": "ys_chn_primogem1ststall_tier1",
+        "priceTier": "Tier_1",
+        "shopType": "SHOP_TYPE_HCOIN"
+    },
+    {
+        "itemNameTextMapHash": 800795030,
+        "primNameTextMapHash": 1636241231,
+        "icon": "UI_Mall_Purchase_Primogem2ndstall",
+        "MIHCIDNGDDL": 300,
+        "BCKADFDOCHF": 30,
+        "JCGABHAEJEN": 30,
+        "seqenceRawNum": 5,
+        "productId": "ys_chn_primogem2ndstall_tier5",
+        "priceTier": "Tier_5",
+        "shopType": "SHOP_TYPE_HCOIN"
+    },
+    {
+        "itemNameTextMapHash": 3231852644,
+        "primNameTextMapHash": 2106029749,
+        "icon": "UI_Mall_Purchase_Primogem3rdstall",
+        "MIHCIDNGDDL": 980,
+        "BCKADFDOCHF": 110,
+        "JCGABHAEJEN": 110,
+        "seqenceRawNum": 4,
+        "productId": "ys_chn_primogem3rdstall_tier15",
+        "priceTier": "Tier_15",
+        "shopType": "SHOP_TYPE_HCOIN"
+    },
+    {
+        "itemNameTextMapHash": 2064065185,
+        "primNameTextMapHash": 4173245368,
+        "icon": "UI_Mall_Purchase_Primogem4thstall",
+        "MIHCIDNGDDL": 1980,
+        "BCKADFDOCHF": 260,
+        "JCGABHAEJEN": 260,
+        "seqenceRawNum": 3,
+        "productId": "ys_chn_primogem4thstall_tier30",
+        "priceTier": "Tier_30",
+        "shopType": "SHOP_TYPE_HCOIN"
+    },
+    {
+        "itemNameTextMapHash": 48735355,
+        "primNameTextMapHash": 688573384,
+        "icon": "UI_Mall_Purchase_Primogem5thstall",
+        "MIHCIDNGDDL": 3280,
+        "BCKADFDOCHF": 600,
+        "JCGABHAEJEN": 600,
+        "seqenceRawNum": 2,
+        "productId": "ys_chn_primogem5thstall_tier50",
+        "priceTier": "Tier_50",
+        "shopType": "SHOP_TYPE_HCOIN"
+    },
+    {
+        "itemNameTextMapHash": 69829536,
+        "primNameTextMapHash": 2878345094,
+        "icon": "UI_Mall_Purchase_Primogem6thstall",
+        "MIHCIDNGDDL": 6480,
+        "BCKADFDOCHF": 1600,
+        "JCGABHAEJEN": 1600,
+        "seqenceRawNum": 1,
+        "productId": "ys_chn_primogem6thstall_tier60",
+        "priceTier": "Tier_60",
+        "shopType": "SHOP_TYPE_HCOIN"
+    }
+]

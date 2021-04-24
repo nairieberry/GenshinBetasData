@@ -1,0 +1,24 @@
+[
+    {
+        "nameTextMapHash": 2167623036,
+        "shopType": "SHOP_TYPE_PACKAGE",
+        "goodsIdVec": [],
+        "EEAAFDHDPMJ": [
+            "ys_chn_blessofmoon_tier5"
+        ],
+        "condVec": [
+            {
+                "type": "SHOPMALL_RECOMMEND_COND_PLAYER_LEVEL_GE",
+                "param1RawNum": 1,
+                "param2RawNum": 0
+            },
+            {
+                "param1RawNum": 0,
+                "param2RawNum": 0
+            }
+        ],
+        "orderRawNum": 3,
+        "oneCardIconName": "MallPackage_MonthlyCard",
+        "colShowIconName": []
+    }
+]

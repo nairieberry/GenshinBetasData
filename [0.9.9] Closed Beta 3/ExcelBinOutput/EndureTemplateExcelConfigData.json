@@ -1,0 +1,100 @@
+[
+    {
+        "type": "Default",
+        "gaugeLengthRawNum": 100.0,
+        "waneSpeedRawNum": 10.0,
+        "recoverTimeRawNum": 2.0,
+        "enduranceRawNum": 1.0
+    },
+    {
+        "type": "Avatar_Sword",
+        "gaugeLengthRawNum": 100.0,
+        "waneSpeedRawNum": 5.0,
+        "recoverTimeRawNum": 2.0,
+        "enduranceRawNum": 1.0
+    },
+    {
+        "type": "Avatar_Pole",
+        "gaugeLengthRawNum": 100.0,
+        "waneSpeedRawNum": 5.0,
+        "recoverTimeRawNum": 2.0,
+        "enduranceRawNum": 1.0
+    },
+    {
+        "type": "Avatar_Claymore",
+        "gaugeLengthRawNum": 100.0,
+        "waneSpeedRawNum": 5.0,
+        "recoverTimeRawNum": 2.0,
+        "enduranceRawNum": 1.0
+    },
+    {
+        "type": "Avatar_Bow",
+        "gaugeLengthRawNum": 50.0,
+        "waneSpeedRawNum": 3.0,
+        "recoverTimeRawNum": 3.0,
+        "enduranceRawNum": 1.0
+    },
+    {
+        "type": "Avatar_Catalyst",
+        "gaugeLengthRawNum": 50.0,
+        "waneSpeedRawNum": 3.0,
+        "recoverTimeRawNum": 3.0,
+        "enduranceRawNum": 1.0
+    },
+    {
+        "type": "Monster_Minion",
+        "gaugeLengthRawNum": 60.0,
+        "waneSpeedRawNum": 5.0,
+        "recoverTimeRawNum": 5.0,
+        "enduranceRawNum": 1.2000000476837158
+    },
+    {
+        "type": "Monster_Grunt_Humanoid",
+        "gaugeLengthRawNum": 100.0,
+        "waneSpeedRawNum": 5.0,
+        "recoverTimeRawNum": 3.0,
+        "enduranceRawNum": 1.0
+    },
+    {
+        "type": "Monster_Grunt_Other",
+        "gaugeLengthRawNum": 120.0,
+        "waneSpeedRawNum": 5.0,
+        "recoverTimeRawNum": 3.0,
+        "enduranceRawNum": 0.800000011920929
+    },
+    {
+        "type": "Monster_Demiboss_Humanoid",
+        "gaugeLengthRawNum": 210.0,
+        "waneSpeedRawNum": 20.0,
+        "recoverTimeRawNum": 2.0,
+        "enduranceRawNum": 1.0
+    },
+    {
+        "type": "Monster_Demiboss_Other",
+        "gaugeLengthRawNum": 280.0,
+        "waneSpeedRawNum": 20.0,
+        "recoverTimeRawNum": 2.0,
+        "enduranceRawNum": 0.699999988079071
+    },
+    {
+        "type": "Monster_Boss_Humanoid",
+        "gaugeLengthRawNum": 2000.0,
+        "waneSpeedRawNum": 100.0,
+        "recoverTimeRawNum": 0.0,
+        "enduranceRawNum": 0.5
+    },
+    {
+        "type": "Monster_Boss_Other",
+        "gaugeLengthRawNum": 2000.0,
+        "waneSpeedRawNum": 100.0,
+        "recoverTimeRawNum": 0.0,
+        "enduranceRawNum": 0.5
+    },
+    {
+        "type": "Monster_Slime",
+        "gaugeLengthRawNum": 30.0,
+        "waneSpeedRawNum": 2.0,
+        "recoverTimeRawNum": 5.0,
+        "enduranceRawNum": 1.5
+    }
+]

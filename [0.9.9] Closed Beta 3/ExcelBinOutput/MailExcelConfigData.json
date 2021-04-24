@@ -1,0 +1,58 @@
+[
+    {
+        "idRawNum": 1,
+        "expireDaysRawNum": 30,
+        "titleTextMapHash": 1754041211,
+        "contentTextMapHash": 3623910234,
+        "senderTextMapHash": 4216765898
+    },
+    {
+        "idRawNum": 2,
+        "expireDaysRawNum": 30,
+        "titleTextMapHash": 586478083,
+        "contentTextMapHash": 1233288602,
+        "senderTextMapHash": 3911837898
+    },
+    {
+        "idRawNum": 3,
+        "expireDaysRawNum": 30,
+        "titleTextMapHash": 3934427331,
+        "contentTextMapHash": 2438265242,
+        "senderTextMapHash": 1494692418
+    },
+    {
+        "idRawNum": 4,
+        "expireDaysRawNum": 30,
+        "titleTextMapHash": 85799459,
+        "contentTextMapHash": 1043564762,
+        "senderTextMapHash": 3102886234
+    },
+    {
+        "idRawNum": 5,
+        "expireDaysRawNum": 30,
+        "titleTextMapHash": 506683819,
+        "contentTextMapHash": 2790724594,
+        "senderTextMapHash": 3608118730
+    },
+    {
+        "idRawNum": 6,
+        "expireDaysRawNum": 30,
+        "titleTextMapHash": 1650266819,
+        "contentTextMapHash": 286462626,
+        "senderTextMapHash": 1092584802
+    },
+    {
+        "idRawNum": 7,
+        "expireDaysRawNum": 30,
+        "titleTextMapHash": 2116683075,
+        "contentTextMapHash": 1230855122,
+        "senderTextMapHash": 4072764490
+    },
+    {
+        "idRawNum": 8,
+        "expireDaysRawNum": 365,
+        "titleTextMapHash": 3609046219,
+        "contentTextMapHash": 1788946626,
+        "senderTextMapHash": 1970064626
+    }
+]

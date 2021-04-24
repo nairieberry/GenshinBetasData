@@ -1,0 +1,36 @@
+[
+    {
+        "activityIdRawNum": 1001,
+        "type": "ACTIVITY_SEA_LAMP",
+        "destroyItemVec": [
+            {
+                "itemIdVec": [
+                    200001,
+                    200002,
+                    200003,
+                    200004
+                ]
+            },
+            {
+                "itemIdVec": []
+            }
+        ],
+        "nameTextMapHash": 4266261887,
+        "activitySceneTag": "Hdj",
+        "isLoadTerrain": true
+    },
+    {
+        "activityIdRawNum": 5001,
+        "type": "ACTIVITY_CRUCIBLE",
+        "destroyItemVec": [
+            {
+                "itemIdVec": []
+            },
+            {
+                "itemIdVec": []
+            }
+        ],
+        "nameTextMapHash": 1568489287,
+        "activitySceneTag": ""
+    }
+]

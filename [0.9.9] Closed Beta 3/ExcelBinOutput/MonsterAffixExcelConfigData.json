@@ -1,0 +1,1132 @@
+[
+    {
+        "idRawNum": 1001,
+        "affixTextMapHash": 4170214919,
+        "comment": "提升单体50%攻击力",
+        "abilityName": "MonsterAffix_Bash",
+        "isCommon": true,
+        "iconPath": "Skill_E_PlayerWind_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1002,
+        "affixTextMapHash": 2964675935,
+        "comment": "提升单体50%防御力",
+        "abilityName": "MonsterAffix_IronDefense",
+        "isCommon": true,
+        "iconPath": "Skill_S_Qin_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1003,
+        "affixTextMapHash": 1008594103,
+        "comment": "7秒内没有受到攻击，则每秒回复5%生命值",
+        "abilityName": "MonsterAffix_Indomitable",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ambor",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1004,
+        "affixTextMapHash": 540490031,
+        "comment": "提升全元素20%抗性",
+        "abilityName": "MonsterAffix_Rainbow_01",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1005,
+        "affixTextMapHash": 2685450039,
+        "comment": "遭受电击后会降低防御",
+        "abilityName": "MonsterAffix_ElementHit_BreakDefence",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1006,
+        "affixTextMapHash": 2613336335,
+        "comment": "提升单体血量20%",
+        "abilityName": "MonsterAffix_Property_HpImprove_01",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1007,
+        "affixTextMapHash": 581428351,
+        "comment": "提升单体血量50%",
+        "abilityName": "MonsterAffix_Property_HpImprove_02",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1008,
+        "affixTextMapHash": 2796917919,
+        "comment": "提升单体血量100%",
+        "abilityName": "MonsterAffix_Property_HpImprove_03",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1009,
+        "affixTextMapHash": 628028047,
+        "comment": "提升单体攻击20%",
+        "abilityName": "MonsterAffix_Property_AtkImprove_01",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1010,
+        "affixTextMapHash": 1989537791,
+        "comment": "提升单体攻击50%",
+        "abilityName": "MonsterAffix_Property_AtkImprove_02",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1011,
+        "affixTextMapHash": 1316449207,
+        "comment": "提升单体攻击100%",
+        "abilityName": "MonsterAffix_Property_AtkImprove_03",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1012,
+        "affixTextMapHash": 3909477823,
+        "comment": "提升单体元素盾含量20%",
+        "abilityName": "MonsterAffix_ElementShield_DurabilityImprove_01",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1013,
+        "affixTextMapHash": 227233343,
+        "comment": "提升单体元素盾含量50%",
+        "abilityName": "MonsterAffix_ElementShield_DurabilityImprove_02",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1014,
+        "affixTextMapHash": 556407647,
+        "comment": "提升单体元素盾含量100%",
+        "abilityName": "MonsterAffix_ElementShield_DurabilityImprove_03",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1015,
+        "affixTextMapHash": 2994037487,
+        "comment": "提升单体元素盾恢复速率20%",
+        "abilityName": "MonsterAffix_ElementShield_GapReduce_01",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1016,
+        "affixTextMapHash": 2604697879,
+        "comment": "提升单体元素盾恢复速率50%",
+        "abilityName": "MonsterAffix_ElementShield_GapReduce_02",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1017,
+        "affixTextMapHash": 1370453143,
+        "comment": "提升单体元素盾恢复速率100%",
+        "abilityName": "MonsterAffix_ElementShield_GapReduce_03",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1018,
+        "affixTextMapHash": 2998513991,
+        "comment": "单个怪物AI出手频率提升1.5",
+        "abilityName": "MonsterAffix_AISkillCD_Revise01",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1019,
+        "affixTextMapHash": 2586102455,
+        "comment": "单个怪物AI出手频率提升2",
+        "abilityName": "MonsterAffix_AISkillCD_Revise02",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1020,
+        "affixTextMapHash": 2933432583,
+        "comment": "提升怪物火伤",
+        "abilityName": "MonsterAffix_FireAddHurtDelta_Improve",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1021,
+        "affixTextMapHash": 843941951,
+        "comment": "降低单体40%攻击力",
+        "abilityName": "MonsterAffix_Weak",
+        "isCommon": true,
+        "iconPath": "Skill_E_PlayerWind_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1022,
+        "affixTextMapHash": 2581725983,
+        "comment": "提升单体100%防御力",
+        "abilityName": "MonsterAffix_Slime_Ice_IronDefence_Father",
+        "isCommon": true,
+        "iconPath": "Skill_S_Qin_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1023,
+        "affixTextMapHash": 2095913239,
+        "comment": "辅助判断是否满足条件",
+        "abilityName": "MonsterAffix_Slime_Ice_IronDefence_Child",
+        "isCommon": true,
+        "iconPath": "Skill_S_Qin_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1024,
+        "affixTextMapHash": 4133780855,
+        "comment": "提升单体100%防御力",
+        "abilityName": "MonsterAffix_Property_IronDefence_Father",
+        "isCommon": true,
+        "iconPath": "Skill_S_Qin_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1025,
+        "affixTextMapHash": 1783500519,
+        "comment": "辅助判断是否满足条件",
+        "abilityName": "MonsterAffix_Property_IronDefence_Child",
+        "isCommon": true,
+        "iconPath": "Skill_S_Qin_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1026,
+        "affixTextMapHash": 1801076471,
+        "comment": "元素V2白盒词缀-详见文档",
+        "abilityName": "MonsterAffix_WaterDebuff_CoolDownIncrement",
+        "isCommon": true,
+        "iconPath": "Skill_S_Qin_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1027,
+        "affixTextMapHash": 3087550455,
+        "comment": "元素V2白盒词缀-详见文档",
+        "abilityName": "MonsterAffix_ElecDebuff_LoseEnergy",
+        "isCommon": true,
+        "iconPath": "Skill_S_Qin_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1028,
+        "affixTextMapHash": 2359495551,
+        "comment": "元素V2白盒词缀-详见文档",
+        "abilityName": "MonsterAffix_FireDebuff_LoseHP",
+        "isCommon": true,
+        "iconPath": "Skill_S_Qin_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1029,
+        "affixTextMapHash": 1343676183,
+        "comment": "元素V2白盒词缀-详见文档",
+        "abilityName": "MonsterAffix_IceDebuff_ExtraStaminaCost",
+        "isCommon": true,
+        "iconPath": "Skill_S_Qin_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1030,
+        "affixTextMapHash": 208823743,
+        "comment": "降低单体血量60%",
+        "abilityName": "MonsterAffix_Property_HpDecrease_01",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1031,
+        "affixTextMapHash": 3060861951,
+        "comment": "免疫嘲讽",
+        "abilityName": "MonsterAffix_MuteTaunt",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1201,
+        "affixTextMapHash": 1858300071,
+        "comment": "提升单体血量10%",
+        "abilityName": "MonsterAffix_Property_HpImproveForAbyssus_01",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1211,
+        "affixTextMapHash": 2676434231,
+        "comment": "提升单体血量50%",
+        "abilityName": "MonsterAffix_Property_HpImproveForAbyssus_02",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1221,
+        "affixTextMapHash": 3879142863,
+        "comment": "提升单体血量100%",
+        "abilityName": "MonsterAffix_Property_HpImproveForAbyssus_03",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1231,
+        "affixTextMapHash": 820902007,
+        "comment": "提升单体血量150%",
+        "abilityName": "MonsterAffix_Property_HpImproveForAbyssus_04",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1241,
+        "affixTextMapHash": 86882423,
+        "comment": "提升单体血量200%",
+        "abilityName": "MonsterAffix_Property_HpImproveForAbyssus_05",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1401,
+        "affixTextMapHash": 2012252927,
+        "comment": "提升单体血量50%",
+        "abilityName": "MonsterAffix_Property_HpImproveForEvent_01",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1402,
+        "affixTextMapHash": 4161109583,
+        "comment": "提升单体血量100%",
+        "abilityName": "MonsterAffix_Property_HpImproveForEvent_02",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1403,
+        "affixTextMapHash": 101227199,
+        "comment": "提升单体血量200%",
+        "abilityName": "MonsterAffix_Property_HpImproveForEvent_03",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1404,
+        "affixTextMapHash": 2815257015,
+        "comment": "提升单体100%防御力",
+        "abilityName": "MonsterAffix_Property_DefImproveForEvent_01",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1405,
+        "affixTextMapHash": 347655351,
+        "comment": "提升单体200%防御力",
+        "abilityName": "MonsterAffix_Property_DefImproveForEvent_02",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1406,
+        "affixTextMapHash": 2578656311,
+        "comment": "提升单体20%攻击力",
+        "abilityName": "MonsterAffix_Property_AtkImproveForEvent_01",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1407,
+        "affixTextMapHash": 2307695279,
+        "comment": "提升单体50%攻击力",
+        "abilityName": "MonsterAffix_Property_AtkImproveForEvent_02",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1408,
+        "affixTextMapHash": 3514396087,
+        "comment": "单个怪物AI出手频率提升1.5",
+        "abilityName": "MonsterAffix_AISkillCDForEvent_Revise01",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1409,
+        "affixTextMapHash": 415225783,
+        "comment": "单个怪物AI出手频率提升2",
+        "abilityName": "MonsterAffix_AISkillCDForEvent_Revise02",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1410,
+        "affixTextMapHash": 3195978151,
+        "comment": "降低单体血量60%",
+        "abilityName": "MonsterAffix_Property_HpDecreaseForEvent_01",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1411,
+        "affixTextMapHash": 2386496127,
+        "comment": "降低单体40%攻击力",
+        "abilityName": "MonsterAffix_Property_AtkDecreaseForEvent_01",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 1901,
+        "affixTextMapHash": 4269231223,
+        "comment": "任务目标对象特效",
+        "abilityName": "MonsterAffix_Crystal_Wind",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 2001,
+        "affixTextMapHash": 2170013095,
+        "comment": "免疫点燃伤害",
+        "abilityName": "MonsterAffix_BurningResist",
+        "iconPath": "Skill_E_Diluc_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 2002,
+        "affixTextMapHash": 1480040415,
+        "comment": "免疫感电伤害和效果",
+        "abilityName": "MonsterAffix_ShockResist",
+        "iconPath": "Skill_E_Kate",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 2003,
+        "affixTextMapHash": 333373471,
+        "comment": "免疫冰冻和寒元素的减速效果",
+        "abilityName": "MonsterAffix_IceAllResist",
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3001,
+        "affixTextMapHash": 2437149655,
+        "comment": "同系伤害抵抗-水-50%",
+        "abilityName": "MonsterAffix_ElementResist_Water_01",
+        "iconPath": "Skill_S_Diluc_01_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3002,
+        "affixTextMapHash": 3028158623,
+        "comment": "同系伤害抵抗-水-70%",
+        "abilityName": "MonsterAffix_ElementResist_Water_02",
+        "iconPath": "Skill_S_Diluc_01_02",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3003,
+        "affixTextMapHash": 2845660295,
+        "comment": "同系伤害抵抗-水-100%",
+        "abilityName": "MonsterAffix_ElementResist_Water_03",
+        "iconPath": "Skill_S_Diluc_01_03",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3004,
+        "affixTextMapHash": 4051145823,
+        "comment": "同系伤害抵抗-火-50%",
+        "abilityName": "MonsterAffix_ElementResist_Fire_01",
+        "iconPath": "Skill_S_Diluc_01_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3005,
+        "affixTextMapHash": 4217679911,
+        "comment": "同系伤害抵抗-火-70%",
+        "abilityName": "MonsterAffix_ElementResist_Fire_02",
+        "iconPath": "Skill_S_Diluc_01_02",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3006,
+        "affixTextMapHash": 1276038799,
+        "comment": "同系伤害抵抗-火-100%",
+        "abilityName": "MonsterAffix_ElementResist_Fire_03",
+        "iconPath": "Skill_S_Diluc_01_03",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3007,
+        "affixTextMapHash": 3500812239,
+        "comment": "同系伤害抵抗-冰-50%",
+        "abilityName": "MonsterAffix_ElementResist_Ice_01",
+        "iconPath": "Skill_S_Diluc_01_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3008,
+        "affixTextMapHash": 4104175383,
+        "comment": "同系伤害抵抗-冰-70%",
+        "abilityName": "MonsterAffix_ElementResist_Ice_02",
+        "iconPath": "Skill_S_Diluc_01_02",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3009,
+        "affixTextMapHash": 360408215,
+        "comment": "同系伤害抵抗-冰-100%",
+        "abilityName": "MonsterAffix_ElementResist_Ice_03",
+        "iconPath": "Skill_S_Diluc_01_03",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3010,
+        "affixTextMapHash": 1285928527,
+        "comment": "同系伤害抵抗-电-50%",
+        "abilityName": "MonsterAffix_ElementResist_Electric_01",
+        "iconPath": "Skill_S_Diluc_01_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3011,
+        "affixTextMapHash": 4133522527,
+        "comment": "同系伤害抵抗-电-70%",
+        "abilityName": "MonsterAffix_ElementResist_Electric_02",
+        "iconPath": "Skill_S_Diluc_01_02",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3012,
+        "affixTextMapHash": 2653913455,
+        "comment": "同系伤害抵抗-电-100%",
+        "abilityName": "MonsterAffix_ElementResist_Electric_03",
+        "iconPath": "Skill_S_Diluc_01_03",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3013,
+        "affixTextMapHash": 3999381935,
+        "comment": "同系伤害抵抗-风-50%",
+        "abilityName": "MonsterAffix_ElementResist_Wind_01",
+        "iconPath": "Skill_S_Diluc_01_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3014,
+        "affixTextMapHash": 760182983,
+        "comment": "同系伤害抵抗-风-70%",
+        "abilityName": "MonsterAffix_ElementResist_Wind_02",
+        "iconPath": "Skill_S_Diluc_01_02",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3015,
+        "affixTextMapHash": 3569940463,
+        "comment": "同系伤害抵抗-风-100%",
+        "abilityName": "MonsterAffix_ElementResist_Wind_03",
+        "iconPath": "Skill_S_Diluc_01_03",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3016,
+        "affixTextMapHash": 3883666031,
+        "comment": "同系伤害抵抗-草-50%",
+        "abilityName": "MonsterAffix_ElementResist_Grass_01",
+        "iconPath": "Skill_S_Diluc_01_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3017,
+        "affixTextMapHash": 1673661143,
+        "comment": "同系伤害抵抗-草-70%",
+        "abilityName": "MonsterAffix_ElementResist_Grass_02",
+        "iconPath": "Skill_S_Diluc_01_02",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3018,
+        "affixTextMapHash": 609468551,
+        "comment": "同系伤害抵抗-草-100%",
+        "abilityName": "MonsterAffix_ElementResist_Grass_03",
+        "iconPath": "Skill_S_Diluc_01_03",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3019,
+        "affixTextMapHash": 672494087,
+        "comment": "同系伤害抵抗-岩-50%",
+        "abilityName": "MonsterAffix_ElementResist_Rock_01",
+        "iconPath": "Skill_S_Diluc_01_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3020,
+        "affixTextMapHash": 262761231,
+        "comment": "同系伤害抵抗-岩-70%",
+        "abilityName": "MonsterAffix_ElementResist_Rock_02",
+        "iconPath": "Skill_S_Diluc_01_02",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 3021,
+        "affixTextMapHash": 2824271151,
+        "comment": "同系伤害抵抗-岩-100%",
+        "abilityName": "MonsterAffix_ElementResist_Rock_03",
+        "iconPath": "Skill_S_Diluc_01_03",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 4001,
+        "affixTextMapHash": 4002562599,
+        "comment": "冰元素含量会持续缓慢恢复",
+        "abilityName": "MonsterAffix_ElementRecovery_Ice",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 5001,
+        "affixTextMapHash": 3356564455,
+        "comment": "精英化词缀-详见对应文档",
+        "abilityName": "MonsterEliteAffix_Attack_Enhance",
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 5002,
+        "affixTextMapHash": 609901551,
+        "comment": "精英化词缀-详见对应文档",
+        "abilityName": "MonsterEliteAffix_Defence_Enhance",
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 5003,
+        "affixTextMapHash": 2395700711,
+        "comment": "精英化词缀-详见对应文档",
+        "abilityName": "MonsterEliteAffix_Agility_Enhance",
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 5004,
+        "affixTextMapHash": 3147340871,
+        "comment": "精英化词缀-详见对应文档",
+        "abilityName": "MonsterEliteAffix_Support_Enhance",
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 5005,
+        "affixTextMapHash": 2084769231,
+        "comment": "精英化词缀-详见对应文档",
+        "abilityName": "MonsterEliteAffix_AgilityEnhance_Abyss_Plugin",
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 6001,
+        "affixTextMapHash": 1411971327,
+        "comment": "元素V2白盒词缀-详见文档",
+        "abilityName": "MonsterAffix_IceDebuff_ForbidStaminaRecovery",
+        "isCommon": true,
+        "iconPath": "Skill_S_Qin_01",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 6101,
+        "affixTextMapHash": 359228575,
+        "comment": "冰伤害通用技能-详见文档",
+        "abilityName": "GeneralSkill_IceDamage_Prison",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 6102,
+        "affixTextMapHash": 3439232167,
+        "comment": "风伤害通用技能-详见文档",
+        "abilityName": "GeneralSkill_WindDamage_Vortex",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 6103,
+        "affixTextMapHash": 713497647,
+        "comment": "岩伤害通用技能-详见文档",
+        "abilityName": "GeneralSkill_RockDamage_LowWave",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 6104,
+        "affixTextMapHash": 3207470399,
+        "comment": "电伤害通用技能-详见文档",
+        "abilityName": "GeneralSkill_ElecDamage_Arc",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 6105,
+        "affixTextMapHash": 4132611207,
+        "comment": "火伤害通用技能-详见文档",
+        "abilityName": "GeneralSkill_FireDamage_TracingImpulse",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 6106,
+        "affixTextMapHash": 521937799,
+        "comment": "水伤害通用技能-详见文档",
+        "abilityName": "GeneralSkill_WaterDamage_Bubble",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8001,
+        "affixTextMapHash": 2578649255,
+        "comment": "怪物死亡掉落70330025",
+        "abilityName": "MonsterInfusionAffix_Crucible_Water_Small",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8002,
+        "affixTextMapHash": 3355720367,
+        "comment": "怪物死亡掉落70330026",
+        "abilityName": "MonsterInfusionAffix_Crucible_Water_Big",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8003,
+        "affixTextMapHash": 373728975,
+        "comment": "怪物死亡掉落70330027",
+        "abilityName": "MonsterInfusionAffix_Crucible_Fire_Small",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8004,
+        "affixTextMapHash": 1144913015,
+        "comment": "怪物死亡掉落70330028",
+        "abilityName": "MonsterInfusionAffix_Crucible_Fire_Big",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8005,
+        "affixTextMapHash": 1446231535,
+        "comment": "怪物死亡掉落70330029",
+        "abilityName": "MonsterInfusionAffix_Crucible_Ice_Small",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8006,
+        "affixTextMapHash": 1527672415,
+        "comment": "怪物死亡掉落70330030",
+        "abilityName": "MonsterInfusionAffix_Crucible_Ice_Big",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8007,
+        "affixTextMapHash": 3207875359,
+        "comment": "怪物死亡掉落70330031",
+        "abilityName": "MonsterInfusionAffix_Crucible_Electric_Small",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8008,
+        "affixTextMapHash": 3065579151,
+        "comment": "怪物死亡掉落70330032",
+        "abilityName": "MonsterInfusionAffix_Crucible_Electric_Big",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8009,
+        "affixTextMapHash": 4056665423,
+        "comment": "怪物死亡掉落70330033",
+        "abilityName": "MonsterInfusionAffix_Crucible_Wind_Small",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8010,
+        "affixTextMapHash": 2702091511,
+        "comment": "怪物死亡掉落70330034",
+        "abilityName": "MonsterInfusionAffix_Crucible_Wind_Big",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8011,
+        "affixTextMapHash": 1130259967,
+        "comment": "怪物死亡掉落70330035",
+        "abilityName": "MonsterInfusionAffix_Crucible_Rock_Small",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8012,
+        "affixTextMapHash": 815352679,
+        "comment": "怪物死亡掉落70330036",
+        "abilityName": "MonsterInfusionAffix_Crucible_Rock_Big",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8013,
+        "affixTextMapHash": 1009915055,
+        "comment": "怪物死亡掉落70330037",
+        "abilityName": "MonsterInfusionAffix_Crucible_Grass_Small",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8014,
+        "affixTextMapHash": 152120063,
+        "comment": "怪物死亡掉落70330038",
+        "abilityName": "MonsterInfusionAffix_Crucible_Grass_Big",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8015,
+        "affixTextMapHash": 37682967,
+        "comment": "怪物死亡随机掉落小球",
+        "abilityName": "MonsterInfusionAffix_Crucible_Random_Small",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8016,
+        "affixTextMapHash": 4179831063,
+        "comment": "怪物死亡随机掉落大球",
+        "abilityName": "MonsterInfusionAffix_Crucible_Random_Big",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8017,
+        "affixTextMapHash": 3749826727,
+        "comment": "怪物死亡掉落70330025 3个",
+        "abilityName": "MonsterInfusionAffix_Crucible_Water_Small_3",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8018,
+        "affixTextMapHash": 2292171439,
+        "comment": "怪物死亡掉落70330026 3个",
+        "abilityName": "MonsterInfusionAffix_Crucible_Water_Big_3",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8019,
+        "affixTextMapHash": 114721119,
+        "comment": "怪物死亡掉落70330027 3个",
+        "abilityName": "MonsterInfusionAffix_Crucible_Fire_Small_3",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8020,
+        "affixTextMapHash": 1296450655,
+        "comment": "怪物死亡掉落70330028 3个",
+        "abilityName": "MonsterInfusionAffix_Crucible_Fire_Big_3",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8021,
+        "affixTextMapHash": 345122207,
+        "comment": "怪物死亡掉落70330029 3个",
+        "abilityName": "MonsterInfusionAffix_Crucible_Ice_Small_3",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 8022,
+        "affixTextMapHash": 993255439,
+        "comment": "怪物死亡掉落70330030 3个",
+        "abilityName": "MonsterInfusionAffix_Crucible_Ice_Big_3",
+        "isCommon": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 9001,
+        "affixTextMapHash": 1465296031,
+        "comment": "北风狼雷泽线任务标识",
+        "abilityName": "MonsterAffix_LupiBoreas_Razor",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 9002,
+        "affixTextMapHash": 2738556039,
+        "comment": "召唤怪跟随创建者的生命周期",
+        "abilityName": "MonsterAffix_Summon_Lifetime",
+        "isCommon": true,
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 9003,
+        "affixTextMapHash": 3284409791,
+        "comment": "盗宝鼬-等级1标识",
+        "abilityName": "MonsterAffix_Thoarder_Weasel_Level_01",
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 9004,
+        "affixTextMapHash": 3392519359,
+        "comment": "盗宝鼬-等级2标识",
+        "abilityName": "MonsterAffix_Thoarder_Weasel_Level_02",
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 9005,
+        "affixTextMapHash": 2301750447,
+        "comment": "盗宝鼬-等级3标识",
+        "abilityName": "MonsterAffix_Thoarder_Weasel_Level_03",
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    },
+    {
+        "idRawNum": 9006,
+        "affixTextMapHash": 2003947559,
+        "comment": "风魔龙初见标识",
+        "abilityName": "MonsterAffix_Dvalin_S04_FirstSight",
+        "preAdd": true,
+        "iconPath": "Skill_E_Ayaka",
+        "radarHintIDRawNum": 0,
+        "generalSkillIcon": ""
+    }
+]

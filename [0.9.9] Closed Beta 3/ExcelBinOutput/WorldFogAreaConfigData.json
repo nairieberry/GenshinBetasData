@@ -1,0 +1,750 @@
+[
+    {
+        "ID": 1,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_1",
+        "HIAFOAKCOMG": 1
+    },
+    {
+        "ID": 9,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 1,
+        "ENACPNNLAOH": 101
+    },
+    {
+        "ID": 10,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 1,
+        "ENACPNNLAOH": 102
+    },
+    {
+        "ID": 11,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 1,
+        "ENACPNNLAOH": 103
+    },
+    {
+        "ID": 12,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 1,
+        "ENACPNNLAOH": 104
+    },
+    {
+        "ID": 13,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 1,
+        "ENACPNNLAOH": 105
+    },
+    {
+        "ID": 14,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 1,
+        "ENACPNNLAOH": 106
+    },
+    {
+        "ID": 15,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 1,
+        "ENACPNNLAOH": 107
+    },
+    {
+        "ID": 16,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 1,
+        "ENACPNNLAOH": 108
+    },
+    {
+        "ID": 17,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 1,
+        "ENACPNNLAOH": 109
+    },
+    {
+        "ID": 18,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 1,
+        "ENACPNNLAOH": 110
+    },
+    {
+        "ID": 19,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 1,
+        "ENACPNNLAOH": 111
+    },
+    {
+        "ID": 20,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 1,
+        "ENACPNNLAOH": 112
+    },
+    {
+        "ID": 21,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 1,
+        "ENACPNNLAOH": 113
+    },
+    {
+        "ID": 2,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_1",
+        "HIAFOAKCOMG": 2
+    },
+    {
+        "ID": 22,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 201
+    },
+    {
+        "ID": 23,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 202
+    },
+    {
+        "ID": 24,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 203
+    },
+    {
+        "ID": 25,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 204
+    },
+    {
+        "ID": 26,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 205
+    },
+    {
+        "ID": 27,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 206
+    },
+    {
+        "ID": 28,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 207
+    },
+    {
+        "ID": 29,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 208
+    },
+    {
+        "ID": 30,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 209
+    },
+    {
+        "ID": 31,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 210
+    },
+    {
+        "ID": 32,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 211
+    },
+    {
+        "ID": 33,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 212
+    },
+    {
+        "ID": 34,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 213
+    },
+    {
+        "ID": 35,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 214
+    },
+    {
+        "ID": 36,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 215
+    },
+    {
+        "ID": 37,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 216
+    },
+    {
+        "ID": 38,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 217
+    },
+    {
+        "ID": 39,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 218
+    },
+    {
+        "ID": 40,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 219
+    },
+    {
+        "ID": 41,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 2,
+        "ENACPNNLAOH": 220
+    },
+    {
+        "ID": 3,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_1",
+        "HIAFOAKCOMG": 3
+    },
+    {
+        "ID": 42,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 3,
+        "ENACPNNLAOH": 301
+    },
+    {
+        "ID": 43,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 3,
+        "ENACPNNLAOH": 302
+    },
+    {
+        "ID": 44,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 3,
+        "ENACPNNLAOH": 303
+    },
+    {
+        "ID": 45,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 3,
+        "ENACPNNLAOH": 304
+    },
+    {
+        "ID": 46,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 3,
+        "ENACPNNLAOH": 305
+    },
+    {
+        "ID": 47,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 3,
+        "ENACPNNLAOH": 306
+    },
+    {
+        "ID": 48,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 3,
+        "ENACPNNLAOH": 307
+    },
+    {
+        "ID": 49,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 3,
+        "ENACPNNLAOH": 308
+    },
+    {
+        "ID": 50,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 3,
+        "ENACPNNLAOH": 309
+    },
+    {
+        "ID": 51,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 3,
+        "ENACPNNLAOH": 310
+    },
+    {
+        "ID": 52,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 3,
+        "ENACPNNLAOH": 311
+    },
+    {
+        "ID": 4,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_1",
+        "HIAFOAKCOMG": 4
+    },
+    {
+        "ID": 53,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 4,
+        "ENACPNNLAOH": 401
+    },
+    {
+        "ID": 54,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 4,
+        "ENACPNNLAOH": 402
+    },
+    {
+        "ID": 55,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 4,
+        "ENACPNNLAOH": 403
+    },
+    {
+        "ID": 56,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 4,
+        "ENACPNNLAOH": 404
+    },
+    {
+        "ID": 57,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 4,
+        "ENACPNNLAOH": 405
+    },
+    {
+        "ID": 58,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 4,
+        "ENACPNNLAOH": 406
+    },
+    {
+        "ID": 5,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_1",
+        "HIAFOAKCOMG": 5
+    },
+    {
+        "ID": 59,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 501
+    },
+    {
+        "ID": 60,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 502
+    },
+    {
+        "ID": 61,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 503
+    },
+    {
+        "ID": 62,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 504
+    },
+    {
+        "ID": 63,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 505
+    },
+    {
+        "ID": 64,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 506
+    },
+    {
+        "ID": 65,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 507
+    },
+    {
+        "ID": 66,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 508
+    },
+    {
+        "ID": 67,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 509
+    },
+    {
+        "ID": 68,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 510
+    },
+    {
+        "ID": 69,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 511
+    },
+    {
+        "ID": 70,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 512
+    },
+    {
+        "ID": 71,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 513
+    },
+    {
+        "ID": 72,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 514
+    },
+    {
+        "ID": 73,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 515
+    },
+    {
+        "ID": 74,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 516
+    },
+    {
+        "ID": 75,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 517
+    },
+    {
+        "ID": 76,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 518
+    },
+    {
+        "ID": 77,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 519
+    },
+    {
+        "ID": 78,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 520
+    },
+    {
+        "ID": 79,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 521
+    },
+    {
+        "ID": 80,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 5,
+        "ENACPNNLAOH": 522
+    },
+    {
+        "ID": 6,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_1",
+        "HIAFOAKCOMG": 6
+    },
+    {
+        "ID": 81,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 6,
+        "ENACPNNLAOH": 601
+    },
+    {
+        "ID": 82,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 6,
+        "ENACPNNLAOH": 602
+    },
+    {
+        "ID": 83,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 6,
+        "ENACPNNLAOH": 603
+    },
+    {
+        "ID": 84,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 6,
+        "ENACPNNLAOH": 604
+    },
+    {
+        "ID": 85,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 6,
+        "ENACPNNLAOH": 605
+    },
+    {
+        "ID": 86,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 6,
+        "ENACPNNLAOH": 606
+    },
+    {
+        "ID": 87,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 6,
+        "ENACPNNLAOH": 607
+    },
+    {
+        "ID": 88,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 6,
+        "ENACPNNLAOH": 608
+    },
+    {
+        "ID": 89,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 6,
+        "ENACPNNLAOH": 609
+    },
+    {
+        "ID": 90,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 6,
+        "ENACPNNLAOH": 610
+    },
+    {
+        "ID": 91,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 6,
+        "ENACPNNLAOH": 611
+    },
+    {
+        "ID": 92,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 6,
+        "ENACPNNLAOH": 612
+    },
+    {
+        "ID": 7,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_1",
+        "HIAFOAKCOMG": 7
+    },
+    {
+        "ID": 93,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 7,
+        "ENACPNNLAOH": 701
+    },
+    {
+        "ID": 94,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 7,
+        "ENACPNNLAOH": 702
+    },
+    {
+        "ID": 95,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 7,
+        "ENACPNNLAOH": 703
+    },
+    {
+        "ID": 96,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 7,
+        "ENACPNNLAOH": 704
+    },
+    {
+        "ID": 97,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 7,
+        "ENACPNNLAOH": 705
+    },
+    {
+        "ID": 98,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 7,
+        "ENACPNNLAOH": 706
+    },
+    {
+        "ID": 99,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 7,
+        "ENACPNNLAOH": 707
+    },
+    {
+        "ID": 100,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 7,
+        "ENACPNNLAOH": 708
+    },
+    {
+        "ID": 101,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 7,
+        "ENACPNNLAOH": 709
+    },
+    {
+        "ID": 102,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 7,
+        "ENACPNNLAOH": 710
+    },
+    {
+        "ID": 8,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_1",
+        "HIAFOAKCOMG": 8
+    },
+    {
+        "ID": 103,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 8,
+        "ENACPNNLAOH": 801
+    },
+    {
+        "ID": 104,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 8,
+        "ENACPNNLAOH": 802
+    },
+    {
+        "ID": 105,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 8,
+        "ENACPNNLAOH": 803
+    },
+    {
+        "ID": 106,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 8,
+        "ENACPNNLAOH": 804
+    },
+    {
+        "ID": 107,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 8,
+        "ENACPNNLAOH": 805
+    },
+    {
+        "ID": 108,
+        "SceneID": 3,
+        "CJAMKHKJCHE": "FOG_LEVEL_2",
+        "HIAFOAKCOMG": 8,
+        "ENACPNNLAOH": 806
+    }
+]

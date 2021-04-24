@@ -1,0 +1,78 @@
+[
+    {
+        "EntryIdRawNum": 1,
+        "playIdRawNum": 1,
+        "resinCostRawNum": 20,
+        "rewardVec": [
+            {
+                "dropIDRawNum": 209000600,
+                "rewardPreviewRawNum": 4201
+            },
+            {
+                "dropIDRawNum": 209000800,
+                "rewardPreviewRawNum": 4202
+            },
+            {
+                "dropIDRawNum": 209000900,
+                "rewardPreviewRawNum": 4203
+            },
+            {
+                "dropIDRawNum": 209001000,
+                "rewardPreviewRawNum": 4204
+            },
+            {
+                "dropIDRawNum": 209001100,
+                "rewardPreviewRawNum": 4205
+            },
+            {
+                "dropIDRawNum": 209001200,
+                "rewardPreviewRawNum": 4206
+            },
+            {
+                "dropIDRawNum": 209001300,
+                "rewardPreviewRawNum": 4207
+            },
+            {
+                "dropIDRawNum": 209001400,
+                "rewardPreviewRawNum": 4208
+            },
+            {
+                "dropIDRawNum": 209001500,
+                "rewardPreviewRawNum": 4209
+            }
+        ],
+        "groupList": [
+            133003549,
+            133003550,
+            133003554,
+            133003555,
+            133003556,
+            133003557,
+            133003568
+        ],
+        "bornGroupIdRawNum": 305001001,
+        "bornConfigIdRawNum": 1,
+        "rebornGroupIdRawNum": 305001001,
+        "rebornConfigIdRawNum": 2,
+        "rewardGroupIdRawNum": 305001001,
+        "rewardConfigIdRawNum": 3,
+        "prepareTimeRawNum": 20,
+        "centerPosList": [
+            2342.75,
+            283.8999938964844,
+            -1730.97998046875
+        ],
+        "centerRadiusRawNum": 500,
+        "targetPosList": [
+            2346.30810546875,
+            238.78399658203125,
+            -1735.8680419921875
+        ],
+        "rateList": [
+            300,
+            400,
+            450,
+            500
+        ]
+    }
+]

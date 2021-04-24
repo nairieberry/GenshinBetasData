@@ -1,0 +1,12 @@
+[
+    {
+        "idRawNum": 1,
+        "playType": "MP_PLAY_CRUCIBLE",
+        "playNameTextMapHash": 1391810210,
+        "playDescTextMapHash": 4078540324,
+        "isAutoMatch": true,
+        "minPlayersRawNum": 2,
+        "maxPlayersRawNum": 4,
+        "isAllowInAnyTime": true
+    }
+]

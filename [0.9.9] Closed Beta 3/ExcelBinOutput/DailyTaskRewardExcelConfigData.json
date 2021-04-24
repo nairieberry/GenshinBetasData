@@ -1,0 +1,161 @@
+[
+    {
+        "IDRawNum": 1,
+        "dropVec": [
+            {
+                "drop_idRawNum": 202000000,
+                "preview_reward_idRawNum": 2201
+            },
+            {
+                "drop_idRawNum": 202000200,
+                "preview_reward_idRawNum": 2202
+            },
+            {
+                "drop_idRawNum": 202000400,
+                "preview_reward_idRawNum": 2203
+            },
+            {
+                "drop_idRawNum": 202000600,
+                "preview_reward_idRawNum": 2204
+            },
+            {
+                "drop_idRawNum": 202000800,
+                "preview_reward_idRawNum": 2205
+            },
+            {
+                "drop_idRawNum": 202000900,
+                "preview_reward_idRawNum": 2206
+            },
+            {
+                "drop_idRawNum": 202001000,
+                "preview_reward_idRawNum": 2207
+            },
+            {
+                "drop_idRawNum": 202001100,
+                "preview_reward_idRawNum": 2208
+            },
+            {
+                "drop_idRawNum": 202001200,
+                "preview_reward_idRawNum": 2209
+            },
+            {
+                "drop_idRawNum": 202001300,
+                "preview_reward_idRawNum": 2210
+            },
+            {
+                "drop_idRawNum": 202001400,
+                "preview_reward_idRawNum": 2211
+            },
+            {
+                "drop_idRawNum": 202001500,
+                "preview_reward_idRawNum": 2212
+            }
+        ]
+    },
+    {
+        "IDRawNum": 2,
+        "dropVec": [
+            {
+                "drop_idRawNum": 201000000,
+                "preview_reward_idRawNum": 2101
+            },
+            {
+                "drop_idRawNum": 201000200,
+                "preview_reward_idRawNum": 2102
+            },
+            {
+                "drop_idRawNum": 201000400,
+                "preview_reward_idRawNum": 2103
+            },
+            {
+                "drop_idRawNum": 201000600,
+                "preview_reward_idRawNum": 2104
+            },
+            {
+                "drop_idRawNum": 201000800,
+                "preview_reward_idRawNum": 2105
+            },
+            {
+                "drop_idRawNum": 201000900,
+                "preview_reward_idRawNum": 2106
+            },
+            {
+                "drop_idRawNum": 201001000,
+                "preview_reward_idRawNum": 2107
+            },
+            {
+                "drop_idRawNum": 201001100,
+                "preview_reward_idRawNum": 2108
+            },
+            {
+                "drop_idRawNum": 201001200,
+                "preview_reward_idRawNum": 2109
+            },
+            {
+                "drop_idRawNum": 201001300,
+                "preview_reward_idRawNum": 2110
+            },
+            {
+                "drop_idRawNum": 201001400,
+                "preview_reward_idRawNum": 2111
+            },
+            {
+                "drop_idRawNum": 201001500,
+                "preview_reward_idRawNum": 2112
+            }
+        ]
+    },
+    {
+        "IDRawNum": 3,
+        "dropVec": [
+            {
+                "drop_idRawNum": 201000000,
+                "preview_reward_idRawNum": 2101
+            },
+            {
+                "drop_idRawNum": 201000200,
+                "preview_reward_idRawNum": 2102
+            },
+            {
+                "drop_idRawNum": 201000400,
+                "preview_reward_idRawNum": 2103
+            },
+            {
+                "drop_idRawNum": 201000600,
+                "preview_reward_idRawNum": 2104
+            },
+            {
+                "drop_idRawNum": 201000800,
+                "preview_reward_idRawNum": 2105
+            },
+            {
+                "drop_idRawNum": 201000900,
+                "preview_reward_idRawNum": 2106
+            },
+            {
+                "drop_idRawNum": 201001000,
+                "preview_reward_idRawNum": 2107
+            },
+            {
+                "drop_idRawNum": 201001100,
+                "preview_reward_idRawNum": 2108
+            },
+            {
+                "drop_idRawNum": 201001200,
+                "preview_reward_idRawNum": 2109
+            },
+            {
+                "drop_idRawNum": 201001300,
+                "preview_reward_idRawNum": 2110
+            },
+            {
+                "drop_idRawNum": 201001400,
+                "preview_reward_idRawNum": 2111
+            },
+            {
+                "drop_idRawNum": 201001500,
+                "preview_reward_idRawNum": 2112
+            }
+        ]
+    }
+]

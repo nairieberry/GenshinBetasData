@@ -1,0 +1,1402 @@
+[
+    {
+        "levelRawNum": 1,
+        "crashCoRawNum": 1.0,
+        "elementLevelCoRawNum": 13.725146293640137,
+        "playerElementLevelCoRawNum": 13.725146293640137,
+        "playerShieldLevelCoRawNum": 91.17900085449219
+    },
+    {
+        "levelRawNum": 2,
+        "crashCoRawNum": 1.0,
+        "elementLevelCoRawNum": 14.820134162902832,
+        "playerElementLevelCoRawNum": 14.820134162902832,
+        "playerShieldLevelCoRawNum": 98.70800018310547
+    },
+    {
+        "levelRawNum": 3,
+        "crashCoRawNum": 1.0,
+        "elementLevelCoRawNum": 15.917025566101074,
+        "playerElementLevelCoRawNum": 15.917025566101074,
+        "playerShieldLevelCoRawNum": 106.23600006103516
+    },
+    {
+        "levelRawNum": 4,
+        "crashCoRawNum": 1.100000023841858,
+        "elementLevelCoRawNum": 17.011690139770508,
+        "playerElementLevelCoRawNum": 17.011690139770508,
+        "playerShieldLevelCoRawNum": 113.76499938964844
+    },
+    {
+        "levelRawNum": 5,
+        "crashCoRawNum": 1.2000000476837158,
+        "elementLevelCoRawNum": 18.1092529296875,
+        "playerElementLevelCoRawNum": 18.1092529296875,
+        "playerShieldLevelCoRawNum": 121.29299926757812
+    },
+    {
+        "levelRawNum": 6,
+        "crashCoRawNum": 1.2999999523162842,
+        "elementLevelCoRawNum": 19.207965850830078,
+        "playerElementLevelCoRawNum": 19.207965850830078,
+        "playerShieldLevelCoRawNum": 128.82200622558594
+    },
+    {
+        "levelRawNum": 7,
+        "crashCoRawNum": 1.399999976158142,
+        "elementLevelCoRawNum": 20.308725357055664,
+        "playerElementLevelCoRawNum": 20.308725357055664,
+        "playerShieldLevelCoRawNum": 136.35000610351562
+    },
+    {
+        "levelRawNum": 8,
+        "crashCoRawNum": 1.600000023841858,
+        "elementLevelCoRawNum": 21.407079696655273,
+        "playerElementLevelCoRawNum": 21.407079696655273,
+        "playerShieldLevelCoRawNum": 143.87899780273438
+    },
+    {
+        "levelRawNum": 9,
+        "crashCoRawNum": 1.7999999523162842,
+        "elementLevelCoRawNum": 23.19775390625,
+        "playerElementLevelCoRawNum": 23.19775390625,
+        "playerShieldLevelCoRawNum": 151.4080047607422
+    },
+    {
+        "levelRawNum": 10,
+        "crashCoRawNum": 2.0,
+        "elementLevelCoRawNum": 25.01688575744629,
+        "playerElementLevelCoRawNum": 25.01688575744629,
+        "playerShieldLevelCoRawNum": 158.93600463867188
+    },
+    {
+        "levelRawNum": 11,
+        "crashCoRawNum": 2.200000047683716,
+        "elementLevelCoRawNum": 28.147531509399414,
+        "playerElementLevelCoRawNum": 28.147531509399414,
+        "playerShieldLevelCoRawNum": 172.13900756835938
+    },
+    {
+        "levelRawNum": 12,
+        "crashCoRawNum": 2.4000000953674316,
+        "elementLevelCoRawNum": 31.323780059814453,
+        "playerElementLevelCoRawNum": 31.323780059814453,
+        "playerShieldLevelCoRawNum": 185.38299560546875
+    },
+    {
+        "levelRawNum": 13,
+        "crashCoRawNum": 2.5999999046325684,
+        "elementLevelCoRawNum": 34.546409606933594,
+        "playerElementLevelCoRawNum": 34.546409606933594,
+        "playerShieldLevelCoRawNum": 198.66900634765625
+    },
+    {
+        "levelRawNum": 14,
+        "crashCoRawNum": 2.9000000953674316,
+        "elementLevelCoRawNum": 38.07695388793945,
+        "playerElementLevelCoRawNum": 38.07695388793945,
+        "playerShieldLevelCoRawNum": 213.1580047607422
+    },
+    {
+        "levelRawNum": 15,
+        "crashCoRawNum": 3.200000047683716,
+        "elementLevelCoRawNum": 41.66060256958008,
+        "playerElementLevelCoRawNum": 41.66060256958008,
+        "playerShieldLevelCoRawNum": 227.6929931640625
+    },
+    {
+        "levelRawNum": 16,
+        "crashCoRawNum": 3.5,
+        "elementLevelCoRawNum": 45.768768310546875,
+        "playerElementLevelCoRawNum": 45.768768310546875,
+        "playerShieldLevelCoRawNum": 242.2740020751953
+    },
+    {
+        "levelRawNum": 17,
+        "crashCoRawNum": 3.799999952316284,
+        "elementLevelCoRawNum": 52.880126953125,
+        "playerElementLevelCoRawNum": 52.880126953125,
+        "playerShieldLevelCoRawNum": 263.3179931640625
+    },
+    {
+        "levelRawNum": 18,
+        "crashCoRawNum": 4.199999809265137,
+        "elementLevelCoRawNum": 57.029998779296875,
+        "playerElementLevelCoRawNum": 57.029998779296875,
+        "playerShieldLevelCoRawNum": 284.4070129394531
+    },
+    {
+        "levelRawNum": 19,
+        "crashCoRawNum": 4.599999904632568,
+        "elementLevelCoRawNum": 61.20321273803711,
+        "playerElementLevelCoRawNum": 61.20321273803711,
+        "playerShieldLevelCoRawNum": 305.5429992675781
+    },
+    {
+        "levelRawNum": 20,
+        "crashCoRawNum": 5.0,
+        "elementLevelCoRawNum": 87.14453887939453,
+        "playerElementLevelCoRawNum": 87.14453887939453,
+        "playerShieldLevelCoRawNum": 321.0509948730469
+    },
+    {
+        "levelRawNum": 21,
+        "crashCoRawNum": 5.400000095367432,
+        "elementLevelCoRawNum": 90.96392059326172,
+        "playerElementLevelCoRawNum": 90.96392059326172,
+        "playerShieldLevelCoRawNum": 336.56298828125
+    },
+    {
+        "levelRawNum": 22,
+        "crashCoRawNum": 5.800000190734863,
+        "elementLevelCoRawNum": 94.78694915771484,
+        "playerElementLevelCoRawNum": 94.78694915771484,
+        "playerShieldLevelCoRawNum": 352.08099365234375
+    },
+    {
+        "levelRawNum": 23,
+        "crashCoRawNum": 6.199999809265137,
+        "elementLevelCoRawNum": 98.23487091064453,
+        "playerElementLevelCoRawNum": 98.23487091064453,
+        "playerShieldLevelCoRawNum": 366.4410095214844
+    },
+    {
+        "levelRawNum": 24,
+        "crashCoRawNum": 6.699999809265137,
+        "elementLevelCoRawNum": 103.16535186767578,
+        "playerElementLevelCoRawNum": 103.16535186767578,
+        "playerShieldLevelCoRawNum": 380.8009948730469
+    },
+    {
+        "levelRawNum": 25,
+        "crashCoRawNum": 7.199999809265137,
+        "elementLevelCoRawNum": 107.44031524658203,
+        "playerElementLevelCoRawNum": 107.44031524658203,
+        "playerShieldLevelCoRawNum": 395.1610107421875
+    },
+    {
+        "levelRawNum": 26,
+        "crashCoRawNum": 7.699999809265137,
+        "elementLevelCoRawNum": 112.70252227783203,
+        "playerElementLevelCoRawNum": 112.70252227783203,
+        "playerShieldLevelCoRawNum": 407.63800048828125
+    },
+    {
+        "levelRawNum": 27,
+        "crashCoRawNum": 8.199999809265137,
+        "elementLevelCoRawNum": 118.0180892944336,
+        "playerElementLevelCoRawNum": 118.0180892944336,
+        "playerShieldLevelCoRawNum": 420.1409912109375
+    },
+    {
+        "levelRawNum": 28,
+        "crashCoRawNum": 8.800000190734863,
+        "elementLevelCoRawNum": 123.38863372802734,
+        "playerElementLevelCoRawNum": 123.38863372802734,
+        "playerShieldLevelCoRawNum": 432.6709899902344
+    },
+    {
+        "levelRawNum": 29,
+        "crashCoRawNum": 9.399999618530273,
+        "elementLevelCoRawNum": 128.80763244628906,
+        "playerElementLevelCoRawNum": 128.80763244628906,
+        "playerShieldLevelCoRawNum": 445.2279968261719
+    },
+    {
+        "levelRawNum": 30,
+        "crashCoRawNum": 10.0,
+        "elementLevelCoRawNum": 143.64523315429688,
+        "playerElementLevelCoRawNum": 143.64523315429688,
+        "playerShieldLevelCoRawNum": 457.81201171875
+    },
+    {
+        "levelRawNum": 31,
+        "crashCoRawNum": 10.600000381469727,
+        "elementLevelCoRawNum": 148.5306396484375,
+        "playerElementLevelCoRawNum": 148.5306396484375,
+        "playerShieldLevelCoRawNum": 473.6990051269531
+    },
+    {
+        "levelRawNum": 32,
+        "crashCoRawNum": 11.199999809265137,
+        "elementLevelCoRawNum": 153.35142517089844,
+        "playerElementLevelCoRawNum": 153.35142517089844,
+        "playerShieldLevelCoRawNum": 489.64898681640625
+    },
+    {
+        "levelRawNum": 33,
+        "crashCoRawNum": 11.800000190734863,
+        "elementLevelCoRawNum": 156.5752716064453,
+        "playerElementLevelCoRawNum": 156.5752716064453,
+        "playerShieldLevelCoRawNum": 505.6619873046875
+    },
+    {
+        "levelRawNum": 34,
+        "crashCoRawNum": 12.5,
+        "elementLevelCoRawNum": 166.4068145751953,
+        "playerElementLevelCoRawNum": 166.4068145751953,
+        "playerShieldLevelCoRawNum": 523.4710083007812
+    },
+    {
+        "levelRawNum": 35,
+        "crashCoRawNum": 13.199999809265137,
+        "elementLevelCoRawNum": 168.58677673339844,
+        "playerElementLevelCoRawNum": 168.58677673339844,
+        "playerShieldLevelCoRawNum": 536.8179931640625
+    },
+    {
+        "levelRawNum": 36,
+        "crashCoRawNum": 13.899999618530273,
+        "elementLevelCoRawNum": 172.0251922607422,
+        "playerElementLevelCoRawNum": 172.0251922607422,
+        "playerShieldLevelCoRawNum": 550.2069702148438
+    },
+    {
+        "levelRawNum": 37,
+        "crashCoRawNum": 14.600000381469727,
+        "elementLevelCoRawNum": 176.01268005371094,
+        "playerElementLevelCoRawNum": 176.01268005371094,
+        "playerShieldLevelCoRawNum": 569.4619750976562
+    },
+    {
+        "levelRawNum": 38,
+        "crashCoRawNum": 15.399999618530273,
+        "elementLevelCoRawNum": 180.55503845214844,
+        "playerElementLevelCoRawNum": 180.55503845214844,
+        "playerShieldLevelCoRawNum": 590.5599975585938
+    },
+    {
+        "levelRawNum": 39,
+        "crashCoRawNum": 16.200000762939453,
+        "elementLevelCoRawNum": 185.0293731689453,
+        "playerElementLevelCoRawNum": 185.0293731689453,
+        "playerShieldLevelCoRawNum": 611.7080078125
+    },
+    {
+        "levelRawNum": 40,
+        "crashCoRawNum": 17.0,
+        "elementLevelCoRawNum": 216.3344268798828,
+        "playerElementLevelCoRawNum": 216.3344268798828,
+        "playerShieldLevelCoRawNum": 629.6290283203125
+    },
+    {
+        "levelRawNum": 41,
+        "crashCoRawNum": 17.799999237060547,
+        "elementLevelCoRawNum": 222.5413055419922,
+        "playerElementLevelCoRawNum": 222.5413055419922,
+        "playerShieldLevelCoRawNum": 653.93798828125
+    },
+    {
+        "levelRawNum": 42,
+        "crashCoRawNum": 18.600000381469727,
+        "elementLevelCoRawNum": 228.65426635742188,
+        "playerElementLevelCoRawNum": 228.65426635742188,
+        "playerShieldLevelCoRawNum": 678.3049926757812
+    },
+    {
+        "levelRawNum": 43,
+        "crashCoRawNum": 19.399999618530273,
+        "elementLevelCoRawNum": 233.99667358398438,
+        "playerElementLevelCoRawNum": 233.99667358398438,
+        "playerShieldLevelCoRawNum": 700.9970092773438
+    },
+    {
+        "levelRawNum": 44,
+        "crashCoRawNum": 20.299999237060547,
+        "elementLevelCoRawNum": 239.25941467285156,
+        "playerElementLevelCoRawNum": 239.25941467285156,
+        "playerShieldLevelCoRawNum": 723.7420043945312
+    },
+    {
+        "levelRawNum": 45,
+        "crashCoRawNum": 21.200000762939453,
+        "elementLevelCoRawNum": 243.1215057373047,
+        "playerElementLevelCoRawNum": 243.1215057373047,
+        "playerShieldLevelCoRawNum": 746.5390014648438
+    },
+    {
+        "levelRawNum": 46,
+        "crashCoRawNum": 22.100000381469727,
+        "elementLevelCoRawNum": 248.6351776123047,
+        "playerElementLevelCoRawNum": 248.6351776123047,
+        "playerShieldLevelCoRawNum": 765.8839721679688
+    },
+    {
+        "levelRawNum": 47,
+        "crashCoRawNum": 23.0,
+        "elementLevelCoRawNum": 258.3137512207031,
+        "playerElementLevelCoRawNum": 258.3137512207031,
+        "playerShieldLevelCoRawNum": 790.4749755859375
+    },
+    {
+        "levelRawNum": 48,
+        "crashCoRawNum": 24.0,
+        "elementLevelCoRawNum": 267.898193359375,
+        "playerElementLevelCoRawNum": 267.898193359375,
+        "playerShieldLevelCoRawNum": 815.1199951171875
+    },
+    {
+        "levelRawNum": 49,
+        "crashCoRawNum": 25.0,
+        "elementLevelCoRawNum": 277.3934631347656,
+        "playerElementLevelCoRawNum": 277.3934631347656,
+        "playerShieldLevelCoRawNum": 839.8189697265625
+    },
+    {
+        "levelRawNum": 50,
+        "crashCoRawNum": 26.0,
+        "elementLevelCoRawNum": 311.5738830566406,
+        "playerElementLevelCoRawNum": 311.5738830566406,
+        "playerShieldLevelCoRawNum": 858.197998046875
+    },
+    {
+        "levelRawNum": 51,
+        "crashCoRawNum": 27.0,
+        "elementLevelCoRawNum": 322.125,
+        "playerElementLevelCoRawNum": 322.125,
+        "playerShieldLevelCoRawNum": 882.7990112304688
+    },
+    {
+        "levelRawNum": 52,
+        "crashCoRawNum": 28.0,
+        "elementLevelCoRawNum": 332.6026611328125,
+        "playerElementLevelCoRawNum": 332.6026611328125,
+        "playerShieldLevelCoRawNum": 907.458984375
+    },
+    {
+        "levelRawNum": 53,
+        "crashCoRawNum": 29.0,
+        "elementLevelCoRawNum": 343.00469970703125,
+        "playerElementLevelCoRawNum": 343.00469970703125,
+        "playerShieldLevelCoRawNum": 932.1810302734375
+    },
+    {
+        "levelRawNum": 54,
+        "crashCoRawNum": 30.100000381469727,
+        "elementLevelCoRawNum": 353.36566162109375,
+        "playerElementLevelCoRawNum": 353.36566162109375,
+        "playerShieldLevelCoRawNum": 956.9630126953125
+    },
+    {
+        "levelRawNum": 55,
+        "crashCoRawNum": 31.200000762939453,
+        "elementLevelCoRawNum": 361.26312255859375,
+        "playerElementLevelCoRawNum": 361.26312255859375,
+        "playerShieldLevelCoRawNum": 979.4869995117188
+    },
+    {
+        "levelRawNum": 56,
+        "crashCoRawNum": 32.29999923706055,
+        "elementLevelCoRawNum": 370.97479248046875,
+        "playerElementLevelCoRawNum": 370.97479248046875,
+        "playerShieldLevelCoRawNum": 1004.7639770507812
+    },
+    {
+        "levelRawNum": 57,
+        "crashCoRawNum": 33.400001525878906,
+        "elementLevelCoRawNum": 381.5974426269531,
+        "playerElementLevelCoRawNum": 381.5974426269531,
+        "playerShieldLevelCoRawNum": 1039.0450439453125
+    },
+    {
+        "levelRawNum": 58,
+        "crashCoRawNum": 34.599998474121094,
+        "elementLevelCoRawNum": 393.46002197265625,
+        "playerElementLevelCoRawNum": 393.46002197265625,
+        "playerShieldLevelCoRawNum": 1076.4940185546875
+    },
+    {
+        "levelRawNum": 59,
+        "crashCoRawNum": 35.79999923706055,
+        "elementLevelCoRawNum": 405.2851257324219,
+        "playerElementLevelCoRawNum": 405.2851257324219,
+        "playerShieldLevelCoRawNum": 1114.0679931640625
+    },
+    {
+        "levelRawNum": 60,
+        "crashCoRawNum": 37.0,
+        "elementLevelCoRawNum": 461.884033203125,
+        "playerElementLevelCoRawNum": 461.884033203125,
+        "playerShieldLevelCoRawNum": 1148.6280517578125
+    },
+    {
+        "levelRawNum": 61,
+        "crashCoRawNum": 38.20000076293945,
+        "elementLevelCoRawNum": 472.7848815917969,
+        "playerElementLevelCoRawNum": 472.7848815917969,
+        "playerShieldLevelCoRawNum": 1183.27099609375
+    },
+    {
+        "levelRawNum": 62,
+        "crashCoRawNum": 39.400001525878906,
+        "elementLevelCoRawNum": 485.01641845703125,
+        "playerElementLevelCoRawNum": 485.01641845703125,
+        "playerShieldLevelCoRawNum": 1221.0899658203125
+    },
+    {
+        "levelRawNum": 63,
+        "crashCoRawNum": 40.599998474121094,
+        "elementLevelCoRawNum": 497.1880798339844,
+        "playerElementLevelCoRawNum": 497.1880798339844,
+        "playerShieldLevelCoRawNum": 1259.0030517578125
+    },
+    {
+        "levelRawNum": 64,
+        "crashCoRawNum": 41.900001525878906,
+        "elementLevelCoRawNum": 514.60107421875,
+        "playerElementLevelCoRawNum": 514.60107421875,
+        "playerShieldLevelCoRawNum": 1306.4029541015625
+    },
+    {
+        "levelRawNum": 65,
+        "crashCoRawNum": 43.20000076293945,
+        "elementLevelCoRawNum": 524.5426025390625,
+        "playerElementLevelCoRawNum": 524.5426025390625,
+        "playerShieldLevelCoRawNum": 1344.2779541015625
+    },
+    {
+        "levelRawNum": 66,
+        "crashCoRawNum": 44.5,
+        "elementLevelCoRawNum": 537.3983154296875,
+        "playerElementLevelCoRawNum": 537.3983154296875,
+        "playerShieldLevelCoRawNum": 1376.4959716796875
+    },
+    {
+        "levelRawNum": 67,
+        "crashCoRawNum": 45.79999923706055,
+        "elementLevelCoRawNum": 567.4708862304688,
+        "playerElementLevelCoRawNum": 567.4708862304688,
+        "playerShieldLevelCoRawNum": 1416.9659423828125
+    },
+    {
+        "levelRawNum": 68,
+        "crashCoRawNum": 47.20000076293945,
+        "elementLevelCoRawNum": 582.09814453125,
+        "playerElementLevelCoRawNum": 582.09814453125,
+        "playerShieldLevelCoRawNum": 1460.780029296875
+    },
+    {
+        "levelRawNum": 69,
+        "crashCoRawNum": 48.599998474121094,
+        "elementLevelCoRawNum": 595.273681640625,
+        "playerElementLevelCoRawNum": 595.273681640625,
+        "playerShieldLevelCoRawNum": 1501.6300048828125
+    },
+    {
+        "levelRawNum": 70,
+        "crashCoRawNum": 50.0,
+        "elementLevelCoRawNum": 653.515869140625,
+        "playerElementLevelCoRawNum": 653.515869140625,
+        "playerShieldLevelCoRawNum": 1545.843017578125
+    },
+    {
+        "levelRawNum": 71,
+        "crashCoRawNum": 51.400001525878906,
+        "elementLevelCoRawNum": 667.6530151367188,
+        "playerElementLevelCoRawNum": 667.6530151367188,
+        "playerShieldLevelCoRawNum": 1587.072021484375
+    },
+    {
+        "levelRawNum": 72,
+        "crashCoRawNum": 52.79999923706055,
+        "elementLevelCoRawNum": 688.2808227539062,
+        "playerElementLevelCoRawNum": 688.2808227539062,
+        "playerShieldLevelCoRawNum": 1638.9649658203125
+    },
+    {
+        "levelRawNum": 73,
+        "crashCoRawNum": 54.20000076293945,
+        "elementLevelCoRawNum": 702.9508056640625,
+        "playerElementLevelCoRawNum": 702.9508056640625,
+        "playerShieldLevelCoRawNum": 1681.6309814453125
+    },
+    {
+        "levelRawNum": 74,
+        "crashCoRawNum": 55.70000076293945,
+        "elementLevelCoRawNum": 719.2678833007812,
+        "playerElementLevelCoRawNum": 719.2678833007812,
+        "playerShieldLevelCoRawNum": 1727.699951171875
+    },
+    {
+        "levelRawNum": 75,
+        "crashCoRawNum": 57.20000076293945,
+        "elementLevelCoRawNum": 731.2691650390625,
+        "playerElementLevelCoRawNum": 731.2691650390625,
+        "playerShieldLevelCoRawNum": 1770.7459716796875
+    },
+    {
+        "levelRawNum": 76,
+        "crashCoRawNum": 58.70000076293945,
+        "elementLevelCoRawNum": 746.5059814453125,
+        "playerElementLevelCoRawNum": 746.5059814453125,
+        "playerShieldLevelCoRawNum": 1806.02001953125
+    },
+    {
+        "levelRawNum": 77,
+        "crashCoRawNum": 60.20000076293945,
+        "elementLevelCoRawNum": 761.879150390625,
+        "playerElementLevelCoRawNum": 761.879150390625,
+        "playerShieldLevelCoRawNum": 1852.175048828125
+    },
+    {
+        "levelRawNum": 78,
+        "crashCoRawNum": 61.79999923706055,
+        "elementLevelCoRawNum": 778.915283203125,
+        "playerElementLevelCoRawNum": 778.915283203125,
+        "playerShieldLevelCoRawNum": 1901.8790283203125
+    },
+    {
+        "levelRawNum": 79,
+        "crashCoRawNum": 63.400001525878906,
+        "elementLevelCoRawNum": 794.3448486328125,
+        "playerElementLevelCoRawNum": 794.3448486328125,
+        "playerShieldLevelCoRawNum": 1948.427001953125
+    },
+    {
+        "levelRawNum": 80,
+        "crashCoRawNum": 65.0,
+        "elementLevelCoRawNum": 914.0867309570312,
+        "playerElementLevelCoRawNum": 914.0867309570312,
+        "playerShieldLevelCoRawNum": 2006.9019775390625
+    },
+    {
+        "levelRawNum": 81,
+        "crashCoRawNum": 66.5999984741211,
+        "elementLevelCoRawNum": 940.2776489257812,
+        "playerElementLevelCoRawNum": 940.2776489257812,
+        "playerShieldLevelCoRawNum": 2054.97998046875
+    },
+    {
+        "levelRawNum": 82,
+        "crashCoRawNum": 68.19999694824219,
+        "elementLevelCoRawNum": 969.1626586914062,
+        "playerElementLevelCoRawNum": 969.1626586914062,
+        "playerShieldLevelCoRawNum": 2106.64501953125
+    },
+    {
+        "levelRawNum": 83,
+        "crashCoRawNum": 69.80000305175781,
+        "elementLevelCoRawNum": 996.563232421875,
+        "playerElementLevelCoRawNum": 996.563232421875,
+        "playerShieldLevelCoRawNum": 2155.1220703125
+    },
+    {
+        "levelRawNum": 84,
+        "crashCoRawNum": 71.5,
+        "elementLevelCoRawNum": 1056.330322265625,
+        "playerElementLevelCoRawNum": 1056.330322265625,
+        "playerShieldLevelCoRawNum": 2207.60791015625
+    },
+    {
+        "levelRawNum": 85,
+        "crashCoRawNum": 73.19999694824219,
+        "elementLevelCoRawNum": 1082.133056640625,
+        "playerElementLevelCoRawNum": 1082.133056640625,
+        "playerShieldLevelCoRawNum": 2256.886962890625
+    },
+    {
+        "levelRawNum": 86,
+        "crashCoRawNum": 74.9000015258789,
+        "elementLevelCoRawNum": 1117.660400390625,
+        "playerElementLevelCoRawNum": 1117.660400390625,
+        "playerShieldLevelCoRawNum": 2307.06689453125
+    },
+    {
+        "levelRawNum": 87,
+        "crashCoRawNum": 76.5999984741211,
+        "elementLevelCoRawNum": 1151.6241455078125,
+        "playerElementLevelCoRawNum": 1151.6241455078125,
+        "playerShieldLevelCoRawNum": 2353.989990234375
+    },
+    {
+        "levelRawNum": 88,
+        "crashCoRawNum": 78.4000015258789,
+        "elementLevelCoRawNum": 1186.344482421875,
+        "playerElementLevelCoRawNum": 1186.344482421875,
+        "playerShieldLevelCoRawNum": 2401.095947265625
+    },
+    {
+        "levelRawNum": 89,
+        "crashCoRawNum": 80.19999694824219,
+        "elementLevelCoRawNum": 1212.0546875,
+        "playerElementLevelCoRawNum": 1212.0546875,
+        "playerShieldLevelCoRawNum": 2436.556884765625
+    },
+    {
+        "levelRawNum": 90,
+        "crashCoRawNum": 82.0,
+        "elementLevelCoRawNum": 1315.52734375,
+        "playerElementLevelCoRawNum": 1315.52734375,
+        "playerShieldLevelCoRawNum": 2472.132080078125
+    },
+    {
+        "levelRawNum": 91,
+        "crashCoRawNum": 83.80000305175781,
+        "elementLevelCoRawNum": 1340.689208984375,
+        "playerElementLevelCoRawNum": 1340.689208984375,
+        "playerShieldLevelCoRawNum": 2504.333984375
+    },
+    {
+        "levelRawNum": 92,
+        "crashCoRawNum": 85.5999984741211,
+        "elementLevelCoRawNum": 1366.114990234375,
+        "playerElementLevelCoRawNum": 1366.114990234375,
+        "playerShieldLevelCoRawNum": 2536.631103515625
+    },
+    {
+        "levelRawNum": 93,
+        "crashCoRawNum": 87.4000015258789,
+        "elementLevelCoRawNum": 1389.140380859375,
+        "playerElementLevelCoRawNum": 1389.140380859375,
+        "playerShieldLevelCoRawNum": 2565.1240234375
+    },
+    {
+        "levelRawNum": 94,
+        "crashCoRawNum": 89.30000305175781,
+        "elementLevelCoRawNum": 1412.425048828125,
+        "playerElementLevelCoRawNum": 1412.425048828125,
+        "playerShieldLevelCoRawNum": 2593.700927734375
+    },
+    {
+        "levelRawNum": 95,
+        "crashCoRawNum": 91.19999694824219,
+        "elementLevelCoRawNum": 1422.481689453125,
+        "playerElementLevelCoRawNum": 1422.481689453125,
+        "playerShieldLevelCoRawNum": 2607.553955078125
+    },
+    {
+        "levelRawNum": 96,
+        "crashCoRawNum": 93.0999984741211,
+        "elementLevelCoRawNum": 1432.67578125,
+        "playerElementLevelCoRawNum": 1432.67578125,
+        "playerShieldLevelCoRawNum": 2621.406005859375
+    },
+    {
+        "levelRawNum": 97,
+        "crashCoRawNum": 95.0,
+        "elementLevelCoRawNum": 1442.7977294921875,
+        "playerElementLevelCoRawNum": 1442.7977294921875,
+        "playerShieldLevelCoRawNum": 2635.259033203125
+    },
+    {
+        "levelRawNum": 98,
+        "crashCoRawNum": 97.0,
+        "elementLevelCoRawNum": 1452.9884033203125,
+        "playerElementLevelCoRawNum": 1452.9884033203125,
+        "playerShieldLevelCoRawNum": 2649.112060546875
+    },
+    {
+        "levelRawNum": 99,
+        "crashCoRawNum": 99.0,
+        "elementLevelCoRawNum": 1463.169189453125,
+        "playerElementLevelCoRawNum": 1463.169189453125,
+        "playerShieldLevelCoRawNum": 2662.964111328125
+    },
+    {
+        "levelRawNum": 100,
+        "crashCoRawNum": 101.0,
+        "elementLevelCoRawNum": 1674.632080078125,
+        "playerElementLevelCoRawNum": 1674.632080078125,
+        "playerShieldLevelCoRawNum": 2676.81689453125
+    },
+    {
+        "levelRawNum": 101,
+        "crashCoRawNum": 103.0,
+        "elementLevelCoRawNum": 1679.43701171875,
+        "playerElementLevelCoRawNum": 1679.43701171875,
+        "playerShieldLevelCoRawNum": 2681.118896484375
+    },
+    {
+        "levelRawNum": 102,
+        "crashCoRawNum": 105.0,
+        "elementLevelCoRawNum": 1684.2509765625,
+        "playerElementLevelCoRawNum": 1684.2509765625,
+        "playerShieldLevelCoRawNum": 2685.4208984375
+    },
+    {
+        "levelRawNum": 103,
+        "crashCoRawNum": 107.0,
+        "elementLevelCoRawNum": 1689.070556640625,
+        "playerElementLevelCoRawNum": 1689.070556640625,
+        "playerShieldLevelCoRawNum": 2689.722900390625
+    },
+    {
+        "levelRawNum": 104,
+        "crashCoRawNum": 109.0999984741211,
+        "elementLevelCoRawNum": 1693.9024658203125,
+        "playerElementLevelCoRawNum": 1693.9024658203125,
+        "playerShieldLevelCoRawNum": 2694.02490234375
+    },
+    {
+        "levelRawNum": 105,
+        "crashCoRawNum": 111.19999694824219,
+        "elementLevelCoRawNum": 1698.7431640625,
+        "playerElementLevelCoRawNum": 1698.7431640625,
+        "playerShieldLevelCoRawNum": 2698.326904296875
+    },
+    {
+        "levelRawNum": 106,
+        "crashCoRawNum": 113.30000305175781,
+        "elementLevelCoRawNum": 1703.5928955078125,
+        "playerElementLevelCoRawNum": 1703.5928955078125,
+        "playerShieldLevelCoRawNum": 2702.62890625
+    },
+    {
+        "levelRawNum": 107,
+        "crashCoRawNum": 115.4000015258789,
+        "elementLevelCoRawNum": 1708.4515380859375,
+        "playerElementLevelCoRawNum": 1708.4515380859375,
+        "playerShieldLevelCoRawNum": 2706.930908203125
+    },
+    {
+        "levelRawNum": 108,
+        "crashCoRawNum": 117.5999984741211,
+        "elementLevelCoRawNum": 1713.3192138671875,
+        "playerElementLevelCoRawNum": 1713.3192138671875,
+        "playerShieldLevelCoRawNum": 2711.23291015625
+    },
+    {
+        "levelRawNum": 109,
+        "crashCoRawNum": 119.80000305175781,
+        "elementLevelCoRawNum": 1718.1959228515625,
+        "playerElementLevelCoRawNum": 1718.1959228515625,
+        "playerShieldLevelCoRawNum": 2715.534912109375
+    },
+    {
+        "levelRawNum": 110,
+        "crashCoRawNum": 122.0,
+        "elementLevelCoRawNum": 1723.08154296875,
+        "playerElementLevelCoRawNum": 1723.08154296875,
+        "playerShieldLevelCoRawNum": 2719.8369140625
+    },
+    {
+        "levelRawNum": 111,
+        "crashCoRawNum": 124.19999694824219,
+        "elementLevelCoRawNum": 1727.97314453125,
+        "playerElementLevelCoRawNum": 1727.97314453125,
+        "playerShieldLevelCoRawNum": 2724.138916015625
+    },
+    {
+        "levelRawNum": 112,
+        "crashCoRawNum": 126.4000015258789,
+        "elementLevelCoRawNum": 1732.8768310546875,
+        "playerElementLevelCoRawNum": 1732.8768310546875,
+        "playerShieldLevelCoRawNum": 2728.44091796875
+    },
+    {
+        "levelRawNum": 113,
+        "crashCoRawNum": 128.60000610351562,
+        "elementLevelCoRawNum": 1737.7896728515625,
+        "playerElementLevelCoRawNum": 1737.7896728515625,
+        "playerShieldLevelCoRawNum": 2732.742919921875
+    },
+    {
+        "levelRawNum": 114,
+        "crashCoRawNum": 130.89999389648438,
+        "elementLevelCoRawNum": 1742.711669921875,
+        "playerElementLevelCoRawNum": 1742.711669921875,
+        "playerShieldLevelCoRawNum": 2737.044921875
+    },
+    {
+        "levelRawNum": 115,
+        "crashCoRawNum": 133.1999969482422,
+        "elementLevelCoRawNum": 1747.6427001953125,
+        "playerElementLevelCoRawNum": 1747.6427001953125,
+        "playerShieldLevelCoRawNum": 2741.346923828125
+    },
+    {
+        "levelRawNum": 116,
+        "crashCoRawNum": 135.5,
+        "elementLevelCoRawNum": 1752.582763671875,
+        "playerElementLevelCoRawNum": 1752.582763671875,
+        "playerShieldLevelCoRawNum": 2745.64892578125
+    },
+    {
+        "levelRawNum": 117,
+        "crashCoRawNum": 137.8000030517578,
+        "elementLevelCoRawNum": 1757.531982421875,
+        "playerElementLevelCoRawNum": 1757.531982421875,
+        "playerShieldLevelCoRawNum": 2749.950927734375
+    },
+    {
+        "levelRawNum": 118,
+        "crashCoRawNum": 140.1999969482422,
+        "elementLevelCoRawNum": 1762.4903564453125,
+        "playerElementLevelCoRawNum": 1762.4903564453125,
+        "playerShieldLevelCoRawNum": 2754.2529296875
+    },
+    {
+        "levelRawNum": 119,
+        "crashCoRawNum": 142.60000610351562,
+        "elementLevelCoRawNum": 1767.4547119140625,
+        "playerElementLevelCoRawNum": 1767.4547119140625,
+        "playerShieldLevelCoRawNum": 2758.554931640625
+    },
+    {
+        "levelRawNum": 120,
+        "crashCoRawNum": 145.0,
+        "elementLevelCoRawNum": 1772.431396484375,
+        "playerElementLevelCoRawNum": 1772.431396484375,
+        "playerShieldLevelCoRawNum": 2762.85693359375
+    },
+    {
+        "levelRawNum": 121,
+        "crashCoRawNum": 147.39999389648438,
+        "elementLevelCoRawNum": 1777.417236328125,
+        "playerElementLevelCoRawNum": 1777.417236328125,
+        "playerShieldLevelCoRawNum": 2767.158935546875
+    },
+    {
+        "levelRawNum": 122,
+        "crashCoRawNum": 149.8000030517578,
+        "elementLevelCoRawNum": 1782.4122314453125,
+        "playerElementLevelCoRawNum": 1782.4122314453125,
+        "playerShieldLevelCoRawNum": 2771.4609375
+    },
+    {
+        "levelRawNum": 123,
+        "crashCoRawNum": 152.1999969482422,
+        "elementLevelCoRawNum": 1787.41650390625,
+        "playerElementLevelCoRawNum": 1787.41650390625,
+        "playerShieldLevelCoRawNum": 2775.762939453125
+    },
+    {
+        "levelRawNum": 124,
+        "crashCoRawNum": 154.6999969482422,
+        "elementLevelCoRawNum": 1792.4300537109375,
+        "playerElementLevelCoRawNum": 1792.4300537109375,
+        "playerShieldLevelCoRawNum": 2780.06494140625
+    },
+    {
+        "levelRawNum": 125,
+        "crashCoRawNum": 157.1999969482422,
+        "elementLevelCoRawNum": 1797.4527587890625,
+        "playerElementLevelCoRawNum": 1797.4527587890625,
+        "playerShieldLevelCoRawNum": 2784.366943359375
+    },
+    {
+        "levelRawNum": 126,
+        "crashCoRawNum": 159.6999969482422,
+        "elementLevelCoRawNum": 1802.4847412109375,
+        "playerElementLevelCoRawNum": 1802.4847412109375,
+        "playerShieldLevelCoRawNum": 2788.6689453125
+    },
+    {
+        "levelRawNum": 127,
+        "crashCoRawNum": 162.1999969482422,
+        "elementLevelCoRawNum": 1807.5225830078125,
+        "playerElementLevelCoRawNum": 1807.5225830078125,
+        "playerShieldLevelCoRawNum": 2792.970947265625
+    },
+    {
+        "levelRawNum": 128,
+        "crashCoRawNum": 164.8000030517578,
+        "elementLevelCoRawNum": 1812.5731201171875,
+        "playerElementLevelCoRawNum": 1812.5731201171875,
+        "playerShieldLevelCoRawNum": 2797.27294921875
+    },
+    {
+        "levelRawNum": 129,
+        "crashCoRawNum": 167.39999389648438,
+        "elementLevelCoRawNum": 1817.6329345703125,
+        "playerElementLevelCoRawNum": 1817.6329345703125,
+        "playerShieldLevelCoRawNum": 2801.574951171875
+    },
+    {
+        "levelRawNum": 130,
+        "crashCoRawNum": 170.0,
+        "elementLevelCoRawNum": 1822.7020263671875,
+        "playerElementLevelCoRawNum": 1822.7020263671875,
+        "playerShieldLevelCoRawNum": 2805.876953125
+    },
+    {
+        "levelRawNum": 131,
+        "crashCoRawNum": 172.60000610351562,
+        "elementLevelCoRawNum": 1827.7803955078125,
+        "playerElementLevelCoRawNum": 1827.7803955078125,
+        "playerShieldLevelCoRawNum": 2810.178955078125
+    },
+    {
+        "levelRawNum": 132,
+        "crashCoRawNum": 175.1999969482422,
+        "elementLevelCoRawNum": 1832.8681640625,
+        "playerElementLevelCoRawNum": 1832.8681640625,
+        "playerShieldLevelCoRawNum": 2814.48095703125
+    },
+    {
+        "levelRawNum": 133,
+        "crashCoRawNum": 177.8000030517578,
+        "elementLevelCoRawNum": 1837.9652099609375,
+        "playerElementLevelCoRawNum": 1837.9652099609375,
+        "playerShieldLevelCoRawNum": 2818.782958984375
+    },
+    {
+        "levelRawNum": 134,
+        "crashCoRawNum": 180.5,
+        "elementLevelCoRawNum": 1843.07177734375,
+        "playerElementLevelCoRawNum": 1843.07177734375,
+        "playerShieldLevelCoRawNum": 2823.0849609375
+    },
+    {
+        "levelRawNum": 135,
+        "crashCoRawNum": 183.1999969482422,
+        "elementLevelCoRawNum": 1848.1842041015625,
+        "playerElementLevelCoRawNum": 1848.1842041015625,
+        "playerShieldLevelCoRawNum": 2827.386962890625
+    },
+    {
+        "levelRawNum": 136,
+        "crashCoRawNum": 185.89999389648438,
+        "elementLevelCoRawNum": 1853.3094482421875,
+        "playerElementLevelCoRawNum": 1853.3094482421875,
+        "playerShieldLevelCoRawNum": 2831.68896484375
+    },
+    {
+        "levelRawNum": 137,
+        "crashCoRawNum": 188.60000610351562,
+        "elementLevelCoRawNum": 1858.444091796875,
+        "playerElementLevelCoRawNum": 1858.444091796875,
+        "playerShieldLevelCoRawNum": 2835.990966796875
+    },
+    {
+        "levelRawNum": 138,
+        "crashCoRawNum": 191.39999389648438,
+        "elementLevelCoRawNum": 1863.588134765625,
+        "playerElementLevelCoRawNum": 1863.588134765625,
+        "playerShieldLevelCoRawNum": 2840.29296875
+    },
+    {
+        "levelRawNum": 139,
+        "crashCoRawNum": 194.1999969482422,
+        "elementLevelCoRawNum": 1868.74169921875,
+        "playerElementLevelCoRawNum": 1868.74169921875,
+        "playerShieldLevelCoRawNum": 2844.595947265625
+    },
+    {
+        "levelRawNum": 140,
+        "crashCoRawNum": 197.0,
+        "elementLevelCoRawNum": 1873.904541015625,
+        "playerElementLevelCoRawNum": 1873.904541015625,
+        "playerShieldLevelCoRawNum": 2848.89794921875
+    },
+    {
+        "levelRawNum": 141,
+        "crashCoRawNum": 199.8000030517578,
+        "elementLevelCoRawNum": 1879.076904296875,
+        "playerElementLevelCoRawNum": 1879.076904296875,
+        "playerShieldLevelCoRawNum": 2853.199951171875
+    },
+    {
+        "levelRawNum": 142,
+        "crashCoRawNum": 202.60000610351562,
+        "elementLevelCoRawNum": 1884.2554931640625,
+        "playerElementLevelCoRawNum": 1884.2554931640625,
+        "playerShieldLevelCoRawNum": 2857.501953125
+    },
+    {
+        "levelRawNum": 143,
+        "crashCoRawNum": 205.39999389648438,
+        "elementLevelCoRawNum": 1889.44677734375,
+        "playerElementLevelCoRawNum": 1889.44677734375,
+        "playerShieldLevelCoRawNum": 2861.803955078125
+    },
+    {
+        "levelRawNum": 144,
+        "crashCoRawNum": 208.3000030517578,
+        "elementLevelCoRawNum": 1894.647705078125,
+        "playerElementLevelCoRawNum": 1894.647705078125,
+        "playerShieldLevelCoRawNum": 2866.10595703125
+    },
+    {
+        "levelRawNum": 145,
+        "crashCoRawNum": 211.1999969482422,
+        "elementLevelCoRawNum": 1899.8580322265625,
+        "playerElementLevelCoRawNum": 1899.8580322265625,
+        "playerShieldLevelCoRawNum": 2870.407958984375
+    },
+    {
+        "levelRawNum": 146,
+        "crashCoRawNum": 214.10000610351562,
+        "elementLevelCoRawNum": 1905.0780029296875,
+        "playerElementLevelCoRawNum": 1905.0780029296875,
+        "playerShieldLevelCoRawNum": 2874.7099609375
+    },
+    {
+        "levelRawNum": 147,
+        "crashCoRawNum": 217.0,
+        "elementLevelCoRawNum": 1910.3074951171875,
+        "playerElementLevelCoRawNum": 1910.3074951171875,
+        "playerShieldLevelCoRawNum": 2879.011962890625
+    },
+    {
+        "levelRawNum": 148,
+        "crashCoRawNum": 220.0,
+        "elementLevelCoRawNum": 1915.5465087890625,
+        "playerElementLevelCoRawNum": 1915.5465087890625,
+        "playerShieldLevelCoRawNum": 2883.31396484375
+    },
+    {
+        "levelRawNum": 149,
+        "crashCoRawNum": 223.0,
+        "elementLevelCoRawNum": 1920.7950439453125,
+        "playerElementLevelCoRawNum": 1920.7950439453125,
+        "playerShieldLevelCoRawNum": 2887.615966796875
+    },
+    {
+        "levelRawNum": 150,
+        "crashCoRawNum": 226.0,
+        "elementLevelCoRawNum": 1926.0499267578125,
+        "playerElementLevelCoRawNum": 1926.0499267578125,
+        "playerShieldLevelCoRawNum": 2891.91796875
+    },
+    {
+        "levelRawNum": 151,
+        "crashCoRawNum": 229.0,
+        "elementLevelCoRawNum": 1931.3177490234375,
+        "playerElementLevelCoRawNum": 1931.3177490234375,
+        "playerShieldLevelCoRawNum": 2896.219970703125
+    },
+    {
+        "levelRawNum": 152,
+        "crashCoRawNum": 232.0,
+        "elementLevelCoRawNum": 1936.5950927734375,
+        "playerElementLevelCoRawNum": 1936.5950927734375,
+        "playerShieldLevelCoRawNum": 2900.52197265625
+    },
+    {
+        "levelRawNum": 153,
+        "crashCoRawNum": 235.0,
+        "elementLevelCoRawNum": 1941.8822021484375,
+        "playerElementLevelCoRawNum": 1941.8822021484375,
+        "playerShieldLevelCoRawNum": 2904.823974609375
+    },
+    {
+        "levelRawNum": 154,
+        "crashCoRawNum": 238.10000610351562,
+        "elementLevelCoRawNum": 1947.1788330078125,
+        "playerElementLevelCoRawNum": 1947.1788330078125,
+        "playerShieldLevelCoRawNum": 2909.1259765625
+    },
+    {
+        "levelRawNum": 155,
+        "crashCoRawNum": 241.1999969482422,
+        "elementLevelCoRawNum": 1952.485107421875,
+        "playerElementLevelCoRawNum": 1952.485107421875,
+        "playerShieldLevelCoRawNum": 2913.427978515625
+    },
+    {
+        "levelRawNum": 156,
+        "crashCoRawNum": 244.3000030517578,
+        "elementLevelCoRawNum": 1957.80126953125,
+        "playerElementLevelCoRawNum": 1957.80126953125,
+        "playerShieldLevelCoRawNum": 2917.72998046875
+    },
+    {
+        "levelRawNum": 157,
+        "crashCoRawNum": 247.39999389648438,
+        "elementLevelCoRawNum": 1963.126953125,
+        "playerElementLevelCoRawNum": 1963.126953125,
+        "playerShieldLevelCoRawNum": 2922.031982421875
+    },
+    {
+        "levelRawNum": 158,
+        "crashCoRawNum": 250.60000610351562,
+        "elementLevelCoRawNum": 1968.458984375,
+        "playerElementLevelCoRawNum": 1968.458984375,
+        "playerShieldLevelCoRawNum": 2926.333984375
+    },
+    {
+        "levelRawNum": 159,
+        "crashCoRawNum": 253.8000030517578,
+        "elementLevelCoRawNum": 1973.8040771484375,
+        "playerElementLevelCoRawNum": 1973.8040771484375,
+        "playerShieldLevelCoRawNum": 2930.635986328125
+    },
+    {
+        "levelRawNum": 160,
+        "crashCoRawNum": 257.0,
+        "elementLevelCoRawNum": 1979.158935546875,
+        "playerElementLevelCoRawNum": 1979.158935546875,
+        "playerShieldLevelCoRawNum": 2934.93798828125
+    },
+    {
+        "levelRawNum": 161,
+        "crashCoRawNum": 260.20001220703125,
+        "elementLevelCoRawNum": 1984.5235595703125,
+        "playerElementLevelCoRawNum": 1984.5235595703125,
+        "playerShieldLevelCoRawNum": 2939.239990234375
+    },
+    {
+        "levelRawNum": 162,
+        "crashCoRawNum": 263.3999938964844,
+        "elementLevelCoRawNum": 1989.89794921875,
+        "playerElementLevelCoRawNum": 1989.89794921875,
+        "playerShieldLevelCoRawNum": 2943.5419921875
+    },
+    {
+        "levelRawNum": 163,
+        "crashCoRawNum": 266.6000061035156,
+        "elementLevelCoRawNum": 1995.2821044921875,
+        "playerElementLevelCoRawNum": 1995.2821044921875,
+        "playerShieldLevelCoRawNum": 2947.843994140625
+    },
+    {
+        "levelRawNum": 164,
+        "crashCoRawNum": 269.8999938964844,
+        "elementLevelCoRawNum": 2000.676025390625,
+        "playerElementLevelCoRawNum": 2000.676025390625,
+        "playerShieldLevelCoRawNum": 2952.14599609375
+    },
+    {
+        "levelRawNum": 165,
+        "crashCoRawNum": 273.20001220703125,
+        "elementLevelCoRawNum": 2006.0797119140625,
+        "playerElementLevelCoRawNum": 2006.0797119140625,
+        "playerShieldLevelCoRawNum": 2956.447998046875
+    },
+    {
+        "levelRawNum": 166,
+        "crashCoRawNum": 276.5,
+        "elementLevelCoRawNum": 2011.4898681640625,
+        "playerElementLevelCoRawNum": 2011.4898681640625,
+        "playerShieldLevelCoRawNum": 2960.75
+    },
+    {
+        "levelRawNum": 167,
+        "crashCoRawNum": 279.79998779296875,
+        "elementLevelCoRawNum": 2016.913330078125,
+        "playerElementLevelCoRawNum": 2016.913330078125,
+        "playerShieldLevelCoRawNum": 2965.052001953125
+    },
+    {
+        "levelRawNum": 168,
+        "crashCoRawNum": 283.20001220703125,
+        "elementLevelCoRawNum": 2022.3465576171875,
+        "playerElementLevelCoRawNum": 2022.3465576171875,
+        "playerShieldLevelCoRawNum": 2969.35400390625
+    },
+    {
+        "levelRawNum": 169,
+        "crashCoRawNum": 286.6000061035156,
+        "elementLevelCoRawNum": 2027.7896728515625,
+        "playerElementLevelCoRawNum": 2027.7896728515625,
+        "playerShieldLevelCoRawNum": 2973.656005859375
+    },
+    {
+        "levelRawNum": 170,
+        "crashCoRawNum": 290.0,
+        "elementLevelCoRawNum": 2033.24267578125,
+        "playerElementLevelCoRawNum": 2033.24267578125,
+        "playerShieldLevelCoRawNum": 2977.9580078125
+    },
+    {
+        "levelRawNum": 171,
+        "crashCoRawNum": 293.3999938964844,
+        "elementLevelCoRawNum": 2038.7054443359375,
+        "playerElementLevelCoRawNum": 2038.7054443359375,
+        "playerShieldLevelCoRawNum": 2982.260009765625
+    },
+    {
+        "levelRawNum": 172,
+        "crashCoRawNum": 296.79998779296875,
+        "elementLevelCoRawNum": 2044.17822265625,
+        "playerElementLevelCoRawNum": 2044.17822265625,
+        "playerShieldLevelCoRawNum": 2986.56201171875
+    },
+    {
+        "levelRawNum": 173,
+        "crashCoRawNum": 300.20001220703125,
+        "elementLevelCoRawNum": 2049.660888671875,
+        "playerElementLevelCoRawNum": 2049.660888671875,
+        "playerShieldLevelCoRawNum": 2990.864013671875
+    },
+    {
+        "levelRawNum": 174,
+        "crashCoRawNum": 303.70001220703125,
+        "elementLevelCoRawNum": 2055.150146484375,
+        "playerElementLevelCoRawNum": 2055.150146484375,
+        "playerShieldLevelCoRawNum": 2995.166015625
+    },
+    {
+        "levelRawNum": 175,
+        "crashCoRawNum": 307.20001220703125,
+        "elementLevelCoRawNum": 2060.652587890625,
+        "playerElementLevelCoRawNum": 2060.652587890625,
+        "playerShieldLevelCoRawNum": 2999.468017578125
+    },
+    {
+        "levelRawNum": 176,
+        "crashCoRawNum": 310.70001220703125,
+        "elementLevelCoRawNum": 2066.165283203125,
+        "playerElementLevelCoRawNum": 2066.165283203125,
+        "playerShieldLevelCoRawNum": 3003.77001953125
+    },
+    {
+        "levelRawNum": 177,
+        "crashCoRawNum": 314.20001220703125,
+        "elementLevelCoRawNum": 2071.687744140625,
+        "playerElementLevelCoRawNum": 2071.687744140625,
+        "playerShieldLevelCoRawNum": 3008.072021484375
+    },
+    {
+        "levelRawNum": 178,
+        "crashCoRawNum": 317.79998779296875,
+        "elementLevelCoRawNum": 2077.22021484375,
+        "playerElementLevelCoRawNum": 2077.22021484375,
+        "playerShieldLevelCoRawNum": 3012.3740234375
+    },
+    {
+        "levelRawNum": 179,
+        "crashCoRawNum": 321.3999938964844,
+        "elementLevelCoRawNum": 2082.7626953125,
+        "playerElementLevelCoRawNum": 2082.7626953125,
+        "playerShieldLevelCoRawNum": 3016.677001953125
+    },
+    {
+        "levelRawNum": 180,
+        "crashCoRawNum": 325.0,
+        "elementLevelCoRawNum": 2088.315185546875,
+        "playerElementLevelCoRawNum": 2088.315185546875,
+        "playerShieldLevelCoRawNum": 3020.97900390625
+    },
+    {
+        "levelRawNum": 181,
+        "crashCoRawNum": 328.6000061035156,
+        "elementLevelCoRawNum": 2093.877685546875,
+        "playerElementLevelCoRawNum": 2093.877685546875,
+        "playerShieldLevelCoRawNum": 3025.281005859375
+    },
+    {
+        "levelRawNum": 182,
+        "crashCoRawNum": 332.20001220703125,
+        "elementLevelCoRawNum": 2099.44677734375,
+        "playerElementLevelCoRawNum": 2099.44677734375,
+        "playerShieldLevelCoRawNum": 3029.5830078125
+    },
+    {
+        "levelRawNum": 183,
+        "crashCoRawNum": 335.79998779296875,
+        "elementLevelCoRawNum": 2105.029541015625,
+        "playerElementLevelCoRawNum": 2105.029541015625,
+        "playerShieldLevelCoRawNum": 3033.885009765625
+    },
+    {
+        "levelRawNum": 184,
+        "crashCoRawNum": 339.5,
+        "elementLevelCoRawNum": 2110.622314453125,
+        "playerElementLevelCoRawNum": 2110.622314453125,
+        "playerShieldLevelCoRawNum": 3038.18701171875
+    },
+    {
+        "levelRawNum": 185,
+        "crashCoRawNum": 343.20001220703125,
+        "elementLevelCoRawNum": 2116.22509765625,
+        "playerElementLevelCoRawNum": 2116.22509765625,
+        "playerShieldLevelCoRawNum": 3042.489013671875
+    },
+    {
+        "levelRawNum": 186,
+        "crashCoRawNum": 346.8999938964844,
+        "elementLevelCoRawNum": 2121.837890625,
+        "playerElementLevelCoRawNum": 2121.837890625,
+        "playerShieldLevelCoRawNum": 3046.791015625
+    },
+    {
+        "levelRawNum": 187,
+        "crashCoRawNum": 350.6000061035156,
+        "elementLevelCoRawNum": 2127.4609375,
+        "playerElementLevelCoRawNum": 2127.4609375,
+        "playerShieldLevelCoRawNum": 3051.093017578125
+    },
+    {
+        "levelRawNum": 188,
+        "crashCoRawNum": 354.3999938964844,
+        "elementLevelCoRawNum": 2133.09423828125,
+        "playerElementLevelCoRawNum": 2133.09423828125,
+        "playerShieldLevelCoRawNum": 3055.39501953125
+    },
+    {
+        "levelRawNum": 189,
+        "crashCoRawNum": 358.20001220703125,
+        "elementLevelCoRawNum": 2138.737548828125,
+        "playerElementLevelCoRawNum": 2138.737548828125,
+        "playerShieldLevelCoRawNum": 3059.697021484375
+    },
+    {
+        "levelRawNum": 190,
+        "crashCoRawNum": 362.0,
+        "elementLevelCoRawNum": 2144.387451171875,
+        "playerElementLevelCoRawNum": 2144.387451171875,
+        "playerShieldLevelCoRawNum": 3063.9990234375
+    },
+    {
+        "levelRawNum": 191,
+        "crashCoRawNum": 365.79998779296875,
+        "elementLevelCoRawNum": 2150.051025390625,
+        "playerElementLevelCoRawNum": 2150.051025390625,
+        "playerShieldLevelCoRawNum": 3068.301025390625
+    },
+    {
+        "levelRawNum": 192,
+        "crashCoRawNum": 369.6000061035156,
+        "elementLevelCoRawNum": 2155.724853515625,
+        "playerElementLevelCoRawNum": 2155.724853515625,
+        "playerShieldLevelCoRawNum": 3072.60302734375
+    },
+    {
+        "levelRawNum": 193,
+        "crashCoRawNum": 373.3999938964844,
+        "elementLevelCoRawNum": 2161.408935546875,
+        "playerElementLevelCoRawNum": 2161.408935546875,
+        "playerShieldLevelCoRawNum": 3076.905029296875
+    },
+    {
+        "levelRawNum": 194,
+        "crashCoRawNum": 377.29998779296875,
+        "elementLevelCoRawNum": 2167.103271484375,
+        "playerElementLevelCoRawNum": 2167.103271484375,
+        "playerShieldLevelCoRawNum": 3081.20703125
+    },
+    {
+        "levelRawNum": 195,
+        "crashCoRawNum": 381.20001220703125,
+        "elementLevelCoRawNum": 2172.8076171875,
+        "playerElementLevelCoRawNum": 2172.8076171875,
+        "playerShieldLevelCoRawNum": 3085.509033203125
+    },
+    {
+        "levelRawNum": 196,
+        "crashCoRawNum": 385.1000061035156,
+        "elementLevelCoRawNum": 2178.5224609375,
+        "playerElementLevelCoRawNum": 2178.5224609375,
+        "playerShieldLevelCoRawNum": 3089.81103515625
+    },
+    {
+        "levelRawNum": 197,
+        "crashCoRawNum": 389.0,
+        "elementLevelCoRawNum": 2184.247314453125,
+        "playerElementLevelCoRawNum": 2184.247314453125,
+        "playerShieldLevelCoRawNum": 3094.113037109375
+    },
+    {
+        "levelRawNum": 198,
+        "crashCoRawNum": 393.0,
+        "elementLevelCoRawNum": 2189.979248046875,
+        "playerElementLevelCoRawNum": 2189.979248046875,
+        "playerShieldLevelCoRawNum": 3098.4150390625
+    },
+    {
+        "levelRawNum": 199,
+        "crashCoRawNum": 397.0,
+        "elementLevelCoRawNum": 2195.724609375,
+        "playerElementLevelCoRawNum": 2195.724609375,
+        "playerShieldLevelCoRawNum": 3102.717041015625
+    },
+    {
+        "levelRawNum": 200,
+        "crashCoRawNum": 401.0,
+        "elementLevelCoRawNum": 2201.48046875,
+        "playerElementLevelCoRawNum": 2201.48046875,
+        "playerShieldLevelCoRawNum": 3107.01904296875
+    }
+]

@@ -1,0 +1,2107 @@
+[
+    {
+        "idRawNum": 1001,
+        "nameTextMapHash": 3755037976,
+        "rankLevelRawNum": 1,
+        "icon": "UI_ItemIcon_Recipe_1002",
+        "descTextMapHash": 108104714,
+        "effectDesc": [
+            3777358629,
+            2048687225,
+            3505947766,
+            4105485103
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_BAKE",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 5,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108011,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108012,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108013,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100011,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100064,
+                "countRawNum": 1
+            },
+            {},
+            {},
+            {}
+        ],
+        "qteParam": "0.63,0.4",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 1003,
+        "nameTextMapHash": 3908313952,
+        "rankLevelRawNum": 1,
+        "icon": "UI_ItemIcon_Recipe_2001",
+        "descTextMapHash": 678354210,
+        "effectDesc": [
+            3277042901,
+            1302395425,
+            1442391822,
+            649770735
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_BAKE",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 5,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108004,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108005,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108006,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100062,
+                "countRawNum": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "qteParam": "0.52,0.4",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 1004,
+        "nameTextMapHash": 1915770008,
+        "rankLevelRawNum": 1,
+        "icon": "UI_ItemIcon_Recipe_3001",
+        "descTextMapHash": 1753605034,
+        "effectDesc": [
+            3136799197,
+            2503351705,
+            1881966790,
+            2293374967
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_BAKE",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 5,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108007,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108008,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108009,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100061,
+                "countRawNum": 2
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "qteParam": "0.77,0.4",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 1005,
+        "nameTextMapHash": 942628784,
+        "rankLevelRawNum": 1,
+        "icon": "UI_ItemIcon_Recipe_3002",
+        "descTextMapHash": 2323462586,
+        "effectDesc": [
+            1294574693,
+            2101749145,
+            3326645430,
+            1477603575
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_BOIL",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 5,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108019,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108020,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108021,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100014,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100016,
+                "countRawNum": 1
+            },
+            {},
+            {},
+            {}
+        ],
+        "qteParam": "0.8,0.4",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 1006,
+        "nameTextMapHash": 4128572800,
+        "rankLevelRawNum": 1,
+        "icon": "UI_ItemIcon_108096",
+        "descTextMapHash": 813304538,
+        "effectDesc": [
+            3513118981,
+            889415737,
+            948922518,
+            2903483887
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_BAKE",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 5,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108095,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108096,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108097,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100084,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100077,
+                "countRawNum": 1
+            },
+            {},
+            {},
+            {}
+        ],
+        "qteParam": "0.4,0.4",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 1101,
+        "nameTextMapHash": 2376368912,
+        "rankLevelRawNum": 1,
+        "icon": "UI_ItemIcon_108093",
+        "descTextMapHash": 3619433970,
+        "effectDesc": [
+            2058344077,
+            1146820897,
+            1825028958,
+            2904151447
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_BAKE",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 5,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108092,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108093,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108094,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100061,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 110001,
+                "countRawNum": 1
+            },
+            {},
+            {},
+            {}
+        ],
+        "qteParam": "0.48,0.4",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 1102,
+        "nameTextMapHash": 2711069136,
+        "rankLevelRawNum": 1,
+        "icon": "UI_ItemIcon_108099",
+        "descTextMapHash": 1804774450,
+        "effectDesc": [
+            3258403333,
+            582609369,
+            2333385446,
+            1658276735
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_FRY",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 5,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108098,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108099,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108100,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100061,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100027,
+                "countRawNum": 1
+            },
+            {},
+            {},
+            {}
+        ],
+        "qteParam": "0.7,0.4",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 1103,
+        "nameTextMapHash": 3566956816,
+        "rankLevelRawNum": 1,
+        "icon": "UI_ItemIcon_108108",
+        "descTextMapHash": 3705270682,
+        "effectDesc": [
+            2509227869,
+            788132489,
+            159992982,
+            356219199
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_BAKE",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 5,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108107,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108108,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108109,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100084,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100077,
+                "countRawNum": 1
+            },
+            {},
+            {},
+            {}
+        ],
+        "qteParam": "0.63,0.4",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 2001,
+        "nameTextMapHash": 3826793904,
+        "rankLevelRawNum": 2,
+        "icon": "UI_ItemIcon_Recipe_1003",
+        "descTextMapHash": 3286985874,
+        "effectDesc": [
+            1866629885,
+            3240536537,
+            645304078,
+            2569000423
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_BOIL",
+        "maxProficiencyRawNum": 10,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108015,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108016,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108017,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 110001,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100061,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100079,
+                "countRawNum": 1
+            },
+            {},
+            {}
+        ],
+        "qteParam": "0.65,0.35",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 2002,
+        "nameTextMapHash": 3983445808,
+        "rankLevelRawNum": 2,
+        "icon": "UI_ItemIcon_Recipe_1004",
+        "descTextMapHash": 372082930,
+        "effectDesc": [
+            3869493309,
+            2222960097,
+            410047742,
+            3623051615
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_STEAM",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 10,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108031,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108032,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108033,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100064,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100012,
+                "countRawNum": 2
+            },
+            {},
+            {},
+            {}
+        ],
+        "qteParam": "0.65,0.35",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 2003,
+        "nameTextMapHash": 3320078776,
+        "rankLevelRawNum": 2,
+        "icon": "UI_ItemIcon_Recipe_2002",
+        "descTextMapHash": 2499450170,
+        "effectDesc": [
+            1263907109,
+            225125121,
+            2490169782,
+            3379200775
+        ],
+        "foodType": "COOK_FOOD_FUNCTION",
+        "cookMethod": "COOK_METHOD_STEAM",
+        "maxProficiencyRawNum": 10,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108034,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108035,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108036,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 110003,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100076,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100018,
+                "countRawNum": 1
+            },
+            {},
+            {}
+        ],
+        "qteParam": "0.55,0.35",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 2004,
+        "nameTextMapHash": 3161603856,
+        "rankLevelRawNum": 2,
+        "icon": "UI_ItemIcon_Recipe_2003",
+        "descTextMapHash": 545665914,
+        "effectDesc": [
+            3378792541,
+            3640978977,
+            4227247238,
+            832572839
+        ],
+        "foodType": "COOK_FOOD_FUNCTION",
+        "cookMethod": "COOK_METHOD_BOIL",
+        "maxProficiencyRawNum": 10,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108037,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108038,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108039,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100061,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 110002,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100015,
+                "countRawNum": 1
+            },
+            {},
+            {}
+        ],
+        "qteParam": "0.55,0.35",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 2005,
+        "nameTextMapHash": 3810630240,
+        "rankLevelRawNum": 2,
+        "icon": "UI_ItemIcon_Recipe_4001",
+        "descTextMapHash": 2561720146,
+        "effectDesc": [
+            3262173373,
+            589495969,
+            928548390,
+            4194435815
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_BAKE",
+        "maxProficiencyRawNum": 10,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108022,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108023,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108024,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100051,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 110001,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100062,
+                "countRawNum": 1
+            },
+            {},
+            {}
+        ],
+        "qteParam": "0.4,0.35",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 2006,
+        "nameTextMapHash": 1947768664,
+        "rankLevelRawNum": 2,
+        "icon": "UI_ItemIcon_Recipe_4002",
+        "descTextMapHash": 2562114610,
+        "effectDesc": [
+            1563345757,
+            911446009,
+            4126578494,
+            287554135
+        ],
+        "foodType": "COOK_FOOD_ATTACK",
+        "cookMethod": "COOK_METHOD_BAKE",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 10,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108025,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108026,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108027,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 110001,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100014,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100077,
+                "countRawNum": 1
+            },
+            {},
+            {}
+        ],
+        "qteParam": "0.4,0.35",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 2007,
+        "nameTextMapHash": 3016112712,
+        "rankLevelRawNum": 2,
+        "icon": "UI_ItemIcon_Recipe_4003",
+        "descTextMapHash": 3201586994,
+        "effectDesc": [
+            124385373,
+            821093969,
+            3030098046,
+            1782059983
+        ],
+        "foodType": "COOK_FOOD_ATTACK",
+        "cookMethod": "COOK_METHOD_BOIL",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 10,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108028,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108029,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108030,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100018,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100001,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100062,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100080,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "qteParam": "0.4,0.35",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 2008,
+        "nameTextMapHash": 2512996856,
+        "rankLevelRawNum": 2,
+        "icon": "UI_ItemIcon_Recipe_1001",
+        "descTextMapHash": 2159575650,
+        "effectDesc": [
+            946192957,
+            860986273,
+            201671206,
+            649963679
+        ],
+        "foodType": "COOK_FOOD_DEFENSE",
+        "cookMethod": "COOK_METHOD_BAKE",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 10,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108001,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108002,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108003,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 110001,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100079,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100076,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100078,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "qteParam": "0.63,0.35",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 2101,
+        "nameTextMapHash": 3117860336,
+        "rankLevelRawNum": 2,
+        "icon": "UI_ItemIcon_100428",
+        "descTextMapHash": 3195974058,
+        "effectDesc": [
+            2442180133,
+            1895677609,
+            4042411166,
+            2308413287
+        ],
+        "foodType": "COOK_FOOD_ATTACK",
+        "cookMethod": "COOK_METHOD_STEAM",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 10,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108080,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108081,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108082,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100078,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 110006,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100089,
+                "countRawNum": 1
+            },
+            {},
+            {}
+        ],
+        "qteParam": "0.38,0.35",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 2102,
+        "nameTextMapHash": 1816326712,
+        "rankLevelRawNum": 2,
+        "icon": "UI_ItemIcon_108084",
+        "descTextMapHash": 2155366442,
+        "effectDesc": [
+            1532744645,
+            2557687065,
+            2783043006,
+            4051069295
+        ],
+        "foodType": "COOK_FOOD_ATTACK",
+        "cookMethod": "COOK_METHOD_FRY",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 10,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108083,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108084,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108085,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100064,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100027,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100077,
+                "countRawNum": 1
+            },
+            {},
+            {}
+        ],
+        "qteParam": "0.7,0.35",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 2103,
+        "nameTextMapHash": 1288948872,
+        "rankLevelRawNum": 2,
+        "icon": "UI_ItemIcon_108087",
+        "descTextMapHash": 3011047370,
+        "effectDesc": [
+            888137701,
+            1324885153,
+            799299758,
+            1798166071
+        ],
+        "foodType": "COOK_FOOD_DEFENSE",
+        "cookMethod": "COOK_METHOD_BOIL",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 10,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108086,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108087,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108088,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100015,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100088,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100026,
+                "countRawNum": 1
+            },
+            {},
+            {}
+        ],
+        "qteParam": "0.72,0.35",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 2104,
+        "nameTextMapHash": 1818174392,
+        "rankLevelRawNum": 2,
+        "icon": "UI_ItemIcon_108090",
+        "descTextMapHash": 606617554,
+        "effectDesc": [
+            270762493,
+            547486929,
+            4177761646,
+            2623684327
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_STEAM",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 10,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108089,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108090,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108091,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100063,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100061,
+                "countRawNum": 2
+            },
+            {},
+            {},
+            {}
+        ],
+        "qteParam": "0.45,0.35",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 2105,
+        "nameTextMapHash": 1887732288,
+        "rankLevelRawNum": 2,
+        "icon": "UI_ItemIcon_108105",
+        "descTextMapHash": 636394546,
+        "effectDesc": [
+            2911866869,
+            3229264921,
+            1873608438,
+            3115329879
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_STEAM",
+        "maxProficiencyRawNum": 10,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108104,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108105,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108106,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100092,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100093,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100013,
+                "countRawNum": 2
+            },
+            {},
+            {}
+        ],
+        "qteParam": "0.72,0.35",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 2106,
+        "nameTextMapHash": 2944873232,
+        "rankLevelRawNum": 2,
+        "icon": "UI_ItemIcon_108120",
+        "descTextMapHash": 1073633434,
+        "effectDesc": [
+            2779673637,
+            3160951313,
+            3287083686,
+            1340084207
+        ],
+        "foodType": "COOK_FOOD_FUNCTION",
+        "cookMethod": "COOK_METHOD_STEAM",
+        "maxProficiencyRawNum": 10,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108119,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108120,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108121,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100026,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100062,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 110006,
+                "countRawNum": 1
+            },
+            {},
+            {}
+        ],
+        "qteParam": "0.4,0.35",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 2107,
+        "nameTextMapHash": 3787944112,
+        "rankLevelRawNum": 2,
+        "icon": "UI_ItemIcon_108126",
+        "descTextMapHash": 3614201898,
+        "effectDesc": [
+            4032119581,
+            1648957001,
+            2354157734,
+            1467662159
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_STEAM",
+        "maxProficiencyRawNum": 10,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108125,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108126,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108127,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100093,
+                "countRawNum": 4
+            },
+            {
+                "idRawNum": 100080,
+                "countRawNum": 3
+            },
+            {},
+            {},
+            {}
+        ],
+        "qteParam": "0.63,0.35",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 3001,
+        "nameTextMapHash": 3687633104,
+        "rankLevelRawNum": 3,
+        "icon": "UI_ItemIcon_Recipe_1006",
+        "descTextMapHash": 1702888666,
+        "effectDesc": [
+            1552544101,
+            1033451297,
+            1121489702,
+            3748080407
+        ],
+        "foodType": "COOK_FOOD_DEFENSE",
+        "cookMethod": "COOK_METHOD_BOIL",
+        "maxProficiencyRawNum": 15,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108049,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108050,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108051,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100073,
+                "countRawNum": 4
+            },
+            {
+                "idRawNum": 100056,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100016,
+                "countRawNum": 2
+            },
+            {},
+            {}
+        ],
+        "qteParam": "0.7,0.27",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 3002,
+        "nameTextMapHash": 3151949784,
+        "rankLevelRawNum": 3,
+        "icon": "UI_ItemIcon_Recipe_1007",
+        "descTextMapHash": 2162101098,
+        "effectDesc": [
+            1514059253,
+            318976169,
+            420536438,
+            2580900999
+        ],
+        "foodType": "COOK_FOOD_ATTACK",
+        "cookMethod": "COOK_METHOD_BAKE",
+        "maxProficiencyRawNum": 15,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108052,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108053,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108054,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100063,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 110001,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100020,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 110004,
+                "countRawNum": 2
+            },
+            {}
+        ],
+        "qteParam": "0.7,0.27",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 3003,
+        "nameTextMapHash": 3277541528,
+        "rankLevelRawNum": 3,
+        "icon": "UI_ItemIcon_Recipe_2004",
+        "descTextMapHash": 544289474,
+        "effectDesc": [
+            1463867749,
+            1504435417,
+            3290333542,
+            252978087
+        ],
+        "foodType": "COOK_FOOD_ATTACK",
+        "cookMethod": "COOK_METHOD_STEAM",
+        "maxProficiencyRawNum": 15,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108059,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108060,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108061,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 110005,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 110010,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 110011,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100016,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "qteParam": "0.5,0.27",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 3004,
+        "nameTextMapHash": 622254280,
+        "rankLevelRawNum": 3,
+        "icon": "UI_ItemIcon_Recipe_2005",
+        "descTextMapHash": 1065475194,
+        "effectDesc": [
+            4060175661,
+            1736820289,
+            611679926,
+            3729396639
+        ],
+        "foodType": "COOK_FOOD_FUNCTION",
+        "cookMethod": "COOK_METHOD_BOIL",
+        "maxProficiencyRawNum": 15,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108062,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108063,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108064,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100061,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100013,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 110006,
+                "countRawNum": 2
+            },
+            {},
+            {}
+        ],
+        "qteParam": "0.5,0.27",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 3005,
+        "nameTextMapHash": 1443071056,
+        "rankLevelRawNum": 3,
+        "icon": "UI_ItemIcon_Recipe_2006",
+        "descTextMapHash": 1389363882,
+        "effectDesc": [
+            3399127477,
+            3943194177,
+            2679163726,
+            3643340223
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_STEAM",
+        "maxProficiencyRawNum": 15,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108065,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108066,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108067,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100074,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 110005,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 110002,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100018,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "qteParam": "0.5,0.27",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 3006,
+        "nameTextMapHash": 3890736800,
+        "rankLevelRawNum": 3,
+        "icon": "UI_ItemIcon_Recipe_1005",
+        "descTextMapHash": 1069464722,
+        "effectDesc": [
+            2446409573,
+            1517734985,
+            1452744662,
+            2928832279
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_BAKE",
+        "maxProficiencyRawNum": 15,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108041,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108042,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108043,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100011,
+                "countRawNum": 4
+            },
+            {
+                "idRawNum": 110001,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100018,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 110009,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "qteParam": "0.7,0.27",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 3007,
+        "nameTextMapHash": 3199568744,
+        "rankLevelRawNum": 3,
+        "icon": "UI_ItemIcon_Recipe_3003",
+        "descTextMapHash": 2943330466,
+        "effectDesc": [
+            3318986957,
+            3394780297,
+            2965183518,
+            3924966695
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_BAKE",
+        "maxProficiencyRawNum": 15,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108045,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108046,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108047,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100020,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100080,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 110008,
+                "countRawNum": 1
+            },
+            {},
+            {}
+        ],
+        "qteParam": "0.85,0.27",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 3008,
+        "nameTextMapHash": 3553084808,
+        "rankLevelRawNum": 3,
+        "icon": "UI_ItemIcon_Recipe_3004",
+        "descTextMapHash": 4017772082,
+        "effectDesc": [
+            32767365,
+            1503963577,
+            941588230,
+            3273117639
+        ],
+        "foodType": "COOK_FOOD_ATTACK",
+        "cookMethod": "COOK_METHOD_STEAM",
+        "maxProficiencyRawNum": 15,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108055,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108056,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108057,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100061,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100080,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100055,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 110009,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "qteParam": "0.85,0.27",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 3009,
+        "nameTextMapHash": 234476240,
+        "rankLevelRawNum": 3,
+        "icon": "UI_ItemIcon_108111",
+        "descTextMapHash": 2930284858,
+        "effectDesc": [
+            2653589805,
+            3415453281,
+            3531494606,
+            2604185487
+        ],
+        "foodType": "COOK_FOOD_FUNCTION",
+        "cookMethod": "COOK_METHOD_FRY",
+        "maxProficiencyRawNum": 15,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108110,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108111,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108112,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100013,
+                "countRawNum": 4
+            },
+            {
+                "idRawNum": 100080,
+                "countRawNum": 4
+            },
+            {
+                "idRawNum": 100076,
+                "countRawNum": 4
+            },
+            {},
+            {}
+        ],
+        "qteParam": "0.45,0.27",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 3101,
+        "nameTextMapHash": 1621938840,
+        "rankLevelRawNum": 3,
+        "icon": "UI_ItemIcon_108072",
+        "descTextMapHash": 2177781010,
+        "effectDesc": [
+            1052716653,
+            2635651417,
+            3231120302,
+            3382302111
+        ],
+        "foodType": "COOK_FOOD_FUNCTION",
+        "cookMethod": "COOK_METHOD_BAKE",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 15,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108071,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108072,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108073,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100061,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100084,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 110001,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100075,
+                "countRawNum": 2
+            },
+            {}
+        ],
+        "qteParam": "0.63,0.27",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 3102,
+        "nameTextMapHash": 3663660088,
+        "rankLevelRawNum": 3,
+        "icon": "UI_ItemIcon_108075",
+        "descTextMapHash": 3714601098,
+        "effectDesc": [
+            1283045989,
+            845601753,
+            505905398,
+            655832807
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_BOIL",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 15,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108074,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108075,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108076,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100084,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100027,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100075,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100034,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "qteParam": "0.4,0.27",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 3103,
+        "nameTextMapHash": 1897768416,
+        "rankLevelRawNum": 3,
+        "icon": "UI_ItemIcon_108078",
+        "descTextMapHash": 3807900666,
+        "effectDesc": [
+            2727592749,
+            3332512649,
+            1110183910,
+            3014194679
+        ],
+        "foodType": "COOK_FOOD_HEAL",
+        "cookMethod": "COOK_METHOD_FRY",
+        "isDefaultUnlocked": true,
+        "maxProficiencyRawNum": 15,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108077,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108078,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108079,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100084,
+                "countRawNum": 4
+            },
+            {
+                "idRawNum": 100079,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 110001,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 110006,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "qteParam": "0.45,0.27",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 3104,
+        "nameTextMapHash": 4195020824,
+        "rankLevelRawNum": 3,
+        "icon": "UI_ItemIcon_108129",
+        "descTextMapHash": 3126908538,
+        "effectDesc": [
+            483615877,
+            1053834041,
+            1121304958,
+            124861055
+        ],
+        "foodType": "COOK_FOOD_ATTACK",
+        "cookMethod": "COOK_METHOD_FRY",
+        "maxProficiencyRawNum": 15,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108128,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108129,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108130,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100011,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100026,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100027,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 100018,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "qteParam": "0.45,0.27",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 3105,
+        "nameTextMapHash": 412783744,
+        "rankLevelRawNum": 3,
+        "icon": "UI_ItemIcon_108132",
+        "descTextMapHash": 391319386,
+        "effectDesc": [
+            4223430021,
+            4004853873,
+            59029758,
+            274390111
+        ],
+        "foodType": "COOK_FOOD_ATTACK",
+        "cookMethod": "COOK_METHOD_FRY",
+        "maxProficiencyRawNum": 15,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108131,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108132,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108133,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100061,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100084,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100092,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100088,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "qteParam": "0.5,0.27",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 4101,
+        "nameTextMapHash": 2559312488,
+        "rankLevelRawNum": 4,
+        "icon": "UI_ItemIcon_Recipe_4004",
+        "descTextMapHash": 748213378,
+        "effectDesc": [
+            3459256397,
+            2177654697,
+            1690604046,
+            1100584719
+        ],
+        "foodType": "COOK_FOOD_ATTACK",
+        "cookMethod": "COOK_METHOD_STEAM",
+        "maxProficiencyRawNum": 20,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108068,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108069,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108070,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100026,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100027,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 100018,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 110005,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "qteParam": "0.3,0.22",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 4102,
+        "nameTextMapHash": 1431862960,
+        "rankLevelRawNum": 4,
+        "icon": "UI_ItemIcon_108102",
+        "descTextMapHash": 1035762138,
+        "effectDesc": [
+            1131151445,
+            2285168409,
+            2457403390,
+            1969311959
+        ],
+        "foodType": "COOK_FOOD_DEFENSE",
+        "cookMethod": "COOK_METHOD_STEAM",
+        "maxProficiencyRawNum": 20,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108101,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108102,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108103,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 100062,
+                "countRawNum": 5
+            },
+            {
+                "idRawNum": 110001,
+                "countRawNum": 5
+            },
+            {
+                "idRawNum": 100073,
+                "countRawNum": 4
+            },
+            {
+                "idRawNum": 100075,
+                "countRawNum": 2
+            },
+            {}
+        ],
+        "qteParam": "0.6,0.22",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "idRawNum": 5101,
+        "nameTextMapHash": 2535717720,
+        "rankLevelRawNum": 5,
+        "icon": "UI_ItemIcon_108123",
+        "descTextMapHash": 3785660866,
+        "effectDesc": [
+            1022833117,
+            3090219849,
+            3779451422,
+            4255144839
+        ],
+        "foodType": "COOK_FOOD_ATTACK",
+        "cookMethod": "COOK_METHOD_BOIL",
+        "maxProficiencyRawNum": 25,
+        "qualityOutputVec": [
+            {
+                "idRawNum": 108122,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108123,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 108124,
+                "countRawNum": 1
+            }
+        ],
+        "inputVec": [
+            {
+                "idRawNum": 110005,
+                "countRawNum": 4
+            },
+            {
+                "idRawNum": 100073,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100093,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 100063,
+                "countRawNum": 3
+            },
+            {}
+        ],
+        "qteParam": "0.63,0.17",
+        "qteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    }
+]

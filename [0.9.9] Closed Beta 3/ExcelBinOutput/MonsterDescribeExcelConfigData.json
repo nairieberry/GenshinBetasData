@@ -1,0 +1,677 @@
+[
+    {
+        "idRawNum": 101,
+        "nameTextMapHash": 2173510696,
+        "titleIDRawNum": 1001,
+        "specialNameLabIDRawNum": 1001,
+        "icon": "UI_MonsterIcon_Slime_Grass_02",
+        "descTextMapHash": 2704330173,
+        "lockDescTextMapHash": 3461772025
+    },
+    {
+        "idRawNum": 102,
+        "nameTextMapHash": 220962224,
+        "titleIDRawNum": 1011,
+        "specialNameLabIDRawNum": 1001,
+        "icon": "UI_MonsterIcon_Slime_Grass_03",
+        "descTextMapHash": 3454577845,
+        "lockDescTextMapHash": 1808692633
+    },
+    {
+        "idRawNum": 103,
+        "nameTextMapHash": 1511587408,
+        "titleIDRawNum": 1002,
+        "specialNameLabIDRawNum": 1001,
+        "icon": "UI_MonsterIcon_Slime_Wind_02",
+        "descTextMapHash": 1389695605,
+        "lockDescTextMapHash": 3293862097
+    },
+    {
+        "idRawNum": 104,
+        "nameTextMapHash": 1527751472,
+        "titleIDRawNum": 1021,
+        "specialNameLabIDRawNum": 1001,
+        "icon": "UI_MonsterIcon_Slime_Wind_03",
+        "descTextMapHash": 1441257597,
+        "lockDescTextMapHash": 4245656041
+    },
+    {
+        "idRawNum": 105,
+        "nameTextMapHash": 960731328,
+        "titleIDRawNum": 1003,
+        "specialNameLabIDRawNum": 1001,
+        "icon": "UI_MonsterIcon_Slime_Electric_02",
+        "descTextMapHash": 257395205,
+        "lockDescTextMapHash": 4036965657
+    },
+    {
+        "idRawNum": 106,
+        "nameTextMapHash": 2835495304,
+        "titleIDRawNum": 1031,
+        "specialNameLabIDRawNum": 1001,
+        "icon": "UI_MonsterIcon_Slime_Electric_03",
+        "descTextMapHash": 3873767613,
+        "lockDescTextMapHash": 1816725593
+    },
+    {
+        "idRawNum": 107,
+        "nameTextMapHash": 3389920104,
+        "titleIDRawNum": 1032,
+        "specialNameLabIDRawNum": 1001,
+        "icon": "UI_MonsterIcon_Slime_Electric_03_Positive",
+        "descTextMapHash": 3615501781,
+        "lockDescTextMapHash": 4204109473
+    },
+    {
+        "idRawNum": 108,
+        "nameTextMapHash": 678013664,
+        "titleIDRawNum": 1004,
+        "specialNameLabIDRawNum": 1001,
+        "icon": "UI_MonsterIcon_Slime_Ice_02",
+        "descTextMapHash": 4021068261,
+        "lockDescTextMapHash": 264332817
+    },
+    {
+        "idRawNum": 109,
+        "nameTextMapHash": 2368926680,
+        "titleIDRawNum": 1041,
+        "specialNameLabIDRawNum": 1001,
+        "icon": "UI_MonsterIcon_Slime_Ice_03",
+        "descTextMapHash": 523035413,
+        "lockDescTextMapHash": 2569168473
+    },
+    {
+        "idRawNum": 110,
+        "nameTextMapHash": 1266302080,
+        "titleIDRawNum": 1005,
+        "specialNameLabIDRawNum": 1001,
+        "icon": "UI_MonsterIcon_Slime_Water_02",
+        "descTextMapHash": 119929637,
+        "lockDescTextMapHash": 58450001
+    },
+    {
+        "idRawNum": 111,
+        "nameTextMapHash": 1883787496,
+        "titleIDRawNum": 1051,
+        "specialNameLabIDRawNum": 1001,
+        "icon": "UI_MonsterIcon_Slime_Water_03",
+        "descTextMapHash": 3803959077,
+        "lockDescTextMapHash": 542789793
+    },
+    {
+        "idRawNum": 112,
+        "nameTextMapHash": 3113209704,
+        "titleIDRawNum": 1006,
+        "specialNameLabIDRawNum": 1001,
+        "icon": "UI_MonsterIcon_Slime_Fire_02",
+        "descTextMapHash": 217822637,
+        "lockDescTextMapHash": 2565905585
+    },
+    {
+        "idRawNum": 113,
+        "nameTextMapHash": 3104668424,
+        "titleIDRawNum": 1061,
+        "specialNameLabIDRawNum": 1001,
+        "icon": "UI_MonsterIcon_Slime_Fire_03",
+        "descTextMapHash": 436597549,
+        "lockDescTextMapHash": 788106529
+    },
+    {
+        "idRawNum": 114,
+        "nameTextMapHash": 1304425088,
+        "titleIDRawNum": 1007,
+        "specialNameLabIDRawNum": 1001,
+        "icon": "UI_MonsterIcon_Slime_Rock_02",
+        "descTextMapHash": 3007167909,
+        "lockDescTextMapHash": 1742147769
+    },
+    {
+        "idRawNum": 115,
+        "nameTextMapHash": 2254956112,
+        "titleIDRawNum": 1071,
+        "specialNameLabIDRawNum": 1001,
+        "icon": "UI_MonsterIcon_Slime_Rock_03",
+        "descTextMapHash": 2522646125,
+        "lockDescTextMapHash": 588143993
+    },
+    {
+        "idRawNum": 201,
+        "nameTextMapHash": 352893312,
+        "titleIDRawNum": 1201,
+        "specialNameLabIDRawNum": 1201,
+        "icon": "UI_MonsterIcon_Elemental_Wind_01",
+        "descTextMapHash": 1288385389,
+        "lockDescTextMapHash": 3036765033
+    },
+    {
+        "idRawNum": 202,
+        "nameTextMapHash": 4122560952,
+        "titleIDRawNum": 1202,
+        "specialNameLabIDRawNum": 1201,
+        "icon": "UI_MonsterIcon_Elemental_Wind_01",
+        "descTextMapHash": 2524899181,
+        "lockDescTextMapHash": 2665822825
+    },
+    {
+        "idRawNum": 301,
+        "nameTextMapHash": 2530537496,
+        "titleIDRawNum": 1101,
+        "specialNameLabIDRawNum": 1101,
+        "icon": "UI_MonsterIcon_Cicin_Thunder_01",
+        "descTextMapHash": 536825717,
+        "lockDescTextMapHash": 2777653825
+    },
+    {
+        "idRawNum": 302,
+        "nameTextMapHash": 172651072,
+        "titleIDRawNum": 1102,
+        "specialNameLabIDRawNum": 1102,
+        "icon": "UI_MonsterIcon_Cicin_Water_01",
+        "descTextMapHash": 3311549133,
+        "lockDescTextMapHash": 2909142945
+    },
+    {
+        "idRawNum": 401,
+        "nameTextMapHash": 2576416432,
+        "titleIDRawNum": 2001,
+        "specialNameLabIDRawNum": 2001,
+        "icon": "UI_MonsterIcon_Effigy_Electric",
+        "descTextMapHash": 3072367245,
+        "lockDescTextMapHash": 1335722833
+    },
+    {
+        "idRawNum": 402,
+        "nameTextMapHash": 1388893264,
+        "titleIDRawNum": 2002,
+        "specialNameLabIDRawNum": 2002,
+        "icon": "UI_MonsterIcon_Effigy_Wind",
+        "descTextMapHash": 1558827741,
+        "lockDescTextMapHash": 1092318905
+    },
+    {
+        "idRawNum": 403,
+        "nameTextMapHash": 1590609280,
+        "titleIDRawNum": 2003,
+        "specialNameLabIDRawNum": 2003,
+        "icon": "UI_MonsterIcon_Effigy_Rock",
+        "descTextMapHash": 4076289629,
+        "lockDescTextMapHash": 1573569657
+    },
+    {
+        "idRawNum": 501,
+        "nameTextMapHash": 1194478280,
+        "titleIDRawNum": 8001,
+        "specialNameLabIDRawNum": 8001,
+        "icon": "UI_MonsterIcon_Cicin_Water_01",
+        "descTextMapHash": 696562077,
+        "lockDescTextMapHash": 103211089
+    },
+    {
+        "idRawNum": 10101,
+        "nameTextMapHash": 2823299104,
+        "titleIDRawNum": 3001,
+        "specialNameLabIDRawNum": 3001,
+        "icon": "UI_MonsterIcon_Hili_None_01",
+        "descTextMapHash": 824496101,
+        "lockDescTextMapHash": 1821728881
+    },
+    {
+        "idRawNum": 10102,
+        "nameTextMapHash": 1502883680,
+        "titleIDRawNum": 3001,
+        "specialNameLabIDRawNum": 3001,
+        "icon": "UI_MonsterIcon_Hili_None_01",
+        "descTextMapHash": 3046474349,
+        "lockDescTextMapHash": 1563331361
+    },
+    {
+        "idRawNum": 10103,
+        "nameTextMapHash": 2491960152,
+        "titleIDRawNum": 3001,
+        "specialNameLabIDRawNum": 3001,
+        "icon": "UI_MonsterIcon_Hili_None_01",
+        "descTextMapHash": 2060663901,
+        "lockDescTextMapHash": 566262329
+    },
+    {
+        "idRawNum": 10104,
+        "nameTextMapHash": 3261111696,
+        "titleIDRawNum": 3011,
+        "specialNameLabIDRawNum": 3001,
+        "icon": "UI_MonsterIcon_Hili_None_01",
+        "descTextMapHash": 989807845,
+        "lockDescTextMapHash": 2096957945
+    },
+    {
+        "idRawNum": 10105,
+        "nameTextMapHash": 41061376,
+        "titleIDRawNum": 3011,
+        "specialNameLabIDRawNum": 3001,
+        "icon": "UI_MonsterIcon_Hili_Fire_Range",
+        "descTextMapHash": 959380597,
+        "lockDescTextMapHash": 2068763577
+    },
+    {
+        "idRawNum": 10106,
+        "nameTextMapHash": 4024598056,
+        "titleIDRawNum": 3001,
+        "specialNameLabIDRawNum": 3001,
+        "icon": "UI_MonsterIcon_Hili_Fire_Range",
+        "descTextMapHash": 2186564245,
+        "lockDescTextMapHash": 1906077873
+    },
+    {
+        "idRawNum": 10107,
+        "nameTextMapHash": 3251673344,
+        "titleIDRawNum": 3001,
+        "specialNameLabIDRawNum": 3001,
+        "icon": "UI_MonsterIcon_Hili_Fire_Range",
+        "descTextMapHash": 293106533,
+        "lockDescTextMapHash": 986970897
+    },
+    {
+        "idRawNum": 10109,
+        "nameTextMapHash": 2598026680,
+        "titleIDRawNum": 3011,
+        "specialNameLabIDRawNum": 3001,
+        "icon": "UI_MonsterIcon_Hili_Ice_Range",
+        "descTextMapHash": 2546075125,
+        "lockDescTextMapHash": 2974617233
+    },
+    {
+        "idRawNum": 10110,
+        "nameTextMapHash": 2963928784,
+        "titleIDRawNum": 3011,
+        "specialNameLabIDRawNum": 3001,
+        "icon": "UI_MonsterIcon_Hili_Electric_Range",
+        "descTextMapHash": 1057651333,
+        "lockDescTextMapHash": 4196929257
+    },
+    {
+        "idRawNum": 10112,
+        "nameTextMapHash": 1779087448,
+        "titleIDRawNum": 3001,
+        "specialNameLabIDRawNum": 3001,
+        "icon": "UI_MonsterIcon_Hili_None_01",
+        "descTextMapHash": 2379726661,
+        "lockDescTextMapHash": 76168505
+    },
+    {
+        "idRawNum": 10113,
+        "nameTextMapHash": 2456790112,
+        "titleIDRawNum": 3001,
+        "specialNameLabIDRawNum": 3001,
+        "icon": "UI_MonsterIcon_Hili_None_01",
+        "descTextMapHash": 1920126525,
+        "lockDescTextMapHash": 906834105
+    },
+    {
+        "idRawNum": 10201,
+        "nameTextMapHash": 2998946096,
+        "titleIDRawNum": 3101,
+        "specialNameLabIDRawNum": 3101,
+        "icon": "UI_MonsterIcon_Brute_None_01",
+        "descTextMapHash": 4125070781,
+        "lockDescTextMapHash": 2188256841
+    },
+    {
+        "idRawNum": 10202,
+        "nameTextMapHash": 2414837496,
+        "titleIDRawNum": 3102,
+        "specialNameLabIDRawNum": 3101,
+        "icon": "UI_MonsterIcon_Brute_None_01",
+        "descTextMapHash": 780350589,
+        "lockDescTextMapHash": 2981687785
+    },
+    {
+        "idRawNum": 10203,
+        "nameTextMapHash": 1611076776,
+        "titleIDRawNum": 3103,
+        "specialNameLabIDRawNum": 3101,
+        "icon": "UI_MonsterIcon_Brute_None_01",
+        "descTextMapHash": 710105045,
+        "lockDescTextMapHash": 2037155761
+    },
+    {
+        "idRawNum": 10204,
+        "nameTextMapHash": 3926747992,
+        "titleIDRawNum": 3101,
+        "specialNameLabIDRawNum": 3101,
+        "icon": "UI_MonsterIcon_Brute_None_01",
+        "descTextMapHash": 373348101,
+        "lockDescTextMapHash": 1182377041
+    },
+    {
+        "idRawNum": 10205,
+        "nameTextMapHash": 1204583624,
+        "titleIDRawNum": 3111,
+        "specialNameLabIDRawNum": 3111,
+        "icon": "UI_MonsterIcon_Brute_Rock_None",
+        "descTextMapHash": 2615434445,
+        "lockDescTextMapHash": 3424340033
+    },
+    {
+        "idRawNum": 10301,
+        "nameTextMapHash": 1980056728,
+        "titleIDRawNum": 3201,
+        "specialNameLabIDRawNum": 3201,
+        "icon": "UI_MonsterIcon_Shaman_Water_01",
+        "descTextMapHash": 2833057181,
+        "lockDescTextMapHash": 2348477513
+    },
+    {
+        "idRawNum": 10302,
+        "nameTextMapHash": 1473826984,
+        "titleIDRawNum": 3202,
+        "specialNameLabIDRawNum": 3202,
+        "icon": "UI_MonsterIcon_Shaman_Grass_01",
+        "descTextMapHash": 1013781421,
+        "lockDescTextMapHash": 1461355345
+    },
+    {
+        "idRawNum": 10303,
+        "nameTextMapHash": 10553112,
+        "titleIDRawNum": 3203,
+        "specialNameLabIDRawNum": 3203,
+        "icon": "UI_MonsterIcon_Shaman_Wind_01",
+        "descTextMapHash": 1872997197,
+        "lockDescTextMapHash": 4125159993
+    },
+    {
+        "idRawNum": 10304,
+        "nameTextMapHash": 3338079384,
+        "titleIDRawNum": 3204,
+        "specialNameLabIDRawNum": 3204,
+        "icon": "UI_MonsterIcon_Shaman_Rock_01",
+        "descTextMapHash": 110612797,
+        "lockDescTextMapHash": 761214009
+    },
+    {
+        "idRawNum": 20101,
+        "nameTextMapHash": 2415438104,
+        "titleIDRawNum": 4001,
+        "specialNameLabIDRawNum": 4001,
+        "icon": "UI_MonsterIcon_Abyss_Fire_01",
+        "descTextMapHash": 4071516781,
+        "lockDescTextMapHash": 207702161
+    },
+    {
+        "idRawNum": 20102,
+        "nameTextMapHash": 1321463096,
+        "titleIDRawNum": 4002,
+        "specialNameLabIDRawNum": 4001,
+        "icon": "UI_MonsterIcon_Abyss_Ice_01",
+        "descTextMapHash": 1363962445,
+        "lockDescTextMapHash": 1265717433
+    },
+    {
+        "idRawNum": 20103,
+        "nameTextMapHash": 2267848368,
+        "titleIDRawNum": 4003,
+        "specialNameLabIDRawNum": 4001,
+        "icon": "UI_MonsterIcon_Abyss_Water_01",
+        "descTextMapHash": 1361526949,
+        "lockDescTextMapHash": 105054289
+    },
+    {
+        "idRawNum": 30201,
+        "nameTextMapHash": 3750143024,
+        "titleIDRawNum": 5001,
+        "specialNameLabIDRawNum": 5001,
+        "icon": "UI_MonsterIcon_Fatuus_Fire_01",
+        "descTextMapHash": 1181588421,
+        "lockDescTextMapHash": 3550813449
+    },
+    {
+        "idRawNum": 30301,
+        "nameTextMapHash": 1010609776,
+        "titleIDRawNum": 5002,
+        "specialNameLabIDRawNum": 5002,
+        "icon": "UI_MonsterIcon_Fatuus_Summoner_01",
+        "descTextMapHash": 2305019773,
+        "lockDescTextMapHash": 423116873
+    },
+    {
+        "idRawNum": 40101,
+        "nameTextMapHash": 1418628360,
+        "titleIDRawNum": 6001,
+        "specialNameLabIDRawNum": 6001,
+        "icon": "UI_MonsterIcon_Defender_Noner_01",
+        "descTextMapHash": 3788442365,
+        "lockDescTextMapHash": 1321704409
+    },
+    {
+        "idRawNum": 40102,
+        "nameTextMapHash": 4243053360,
+        "titleIDRawNum": 6002,
+        "specialNameLabIDRawNum": 6002,
+        "icon": "UI_MonsterIcon_Formathr_None",
+        "descTextMapHash": 3114540517,
+        "lockDescTextMapHash": 1904961881
+    },
+    {
+        "idRawNum": 50101,
+        "nameTextMapHash": 2720944320,
+        "titleIDRawNum": 7005,
+        "specialNameLabIDRawNum": 7005,
+        "icon": "UI_MonsterIcon_Thoarder_Male_NoWeapon_01",
+        "descTextMapHash": 3848762829,
+        "lockDescTextMapHash": 112868945
+    },
+    {
+        "idRawNum": 50102,
+        "nameTextMapHash": 3059200712,
+        "titleIDRawNum": 7001,
+        "specialNameLabIDRawNum": 7001,
+        "icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
+        "descTextMapHash": 1260587101,
+        "lockDescTextMapHash": 3954153409
+    },
+    {
+        "idRawNum": 50103,
+        "nameTextMapHash": 1087023424,
+        "titleIDRawNum": 7121,
+        "specialNameLabIDRawNum": 7001,
+        "icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Fire_01",
+        "descTextMapHash": 2392972549,
+        "lockDescTextMapHash": 2622500497
+    },
+    {
+        "idRawNum": 50104,
+        "nameTextMapHash": 3798548888,
+        "titleIDRawNum": 7122,
+        "specialNameLabIDRawNum": 7001,
+        "icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Water_01",
+        "descTextMapHash": 4108162269,
+        "lockDescTextMapHash": 1642699321
+    },
+    {
+        "idRawNum": 50105,
+        "nameTextMapHash": 1521590128,
+        "titleIDRawNum": 7123,
+        "specialNameLabIDRawNum": 7001,
+        "icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Electric_01",
+        "descTextMapHash": 3279893269,
+        "lockDescTextMapHash": 3725315673
+    },
+    {
+        "idRawNum": 50106,
+        "nameTextMapHash": 361009392,
+        "titleIDRawNum": 7124,
+        "specialNameLabIDRawNum": 7001,
+        "icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Ice_01",
+        "descTextMapHash": 1252044781,
+        "lockDescTextMapHash": 2952346809
+    },
+    {
+        "idRawNum": 50107,
+        "nameTextMapHash": 3123684272,
+        "titleIDRawNum": 7111,
+        "specialNameLabIDRawNum": 7001,
+        "icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_01",
+        "descTextMapHash": 3194674933,
+        "lockDescTextMapHash": 3146391105
+    },
+    {
+        "idRawNum": 50201,
+        "nameTextMapHash": 3627181320,
+        "titleIDRawNum": 7006,
+        "specialNameLabIDRawNum": 7006,
+        "icon": "UI_MonsterIcon_Thoarder_Male_Crossbow_01",
+        "descTextMapHash": 700923141,
+        "lockDescTextMapHash": 2578033537
+    },
+    {
+        "idRawNum": 50202,
+        "nameTextMapHash": 3413949720,
+        "titleIDRawNum": 7002,
+        "specialNameLabIDRawNum": 7001,
+        "icon": "UI_MonsterIcon_Thoarder_Male_Hunter_01",
+        "descTextMapHash": 2426741853,
+        "lockDescTextMapHash": 815027937
+    },
+    {
+        "idRawNum": 50301,
+        "nameTextMapHash": 531388104,
+        "titleIDRawNum": 7007,
+        "specialNameLabIDRawNum": 7007,
+        "icon": "UI_MonsterIcon_Thoarder_Male_Shovel_01",
+        "descTextMapHash": 1979363869,
+        "lockDescTextMapHash": 2589170777
+    },
+    {
+        "idRawNum": 50302,
+        "nameTextMapHash": 28706096,
+        "titleIDRawNum": 7003,
+        "specialNameLabIDRawNum": 7001,
+        "icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_02",
+        "descTextMapHash": 1858437581,
+        "lockDescTextMapHash": 1072159849
+    },
+    {
+        "idRawNum": 50303,
+        "nameTextMapHash": 1603081168,
+        "titleIDRawNum": 7112,
+        "specialNameLabIDRawNum": 7001,
+        "icon": "UI_MonsterIcon_Thoarder_Male_Sailor_01",
+        "descTextMapHash": 3109151685,
+        "lockDescTextMapHash": 1944791513
+    },
+    {
+        "idRawNum": 50401,
+        "nameTextMapHash": 1914087968,
+        "titleIDRawNum": 7008,
+        "specialNameLabIDRawNum": 7008,
+        "icon": "UI_MonsterIcon_Thoarder_Female_Hatchet_01",
+        "descTextMapHash": 3388432933,
+        "lockDescTextMapHash": 1844208617
+    },
+    {
+        "idRawNum": 50402,
+        "nameTextMapHash": 3765123448,
+        "titleIDRawNum": 7004,
+        "specialNameLabIDRawNum": 7002,
+        "icon": "UI_MonsterIcon_Thoarder_Female_Hatchet_01",
+        "descTextMapHash": 1340589285,
+        "lockDescTextMapHash": 2526942873
+    },
+    {
+        "idRawNum": 50501,
+        "nameTextMapHash": 1541768712,
+        "titleIDRawNum": 7011,
+        "specialNameLabIDRawNum": 7011,
+        "icon": "UI_MonsterIcon_Millelith_Male_01",
+        "descTextMapHash": 1228324957,
+        "lockDescTextMapHash": 3214192513
+    },
+    {
+        "idRawNum": 50502,
+        "nameTextMapHash": 4161693360,
+        "titleIDRawNum": 7012,
+        "specialNameLabIDRawNum": 7011,
+        "icon": "UI_MonsterIcon_Millelith_Male_02",
+        "descTextMapHash": 3186211277,
+        "lockDescTextMapHash": 759550169
+    },
+    {
+        "idRawNum": 50601,
+        "nameTextMapHash": 557874744,
+        "titleIDRawNum": 7131,
+        "specialNameLabIDRawNum": 7001,
+        "icon": "UI_MonsterIcon_Thoarder_MuscleMan_Boxer_01",
+        "descTextMapHash": 4213443461,
+        "lockDescTextMapHash": 2604032593
+    },
+    {
+        "idRawNum": 50701,
+        "nameTextMapHash": 2325739152,
+        "titleIDRawNum": 7132,
+        "specialNameLabIDRawNum": 7001,
+        "icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
+        "descTextMapHash": 2931666733,
+        "lockDescTextMapHash": 1784140033
+    },
+    {
+        "idRawNum": 60101,
+        "nameTextMapHash": 883066616,
+        "titleIDRawNum": 7132,
+        "specialNameLabIDRawNum": 7001,
+        "icon": "UI_MonsterIcon_Slime_Ice_02",
+        "descTextMapHash": 1140585421,
+        "lockDescTextMapHash": 3467684833
+    },
+    {
+        "idRawNum": 60102,
+        "nameTextMapHash": 516009168,
+        "titleIDRawNum": 7132,
+        "specialNameLabIDRawNum": 7001,
+        "icon": "UI_MonsterIcon_Slime_Ice_03",
+        "descTextMapHash": 3102243133,
+        "lockDescTextMapHash": 1021009849
+    },
+    {
+        "idRawNum": 60201,
+        "nameTextMapHash": 1058177408,
+        "titleIDRawNum": 7132,
+        "specialNameLabIDRawNum": 7001,
+        "icon": "UI_MonsterIcon_Slime_Fire_02",
+        "descTextMapHash": 1333895277,
+        "lockDescTextMapHash": 615714121
+    },
+    {
+        "idRawNum": 60202,
+        "nameTextMapHash": 184117072,
+        "titleIDRawNum": 7132,
+        "specialNameLabIDRawNum": 7001,
+        "icon": "UI_MonsterIcon_Slime_Fire_03",
+        "descTextMapHash": 2474469093,
+        "lockDescTextMapHash": 1215160457
+    },
+    {
+        "idRawNum": 90101,
+        "nameTextMapHash": 390703016,
+        "titleIDRawNum": 101,
+        "specialNameLabIDRawNum": 101,
+        "icon": "UI_MonsterIcon_Dvalin",
+        "descTextMapHash": 247684957,
+        "lockDescTextMapHash": 710595697
+    },
+    {
+        "idRawNum": 90201,
+        "nameTextMapHash": 1869267944,
+        "titleIDRawNum": 111,
+        "specialNameLabIDRawNum": 111,
+        "icon": "UI_MonsterIcon_LupiBoreas",
+        "descTextMapHash": 228477397,
+        "lockDescTextMapHash": 3510469025
+    },
+    {
+        "idRawNum": 90301,
+        "nameTextMapHash": 2530909488,
+        "titleIDRawNum": 121,
+        "specialNameLabIDRawNum": 121,
+        "icon": "UI_MonsterIcon_LupiBoreas",
+        "descTextMapHash": 2701712117,
+        "lockDescTextMapHash": 2295502745
+    }
+]

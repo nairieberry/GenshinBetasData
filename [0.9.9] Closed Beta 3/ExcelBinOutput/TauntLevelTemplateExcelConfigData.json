@@ -1,0 +1,45 @@
+[
+    {
+        "tauntLevelValRawNum": 10
+    },
+    {
+        "type": "Ability_TauntLevel_2",
+        "tauntLevelValRawNum": 30
+    },
+    {
+        "type": "Ability_TauntLevel_3",
+        "tauntLevelValRawNum": 50
+    },
+    {
+        "type": "Ability_TauntLevel_4",
+        "tauntLevelValRawNum": 70
+    },
+    {
+        "type": "Ability_TauntLevel_5",
+        "tauntLevelValRawNum": 90
+    },
+    {
+        "type": "Monster_TauntLevel_1",
+        "tauntLevelValRawNum": 0
+    },
+    {
+        "type": "Monster_TauntLevel_2",
+        "tauntLevelValRawNum": 20
+    },
+    {
+        "type": "Monster_TauntLevel_3",
+        "tauntLevelValRawNum": 40
+    },
+    {
+        "type": "Monster_TauntLevel_4",
+        "tauntLevelValRawNum": 60
+    },
+    {
+        "type": "Monster_TauntLevel_5",
+        "tauntLevelValRawNum": 80
+    },
+    {
+        "type": "Monster_TauntLevel_6",
+        "tauntLevelValRawNum": 100
+    }
+]

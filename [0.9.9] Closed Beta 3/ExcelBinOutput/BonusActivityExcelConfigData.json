@@ -1,0 +1,37 @@
+[
+    {
+        "bonusActivityIdRawNum": 1,
+        "condList": [
+            {
+                "type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "paramList": [
+                    20,
+                    0
+                ]
+            },
+            {
+                "paramList": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "watcherIdRawNum": 50001,
+        "rewardItemList": [
+            {
+                "idRawNum": 1023,
+                "countRawNum": 1
+            },
+            {}
+        ],
+        "idRawNum": 50001,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_TOWER_LEVEL",
+            "paramList": [
+                "3",
+                "5"
+            ]
+        },
+        "progressRawNum": 1
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "idRawNum": 1001,
+        "beginQuestIdRawNum": 36301,
+        "endQuestIdRawNum": 30904,
+        "needPlayerLevelRawNum": 0,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 988762,
+        "chapterTitleTextMapHash": 4069654401,
+        "chapterIcon": "UI_ChapterIcon_Mengde"
+    },
+    {
+        "idRawNum": 1002,
+        "beginQuestIdRawNum": 37004,
+        "endQuestIdRawNum": 38406,
+        "needPlayerLevelRawNum": 10,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 1710050402,
+        "chapterTitleTextMapHash": 3129506201,
+        "chapterIcon": "UI_ChapterIcon_Mengde"
+    },
+    {
+        "idRawNum": 1003,
+        "beginQuestIdRawNum": 39705,
+        "endQuestIdRawNum": 39604,
+        "needPlayerLevelRawNum": 18,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 1351210938,
+        "chapterTitleTextMapHash": 44670081,
+        "chapterIcon": "UI_ChapterIcon_Mengde"
+    },
+    {
+        "idRawNum": 1101,
+        "beginQuestIdRawNum": 100002,
+        "endQuestIdRawNum": 100318,
+        "needPlayerLevelRawNum": 26,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 3223313530,
+        "chapterTitleTextMapHash": 67026961,
+        "chapterIcon": "UI_ChapterIcon_Liyue"
+    },
+    {
+        "idRawNum": 1102,
+        "beginQuestIdRawNum": 101003,
+        "endQuestIdRawNum": 101609,
+        "needPlayerLevelRawNum": 33,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 1139438706,
+        "chapterTitleTextMapHash": 4011295353,
+        "chapterIcon": "UI_ChapterIcon_Liyue"
+    },
+    {
+        "idRawNum": 2001,
+        "beginQuestIdRawNum": 46102,
+        "endQuestIdRawNum": 46308,
+        "needPlayerLevelRawNum": 5,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 3694513970,
+        "chapterTitleTextMapHash": 3950688921,
+        "chapterIcon": "UI_ChapterIcon_Kaeya"
+    },
+    {
+        "idRawNum": 2002,
+        "beginQuestIdRawNum": 46402,
+        "endQuestIdRawNum": 46618,
+        "needPlayerLevelRawNum": 0,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 891158450,
+        "chapterTitleTextMapHash": 4211238633,
+        "chapterIcon": "UI_ChapterIcon_Diluc"
+    },
+    {
+        "idRawNum": 2003,
+        "beginQuestIdRawNum": 48005,
+        "endQuestIdRawNum": 48508,
+        "needPlayerLevelRawNum": 0,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 2549585010,
+        "chapterTitleTextMapHash": 236638609,
+        "chapterIcon": "UI_ChapterIcon_Ambor"
+    },
+    {
+        "idRawNum": 2004,
+        "beginQuestIdRawNum": 1010003,
+        "endQuestIdRawNum": 1010115,
+        "needPlayerLevelRawNum": 15,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 1330034362,
+        "chapterTitleTextMapHash": 1397382665,
+        "chapterIcon": "UI_ChapterIcon_Lisa"
+    },
+    {
+        "idRawNum": 2005,
+        "beginQuestIdRawNum": 45201,
+        "endQuestIdRawNum": 45406,
+        "needPlayerLevelRawNum": 21,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 321276090,
+        "chapterTitleTextMapHash": 2820941721,
+        "chapterIcon": "UI_ChapterIcon_Razor"
+    },
+    {
+        "idRawNum": 2006,
+        "beginQuestIdRawNum": 49201,
+        "endQuestIdRawNum": 49010,
+        "needPlayerLevelRawNum": 31,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 3772483250,
+        "chapterTitleTextMapHash": 3810796281,
+        "chapterIcon": "UI_ChapterIcon_QIN"
+    },
+    {
+        "idRawNum": 2007,
+        "beginQuestIdRawNum": 1100004,
+        "endQuestIdRawNum": 1100519,
+        "needPlayerLevelRawNum": 0,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 3280433778,
+        "chapterTitleTextMapHash": 3520529961,
+        "chapterIcon": "UI_ChapterIcon_Xiangling"
+    },
+    {
+        "idRawNum": 2008,
+        "beginQuestIdRawNum": 1200004,
+        "endQuestIdRawNum": 1200309,
+        "needPlayerLevelRawNum": 23,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 3772725386,
+        "chapterTitleTextMapHash": 4195810105,
+        "chapterIcon": "UI_ChapterIcon_Xingqiu"
+    },
+    {
+        "idRawNum": 2009,
+        "beginQuestIdRawNum": 1020003,
+        "endQuestIdRawNum": 1020204,
+        "needPlayerLevelRawNum": 29,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 2625440658,
+        "chapterTitleTextMapHash": 179483225,
+        "chapterIcon": "UI_ChapterIcon_Klee"
+    },
+    {
+        "idRawNum": 2010,
+        "beginQuestIdRawNum": 0,
+        "endQuestIdRawNum": 0,
+        "needPlayerLevelRawNum": 36,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 783751250,
+        "chapterTitleTextMapHash": 3649072753,
+        "chapterIcon": ""
+    },
+    {
+        "idRawNum": 2011,
+        "beginQuestIdRawNum": 1110009,
+        "endQuestIdRawNum": 1110311,
+        "needPlayerLevelRawNum": 0,
+        "needBeginTimeStr": "",
+        "chapterNumTextMapHash": 183311346,
+        "chapterTitleTextMapHash": 3497614889,
+        "chapterIcon": ""
+    },
+    {
+        "idRawNum": 10001,
+        "beginQuestIdRawNum": 4000100,
+        "endQuestIdRawNum": 4000108,
+        "needPlayerLevelRawNum": 0,
+        "needBeginTimeStr": "2020-04-03 04:00:00",
+        "chapterNumTextMapHash": 3707914362,
+        "chapterTitleTextMapHash": 2351114737,
+        "chapterIcon": ""
+    },
+    {
+        "idRawNum": 10002,
+        "beginQuestIdRawNum": 4000201,
+        "endQuestIdRawNum": 4000215,
+        "needPlayerLevelRawNum": 0,
+        "needBeginTimeStr": "2020-04-04 04:00:00",
+        "chapterNumTextMapHash": 3179845746,
+        "chapterTitleTextMapHash": 2243104193,
+        "chapterIcon": ""
+    },
+    {
+        "idRawNum": 10003,
+        "beginQuestIdRawNum": 4000301,
+        "endQuestIdRawNum": 4000309,
+        "needPlayerLevelRawNum": 0,
+        "needBeginTimeStr": "2020-04-05 04:00:00",
+        "chapterNumTextMapHash": 2109240410,
+        "chapterTitleTextMapHash": 3763282217,
+        "chapterIcon": ""
+    },
+    {
+        "idRawNum": 10004,
+        "beginQuestIdRawNum": 4000400,
+        "endQuestIdRawNum": 4000408,
+        "needPlayerLevelRawNum": 0,
+        "needBeginTimeStr": "2020-04-06 04:00:00",
+        "chapterNumTextMapHash": 4233067770,
+        "chapterTitleTextMapHash": 522380937,
+        "chapterIcon": ""
+    },
+    {
+        "idRawNum": 10005,
+        "beginQuestIdRawNum": 4000500,
+        "endQuestIdRawNum": 4000506,
+        "needPlayerLevelRawNum": 0,
+        "needBeginTimeStr": "2020-04-07 04:00:00",
+        "chapterNumTextMapHash": 2859738354,
+        "chapterTitleTextMapHash": 645516305,
+        "chapterIcon": ""
+    }
+]

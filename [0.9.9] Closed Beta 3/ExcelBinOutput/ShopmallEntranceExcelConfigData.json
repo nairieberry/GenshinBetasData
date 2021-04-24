@@ -1,0 +1,33 @@
+[
+    {
+        "IDRawNum": 1,
+        "nameTextMapHash": 1933918037,
+        "shopType": "SHOP_TYPE_RECOMMEND",
+        "icon": "UI_MallTabIcon_Recommend",
+        "showType": "ENTRANCE_TAB",
+        "orderRawNum": 4
+    },
+    {
+        "IDRawNum": 2,
+        "nameTextMapHash": 3963348389,
+        "shopType": "SHOP_TYPE_HCOIN",
+        "icon": "UI_MallTabIcon_Gemstone",
+        "showType": "ENTRANCE_RECHARGE",
+        "orderRawNum": 1
+    },
+    {
+        "IDRawNum": 3,
+        "nameTextMapHash": 3019893717,
+        "shopType": "SHOP_TYPE_PACKAGE",
+        "icon": "UI_MallTabIcon_GiftPackage",
+        "orderRawNum": 3
+    },
+    {
+        "IDRawNum": 4,
+        "nameTextMapHash": 2486793549,
+        "shopType": "SHOP_TYPE_PAIMON",
+        "icon": "UI_MallTabIcon_Commodity",
+        "showType": "ENTRANCE_TAB",
+        "orderRawNum": 2
+    }
+]

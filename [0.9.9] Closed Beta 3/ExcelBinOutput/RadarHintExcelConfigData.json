@@ -1,0 +1,26 @@
+[
+    {
+        "idRawNum": 1,
+        "name": "风元素结晶雷达提示",
+        "radiusRawNum": 80.0,
+        "effectName": "Eff_UI_Mark_WindCrystal",
+        "iconName": "UI_MarkWindCrystal",
+        "audioName": "Play_ui_feedback_windCrystal_appear"
+    },
+    {
+        "idRawNum": 2,
+        "name": "矿石雷达提示",
+        "radiusRawNum": 160.0,
+        "effectName": "Eff_UI_Mark_WindCrystal",
+        "iconName": "UI_MarkPoint_Ore",
+        "audioName": "Play_ui_feedback_windCrystal_appear"
+    },
+    {
+        "idRawNum": 3,
+        "name": "采集物雷达提示",
+        "radiusRawNum": 160.0,
+        "effectName": "Eff_UI_Mark_WindCrystal",
+        "iconName": "UI_MarkPoint_LocalItem",
+        "audioName": "Play_ui_feedback_windCrystal_appear"
+    }
+]

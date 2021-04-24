@@ -1,0 +1,354 @@
+[
+    {
+        "tierName": "Alternate_Tier_1",
+        "vipPointRawNum": 8
+    },
+    {
+        "tierName": "Alternate_Tier_2",
+        "vipPointRawNum": 12
+    },
+    {
+        "tierName": "Alternate_Tier_3",
+        "vipPointRawNum": 18
+    },
+    {
+        "tierName": "Alternate_Tier_4",
+        "vipPointRawNum": 28
+    },
+    {
+        "tierName": "Alternate_Tier_5",
+        "vipPointRawNum": 30
+    },
+    {
+        "tierName": "Alternate_Tier_A",
+        "vipPointRawNum": 1
+    },
+    {
+        "tierName": "Alternate_Tier_B",
+        "vipPointRawNum": 3
+    },
+    {
+        "tierName": "Tier_1",
+        "vipPointRawNum": 6
+    },
+    {
+        "tierName": "Tier_10",
+        "vipPointRawNum": 68
+    },
+    {
+        "tierName": "Tier_11",
+        "vipPointRawNum": 73
+    },
+    {
+        "tierName": "Tier_12",
+        "vipPointRawNum": 78
+    },
+    {
+        "tierName": "Tier_13",
+        "vipPointRawNum": 88
+    },
+    {
+        "tierName": "Tier_14",
+        "vipPointRawNum": 93
+    },
+    {
+        "tierName": "Tier_15",
+        "vipPointRawNum": 98
+    },
+    {
+        "tierName": "Tier_16",
+        "vipPointRawNum": 108
+    },
+    {
+        "tierName": "Tier_17",
+        "vipPointRawNum": 113
+    },
+    {
+        "tierName": "Tier_18",
+        "vipPointRawNum": 118
+    },
+    {
+        "tierName": "Tier_19",
+        "vipPointRawNum": 123
+    },
+    {
+        "tierName": "Tier_2",
+        "vipPointRawNum": 12
+    },
+    {
+        "tierName": "Tier_20",
+        "vipPointRawNum": 128
+    },
+    {
+        "tierName": "Tier_21",
+        "vipPointRawNum": 138
+    },
+    {
+        "tierName": "Tier_22",
+        "vipPointRawNum": 148
+    },
+    {
+        "tierName": "Tier_23",
+        "vipPointRawNum": 153
+    },
+    {
+        "tierName": "Tier_24",
+        "vipPointRawNum": 158
+    },
+    {
+        "tierName": "Tier_25",
+        "vipPointRawNum": 163
+    },
+    {
+        "tierName": "Tier_26",
+        "vipPointRawNum": 168
+    },
+    {
+        "tierName": "Tier_27",
+        "vipPointRawNum": 178
+    },
+    {
+        "tierName": "Tier_28",
+        "vipPointRawNum": 188
+    },
+    {
+        "tierName": "Tier_29",
+        "vipPointRawNum": 193
+    },
+    {
+        "tierName": "Tier_3",
+        "vipPointRawNum": 18
+    },
+    {
+        "tierName": "Tier_30",
+        "vipPointRawNum": 198
+    },
+    {
+        "tierName": "Tier_31",
+        "vipPointRawNum": 208
+    },
+    {
+        "tierName": "Tier_32",
+        "vipPointRawNum": 218
+    },
+    {
+        "tierName": "Tier_33",
+        "vipPointRawNum": 223
+    },
+    {
+        "tierName": "Tier_34",
+        "vipPointRawNum": 228
+    },
+    {
+        "tierName": "Tier_35",
+        "vipPointRawNum": 233
+    },
+    {
+        "tierName": "Tier_36",
+        "vipPointRawNum": 238
+    },
+    {
+        "tierName": "Tier_37",
+        "vipPointRawNum": 243
+    },
+    {
+        "tierName": "Tier_38",
+        "vipPointRawNum": 248
+    },
+    {
+        "tierName": "Tier_39",
+        "vipPointRawNum": 253
+    },
+    {
+        "tierName": "Tier_4",
+        "vipPointRawNum": 25
+    },
+    {
+        "tierName": "Tier_40",
+        "vipPointRawNum": 258
+    },
+    {
+        "tierName": "Tier_41",
+        "vipPointRawNum": 263
+    },
+    {
+        "tierName": "Tier_42",
+        "vipPointRawNum": 268
+    },
+    {
+        "tierName": "Tier_43",
+        "vipPointRawNum": 273
+    },
+    {
+        "tierName": "Tier_44",
+        "vipPointRawNum": 278
+    },
+    {
+        "tierName": "Tier_45",
+        "vipPointRawNum": 283
+    },
+    {
+        "tierName": "Tier_46",
+        "vipPointRawNum": 288
+    },
+    {
+        "tierName": "Tier_47",
+        "vipPointRawNum": 298
+    },
+    {
+        "tierName": "Tier_48",
+        "vipPointRawNum": 308
+    },
+    {
+        "tierName": "Tier_49",
+        "vipPointRawNum": 318
+    },
+    {
+        "tierName": "Tier_5",
+        "vipPointRawNum": 30
+    },
+    {
+        "tierName": "Tier_50",
+        "vipPointRawNum": 328
+    },
+    {
+        "tierName": "Tier_51",
+        "vipPointRawNum": 348
+    },
+    {
+        "tierName": "Tier_52",
+        "vipPointRawNum": 388
+    },
+    {
+        "tierName": "Tier_53",
+        "vipPointRawNum": 418
+    },
+    {
+        "tierName": "Tier_54",
+        "vipPointRawNum": 448
+    },
+    {
+        "tierName": "Tier_55",
+        "vipPointRawNum": 488
+    },
+    {
+        "tierName": "Tier_56",
+        "vipPointRawNum": 518
+    },
+    {
+        "tierName": "Tier_57",
+        "vipPointRawNum": 548
+    },
+    {
+        "tierName": "Tier_58",
+        "vipPointRawNum": 588
+    },
+    {
+        "tierName": "Tier_59",
+        "vipPointRawNum": 618
+    },
+    {
+        "tierName": "Tier_6",
+        "vipPointRawNum": 40
+    },
+    {
+        "tierName": "Tier_60",
+        "vipPointRawNum": 648
+    },
+    {
+        "tierName": "Tier_61",
+        "vipPointRawNum": 698
+    },
+    {
+        "tierName": "Tier_62",
+        "vipPointRawNum": 798
+    },
+    {
+        "tierName": "Tier_63",
+        "vipPointRawNum": 818
+    },
+    {
+        "tierName": "Tier_64",
+        "vipPointRawNum": 848
+    },
+    {
+        "tierName": "Tier_65",
+        "vipPointRawNum": 898
+    },
+    {
+        "tierName": "Tier_66",
+        "vipPointRawNum": 998
+    },
+    {
+        "tierName": "Tier_67",
+        "vipPointRawNum": 1048
+    },
+    {
+        "tierName": "Tier_68",
+        "vipPointRawNum": 1098
+    },
+    {
+        "tierName": "Tier_69",
+        "vipPointRawNum": 1148
+    },
+    {
+        "tierName": "Tier_7",
+        "vipPointRawNum": 45
+    },
+    {
+        "tierName": "Tier_70",
+        "vipPointRawNum": 1198
+    },
+    {
+        "tierName": "Tier_71",
+        "vipPointRawNum": 1248
+    },
+    {
+        "tierName": "Tier_72",
+        "vipPointRawNum": 1298
+    },
+    {
+        "tierName": "Tier_73",
+        "vipPointRawNum": 1398
+    },
+    {
+        "tierName": "Tier_74",
+        "vipPointRawNum": 1448
+    },
+    {
+        "tierName": "Tier_75",
+        "vipPointRawNum": 1498
+    },
+    {
+        "tierName": "Tier_76",
+        "vipPointRawNum": 1598
+    },
+    {
+        "tierName": "Tier_77",
+        "vipPointRawNum": 1648
+    },
+    {
+        "tierName": "Tier_78",
+        "vipPointRawNum": 1998
+    },
+    {
+        "tierName": "Tier_79",
+        "vipPointRawNum": 2298
+    },
+    {
+        "tierName": "Tier_8",
+        "vipPointRawNum": 50
+    },
+    {
+        "tierName": "Tier_80",
+        "vipPointRawNum": 2598
+    },
+    {
+        "tierName": "Tier_9",
+        "vipPointRawNum": 60
+    },
+    {
+        "tierName": "Test_Tier_1",
+        "vipPointRawNum": 1
+    }
+]

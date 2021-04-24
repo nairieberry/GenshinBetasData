@@ -1,0 +1,354 @@
+[
+    {
+        "idRawNum": 101,
+        "monster_idRawNum": 21020101,
+        "levelRawNum": 4,
+        "dropTag": "丘丘暴徒",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 102,
+        "monster_idRawNum": 21020101,
+        "levelRawNum": 5,
+        "dropTag": "丘丘暴徒",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 103,
+        "monster_idRawNum": 22010301,
+        "levelRawNum": 6,
+        "dropTag": "深渊法师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 104,
+        "monster_idRawNum": 21020101,
+        "levelRawNum": 7,
+        "dropTag": "丘丘暴徒",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 105,
+        "monster_idRawNum": 21020101,
+        "levelRawNum": 8,
+        "dropTag": "丘丘暴徒",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 106,
+        "monster_idRawNum": 21020201,
+        "levelRawNum": 9,
+        "dropTag": "丘丘暴徒",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 107,
+        "monster_idRawNum": 22010301,
+        "levelRawNum": 10,
+        "dropTag": "深渊法师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 108,
+        "monster_idRawNum": 22010201,
+        "levelRawNum": 11,
+        "dropTag": "深渊法师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 109,
+        "monster_idRawNum": 22010101,
+        "levelRawNum": 12,
+        "dropTag": "深渊法师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 110,
+        "monster_idRawNum": 20020101,
+        "levelRawNum": 13,
+        "dropTag": "元素之核",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 111,
+        "monster_idRawNum": 23030101,
+        "levelRawNum": 14,
+        "dropTag": "召唤师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 112,
+        "monster_idRawNum": 23020101,
+        "levelRawNum": 15,
+        "dropTag": "债务处理人",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 113,
+        "monster_idRawNum": 22010301,
+        "levelRawNum": 16,
+        "dropTag": "深渊法师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 114,
+        "monster_idRawNum": 22010301,
+        "levelRawNum": 17,
+        "dropTag": "深渊法师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 115,
+        "monster_idRawNum": 20020101,
+        "levelRawNum": 18,
+        "dropTag": "元素之核",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 116,
+        "monster_idRawNum": 20020101,
+        "levelRawNum": 19,
+        "dropTag": "元素之核",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 117,
+        "monster_idRawNum": 22010101,
+        "levelRawNum": 20,
+        "dropTag": "深渊法师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 118,
+        "monster_idRawNum": 22010101,
+        "levelRawNum": 21,
+        "dropTag": "深渊法师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 119,
+        "monster_idRawNum": 23030101,
+        "levelRawNum": 22,
+        "dropTag": "召唤师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 120,
+        "monster_idRawNum": 23030101,
+        "levelRawNum": 23,
+        "dropTag": "召唤师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 220,
+        "monster_idRawNum": 23020101,
+        "levelRawNum": 23,
+        "dropTag": "债务处理人",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 320,
+        "monster_idRawNum": 20020101,
+        "levelRawNum": 23,
+        "dropTag": "元素之核",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 121,
+        "monster_idRawNum": 21020201,
+        "levelRawNum": 24,
+        "dropTag": "丘丘暴徒",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 122,
+        "monster_idRawNum": 21020201,
+        "levelRawNum": 25,
+        "dropTag": "丘丘暴徒",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 123,
+        "monster_idRawNum": 21020201,
+        "levelRawNum": 26,
+        "dropTag": "丘丘暴徒",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 124,
+        "monster_idRawNum": 20020101,
+        "levelRawNum": 27,
+        "dropTag": "元素之核",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 125,
+        "monster_idRawNum": 20020101,
+        "levelRawNum": 28,
+        "dropTag": "元素之核",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 225,
+        "monster_idRawNum": 23020101,
+        "levelRawNum": 28,
+        "dropTag": "债务处理人",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 325,
+        "monster_idRawNum": 23030101,
+        "levelRawNum": 28,
+        "dropTag": "召唤师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 126,
+        "monster_idRawNum": 21020101,
+        "levelRawNum": 29,
+        "dropTag": "丘丘暴徒",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 127,
+        "monster_idRawNum": 21020101,
+        "levelRawNum": 30,
+        "dropTag": "丘丘暴徒",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 128,
+        "monster_idRawNum": 23030101,
+        "levelRawNum": 31,
+        "dropTag": "召唤师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 129,
+        "monster_idRawNum": 23030101,
+        "levelRawNum": 32,
+        "dropTag": "召唤师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 130,
+        "monster_idRawNum": 22010301,
+        "levelRawNum": 33,
+        "dropTag": "深渊法师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 131,
+        "monster_idRawNum": 22010301,
+        "levelRawNum": 34,
+        "dropTag": "深渊法师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 132,
+        "monster_idRawNum": 22010201,
+        "levelRawNum": 35,
+        "dropTag": "深渊法师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 133,
+        "monster_idRawNum": 22010201,
+        "levelRawNum": 36,
+        "dropTag": "深渊法师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 134,
+        "monster_idRawNum": 21020201,
+        "levelRawNum": 37,
+        "dropTag": "丘丘暴徒",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 135,
+        "monster_idRawNum": 21020201,
+        "levelRawNum": 38,
+        "dropTag": "丘丘暴徒",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 136,
+        "monster_idRawNum": 23020101,
+        "levelRawNum": 39,
+        "dropTag": "债务处理人",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 137,
+        "monster_idRawNum": 23020101,
+        "levelRawNum": 40,
+        "dropTag": "债务处理人",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 138,
+        "monster_idRawNum": 22010101,
+        "levelRawNum": 41,
+        "dropTag": "深渊法师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 139,
+        "monster_idRawNum": 22010101,
+        "levelRawNum": 42,
+        "dropTag": "深渊法师",
+        "affixVec": [],
+        "isElite": true
+    },
+    {
+        "idRawNum": 140,
+        "monster_idRawNum": 20020101,
+        "levelRawNum": 43,
+        "dropTag": "元素之核",
+        "affixVec": [],
+        "isElite": true
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "configIdRawNum": 1,
+        "condComb": "LOGIC_AND",
+        "condList": [
+            {
+                "type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "paramList": [
+                    20,
+                    0
+                ]
+            },
+            {
+                "type": "SIGN_IN_COND_FINISH_QUEST",
+                "paramList": [
+                    90812,
+                    0
+                ]
+            }
+        ],
+        "totalDayCountRawNum": 3
+    },
+    {
+        "configIdRawNum": 2,
+        "condComb": "LOGIC_OR",
+        "condList": [
+            {
+                "type": "SIGN_IN_COND_FINISH_PARENT_QUEST",
+                "paramList": [
+                    44604,
+                    0
+                ]
+            },
+            {
+                "type": "SIGN_IN_COND_AVERAGE_AVATAR_LEVEL",
+                "paramList": [
+                    120,
+                    0
+                ]
+            }
+        ],
+        "totalDayCountRawNum": 3
+    },
+    {
+        "configIdRawNum": 1001,
+        "condList": [
+            {
+                "type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "paramList": [
+                    20,
+                    0
+                ]
+            },
+            {
+                "paramList": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "totalDayCountRawNum": 7
+    },
+    {
+        "configIdRawNum": 1002,
+        "condList": [
+            {
+                "type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "paramList": [
+                    20,
+                    0
+                ]
+            },
+            {
+                "paramList": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "totalDayCountRawNum": 7
+    }
+]

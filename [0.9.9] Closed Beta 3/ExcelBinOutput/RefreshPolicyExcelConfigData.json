@@ -1,0 +1,95 @@
+[
+    {
+        "idRawNum": 1,
+        "type": "REFRESH_INTERVAL",
+        "time": "86400"
+    },
+    {
+        "idRawNum": 1000,
+        "type": "REFRESH_INTERVAL",
+        "time": "43200"
+    },
+    {
+        "idRawNum": 1001,
+        "type": "REFRESH_INTERVAL",
+        "time": "43200"
+    },
+    {
+        "idRawNum": 1002,
+        "type": "REFRESH_DAILY",
+        "time": "14400"
+    },
+    {
+        "idRawNum": 1004,
+        "type": "REFRESH_WEEKlY",
+        "time": "14400"
+    },
+    {
+        "idRawNum": 1200,
+        "type": "REFRESH_WEEKlY",
+        "time": "14400"
+    },
+    {
+        "idRawNum": 1201,
+        "type": "REFRESH_WEEKlY",
+        "time": "14400"
+    },
+    {
+        "idRawNum": 99999,
+        "type": "REFRESH_INTERVAL",
+        "time": "60"
+    },
+    {
+        "idRawNum": 999900,
+        "type": "REFRESH_INTERVAL",
+        "time": "86400"
+    },
+    {
+        "idRawNum": 999920,
+        "type": "REFRESH_INTERVAL",
+        "time": "172800"
+    },
+    {
+        "idRawNum": 999921,
+        "type": "REFRESH_INTERVAL",
+        "time": "172800"
+    },
+    {
+        "idRawNum": 999930,
+        "type": "REFRESH_INTERVAL",
+        "time": "86400"
+    },
+    {
+        "idRawNum": 999931,
+        "type": "REFRESH_INTERVAL",
+        "time": "172800"
+    },
+    {
+        "idRawNum": 999932,
+        "type": "REFRESH_INTERVAL",
+        "time": "259200"
+    },
+    {
+        "idRawNum": 999933,
+        "type": "REFRESH_WEEKlY",
+        "time": "100800"
+    },
+    {
+        "idRawNum": 999998,
+        "time": ""
+    },
+    {
+        "idRawNum": 999999,
+        "time": ""
+    },
+    {
+        "idRawNum": 1003,
+        "type": "REFRESH_INTERVAL",
+        "time": "1800"
+    },
+    {
+        "idRawNum": 1100,
+        "type": "REFRESH_INTERVAL",
+        "time": "1800"
+    }
+]

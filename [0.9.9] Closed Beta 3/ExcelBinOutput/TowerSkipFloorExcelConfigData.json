@@ -1,0 +1,50 @@
+[
+    {
+        "prev_level_indexRawNum": 1,
+        "cur_level_indexRawNum": 0
+    },
+    {
+        "prev_level_indexRawNum": 2,
+        "cur_level_indexRawNum": 0
+    },
+    {
+        "prev_level_indexRawNum": 3,
+        "cur_level_indexRawNum": 0
+    },
+    {
+        "prev_level_indexRawNum": 4,
+        "cur_level_indexRawNum": 3
+    },
+    {
+        "prev_level_indexRawNum": 5,
+        "cur_level_indexRawNum": 3
+    },
+    {
+        "prev_level_indexRawNum": 6,
+        "cur_level_indexRawNum": 3
+    },
+    {
+        "prev_level_indexRawNum": 7,
+        "cur_level_indexRawNum": 6
+    },
+    {
+        "prev_level_indexRawNum": 8,
+        "cur_level_indexRawNum": 6
+    },
+    {
+        "prev_level_indexRawNum": 9,
+        "cur_level_indexRawNum": 6
+    },
+    {
+        "prev_level_indexRawNum": 10,
+        "cur_level_indexRawNum": 9
+    },
+    {
+        "prev_level_indexRawNum": 11,
+        "cur_level_indexRawNum": 9
+    },
+    {
+        "prev_level_indexRawNum": 12,
+        "cur_level_indexRawNum": 9
+    }
+]

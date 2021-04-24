@@ -1,0 +1,562 @@
+[
+    {
+        "idRawNum": 101,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 102,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 103,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 104,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 105,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 106,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 107,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 108,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 109,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 110,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 111,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 112,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 113,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 114,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 115,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 201,
+        "tagStr": "元素之核",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 202,
+        "tagStr": "元素之核",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 301,
+        "tagStr": "雷萤",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 302,
+        "tagStr": "雷萤",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 400,
+        "tagStr": "史莱姆",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 401,
+        "tagStr": "无相之雷",
+        "monsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "idRawNum": 402,
+        "tagStr": "无相之风",
+        "monsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "idRawNum": 403,
+        "tagStr": "无相之岩",
+        "monsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "idRawNum": 501,
+        "tagStr": "纯水精灵",
+        "monsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "idRawNum": 502,
+        "tagStr": "纯水精灵",
+        "monsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "idRawNum": 503,
+        "tagStr": "纯水精灵",
+        "monsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "idRawNum": 504,
+        "tagStr": "纯水精灵",
+        "monsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "idRawNum": 505,
+        "tagStr": "纯水精灵",
+        "monsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "idRawNum": 506,
+        "tagStr": "纯水精灵",
+        "monsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "idRawNum": 507,
+        "tagStr": "纯水精灵",
+        "monsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "idRawNum": 508,
+        "tagStr": "纯水精灵",
+        "monsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "idRawNum": 509,
+        "tagStr": "纯水精灵",
+        "monsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "idRawNum": 10101,
+        "tagStr": "丘丘人",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10102,
+        "tagStr": "丘丘人",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10103,
+        "tagStr": "丘丘人",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10104,
+        "tagStr": "远程丘丘人",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10105,
+        "tagStr": "远程丘丘人",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10106,
+        "tagStr": "丘丘人",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10107,
+        "tagStr": "丘丘人",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10108,
+        "tagStr": "丘丘人",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10109,
+        "tagStr": "远程丘丘人",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10110,
+        "tagStr": "远程丘丘人",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10111,
+        "tagStr": "丘丘人",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10112,
+        "tagStr": "丘丘人",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10113,
+        "tagStr": "丘丘人",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10201,
+        "tagStr": "丘丘暴徒",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 10202,
+        "tagStr": "丘丘暴徒",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 10203,
+        "tagStr": "丘丘暴徒",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 10204,
+        "tagStr": "丘丘暴徒",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 10205,
+        "tagStr": "丘丘暴徒",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 10301,
+        "tagStr": "丘丘萨满",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10302,
+        "tagStr": "丘丘萨满",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10303,
+        "tagStr": "丘丘萨满",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10304,
+        "tagStr": "丘丘萨满",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 10305,
+        "tagStr": "丘丘萨满",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 20101,
+        "tagStr": "深渊法师",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 20102,
+        "tagStr": "深渊法师",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 20103,
+        "tagStr": "深渊法师",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 30101,
+        "tagStr": "先遣队",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 30102,
+        "tagStr": "先遣队",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 30103,
+        "tagStr": "先遣队",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 30104,
+        "tagStr": "先遣队",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 30105,
+        "tagStr": "先遣队",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 30106,
+        "tagStr": "先遣队",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 30201,
+        "tagStr": "债务处理人",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 30301,
+        "tagStr": "召唤师",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 40101,
+        "tagStr": "遗迹守卫",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 40102,
+        "tagStr": "遗迹守卫",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 40201,
+        "tagStr": "遗迹守卫",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 50101,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50102,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50103,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50104,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50105,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50106,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50107,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50201,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50202,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50301,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50302,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50303,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50401,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50402,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50501,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50502,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50601,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 50701,
+        "tagStr": "盗宝团",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 60101,
+        "tagStr": "丘丘人",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 60102,
+        "tagStr": "丘丘人",
+        "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "idRawNum": 60201,
+        "tagStr": "遗迹守卫",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 60202,
+        "tagStr": "遗迹守卫",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 60301,
+        "tagStr": "丘丘暴徒",
+        "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "idRawNum": 80101,
+        "tagStr": "采集动物",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80102,
+        "tagStr": "采集动物",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80103,
+        "tagStr": "采集动物",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80201,
+        "tagStr": "走兽",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80202,
+        "tagStr": "走兽",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80203,
+        "tagStr": "走兽",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80204,
+        "tagStr": "走兽",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80205,
+        "tagStr": "走兽",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80206,
+        "tagStr": "走兽",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80301,
+        "tagStr": "鸟类",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80302,
+        "tagStr": "鸟类",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80303,
+        "tagStr": "鸟类",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80304,
+        "tagStr": "鸟类",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80305,
+        "tagStr": "鸟类",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80401,
+        "tagStr": "水族",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80501,
+        "tagStr": "魔法生物",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 80502,
+        "tagStr": "魔法生物",
+        "monsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    {
+        "idRawNum": 90101,
+        "tagStr": "风魔龙",
+        "monsterRarity": "MONSTER_RARITY_BIG_BOSS_MONSTER"
+    },
+    {
+        "idRawNum": 90201,
+        "tagStr": "北风狼",
+        "monsterRarity": "MONSTER_RARITY_BIG_BOSS_MONSTER"
+    },
+    {
+        "idRawNum": 90301,
+        "tagStr": "北风狼",
+        "monsterRarity": "MONSTER_RARITY_BIG_BOSS_MONSTER"
+    }
+]
