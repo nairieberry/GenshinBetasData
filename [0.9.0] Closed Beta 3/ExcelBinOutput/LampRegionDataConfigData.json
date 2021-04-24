@@ -1,0 +1,22 @@
+[
+    {
+        "region": "cb2plus",
+        "factorRawNum": 150
+    },
+    {
+        "region": "cb2plus_copy",
+        "factorRawNum": 20
+    },
+    {
+        "region": "cb2plus_asia",
+        "factorRawNum": 56
+    },
+    {
+        "region": "cb2plus_euro",
+        "factorRawNum": 15
+    },
+    {
+        "region": "cb2plus_usa",
+        "factorRawNum": 40
+    }
+]

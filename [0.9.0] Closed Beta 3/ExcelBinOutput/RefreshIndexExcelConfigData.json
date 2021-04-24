@@ -1,0 +1,65 @@
+[
+    {
+        "priorityRawNum": 1,
+        "type": "REFRESHINDEX_GADGET",
+        "name": "",
+        "refreshIdRawNum": 1
+    },
+    {
+        "priorityRawNum": 1000,
+        "rarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL",
+        "name": "",
+        "refreshIdRawNum": 1000
+    },
+    {
+        "priorityRawNum": 1001,
+        "rarity": "MONSTER_RARITY_SMALL_MONSTER",
+        "name": "",
+        "refreshIdRawNum": 1001
+    },
+    {
+        "priorityRawNum": 1002,
+        "rarity": "MONSTER_RARITY_ELITE_MONSTER",
+        "name": "",
+        "refreshIdRawNum": 1002
+    },
+    {
+        "priorityRawNum": 1003,
+        "rarity": "MONSTER_RARITY_BOSS_MONSTER",
+        "name": "",
+        "refreshIdRawNum": 1003
+    },
+    {
+        "priorityRawNum": 1004,
+        "rarity": "MONSTER_RARITY_BIG_BOSS_MONSTER",
+        "name": "",
+        "refreshIdRawNum": 1004
+    },
+    {
+        "priorityRawNum": 1100,
+        "name": "无相之雷",
+        "refreshIdRawNum": 1100
+    },
+    {
+        "priorityRawNum": 1200,
+        "name": "风魔龙",
+        "refreshIdRawNum": 1200
+    },
+    {
+        "priorityRawNum": 1201,
+        "name": "北风狼",
+        "refreshIdRawNum": 1201
+    },
+    {
+        "priorityRawNum": 999998,
+        "type": "REFRESHINDEX_GADGET",
+        "name": "采集物挂接点（远）",
+        "refreshIdRawNum": 999998
+    },
+    {
+        "priorityRawNum": 999999,
+        "type": "REFRESHINDEX_GADGET",
+        "name": "采集物挂接点",
+        "refreshIdRawNum": 999999
+    }
+]

@@ -1,0 +1,2 @@
+Next to the stairs on the low cliff with the golden tree, treasure is buried in gravel.
+<image name=UI_Dailytask_1/>

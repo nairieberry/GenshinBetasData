@@ -1,0 +1,34 @@
+[
+    {
+        "levelRawNum": 1,
+        "monsterLevelRawNum": 26
+    },
+    {
+        "levelRawNum": 2,
+        "monsterLevelRawNum": 34
+    },
+    {
+        "levelRawNum": 3,
+        "monsterLevelRawNum": 47
+    },
+    {
+        "levelRawNum": 4,
+        "monsterLevelRawNum": 59
+    },
+    {
+        "levelRawNum": 5,
+        "monsterLevelRawNum": 69
+    },
+    {
+        "levelRawNum": 6,
+        "monsterLevelRawNum": 80
+    },
+    {
+        "levelRawNum": 7,
+        "monsterLevelRawNum": 88
+    },
+    {
+        "levelRawNum": 8,
+        "monsterLevelRawNum": 90
+    }
+]

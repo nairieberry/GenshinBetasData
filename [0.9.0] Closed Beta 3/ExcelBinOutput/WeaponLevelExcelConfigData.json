@@ -1,0 +1,902 @@
+[
+    {
+        "levelRawNum": 1,
+        "requiredExps": [
+            125,
+            250,
+            325,
+            400,
+            475
+        ]
+    },
+    {
+        "levelRawNum": 2,
+        "requiredExps": [
+            200,
+            375,
+            500,
+            625,
+            750
+        ]
+    },
+    {
+        "levelRawNum": 3,
+        "requiredExps": [
+            275,
+            550,
+            725,
+            900,
+            1075
+        ]
+    },
+    {
+        "levelRawNum": 4,
+        "requiredExps": [
+            350,
+            725,
+            950,
+            1200,
+            1450
+        ]
+    },
+    {
+        "levelRawNum": 5,
+        "requiredExps": [
+            475,
+            925,
+            1250,
+            1550,
+            1850
+        ]
+    },
+    {
+        "levelRawNum": 6,
+        "requiredExps": [
+            575,
+            1175,
+            1550,
+            1950,
+            2350
+        ]
+    },
+    {
+        "levelRawNum": 7,
+        "requiredExps": [
+            700,
+            1400,
+            1875,
+            2350,
+            2825
+        ]
+    },
+    {
+        "levelRawNum": 8,
+        "requiredExps": [
+            850,
+            1675,
+            2250,
+            2800,
+            3350
+        ]
+    },
+    {
+        "levelRawNum": 9,
+        "requiredExps": [
+            1000,
+            1975,
+            2650,
+            3300,
+            3950
+        ]
+    },
+    {
+        "levelRawNum": 10,
+        "requiredExps": [
+            1150,
+            2275,
+            3050,
+            3800,
+            4550
+        ]
+    },
+    {
+        "levelRawNum": 11,
+        "requiredExps": [
+            1300,
+            2600,
+            3475,
+            4350,
+            5225
+        ]
+    },
+    {
+        "levelRawNum": 12,
+        "requiredExps": [
+            1475,
+            2950,
+            3950,
+            4925,
+            5900
+        ]
+    },
+    {
+        "levelRawNum": 13,
+        "requiredExps": [
+            1650,
+            3325,
+            4425,
+            5525,
+            6625
+        ]
+    },
+    {
+        "levelRawNum": 14,
+        "requiredExps": [
+            1850,
+            3700,
+            4925,
+            6150,
+            7375
+        ]
+    },
+    {
+        "levelRawNum": 15,
+        "requiredExps": [
+            2050,
+            4075,
+            5450,
+            6800,
+            8150
+        ]
+    },
+    {
+        "levelRawNum": 16,
+        "requiredExps": [
+            2250,
+            4500,
+            6000,
+            7500,
+            9000
+        ]
+    },
+    {
+        "levelRawNum": 17,
+        "requiredExps": [
+            2450,
+            4925,
+            6550,
+            8200,
+            9850
+        ]
+    },
+    {
+        "levelRawNum": 18,
+        "requiredExps": [
+            2675,
+            5375,
+            7150,
+            8950,
+            10750
+        ]
+    },
+    {
+        "levelRawNum": 19,
+        "requiredExps": [
+            2925,
+            5825,
+            7775,
+            9725,
+            11675
+        ]
+    },
+    {
+        "levelRawNum": 20,
+        "requiredExps": [
+            3150,
+            6300,
+            8400,
+            10500,
+            12600
+        ]
+    },
+    {
+        "levelRawNum": 21,
+        "requiredExps": [
+            3850,
+            7675,
+            10250,
+            12800,
+            15350
+        ]
+    },
+    {
+        "levelRawNum": 22,
+        "requiredExps": [
+            4125,
+            8250,
+            11000,
+            13750,
+            16500
+        ]
+    },
+    {
+        "levelRawNum": 23,
+        "requiredExps": [
+            4425,
+            8850,
+            11800,
+            14750,
+            17700
+        ]
+    },
+    {
+        "levelRawNum": 24,
+        "requiredExps": [
+            4725,
+            9475,
+            12625,
+            15775,
+            18925
+        ]
+    },
+    {
+        "levelRawNum": 25,
+        "requiredExps": [
+            5050,
+            10075,
+            13450,
+            16800,
+            20150
+        ]
+    },
+    {
+        "levelRawNum": 26,
+        "requiredExps": [
+            5375,
+            10750,
+            14325,
+            17900,
+            21475
+        ]
+    },
+    {
+        "levelRawNum": 27,
+        "requiredExps": [
+            5700,
+            11400,
+            15200,
+            19000,
+            22800
+        ]
+    },
+    {
+        "levelRawNum": 28,
+        "requiredExps": [
+            6050,
+            12075,
+            16100,
+            20125,
+            24150
+        ]
+    },
+    {
+        "levelRawNum": 29,
+        "requiredExps": [
+            6400,
+            12775,
+            17050,
+            21300,
+            25550
+        ]
+    },
+    {
+        "levelRawNum": 30,
+        "requiredExps": [
+            6750,
+            13475,
+            17975,
+            22475,
+            26975
+        ]
+    },
+    {
+        "levelRawNum": 31,
+        "requiredExps": [
+            7100,
+            14225,
+            18950,
+            23700,
+            28450
+        ]
+    },
+    {
+        "levelRawNum": 32,
+        "requiredExps": [
+            7475,
+            14975,
+            19950,
+            24950,
+            29950
+        ]
+    },
+    {
+        "levelRawNum": 33,
+        "requiredExps": [
+            7875,
+            15750,
+            21000,
+            26250,
+            31500
+        ]
+    },
+    {
+        "levelRawNum": 34,
+        "requiredExps": [
+            8275,
+            16525,
+            22050,
+            27550,
+            33050
+        ]
+    },
+    {
+        "levelRawNum": 35,
+        "requiredExps": [
+            8675,
+            17325,
+            23100,
+            28875,
+            34650
+        ]
+    },
+    {
+        "levelRawNum": 36,
+        "requiredExps": [
+            9075,
+            18150,
+            24200,
+            30250,
+            36300
+        ]
+    },
+    {
+        "levelRawNum": 37,
+        "requiredExps": [
+            9500,
+            19000,
+            25325,
+            31650,
+            37975
+        ]
+    },
+    {
+        "levelRawNum": 38,
+        "requiredExps": [
+            9925,
+            19825,
+            26450,
+            33050,
+            39650
+        ]
+    },
+    {
+        "levelRawNum": 39,
+        "requiredExps": [
+            10350,
+            20700,
+            27600,
+            34500,
+            41400
+        ]
+    },
+    {
+        "levelRawNum": 40,
+        "requiredExps": [
+            10800,
+            21575,
+            28775,
+            35975,
+            43175
+        ]
+    },
+    {
+        "levelRawNum": 41,
+        "requiredExps": [
+            12700,
+            25400,
+            33875,
+            42350,
+            50825
+        ]
+    },
+    {
+        "levelRawNum": 42,
+        "requiredExps": [
+            13225,
+            26450,
+            35275,
+            44100,
+            52925
+        ]
+    },
+    {
+        "levelRawNum": 43,
+        "requiredExps": [
+            13750,
+            27500,
+            36675,
+            45850,
+            55025
+        ]
+    },
+    {
+        "levelRawNum": 44,
+        "requiredExps": [
+            14300,
+            28600,
+            38125,
+            47650,
+            57175
+        ]
+    },
+    {
+        "levelRawNum": 45,
+        "requiredExps": [
+            14850,
+            29675,
+            39575,
+            49475,
+            59375
+        ]
+    },
+    {
+        "levelRawNum": 46,
+        "requiredExps": [
+            15400,
+            30800,
+            41050,
+            51325,
+            61600
+        ]
+    },
+    {
+        "levelRawNum": 47,
+        "requiredExps": [
+            15975,
+            31925,
+            42575,
+            53225,
+            63875
+        ]
+    },
+    {
+        "levelRawNum": 48,
+        "requiredExps": [
+            16550,
+            33100,
+            44125,
+            55150,
+            66175
+        ]
+    },
+    {
+        "levelRawNum": 49,
+        "requiredExps": [
+            17125,
+            34250,
+            45675,
+            57100,
+            68525
+        ]
+    },
+    {
+        "levelRawNum": 50,
+        "requiredExps": [
+            17725,
+            35450,
+            47250,
+            59075,
+            70900
+        ]
+    },
+    {
+        "levelRawNum": 51,
+        "requiredExps": [
+            20700,
+            41425,
+            55225,
+            69025,
+            82825
+        ]
+    },
+    {
+        "levelRawNum": 52,
+        "requiredExps": [
+            21400,
+            42800,
+            57050,
+            71325,
+            85600
+        ]
+    },
+    {
+        "levelRawNum": 53,
+        "requiredExps": [
+            22100,
+            44200,
+            58950,
+            73675,
+            88400
+        ]
+    },
+    {
+        "levelRawNum": 54,
+        "requiredExps": [
+            22825,
+            45625,
+            60850,
+            76050,
+            91250
+        ]
+    },
+    {
+        "levelRawNum": 55,
+        "requiredExps": [
+            23550,
+            47075,
+            62775,
+            78475,
+            94175
+        ]
+    },
+    {
+        "levelRawNum": 56,
+        "requiredExps": [
+            24275,
+            48550,
+            64725,
+            80900,
+            97075
+        ]
+    },
+    {
+        "levelRawNum": 57,
+        "requiredExps": [
+            25025,
+            50050,
+            66725,
+            83400,
+            100075
+        ]
+    },
+    {
+        "levelRawNum": 58,
+        "requiredExps": [
+            25775,
+            51550,
+            68725,
+            85900,
+            103075
+        ]
+    },
+    {
+        "levelRawNum": 59,
+        "requiredExps": [
+            26525,
+            53075,
+            70750,
+            88450,
+            106150
+        ]
+    },
+    {
+        "levelRawNum": 60,
+        "requiredExps": [
+            27325,
+            54625,
+            72850,
+            91050,
+            109250
+        ]
+    },
+    {
+        "levelRawNum": 61,
+        "requiredExps": [
+            31750,
+            63500,
+            84675,
+            105850,
+            127025
+        ]
+    },
+    {
+        "levelRawNum": 62,
+        "requiredExps": [
+            32650,
+            65300,
+            87050,
+            108825,
+            130600
+        ]
+    },
+    {
+        "levelRawNum": 63,
+        "requiredExps": [
+            33575,
+            67125,
+            89500,
+            111875,
+            134250
+        ]
+    },
+    {
+        "levelRawNum": 64,
+        "requiredExps": [
+            34475,
+            68975,
+            91950,
+            114950,
+            137950
+        ]
+    },
+    {
+        "levelRawNum": 65,
+        "requiredExps": [
+            35425,
+            70825,
+            94450,
+            118050,
+            141650
+        ]
+    },
+    {
+        "levelRawNum": 66,
+        "requiredExps": [
+            36350,
+            72725,
+            96950,
+            121200,
+            145450
+        ]
+    },
+    {
+        "levelRawNum": 67,
+        "requiredExps": [
+            37325,
+            74650,
+            99525,
+            124400,
+            149275
+        ]
+    },
+    {
+        "levelRawNum": 68,
+        "requiredExps": [
+            38300,
+            76575,
+            102100,
+            127625,
+            153150
+        ]
+    },
+    {
+        "levelRawNum": 69,
+        "requiredExps": [
+            39275,
+            78550,
+            104725,
+            130900,
+            157075
+        ]
+    },
+    {
+        "levelRawNum": 70,
+        "requiredExps": [
+            40250,
+            80525,
+            107350,
+            134200,
+            161050
+        ]
+    },
+    {
+        "levelRawNum": 71,
+        "requiredExps": [
+            46625,
+            93250,
+            124350,
+            155425,
+            186500
+        ]
+    },
+    {
+        "levelRawNum": 72,
+        "requiredExps": [
+            47775,
+            95550,
+            127400,
+            159250,
+            191100
+        ]
+    },
+    {
+        "levelRawNum": 73,
+        "requiredExps": [
+            48950,
+            97875,
+            130500,
+            163125,
+            195750
+        ]
+    },
+    {
+        "levelRawNum": 74,
+        "requiredExps": [
+            50100,
+            100225,
+            133625,
+            167025,
+            200425
+        ]
+    },
+    {
+        "levelRawNum": 75,
+        "requiredExps": [
+            51300,
+            102575,
+            136775,
+            170975,
+            205175
+        ]
+    },
+    {
+        "levelRawNum": 76,
+        "requiredExps": [
+            52500,
+            104975,
+            139975,
+            174975,
+            209975
+        ]
+    },
+    {
+        "levelRawNum": 77,
+        "requiredExps": [
+            53700,
+            107400,
+            143200,
+            179000,
+            214800
+        ]
+    },
+    {
+        "levelRawNum": 78,
+        "requiredExps": [
+            54925,
+            109850,
+            146450,
+            183075,
+            219700
+        ]
+    },
+    {
+        "levelRawNum": 79,
+        "requiredExps": [
+            56150,
+            112325,
+            149750,
+            187200,
+            224650
+        ]
+    },
+    {
+        "levelRawNum": 80,
+        "requiredExps": [
+            57425,
+            114825,
+            153100,
+            191375,
+            229650
+        ]
+    },
+    {
+        "levelRawNum": 81,
+        "requiredExps": [
+            70275,
+            140550,
+            187400,
+            234250,
+            281100
+        ]
+    },
+    {
+        "levelRawNum": 82,
+        "requiredExps": [
+            76100,
+            152225,
+            202950,
+            253700,
+            304450
+        ]
+    },
+    {
+        "levelRawNum": 83,
+        "requiredExps": [
+            82400,
+            164825,
+            219750,
+            274700,
+            329650
+        ]
+    },
+    {
+        "levelRawNum": 84,
+        "requiredExps": [
+            89225,
+            178425,
+            237900,
+            297375,
+            356850
+        ]
+    },
+    {
+        "levelRawNum": 85,
+        "requiredExps": [
+            96550,
+            193100,
+            257475,
+            321850,
+            386225
+        ]
+    },
+    {
+        "levelRawNum": 86,
+        "requiredExps": [
+            104475,
+            208950,
+            278600,
+            348250,
+            417900
+        ]
+    },
+    {
+        "levelRawNum": 87,
+        "requiredExps": [
+            113025,
+            226025,
+            301375,
+            376725,
+            452075
+        ]
+    },
+    {
+        "levelRawNum": 88,
+        "requiredExps": [
+            122225,
+            244450,
+            325950,
+            407425,
+            488900
+        ]
+    },
+    {
+        "levelRawNum": 89,
+        "requiredExps": [
+            132175,
+            264325,
+            352450,
+            440550,
+            528650
+        ]
+    },
+    {
+        "levelRawNum": 90,
+        "requiredExps": [
+            142875,
+            285775,
+            381025,
+            476275,
+            571525
+        ]
+    }
+]

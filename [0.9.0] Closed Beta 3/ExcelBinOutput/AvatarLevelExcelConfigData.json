@@ -1,0 +1,452 @@
+[
+    {
+        "levelRawNum": 1,
+        "expRawNum": 1000,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 2,
+        "expRawNum": 1325,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 3,
+        "expRawNum": 1700,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 4,
+        "expRawNum": 2150,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 5,
+        "expRawNum": 2625,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 6,
+        "expRawNum": 3150,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 7,
+        "expRawNum": 3725,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 8,
+        "expRawNum": 4350,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 9,
+        "expRawNum": 5000,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 10,
+        "expRawNum": 5700,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 11,
+        "expRawNum": 6450,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 12,
+        "expRawNum": 7225,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 13,
+        "expRawNum": 8050,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 14,
+        "expRawNum": 8925,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 15,
+        "expRawNum": 9825,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 16,
+        "expRawNum": 10750,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 17,
+        "expRawNum": 11725,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 18,
+        "expRawNum": 12725,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 19,
+        "expRawNum": 13775,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 20,
+        "expRawNum": 14875,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 21,
+        "expRawNum": 18075,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 22,
+        "expRawNum": 19375,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 23,
+        "expRawNum": 20725,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 24,
+        "expRawNum": 22125,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 25,
+        "expRawNum": 23550,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 26,
+        "expRawNum": 25025,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 27,
+        "expRawNum": 26550,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 28,
+        "expRawNum": 28100,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 29,
+        "expRawNum": 29675,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 30,
+        "expRawNum": 31325,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 31,
+        "expRawNum": 33000,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 32,
+        "expRawNum": 34700,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 33,
+        "expRawNum": 36450,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 34,
+        "expRawNum": 38250,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 35,
+        "expRawNum": 40075,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 36,
+        "expRawNum": 41950,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 37,
+        "expRawNum": 43875,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 38,
+        "expRawNum": 45825,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 39,
+        "expRawNum": 47800,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 40,
+        "expRawNum": 49825,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 41,
+        "expRawNum": 58650,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 42,
+        "expRawNum": 61025,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 43,
+        "expRawNum": 63450,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 44,
+        "expRawNum": 65925,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 45,
+        "expRawNum": 68425,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 46,
+        "expRawNum": 70975,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 47,
+        "expRawNum": 73575,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 48,
+        "expRawNum": 76225,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 49,
+        "expRawNum": 78900,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 50,
+        "expRawNum": 81625,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 51,
+        "expRawNum": 95375,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 52,
+        "expRawNum": 98550,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 53,
+        "expRawNum": 101775,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 54,
+        "expRawNum": 105050,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 55,
+        "expRawNum": 108375,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 56,
+        "expRawNum": 111750,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 57,
+        "expRawNum": 115175,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 58,
+        "expRawNum": 118650,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 59,
+        "expRawNum": 122150,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 60,
+        "expRawNum": 125725,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 61,
+        "expRawNum": 146150,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 62,
+        "expRawNum": 150300,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 63,
+        "expRawNum": 154475,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 64,
+        "expRawNum": 158725,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 65,
+        "expRawNum": 163025,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 66,
+        "expRawNum": 167375,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 67,
+        "expRawNum": 171800,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 68,
+        "expRawNum": 176250,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 69,
+        "expRawNum": 180775,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 70,
+        "expRawNum": 185350,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 71,
+        "expRawNum": 214675,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 72,
+        "expRawNum": 219950,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 73,
+        "expRawNum": 225300,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 74,
+        "expRawNum": 230700,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 75,
+        "expRawNum": 236175,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 76,
+        "expRawNum": 241700,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 77,
+        "expRawNum": 247300,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 78,
+        "expRawNum": 252950,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 79,
+        "expRawNum": 258650,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 80,
+        "expRawNum": 264425,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 81,
+        "expRawNum": 323700,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 82,
+        "expRawNum": 350600,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 83,
+        "expRawNum": 379650,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 84,
+        "expRawNum": 411000,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 85,
+        "expRawNum": 444850,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 86,
+        "expRawNum": 481375,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 87,
+        "expRawNum": 520775,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 88,
+        "expRawNum": 563275,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 89,
+        "expRawNum": 609125,
+        "smallTalentPointRawNum": 0
+    },
+    {
+        "levelRawNum": 90,
+        "expRawNum": 658550,
+        "smallTalentPointRawNum": 0
+    }
+]

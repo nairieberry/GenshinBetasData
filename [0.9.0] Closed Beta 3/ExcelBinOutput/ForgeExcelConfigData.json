@@ -1,0 +1,431 @@
+[
+    {
+        "idRawNum": 11001,
+        "playerLevelRawNum": 2,
+        "forgeTypeRawNum": 1,
+        "showItemIdRawNum": 104011,
+        "resultItemIdRawNum": 104011,
+        "resultItemCountRawNum": 1,
+        "mainForgeRandomIdRawNum": 0,
+        "forgeTimeRawNum": 3,
+        "queueNumRawNum": 20,
+        "scoinCostRawNum": 5,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101001,
+                "countRawNum": 1,
+                "weightRawNum": 0
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 101001,
+                "countRawNum": 2
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ]
+    },
+    {
+        "idRawNum": 11002,
+        "playerLevelRawNum": 2,
+        "forgeTypeRawNum": 1,
+        "showItemIdRawNum": 104012,
+        "resultItemIdRawNum": 104012,
+        "resultItemCountRawNum": 1,
+        "mainForgeRandomIdRawNum": 0,
+        "forgeTimeRawNum": 6,
+        "queueNumRawNum": 20,
+        "scoinCostRawNum": 10,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101002,
+                "countRawNum": 1,
+                "weightRawNum": 0
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 101002,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ]
+    },
+    {
+        "idRawNum": 11003,
+        "playerLevelRawNum": 5,
+        "forgeTypeRawNum": 1,
+        "showItemIdRawNum": 104013,
+        "resultItemIdRawNum": 104013,
+        "resultItemCountRawNum": 1,
+        "mainForgeRandomIdRawNum": 0,
+        "forgeTimeRawNum": 180,
+        "queueNumRawNum": 20,
+        "scoinCostRawNum": 50,
+        "randomItems": [
+            {
+                "itemIdRawNum": 101003,
+                "countRawNum": 1,
+                "weightRawNum": 0
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 101003,
+                "countRawNum": 4
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ]
+    },
+    {
+        "idRawNum": 13001,
+        "playerLevelRawNum": 5,
+        "forgeTypeRawNum": 3,
+        "showItemIdRawNum": 11403,
+        "resultItemIdRawNum": 11403,
+        "resultItemCountRawNum": 1,
+        "mainForgeRandomIdRawNum": 0,
+        "forgeTimeRawNum": 10,
+        "queueNumRawNum": 1,
+        "scoinCostRawNum": 500,
+        "randomItems": [
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 101101,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 101003,
+                "countRawNum": 50
+            },
+            {
+                "idRawNum": 101002,
+                "countRawNum": 50
+            }
+        ]
+    },
+    {
+        "idRawNum": 13002,
+        "playerLevelRawNum": 5,
+        "forgeTypeRawNum": 3,
+        "showItemIdRawNum": 11406,
+        "resultItemIdRawNum": 11406,
+        "resultItemCountRawNum": 1,
+        "mainForgeRandomIdRawNum": 0,
+        "forgeTimeRawNum": 10,
+        "queueNumRawNum": 1,
+        "scoinCostRawNum": 500,
+        "randomItems": [
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 101101,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 101003,
+                "countRawNum": 50
+            },
+            {
+                "idRawNum": 101002,
+                "countRawNum": 50
+            }
+        ]
+    },
+    {
+        "idRawNum": 13003,
+        "playerLevelRawNum": 5,
+        "forgeTypeRawNum": 3,
+        "showItemIdRawNum": 15406,
+        "resultItemIdRawNum": 15406,
+        "resultItemCountRawNum": 1,
+        "mainForgeRandomIdRawNum": 0,
+        "forgeTimeRawNum": 10,
+        "queueNumRawNum": 1,
+        "scoinCostRawNum": 500,
+        "randomItems": [
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 101102,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 101003,
+                "countRawNum": 50
+            },
+            {
+                "idRawNum": 101002,
+                "countRawNum": 50
+            }
+        ]
+    },
+    {
+        "idRawNum": 13004,
+        "playerLevelRawNum": 5,
+        "forgeTypeRawNum": 3,
+        "showItemIdRawNum": 15407,
+        "resultItemIdRawNum": 15407,
+        "resultItemCountRawNum": 1,
+        "mainForgeRandomIdRawNum": 0,
+        "forgeTimeRawNum": 10,
+        "queueNumRawNum": 1,
+        "scoinCostRawNum": 500,
+        "randomItems": [
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 101102,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 101003,
+                "countRawNum": 50
+            },
+            {
+                "idRawNum": 101002,
+                "countRawNum": 50
+            }
+        ]
+    },
+    {
+        "idRawNum": 13005,
+        "playerLevelRawNum": 5,
+        "forgeTypeRawNum": 3,
+        "showItemIdRawNum": 12403,
+        "resultItemIdRawNum": 12403,
+        "resultItemCountRawNum": 1,
+        "mainForgeRandomIdRawNum": 0,
+        "forgeTimeRawNum": 10,
+        "queueNumRawNum": 1,
+        "scoinCostRawNum": 500,
+        "randomItems": [
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 101103,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 101003,
+                "countRawNum": 50
+            },
+            {
+                "idRawNum": 101002,
+                "countRawNum": 50
+            }
+        ]
+    },
+    {
+        "idRawNum": 13006,
+        "playerLevelRawNum": 5,
+        "forgeTypeRawNum": 3,
+        "showItemIdRawNum": 12407,
+        "resultItemIdRawNum": 12407,
+        "resultItemCountRawNum": 1,
+        "mainForgeRandomIdRawNum": 0,
+        "forgeTimeRawNum": 10,
+        "queueNumRawNum": 1,
+        "scoinCostRawNum": 500,
+        "randomItems": [
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 101103,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 101003,
+                "countRawNum": 50
+            },
+            {
+                "idRawNum": 101002,
+                "countRawNum": 50
+            }
+        ]
+    },
+    {
+        "idRawNum": 13007,
+        "playerLevelRawNum": 5,
+        "forgeTypeRawNum": 3,
+        "showItemIdRawNum": 14406,
+        "resultItemIdRawNum": 14406,
+        "resultItemCountRawNum": 1,
+        "mainForgeRandomIdRawNum": 0,
+        "forgeTimeRawNum": 10,
+        "queueNumRawNum": 1,
+        "scoinCostRawNum": 500,
+        "randomItems": [
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 101104,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 101003,
+                "countRawNum": 50
+            },
+            {
+                "idRawNum": 101002,
+                "countRawNum": 50
+            }
+        ]
+    },
+    {
+        "idRawNum": 13008,
+        "playerLevelRawNum": 5,
+        "forgeTypeRawNum": 3,
+        "showItemIdRawNum": 14407,
+        "resultItemIdRawNum": 14407,
+        "resultItemCountRawNum": 1,
+        "mainForgeRandomIdRawNum": 0,
+        "forgeTimeRawNum": 10,
+        "queueNumRawNum": 1,
+        "scoinCostRawNum": 500,
+        "randomItems": [
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 101104,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 101003,
+                "countRawNum": 50
+            },
+            {
+                "idRawNum": 101002,
+                "countRawNum": 50
+            }
+        ]
+    },
+    {
+        "idRawNum": 13009,
+        "playerLevelRawNum": 5,
+        "forgeTypeRawNum": 3,
+        "showItemIdRawNum": 13402,
+        "resultItemIdRawNum": 13402,
+        "resultItemCountRawNum": 1,
+        "mainForgeRandomIdRawNum": 0,
+        "forgeTimeRawNum": 10,
+        "queueNumRawNum": 1,
+        "scoinCostRawNum": 500,
+        "randomItems": [
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 101105,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 101003,
+                "countRawNum": 50
+            },
+            {
+                "idRawNum": 101002,
+                "countRawNum": 50
+            }
+        ]
+    },
+    {
+        "idRawNum": 13010,
+        "playerLevelRawNum": 5,
+        "forgeTypeRawNum": 3,
+        "showItemIdRawNum": 13403,
+        "resultItemIdRawNum": 13403,
+        "resultItemCountRawNum": 1,
+        "mainForgeRandomIdRawNum": 0,
+        "forgeTimeRawNum": 10,
+        "queueNumRawNum": 1,
+        "scoinCostRawNum": 500,
+        "randomItems": [
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            }
+        ],
+        "materialItems": [
+            {
+                "idRawNum": 101105,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 101003,
+                "countRawNum": 50
+            },
+            {
+                "idRawNum": 101002,
+                "countRawNum": 50
+            }
+        ]
+    }
+]

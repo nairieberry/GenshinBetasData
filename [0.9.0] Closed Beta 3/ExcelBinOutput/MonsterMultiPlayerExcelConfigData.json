@@ -1,0 +1,157 @@
+[
+    {
+        "idRawNum": 1,
+        "propPerVec": [
+            {
+                "propType": "FIGHT_PROP_HP_MP_PERCENT",
+                "propValueVec": [
+                    0.5,
+                    1.0,
+                    1.5
+                ]
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
+                "propValueVec": [
+                    0.10000000149011612,
+                    0.25,
+                    0.4000000059604645
+                ]
+            }
+        ],
+        "endureNumVec": [
+            2,
+            3,
+            4
+        ],
+        "elementShieldPerVec": [
+            1.5,
+            1.7000000476837158,
+            2.0
+        ]
+    },
+    {
+        "idRawNum": 2,
+        "propPerVec": [
+            {
+                "propType": "FIGHT_PROP_HP_MP_PERCENT",
+                "propValueVec": [
+                    0.5,
+                    1.0,
+                    1.5
+                ]
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
+                "propValueVec": [
+                    0.10000000149011612,
+                    0.25,
+                    0.4000000059604645
+                ]
+            }
+        ],
+        "endureNumVec": [
+            2,
+            3,
+            4
+        ],
+        "elementShieldPerVec": [
+            1.5,
+            1.7000000476837158,
+            2.0
+        ]
+    },
+    {
+        "idRawNum": 3,
+        "propPerVec": [
+            {
+                "propType": "FIGHT_PROP_HP_MP_PERCENT",
+                "propValueVec": [
+                    0.5,
+                    1.0,
+                    1.5
+                ]
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
+                "propValueVec": [
+                    0.10000000149011612,
+                    0.25,
+                    0.4000000059604645
+                ]
+            }
+        ],
+        "endureNumVec": [
+            2,
+            3,
+            4
+        ],
+        "elementShieldPerVec": [
+            1.5,
+            1.7000000476837158,
+            2.0
+        ]
+    },
+    {
+        "idRawNum": 4,
+        "propPerVec": [
+            {
+                "propType": "FIGHT_PROP_HP_MP_PERCENT",
+                "propValueVec": [
+                    0.5,
+                    1.0,
+                    1.5
+                ]
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
+                "propValueVec": [
+                    0.10000000149011612,
+                    0.25,
+                    0.4000000059604645
+                ]
+            }
+        ],
+        "endureNumVec": [
+            2,
+            3,
+            4
+        ],
+        "elementShieldPerVec": [
+            1.5,
+            1.7000000476837158,
+            2.0
+        ]
+    },
+    {
+        "idRawNum": 5,
+        "propPerVec": [
+            {
+                "propType": "FIGHT_PROP_HP_MP_PERCENT",
+                "propValueVec": [
+                    0.5,
+                    1.0,
+                    1.5
+                ]
+            },
+            {
+                "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
+                "propValueVec": [
+                    0.10000000149011612,
+                    0.25,
+                    0.4000000059604645
+                ]
+            }
+        ],
+        "endureNumVec": [
+            2,
+            3,
+            4
+        ],
+        "elementShieldPerVec": [
+            1.5,
+            1.7000000476837158,
+            2.0
+        ]
+    }
+]

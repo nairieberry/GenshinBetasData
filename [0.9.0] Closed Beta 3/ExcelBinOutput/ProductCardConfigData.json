@@ -1,0 +1,14 @@
+[
+    {
+        "itemNameTextMapHash": 2832641754,
+        "icon": "UI_Mall_Purchase_Blessofmoon",
+        "totalLimitDaysRawNum": 5,
+        "daysRawNum": 30,
+        "PPLALPDHDEE": 300,
+        "hcoinPerDayRawNum": 30,
+        "OLBNNBEDHAH": "test_ys_glb_primogem2ndstall_tier5",
+        "productId": "test_ys_glb_blessofmoon_tier5",
+        "priceTier": "Test_Tier_1",
+        "shopType": "SHOP_TYPE_PACKAGE"
+    }
+]

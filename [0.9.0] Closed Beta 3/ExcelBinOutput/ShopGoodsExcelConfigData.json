@@ -1,0 +1,6551 @@
+[
+    {
+        "goodsIdRawNum": 101001,
+        "subTagNameTextMapHash": 1032951775,
+        "shopTypeRawNum": 1007,
+        "itemIdRawNum": 106,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102001,
+        "subTagNameTextMapHash": 3768909767,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 223,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 160,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 4,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102002,
+        "subTagNameTextMapHash": 299121767,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 224,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 160,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 4,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102003,
+        "subTagNameTextMapHash": 787658015,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 223,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 221,
+                "countRawNum": 7
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 4,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 10
+    },
+    {
+        "goodsIdRawNum": 102004,
+        "subTagNameTextMapHash": 3720177655,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 224,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 221,
+                "countRawNum": 7
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 4,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 10
+    },
+    {
+        "goodsIdRawNum": 102005,
+        "subTagNameTextMapHash": 1755001191,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 0,
+        "rotateIdRawNum": 10201,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 221,
+                "countRawNum": 50
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 4,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 9
+    },
+    {
+        "goodsIdRawNum": 102006,
+        "subTagNameTextMapHash": 3082481359,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 0,
+        "rotateIdRawNum": 10202,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 221,
+                "countRawNum": 50
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 4,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 9
+    },
+    {
+        "goodsIdRawNum": 102007,
+        "subTagNameTextMapHash": 5855815,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 0,
+        "rotateIdRawNum": 10203,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 221,
+                "countRawNum": 35
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 4,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 8
+    },
+    {
+        "goodsIdRawNum": 102008,
+        "subTagNameTextMapHash": 2058880455,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 0,
+        "rotateIdRawNum": 10204,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 221,
+                "countRawNum": 35
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 4,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 8
+    },
+    {
+        "goodsIdRawNum": 102009,
+        "subTagNameTextMapHash": 4135347407,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 0,
+        "rotateIdRawNum": 10205,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 221,
+                "countRawNum": 35
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 4,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 8
+    },
+    {
+        "goodsIdRawNum": 102010,
+        "subTagNameTextMapHash": 908129175,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 0,
+        "rotateIdRawNum": 10206,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 221,
+                "countRawNum": 35
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 4,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 8
+    },
+    {
+        "goodsIdRawNum": 102011,
+        "subTagNameTextMapHash": 1718175167,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 0,
+        "rotateIdRawNum": 10207,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 221,
+                "countRawNum": 35
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 4,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 8
+    },
+    {
+        "goodsIdRawNum": 102012,
+        "subTagNameTextMapHash": 3693631375,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112016,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 221,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 6,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 35,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102014,
+        "subTagNameTextMapHash": 1142632671,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112022,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 221,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 6,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 35,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102015,
+        "subTagNameTextMapHash": 42996447,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112025,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 221,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 6,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 35,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102016,
+        "subTagNameTextMapHash": 1570044311,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112028,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 221,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 6,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 35,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102017,
+        "subTagNameTextMapHash": 4093273479,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112031,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 221,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 6,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 35,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102018,
+        "subTagNameTextMapHash": 2315804231,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 223,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 65
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 4,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102019,
+        "subTagNameTextMapHash": 1535381271,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 224,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 65
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 4,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102020,
+        "subTagNameTextMapHash": 1822161111,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 104002,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 3,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 8
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 100,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 10,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102021,
+        "subTagNameTextMapHash": 180449519,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 104012,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 3,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 100,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 10,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102022,
+        "subTagNameTextMapHash": 832869191,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 202,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 10000,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 10
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 30,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 10,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102023,
+        "subTagNameTextMapHash": 1872966199,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 202,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 10000,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 15
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "precondition": "SHOP_PRECONDITION_SPECIFY",
+        "preconditionParamRawNum": 102022,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 10,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102024,
+        "subTagNameTextMapHash": 378149719,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112004,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 14
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 15,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 25,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102025,
+        "subTagNameTextMapHash": 412726615,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112007,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 14
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 15,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 25,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102026,
+        "subTagNameTextMapHash": 2289286071,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112010,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 14
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 15,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 25,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102027,
+        "subTagNameTextMapHash": 2272214735,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112013,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 14
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 15,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 25,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102028,
+        "subTagNameTextMapHash": 2366655423,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112015,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 14
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 25,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102030,
+        "subTagNameTextMapHash": 352580807,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112021,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 14
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 25,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102031,
+        "subTagNameTextMapHash": 2879067911,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112024,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 14
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 25,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102032,
+        "subTagNameTextMapHash": 3216125527,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112027,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 14
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 25,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102033,
+        "subTagNameTextMapHash": 2991448807,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112030,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 14
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 25,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102035,
+        "subTagNameTextMapHash": 2140663919,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112037,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 14
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 15,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 25,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102036,
+        "subTagNameTextMapHash": 434101231,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112003,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 5
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 25,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 10,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102037,
+        "subTagNameTextMapHash": 1657056567,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112006,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 5
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 25,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 10,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102038,
+        "subTagNameTextMapHash": 1662919607,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112009,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 5
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 25,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 10,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102039,
+        "subTagNameTextMapHash": 651886199,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112012,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 5
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 25,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 10,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102040,
+        "subTagNameTextMapHash": 2098978103,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112014,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 5
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 10,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102042,
+        "subTagNameTextMapHash": 1714427679,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112020,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 5
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 10,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102043,
+        "subTagNameTextMapHash": 937406319,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112023,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 5
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 10,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102044,
+        "subTagNameTextMapHash": 1920412783,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112026,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 5
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 10,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102045,
+        "subTagNameTextMapHash": 2467640767,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112029,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 5
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 10,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 102047,
+        "subTagNameTextMapHash": 3459505367,
+        "shopTypeRawNum": 1001,
+        "itemIdRawNum": 112036,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 222,
+                "countRawNum": 5
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 25,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 10,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 201001,
+        "subTagNameTextMapHash": 3633527519,
+        "shopTypeRawNum": 1002,
+        "itemIdRawNum": 104111,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 305,
+                "countRawNum": 25
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 2,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 201002,
+        "subTagNameTextMapHash": 1221785063,
+        "shopTypeRawNum": 1002,
+        "itemIdRawNum": 104121,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 305,
+                "countRawNum": 25
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 2,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 201003,
+        "subTagNameTextMapHash": 588102487,
+        "shopTypeRawNum": 1002,
+        "itemIdRawNum": 104151,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 305,
+                "countRawNum": 25
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 2,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 201004,
+        "subTagNameTextMapHash": 1908263839,
+        "shopTypeRawNum": 1002,
+        "itemIdRawNum": 104161,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 305,
+                "countRawNum": 25
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 2,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 201005,
+        "subTagNameTextMapHash": 1139981295,
+        "shopTypeRawNum": 1002,
+        "itemIdRawNum": 104171,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 305,
+                "countRawNum": 25
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 2,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 201006,
+        "subTagNameTextMapHash": 536120455,
+        "shopTypeRawNum": 1002,
+        "itemIdRawNum": 104141,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 305,
+                "countRawNum": 25
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 2,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 201007,
+        "subTagNameTextMapHash": 379141543,
+        "shopTypeRawNum": 1002,
+        "itemIdRawNum": 114001,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 305,
+                "countRawNum": 10
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 3,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 201008,
+        "subTagNameTextMapHash": 4204010383,
+        "shopTypeRawNum": 1002,
+        "itemIdRawNum": 114005,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 305,
+                "countRawNum": 10
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 3,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 201009,
+        "subTagNameTextMapHash": 2118964287,
+        "shopTypeRawNum": 1002,
+        "itemIdRawNum": 114009,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 305,
+                "countRawNum": 10
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 3,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 201010,
+        "subTagNameTextMapHash": 3435485343,
+        "shopTypeRawNum": 1002,
+        "itemIdRawNum": 915,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 305,
+                "countRawNum": 600
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 201011,
+        "subTagNameTextMapHash": 2036766127,
+        "shopTypeRawNum": 1002,
+        "itemIdRawNum": 202,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1000,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 305,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 20,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 201012,
+        "subTagNameTextMapHash": 813279399,
+        "shopTypeRawNum": 1002,
+        "itemIdRawNum": 202,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1000,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 305,
+                "countRawNum": 5
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "precondition": "SHOP_PRECONDITION_REST",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 202001,
+        "subTagNameTextMapHash": 729941087,
+        "shopTypeRawNum": 1003,
+        "itemIdRawNum": 11201,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 600,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 202002,
+        "subTagNameTextMapHash": 2707242815,
+        "shopTypeRawNum": 1003,
+        "itemIdRawNum": 12201,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 600,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 202003,
+        "subTagNameTextMapHash": 1365947175,
+        "shopTypeRawNum": 1003,
+        "itemIdRawNum": 13201,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 600,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 202004,
+        "subTagNameTextMapHash": 1335108911,
+        "shopTypeRawNum": 1003,
+        "itemIdRawNum": 14201,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 600,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 202005,
+        "subTagNameTextMapHash": 2796849927,
+        "shopTypeRawNum": 1003,
+        "itemIdRawNum": 15201,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 600,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 203001,
+        "subTagNameTextMapHash": 79824007,
+        "shopTypeRawNum": 1004,
+        "itemIdRawNum": 100075,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 60,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 203002,
+        "subTagNameTextMapHash": 285422127,
+        "shopTypeRawNum": 1004,
+        "itemIdRawNum": 100077,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 80,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 203003,
+        "subTagNameTextMapHash": 1635228959,
+        "shopTypeRawNum": 1004,
+        "itemIdRawNum": 100076,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 80,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 203004,
+        "subTagNameTextMapHash": 446789119,
+        "shopTypeRawNum": 1004,
+        "itemIdRawNum": 100078,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 100,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 203005,
+        "subTagNameTextMapHash": 3744872279,
+        "shopTypeRawNum": 1004,
+        "itemIdRawNum": 100079,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 120,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 203006,
+        "subTagNameTextMapHash": 3050037735,
+        "shopTypeRawNum": 1004,
+        "itemIdRawNum": 100018,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 120,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 203007,
+        "subTagNameTextMapHash": 1516871319,
+        "shopTypeRawNum": 1004,
+        "itemIdRawNum": 100080,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 120,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 203008,
+        "subTagNameTextMapHash": 610630231,
+        "shopTypeRawNum": 1004,
+        "itemIdRawNum": 100017,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 100,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 203009,
+        "subTagNameTextMapHash": 1831973215,
+        "shopTypeRawNum": 1004,
+        "itemIdRawNum": 100092,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 100,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 203010,
+        "subTagNameTextMapHash": 1076609143,
+        "shopTypeRawNum": 1004,
+        "itemIdRawNum": 100093,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 120,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204001,
+        "subTagNameTextMapHash": 755626615,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 108005,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 250,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204002,
+        "subTagNameTextMapHash": 3454905183,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 108002,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1025,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204003,
+        "subTagNameTextMapHash": 3796876607,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 108012,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 450,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204004,
+        "subTagNameTextMapHash": 3256703751,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 110001,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 150,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204005,
+        "subTagNameTextMapHash": 45684679,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 110002,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 150,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204006,
+        "subTagNameTextMapHash": 3670443855,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 110003,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 900,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204007,
+        "subTagNameTextMapHash": 1700554159,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 110004,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 270,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204008,
+        "subTagNameTextMapHash": 1085351479,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 110005,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 630,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204009,
+        "subTagNameTextMapHash": 1654920431,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 110006,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 480,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204010,
+        "subTagNameTextMapHash": 1114098439,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 100074,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1110,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204011,
+        "subTagNameTextMapHash": 4140210463,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 110008,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1560,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204012,
+        "subTagNameTextMapHash": 3227418439,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 110009,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 420,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204013,
+        "subTagNameTextMapHash": 2892782047,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 110010,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 720,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204014,
+        "subTagNameTextMapHash": 1964115231,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 110011,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 840,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204015,
+        "subTagNameTextMapHash": 3146409951,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 109401,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2500,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204016,
+        "subTagNameTextMapHash": 1070892335,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 109103,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2500,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204017,
+        "subTagNameTextMapHash": 2297512639,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 109203,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2500,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204018,
+        "subTagNameTextMapHash": 3155629999,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 109106,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 5000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204019,
+        "subTagNameTextMapHash": 360822367,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 109107,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 5000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204020,
+        "subTagNameTextMapHash": 2267807047,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 109304,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 5000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 204021,
+        "subTagNameTextMapHash": 804516519,
+        "shopTypeRawNum": 1005,
+        "itemIdRawNum": 109418,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 5000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 205001,
+        "subTagNameTextMapHash": 2590981007,
+        "shopTypeRawNum": 1011,
+        "itemIdRawNum": 100012,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 197,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 205002,
+        "subTagNameTextMapHash": 3709719599,
+        "shopTypeRawNum": 1011,
+        "itemIdRawNum": 100024,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 205003,
+        "subTagNameTextMapHash": 2526791295,
+        "shopTypeRawNum": 1011,
+        "itemIdRawNum": 100023,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 205004,
+        "subTagNameTextMapHash": 1625895287,
+        "shopTypeRawNum": 1011,
+        "itemIdRawNum": 100055,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 205005,
+        "subTagNameTextMapHash": 2364413503,
+        "shopTypeRawNum": 1011,
+        "itemIdRawNum": 100056,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 206001,
+        "subTagNameTextMapHash": 2337735463,
+        "shopTypeRawNum": 1012,
+        "itemIdRawNum": 100001,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 200,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 206002,
+        "subTagNameTextMapHash": 2522827895,
+        "shopTypeRawNum": 1012,
+        "itemIdRawNum": 100002,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 200,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 206003,
+        "subTagNameTextMapHash": 1770811799,
+        "shopTypeRawNum": 1012,
+        "itemIdRawNum": 108012,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 450,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 207001,
+        "subTagNameTextMapHash": 1079027951,
+        "shopTypeRawNum": 1013,
+        "itemIdRawNum": 60211,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "refreshParamRawNum": 4,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 207002,
+        "subTagNameTextMapHash": 1662139839,
+        "shopTypeRawNum": 1013,
+        "itemIdRawNum": 60221,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "refreshParamRawNum": 4,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 207003,
+        "subTagNameTextMapHash": 898048735,
+        "shopTypeRawNum": 1013,
+        "itemIdRawNum": 60231,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "refreshParamRawNum": 4,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 207004,
+        "subTagNameTextMapHash": 3117574247,
+        "shopTypeRawNum": 1013,
+        "itemIdRawNum": 60241,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "refreshParamRawNum": 4,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 207005,
+        "subTagNameTextMapHash": 3734514047,
+        "shopTypeRawNum": 1013,
+        "itemIdRawNum": 60251,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "refreshParamRawNum": 4,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 208001,
+        "subTagNameTextMapHash": 639108943,
+        "shopTypeRawNum": 1014,
+        "itemIdRawNum": 11101,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 300,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 208002,
+        "subTagNameTextMapHash": 2385291751,
+        "shopTypeRawNum": 1014,
+        "itemIdRawNum": 12101,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 300,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 208003,
+        "subTagNameTextMapHash": 1758162655,
+        "shopTypeRawNum": 1014,
+        "itemIdRawNum": 13101,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 300,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 208004,
+        "subTagNameTextMapHash": 3249954687,
+        "shopTypeRawNum": 1014,
+        "itemIdRawNum": 14101,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 300,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 208005,
+        "subTagNameTextMapHash": 3082655847,
+        "shopTypeRawNum": 1014,
+        "itemIdRawNum": 15101,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 300,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 209001,
+        "subTagNameTextMapHash": 1371020167,
+        "shopTypeRawNum": 1015,
+        "itemIdRawNum": 108008,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 525,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 209002,
+        "subTagNameTextMapHash": 1440576807,
+        "shopTypeRawNum": 1015,
+        "itemIdRawNum": 108012,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 450,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 209003,
+        "subTagNameTextMapHash": 826311911,
+        "shopTypeRawNum": 1015,
+        "itemIdRawNum": 108035,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1838,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 2,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 210001,
+        "subTagNameTextMapHash": 941759255,
+        "shopTypeRawNum": 1016,
+        "itemIdRawNum": 100001,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 200,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 211001,
+        "subTagNameTextMapHash": 4259916095,
+        "shopTypeRawNum": 1017,
+        "itemIdRawNum": 100061,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 240,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 211002,
+        "subTagNameTextMapHash": 1444204471,
+        "shopTypeRawNum": 1017,
+        "itemIdRawNum": 100064,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 240,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 212001,
+        "subTagNameTextMapHash": 3211942183,
+        "shopTypeRawNum": 1018,
+        "itemIdRawNum": 100015,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 280,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 212002,
+        "subTagNameTextMapHash": 2662871663,
+        "shopTypeRawNum": 1018,
+        "itemIdRawNum": 100016,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 146,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 212003,
+        "subTagNameTextMapHash": 288157455,
+        "shopTypeRawNum": 1018,
+        "itemIdRawNum": 100021,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 400,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 212004,
+        "subTagNameTextMapHash": 661909471,
+        "shopTypeRawNum": 1018,
+        "itemIdRawNum": 100022,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 212005,
+        "subTagNameTextMapHash": 1601729767,
+        "shopTypeRawNum": 1018,
+        "itemIdRawNum": 100025,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 301001,
+        "subTagNameTextMapHash": 4272174927,
+        "shopTypeRawNum": 1009,
+        "itemIdRawNum": 104111,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 307,
+                "countRawNum": 25
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 4,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 301002,
+        "subTagNameTextMapHash": 2618257023,
+        "shopTypeRawNum": 1009,
+        "itemIdRawNum": 104121,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 307,
+                "countRawNum": 25
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 4,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 301003,
+        "subTagNameTextMapHash": 669180463,
+        "shopTypeRawNum": 1009,
+        "itemIdRawNum": 104151,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 307,
+                "countRawNum": 25
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 4,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 301004,
+        "subTagNameTextMapHash": 4235683751,
+        "shopTypeRawNum": 1009,
+        "itemIdRawNum": 104161,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 307,
+                "countRawNum": 25
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 4,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 301005,
+        "subTagNameTextMapHash": 670618127,
+        "shopTypeRawNum": 1009,
+        "itemIdRawNum": 104171,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 307,
+                "countRawNum": 25
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 4,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 301006,
+        "subTagNameTextMapHash": 2951436503,
+        "shopTypeRawNum": 1009,
+        "itemIdRawNum": 104141,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 307,
+                "countRawNum": 25
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 4,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 301007,
+        "subTagNameTextMapHash": 2855484239,
+        "shopTypeRawNum": 1009,
+        "itemIdRawNum": 114013,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 307,
+                "countRawNum": 10
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 3,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 301008,
+        "subTagNameTextMapHash": 2492556111,
+        "shopTypeRawNum": 1009,
+        "itemIdRawNum": 114017,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 307,
+                "countRawNum": 10
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 3,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 301009,
+        "subTagNameTextMapHash": 752720623,
+        "shopTypeRawNum": 1009,
+        "itemIdRawNum": 114021,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 307,
+                "countRawNum": 10
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 3,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 301010,
+        "subTagNameTextMapHash": 109064231,
+        "shopTypeRawNum": 1009,
+        "itemIdRawNum": 917,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 307,
+                "countRawNum": 600
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 4,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 301011,
+        "subTagNameTextMapHash": 3190614215,
+        "shopTypeRawNum": 1009,
+        "itemIdRawNum": 202,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1000,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 307,
+                "countRawNum": 3
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 30,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 301012,
+        "subTagNameTextMapHash": 539443079,
+        "shopTypeRawNum": 1009,
+        "itemIdRawNum": 202,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1000,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 307,
+                "countRawNum": 5
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": true,
+        "precondition": "SHOP_PRECONDITION_REST",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 302001,
+        "subTagNameTextMapHash": 424097351,
+        "shopTypeRawNum": 1008,
+        "itemIdRawNum": 100075,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 60,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 302002,
+        "subTagNameTextMapHash": 2269580703,
+        "shopTypeRawNum": 1008,
+        "itemIdRawNum": 100077,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 80,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 302003,
+        "subTagNameTextMapHash": 525997607,
+        "shopTypeRawNum": 1008,
+        "itemIdRawNum": 100076,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 80,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 302004,
+        "subTagNameTextMapHash": 1920668135,
+        "shopTypeRawNum": 1008,
+        "itemIdRawNum": 100078,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 100,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 302005,
+        "subTagNameTextMapHash": 3071162215,
+        "shopTypeRawNum": 1008,
+        "itemIdRawNum": 100079,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 120,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 302006,
+        "subTagNameTextMapHash": 1991531527,
+        "shopTypeRawNum": 1008,
+        "itemIdRawNum": 100018,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 120,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 302007,
+        "subTagNameTextMapHash": 4086486799,
+        "shopTypeRawNum": 1008,
+        "itemIdRawNum": 100080,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 120,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 302008,
+        "subTagNameTextMapHash": 2165430583,
+        "shopTypeRawNum": 1008,
+        "itemIdRawNum": 100017,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 100,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 302009,
+        "subTagNameTextMapHash": 1706325711,
+        "shopTypeRawNum": 1008,
+        "itemIdRawNum": 100092,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 100,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 302010,
+        "subTagNameTextMapHash": 1588528335,
+        "shopTypeRawNum": 1008,
+        "itemIdRawNum": 100093,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 120,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303001,
+        "subTagNameTextMapHash": 2610519847,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 108005,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 250,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303002,
+        "subTagNameTextMapHash": 170647599,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 108002,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1025,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303003,
+        "subTagNameTextMapHash": 749162935,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 108012,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 450,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303004,
+        "subTagNameTextMapHash": 2016812767,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 100088,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 120,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303005,
+        "subTagNameTextMapHash": 1190639735,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 100089,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 150,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303006,
+        "subTagNameTextMapHash": 3878762855,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 109409,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2500,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303007,
+        "subTagNameTextMapHash": 1627187127,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 109411,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2500,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303008,
+        "subTagNameTextMapHash": 2983575399,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 109413,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 5000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303009,
+        "subTagNameTextMapHash": 649203967,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 109414,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 5000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303010,
+        "subTagNameTextMapHash": 4219671999,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 109417,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1250,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303011,
+        "subTagNameTextMapHash": 894147687,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 109416,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2500,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303012,
+        "subTagNameTextMapHash": 1291986983,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 109419,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2500,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303013,
+        "subTagNameTextMapHash": 2267148031,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 109420,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 20000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303014,
+        "subTagNameTextMapHash": 4245244263,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 109421,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2500,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303015,
+        "subTagNameTextMapHash": 1297327759,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 109422,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 5000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 303016,
+        "subTagNameTextMapHash": 2299436167,
+        "shopTypeRawNum": 1010,
+        "itemIdRawNum": 109423,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 5000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 304001,
+        "subTagNameTextMapHash": 3374557063,
+        "shopTypeRawNum": 1019,
+        "itemIdRawNum": 100001,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 200,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 305001,
+        "subTagNameTextMapHash": 847797687,
+        "shopTypeRawNum": 1020,
+        "itemIdRawNum": 100001,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 200,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 306001,
+        "subTagNameTextMapHash": 2167190191,
+        "shopTypeRawNum": 1021,
+        "itemIdRawNum": 100031,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 600,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 306002,
+        "subTagNameTextMapHash": 2931586143,
+        "shopTypeRawNum": 1021,
+        "itemIdRawNum": 100032,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 240,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 306003,
+        "subTagNameTextMapHash": 1929986719,
+        "shopTypeRawNum": 1021,
+        "itemIdRawNum": 100026,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 300,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 307001,
+        "subTagNameTextMapHash": 667599903,
+        "shopTypeRawNum": 1022,
+        "itemIdRawNum": 100084,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 300,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 307002,
+        "subTagNameTextMapHash": 262561415,
+        "shopTypeRawNum": 1022,
+        "itemIdRawNum": 100084,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 3,
+        "costScoinRawNum": 1000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 3,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 308001,
+        "subTagNameTextMapHash": 124030455,
+        "shopTypeRawNum": 1023,
+        "itemIdRawNum": 100084,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 240,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 308002,
+        "subTagNameTextMapHash": 3084556695,
+        "shopTypeRawNum": 1023,
+        "itemIdRawNum": 100073,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 240,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 308003,
+        "subTagNameTextMapHash": 3810254335,
+        "shopTypeRawNum": 1023,
+        "itemIdRawNum": 100093,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 150,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 309001,
+        "subTagNameTextMapHash": 3984039391,
+        "shopTypeRawNum": 1024,
+        "itemIdRawNum": 100001,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 200,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 310001,
+        "subTagNameTextMapHash": 1148244263,
+        "shopTypeRawNum": 1025,
+        "itemIdRawNum": 61211,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "refreshParamRawNum": 4,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 310002,
+        "subTagNameTextMapHash": 1944210783,
+        "shopTypeRawNum": 1025,
+        "itemIdRawNum": 61221,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "refreshParamRawNum": 4,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 310003,
+        "subTagNameTextMapHash": 4043752775,
+        "shopTypeRawNum": 1025,
+        "itemIdRawNum": 61231,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "refreshParamRawNum": 4,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 310004,
+        "subTagNameTextMapHash": 3457984023,
+        "shopTypeRawNum": 1025,
+        "itemIdRawNum": 61241,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "refreshParamRawNum": 4,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 310005,
+        "subTagNameTextMapHash": 2042365399,
+        "shopTypeRawNum": 1025,
+        "itemIdRawNum": 61251,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "refreshParamRawNum": 4,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 311001,
+        "subTagNameTextMapHash": 435636463,
+        "shopTypeRawNum": 1026,
+        "itemIdRawNum": 100001,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 200,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 2,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 311002,
+        "subTagNameTextMapHash": 2612171271,
+        "shopTypeRawNum": 1026,
+        "itemIdRawNum": 108099,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 900,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 312001,
+        "subTagNameTextMapHash": 2205753967,
+        "shopTypeRawNum": 1027,
+        "itemIdRawNum": 108073,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 6575,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 2,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 312002,
+        "subTagNameTextMapHash": 4178949135,
+        "shopTypeRawNum": 1027,
+        "itemIdRawNum": 108093,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 425,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 313001,
+        "subTagNameTextMapHash": 2953189927,
+        "shopTypeRawNum": 1028,
+        "itemIdRawNum": 101001,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 120,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 313002,
+        "subTagNameTextMapHash": 3544590775,
+        "shopTypeRawNum": 1028,
+        "itemIdRawNum": 101002,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 400,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 313003,
+        "subTagNameTextMapHash": 1412075887,
+        "shopTypeRawNum": 1028,
+        "itemIdRawNum": 100028,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 314001,
+        "subTagNameTextMapHash": 2956219455,
+        "shopTypeRawNum": 1029,
+        "itemIdRawNum": 100001,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 200,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 315001,
+        "subTagNameTextMapHash": 1121946591,
+        "shopTypeRawNum": 1030,
+        "itemIdRawNum": 100001,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 200,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 315002,
+        "subTagNameTextMapHash": 793951943,
+        "shopTypeRawNum": 1030,
+        "itemIdRawNum": 108093,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 425,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 315003,
+        "subTagNameTextMapHash": 1048557615,
+        "shopTypeRawNum": 1030,
+        "itemIdRawNum": 108099,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 900,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 316001,
+        "subTagNameTextMapHash": 612764519,
+        "shopTypeRawNum": 1031,
+        "itemIdRawNum": 100088,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 120,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 316002,
+        "subTagNameTextMapHash": 1683046143,
+        "shopTypeRawNum": 1031,
+        "itemIdRawNum": 100089,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 144,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 10,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 316003,
+        "subTagNameTextMapHash": 2653433927,
+        "shopTypeRawNum": 1031,
+        "itemIdRawNum": 100029,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 5,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 3,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 316004,
+        "subTagNameTextMapHash": 3365284111,
+        "shopTypeRawNum": 1031,
+        "itemIdRawNum": 100030,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 50000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 3,
+        "refreshType": "SHOP_REFRESH_MONTHLY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 317001,
+        "subTagNameTextMapHash": 3600011927,
+        "shopTypeRawNum": 1032,
+        "itemIdRawNum": 100001,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 200,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 318001,
+        "subTagNameTextMapHash": 1572076447,
+        "shopTypeRawNum": 1033,
+        "itemIdRawNum": 63211,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "refreshParamRawNum": 4,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 318002,
+        "subTagNameTextMapHash": 3869173183,
+        "shopTypeRawNum": 1033,
+        "itemIdRawNum": 63221,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "refreshParamRawNum": 4,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 318003,
+        "subTagNameTextMapHash": 424497671,
+        "shopTypeRawNum": 1033,
+        "itemIdRawNum": 63231,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "refreshParamRawNum": 4,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 318004,
+        "subTagNameTextMapHash": 1381028615,
+        "shopTypeRawNum": 1033,
+        "itemIdRawNum": 63241,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "refreshParamRawNum": 4,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 318005,
+        "subTagNameTextMapHash": 556525879,
+        "shopTypeRawNum": 1033,
+        "itemIdRawNum": 63251,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 2000,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_WEEKLY",
+        "refreshParamRawNum": 4,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 319001,
+        "subTagNameTextMapHash": 172556399,
+        "shopTypeRawNum": 1034,
+        "itemIdRawNum": 108081,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1613,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 2,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 319002,
+        "subTagNameTextMapHash": 862117823,
+        "shopTypeRawNum": 1034,
+        "itemIdRawNum": 108090,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 1800,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 2,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 319003,
+        "subTagNameTextMapHash": 2197098583,
+        "shopTypeRawNum": 1034,
+        "itemIdRawNum": 108012,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 450,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 320001,
+        "subTagNameTextMapHash": 412660471,
+        "shopTypeRawNum": 1035,
+        "itemIdRawNum": 100001,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 200,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 1,
+        "refreshType": "SHOP_REFRESH_DAILY",
+        "refreshParamRawNum": 1,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 321001,
+        "subTagNameTextMapHash": 788488015,
+        "shopTypeRawNum": 1036,
+        "itemIdRawNum": 202,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 100496,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 50000,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 1001001,
+        "subTagNameTextMapHash": 2863832999,
+        "shopTypeRawNum": 1006,
+        "itemIdRawNum": 200001,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 200002,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 1001002,
+        "subTagNameTextMapHash": 1283132103,
+        "shopTypeRawNum": 1006,
+        "itemIdRawNum": 200001,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 200003,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 1001003,
+        "subTagNameTextMapHash": 1429010759,
+        "shopTypeRawNum": 1006,
+        "itemIdRawNum": 200002,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 200001,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 1001004,
+        "subTagNameTextMapHash": 3542259607,
+        "shopTypeRawNum": 1006,
+        "itemIdRawNum": 200002,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 200003,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 1001005,
+        "subTagNameTextMapHash": 1479299039,
+        "shopTypeRawNum": 1006,
+        "itemIdRawNum": 200003,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 200001,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    },
+    {
+        "goodsIdRawNum": 1001006,
+        "subTagNameTextMapHash": 776809471,
+        "shopTypeRawNum": 1006,
+        "itemIdRawNum": 200003,
+        "rotateIdRawNum": 0,
+        "showIdRawNum": 0,
+        "itemCountRawNum": 1,
+        "costScoinRawNum": 0,
+        "costHcoinRawNum": 0,
+        "costItems": [
+            {
+                "idRawNum": 200002,
+                "countRawNum": 1
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "buyLimitRawNum": 0,
+        "refreshParamRawNum": 0,
+        "displayDaysBeforeSellRawNum": 0,
+        "beginTime": "2019-11-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "preconditionParamRawNum": 0,
+        "minShowLevelRawNum": 1,
+        "minPlayerLevelRawNum": 1,
+        "maxPlayerLevelRawNum": 99,
+        "sortLevelRawNum": 1
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "configIdRawNum": 1,
+        "periodIdRawNum": 1,
+        "perfabPath": ""
+    },
+    {
+        "configIdRawNum": 1,
+        "periodIdRawNum": 2,
+        "perfabPath": ""
+    },
+    {
+        "configIdRawNum": 1,
+        "periodIdRawNum": 3,
+        "perfabPath": ""
+    },
+    {
+        "configIdRawNum": 2,
+        "periodIdRawNum": 1,
+        "perfabPath": ""
+    },
+    {
+        "configIdRawNum": 2,
+        "periodIdRawNum": 2,
+        "perfabPath": ""
+    },
+    {
+        "configIdRawNum": 2,
+        "periodIdRawNum": 3,
+        "perfabPath": ""
+    },
+    {
+        "configIdRawNum": 1001,
+        "periodIdRawNum": 1,
+        "perfabPath": ""
+    },
+    {
+        "configIdRawNum": 1002,
+        "periodIdRawNum": 1,
+        "perfabPath": ""
+    }
+]

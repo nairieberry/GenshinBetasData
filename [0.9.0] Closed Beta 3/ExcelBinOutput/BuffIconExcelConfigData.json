@@ -1,0 +1,749 @@
+[
+    {
+        "buffIDRawNum": 20002,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 2002,
+        "desc": "攻击力提升",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": "Eff_Avatar_Properties_Attack_Up"
+    },
+    {
+        "buffIDRawNum": 20004,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 2004,
+        "desc": "防御力提升",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": "Eff_Avatar_Properties_Defense_Up"
+    },
+    {
+        "buffIDRawNum": 20006,
+        "icon": "UI_Buff_Speed",
+        "mutexTypeRawNum": 2006,
+        "desc": "速度提升",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": "Eff_Avatar_Properties_Speed_Up"
+    },
+    {
+        "buffIDRawNum": 20008,
+        "icon": "UI_Buff_Revive",
+        "mutexTypeRawNum": 2008,
+        "desc": "芭芭拉赋予一次复生机会",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 20010,
+        "icon": "UI_Buff_Special",
+        "mutexTypeRawNum": 2010,
+        "desc": "特殊效果，例如下次攻击提高等等",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 20012,
+        "icon": "UI_Buff_Item_Recovery_HpAdd",
+        "mutexTypeRawNum": 2012,
+        "desc": "任意持续回血效果（测试中）",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 20022,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 2002,
+        "desc": "攻击力提升",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 20042,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 2004,
+        "desc": "防御力提升",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 20062,
+        "icon": "UI_Buff_Speed",
+        "mutexTypeRawNum": 2006,
+        "desc": "速度提升",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60002,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60004,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60006,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60008,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60010,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60012,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60014,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60016,
+        "icon": "",
+        "mutexTypeRawNum": 6002,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60018,
+        "icon": "",
+        "mutexTypeRawNum": 6002,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60020,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 6004,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60022,
+        "icon": "",
+        "mutexTypeRawNum": 6004,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60024,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 6004,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60026,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 6004,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60028,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 6004,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60030,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 6004,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60032,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 6004,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60034,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 6004,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60036,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 6004,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60038,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 6004,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60040,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 6004,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60042,
+        "icon": "UI_Buff_Special",
+        "mutexTypeRawNum": 6006,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60044,
+        "icon": "",
+        "mutexTypeRawNum": 6004,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60046,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 6004,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60048,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 6004,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60050,
+        "icon": "UI_Buff_Special",
+        "mutexTypeRawNum": 6006,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60052,
+        "icon": "UI_Buff_Special",
+        "mutexTypeRawNum": 6006,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60054,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60056,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60058,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60060,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60062,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60064,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60066,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60068,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60070,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60072,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60074,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60076,
+        "icon": "UI_Buff_Special",
+        "mutexTypeRawNum": 6006,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60078,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60080,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60082,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60084,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 6004,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60086,
+        "icon": "UI_Buff_Def",
+        "mutexTypeRawNum": 6004,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60088,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 60090,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 70002,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 70004,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 70006,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 70008,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 70010,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 70012,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 70014,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 70016,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 70018,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 70020,
+        "icon": "UI_Buff_Atk",
+        "mutexTypeRawNum": 6002,
+        "desc": "地城增益",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 70022,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 70024,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 70026,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 70028,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 70030,
+        "icon": "",
+        "mutexTypeRawNum": 6006,
+        "desc": "地脉buff",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 100002,
+        "icon": "UI_Buff_Item_Atk",
+        "mutexTypeRawNum": 10002,
+        "desc": "从食物获得攻击",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 100004,
+        "icon": "UI_Buff_Item_Def",
+        "mutexTypeRawNum": 10004,
+        "desc": "从食物获得防御",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 100006,
+        "icon": "UI_Buff_Item_Special",
+        "mutexTypeRawNum": 10006,
+        "desc": "特殊食物效果",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 100008,
+        "icon": "UI_Buff_Item_Mixture",
+        "mutexTypeRawNum": 10008,
+        "desc": "药剂效果",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 120002,
+        "icon": "UI_DeBuff_Attack",
+        "mutexTypeRawNum": 12002,
+        "desc": "攻击力下降",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": "Eff_Avatar_Properties_Attack_Down"
+    },
+    {
+        "buffIDRawNum": 120004,
+        "icon": "UI_DeBuff_Def",
+        "mutexTypeRawNum": 12004,
+        "desc": "防御力下降",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": "Eff_Avatar_Properties_Defense_Down"
+    },
+    {
+        "buffIDRawNum": 120006,
+        "icon": "UI_DeBuff_Speed",
+        "mutexTypeRawNum": 12006,
+        "desc": "速度下降",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": "Eff_Avatar_Properties_Speed_Down"
+    },
+    {
+        "buffIDRawNum": 120022,
+        "icon": "UI_DeBuff_Atk",
+        "mutexTypeRawNum": 12002,
+        "desc": "攻击力下降",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 120024,
+        "icon": "UI_DeBuff_Def",
+        "mutexTypeRawNum": 12004,
+        "desc": "防御力下降",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 120026,
+        "icon": "UI_DeBuff_Speed",
+        "mutexTypeRawNum": 12006,
+        "desc": "速度下降",
+        "dispelEffect": "",
+        "startEffect": "",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 180002,
+        "icon": "UI_DeBuff_Energy",
+        "mutexTypeRawNum": 18002,
+        "desc": "角色不断流失能量",
+        "dispelEffect": "ClearDebuff",
+        "startEffect": "Eff_Weapon_Wolfmound_Head",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 180004,
+        "icon": "UI_DeBuff_Hp",
+        "mutexTypeRawNum": 18004,
+        "desc": "角色不断受到伤害",
+        "dispelEffect": "ClearDebuff",
+        "startEffect": "Eff_Weapon_Wolfmound_Head",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 180006,
+        "icon": "UI_DeBuff_Consume",
+        "mutexTypeRawNum": 18006,
+        "desc": "角色消耗额外体力",
+        "dispelEffect": "ClearDebuff",
+        "startEffect": "Eff_Weapon_Wolfmound_Head",
+        "durationEffect": ""
+    },
+    {
+        "buffIDRawNum": 180008,
+        "icon": "UI_DeBuff_CDTime",
+        "mutexTypeRawNum": 18008,
+        "desc": "角色技能CD变长",
+        "dispelEffect": "ClearDebuff",
+        "startEffect": "Eff_Weapon_Wolfmound_Head",
+        "durationEffect": ""
+    }
+]

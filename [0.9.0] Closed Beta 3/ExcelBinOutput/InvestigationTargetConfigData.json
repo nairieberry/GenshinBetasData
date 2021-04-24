@@ -1,0 +1,2141 @@
+[
+    {
+        "questIdRawNum": 6000001,
+        "investigationIdRawNum": 10001,
+        "rewardIdRawNum": 450101,
+        "icon": "UI_MarkGoddess5",
+        "image": "UI_HandbookPic_God_Statue",
+        "infoDes": "拜访风起地的七天神像",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60001,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_UNLOCK_AREA",
+            "paramList": [
+                "2",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000002,
+        "investigationIdRawNum": 10001,
+        "rewardIdRawNum": 450102,
+        "icon": "UI_MarkTransPoint",
+        "image": "UI_HandbookPic_Teleport",
+        "infoDes": "激活3个传送锚点",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60002,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_UNLOCK_TRANS_POINT",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "questIdRawNum": 6000003,
+        "investigationIdRawNum": 10001,
+        "rewardIdRawNum": 450103,
+        "icon": "UI_MarkQuest_Box",
+        "image": "UI_HandbookPic_Treasure",
+        "infoDes": "开启15个散落在各地的宝箱",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60003,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_OPEN_CHEST_WITH_GADGET_ID",
+            "paramList": [
+                "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 15
+    },
+    {
+        "questIdRawNum": 6000004,
+        "investigationIdRawNum": 10001,
+        "rewardIdRawNum": 450104,
+        "icon": "UI_MarkGoddess5",
+        "image": "UI_HandbookPic_Statue_Serving",
+        "infoDes": "将蒙德的七天神像供奉至2级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60004,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_CITY_LEVEL_UP",
+            "paramList": [
+                "1",
+                "2",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000005,
+        "investigationIdRawNum": 10002,
+        "rewardIdRawNum": 450201,
+        "icon": "UI_MarkTransPoint",
+        "image": "UI_HandbookPic_Teleport",
+        "infoDes": "激活6个传送锚点",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60005,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_UNLOCK_TRANS_POINT",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 6
+    },
+    {
+        "questIdRawNum": 6000006,
+        "investigationIdRawNum": 10002,
+        "rewardIdRawNum": 450202,
+        "icon": "UI_MarkQuest_Box",
+        "image": "UI_HandbookPic_Treasure",
+        "infoDes": "开启30个散落在各地的宝箱",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60006,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_OPEN_CHEST_WITH_GADGET_ID",
+            "paramList": [
+                "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 30
+    },
+    {
+        "questIdRawNum": 6000007,
+        "investigationIdRawNum": 10002,
+        "rewardIdRawNum": 450203,
+        "icon": "UI_MarkGoddess5",
+        "image": "UI_HandbookPic_Statue_Serving",
+        "infoDes": "将蒙德的七天神像供奉至4级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60007,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_CITY_LEVEL_UP",
+            "paramList": [
+                "1",
+                "4",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000008,
+        "investigationIdRawNum": 10002,
+        "rewardIdRawNum": 450204,
+        "icon": "UI_MarkCustom_TagMonster",
+        "image": "UI_HandbookPic_Witcher",
+        "infoDes": "讨伐冰深渊法师",
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "AM0001SYFS"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+            "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+        },
+        "idRawNum": 60008,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MONSTER_DIE",
+            "paramList": [
+                "22010201",
+                "可联机",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000009,
+        "investigationIdRawNum": 10002,
+        "rewardIdRawNum": 450205,
+        "icon": "UI_MarkPoint_Restaurant",
+        "image": "UI_HandbookPic_Cooking",
+        "infoDes": "进行5次任意料理烹饪",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60009,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_DO_COOK",
+            "paramList": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 5
+    },
+    {
+        "questIdRawNum": 6000010,
+        "investigationIdRawNum": 10002,
+        "rewardIdRawNum": 450206,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Weapon_Levelup",
+        "infoDes": "将1把武器强化到10级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60010,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_WEAPON_UPGRADE",
+            "paramList": [
+                "10",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000011,
+        "investigationIdRawNum": 10003,
+        "rewardIdRawNum": 450207,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Equipment_Breakthrough",
+        "infoDes": "任意1个角色装备4件圣遗物",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60011,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_WEAR_RELIQUARY",
+            "paramList": [
+                "4",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000012,
+        "investigationIdRawNum": 10003,
+        "rewardIdRawNum": 450301,
+        "icon": "UI_MarkTransPoint",
+        "image": "UI_HandbookPic_Teleport",
+        "infoDes": "激活10个传送锚点",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60012,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_UNLOCK_TRANS_POINT",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 10
+    },
+    {
+        "questIdRawNum": 6000013,
+        "investigationIdRawNum": 10003,
+        "rewardIdRawNum": 450302,
+        "icon": "UI_MarkGoddess5",
+        "image": "UI_HandbookPic_God_Statue",
+        "infoDes": "拜访晨曦酒庄的七天神像",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60013,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_UNLOCK_AREA",
+            "paramList": [
+                "3",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000014,
+        "investigationIdRawNum": 10003,
+        "rewardIdRawNum": 450303,
+        "icon": "UI_MarkQuest_Box",
+        "image": "UI_HandbookPic_Treasure",
+        "infoDes": "开启45个散落在各地的宝箱",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60014,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_OPEN_CHEST_WITH_GADGET_ID",
+            "paramList": [
+                "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 45
+    },
+    {
+        "questIdRawNum": 6000015,
+        "investigationIdRawNum": 10003,
+        "rewardIdRawNum": 450304,
+        "icon": "UI_MarkCustom_TagMonster",
+        "image": "UI_HandbookPic_Guardian",
+        "infoDes": "讨伐遗迹守卫",
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "AM0001YJSW"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+            "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+        },
+        "idRawNum": 60015,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MONSTER_DIE",
+            "paramList": [
+                "24010101",
+                "可联机",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000016,
+        "investigationIdRawNum": 10003,
+        "rewardIdRawNum": 450305,
+        "icon": "UI_MarkPoint_Blacksmith",
+        "image": "UI_HandbookPic_Forge",
+        "infoDes": "委托锻造1次",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60016,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_DO_FORGE",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000017,
+        "investigationIdRawNum": 10003,
+        "rewardIdRawNum": 450306,
+        "icon": "UI_MarkPoint_Restaurant",
+        "image": "UI_HandbookPic_Ingredient",
+        "infoDes": "进行3次食材加工",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60017,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_DO_COMPOUND",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "questIdRawNum": 6000018,
+        "investigationIdRawNum": 10003,
+        "rewardIdRawNum": 450307,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Levelup",
+        "infoDes": "将1个角色提升到20级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60018,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_AVATAR_UPGRADE",
+            "paramList": [
+                "20",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000019,
+        "investigationIdRawNum": 10003,
+        "rewardIdRawNum": 450308,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Equipement_Levelup",
+        "infoDes": "将1个圣遗物强化到4级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60019,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_RELIQUARY_UPGRADE",
+            "paramList": [
+                "5",
+                "1",
+                "1"
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000020,
+        "investigationIdRawNum": 10004,
+        "rewardIdRawNum": 450401,
+        "icon": "UI_MarkGoddess5",
+        "image": "UI_HandbookPic_God_Statue",
+        "infoDes": "拜访碧水原的七天神像",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60020,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_UNLOCK_AREA",
+            "paramList": [
+                "5",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000021,
+        "investigationIdRawNum": 10004,
+        "rewardIdRawNum": 450402,
+        "icon": "UI_MarkGoddess5",
+        "image": "UI_HandbookPic_Statue_Serving",
+        "infoDes": "将蒙德的七天神像供奉至6级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60021,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_CITY_LEVEL_UP",
+            "paramList": [
+                "1",
+                "6",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000022,
+        "investigationIdRawNum": 10004,
+        "rewardIdRawNum": 450403,
+        "icon": "UI_MarkQuest_Events_Start",
+        "image": "UI_HandbookPic_Explore",
+        "infoDes": "领取3次每日委托悬赏奖励",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60022,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_DAILY_TASK",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "questIdRawNum": 6000023,
+        "investigationIdRawNum": 10004,
+        "rewardIdRawNum": 450404,
+        "icon": "UI_MarkCustom_TagMonster",
+        "image": "UI_HandbookPic_Boss_Reward",
+        "infoDes": "接触3次「藏金之花」或「启示之花」，并获取馈藏",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60023,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_OPEN_BLOSSOM_CHEST",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "questIdRawNum": 6000024,
+        "investigationIdRawNum": 10004,
+        "rewardIdRawNum": 450405,
+        "icon": "UI_MarkPoint_Explore",
+        "image": "UI_HandbookPic_Explore",
+        "infoDes": "完成1次探索派遣",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60024,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_AVATAR_EXPEDITION",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000025,
+        "investigationIdRawNum": 10004,
+        "rewardIdRawNum": 450406,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Level_Breakthrough",
+        "infoDes": "将任意一个角色突破到2阶",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60025,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_AVATAR_PROMOTE",
+            "paramList": [
+                "2",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000026,
+        "investigationIdRawNum": 10004,
+        "rewardIdRawNum": 450407,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Weapon_Levelup",
+        "infoDes": "将1把武器强化到20级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60026,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_WEAPON_UPGRADE",
+            "paramList": [
+                "20",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000027,
+        "investigationIdRawNum": 10004,
+        "rewardIdRawNum": 450408,
+        "icon": "UI_MarkPoint_Combine",
+        "image": "UI_HandbookPic_Compose",
+        "infoDes": "进行1次炼金",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60027,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_DO_COMBINE",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000028,
+        "investigationIdRawNum": 10004,
+        "rewardIdRawNum": 450409,
+        "icon": "UI_MarkCustom_TagMonster",
+        "image": "UI_HandbookPic_Warlock",
+        "infoDes": "讨伐雷萤术士",
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "AM0001LYSS"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+            "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+        },
+        "idRawNum": 60028,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MONSTER_DIE",
+            "paramList": [
+                "23030101",
+                "可联机",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000029,
+        "investigationIdRawNum": 10004,
+        "rewardIdRawNum": 450410,
+        "icon": "UI_MarkTower",
+        "image": "UI_HandbookPic_Shrine",
+        "infoDes": "解锁1座地灵龛",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60029,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_UNLOCK_GATE_TEMPLE",
+            "paramList": [
+                "70360041;70360068",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000030,
+        "investigationIdRawNum": 10005,
+        "rewardIdRawNum": 450501,
+        "icon": "UI_MarkGoddess5",
+        "image": "UI_HandbookPic_God_Statue",
+        "infoDes": "拜访风龙废墟的七天神像",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60030,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_UNLOCK_AREA",
+            "paramList": [
+                "4",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000031,
+        "investigationIdRawNum": 10005,
+        "rewardIdRawNum": 450502,
+        "icon": "UI_MarkTower_Tower",
+        "image": "UI_HandbookPic_Tower",
+        "infoDes": "通关深境螺旋第一层第5关",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60031,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_TOWER_LEVEL",
+            "paramList": [
+                "1",
+                "5",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000032,
+        "investigationIdRawNum": 10005,
+        "rewardIdRawNum": 450503,
+        "icon": "UI_MarkPoint_Restaurant",
+        "image": "UI_HandbookPic_Cuisine",
+        "infoDes": "解锁10种食谱",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60032,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_UNLOCK_RECIPE",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 10
+    },
+    {
+        "questIdRawNum": 6000033,
+        "investigationIdRawNum": 10005,
+        "rewardIdRawNum": 450504,
+        "icon": "UI_MarkCustom_TagMonster",
+        "image": "UI_HandbookPic_Boss_Reward",
+        "infoDes": "接触10次「藏金之花」或「启示之花」，并获取馈藏",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60033,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_OPEN_BLOSSOM_CHEST",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 10
+    },
+    {
+        "questIdRawNum": 6000034,
+        "investigationIdRawNum": 10005,
+        "rewardIdRawNum": 450505,
+        "icon": "UI_MarkTower_Weekly",
+        "image": "UI_HandbookPic_Dungeon",
+        "infoDes": "通关3次任意炼武秘境",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60034,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_DUNGEON",
+            "paramList": [
+                "4300;4301;4302;4303;4310;4311;4312;4313;4320;4321;4322;4323;4330;4331;4332;4333;5210;5211;5212;5213;5214;5215;5216;5217;5218;5219;5220;5221;5222;5223;5224;5225",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "questIdRawNum": 6000035,
+        "investigationIdRawNum": 10005,
+        "rewardIdRawNum": 450506,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Weapon_Breakthrough",
+        "infoDes": "将任意一把武器突破至2阶",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60035,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_WEAPON_PROMOTE",
+            "paramList": [
+                "2",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000036,
+        "investigationIdRawNum": 10005,
+        "rewardIdRawNum": 450507,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Level_Breakthrough",
+        "infoDes": "将任意三个角色突破到2阶",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60036,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_AVATAR_PROMOTE",
+            "paramList": [
+                "2",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "questIdRawNum": 6000037,
+        "investigationIdRawNum": 10005,
+        "rewardIdRawNum": 450508,
+        "icon": "UI_MarkQuest_Box",
+        "image": "UI_HandbookPic_Treasure",
+        "infoDes": "开启100个散落在各地的宝箱",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60037,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_OPEN_CHEST_WITH_GADGET_ID",
+            "paramList": [
+                "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 100
+    },
+    {
+        "questIdRawNum": 6000038,
+        "investigationIdRawNum": 10005,
+        "rewardIdRawNum": 450509,
+        "icon": "UI_MarkCustom_TagMonster",
+        "image": "UI_HandbookPic_Assasin",
+        "infoDes": "讨伐债务处理人",
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "AM0001ZWCLR"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+            "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+        },
+        "idRawNum": 60038,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MONSTER_DIE",
+            "paramList": [
+                "23020101",
+                "可联机",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000039,
+        "investigationIdRawNum": 10005,
+        "rewardIdRawNum": 450510,
+        "icon": "UI_MarkCustom_TagMonster",
+        "image": "UI_HandbookPic_Hunter",
+        "infoDes": "讨伐遗迹猎者",
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "AM0001YJLZ"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+            "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+        },
+        "idRawNum": 60039,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MONSTER_DIE",
+            "paramList": [
+                "24010201",
+                "可联机",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000040,
+        "investigationIdRawNum": 10006,
+        "rewardIdRawNum": 450601,
+        "icon": "UI_MarkTower_Weekly",
+        "image": "UI_HandbookPic_Dungeon",
+        "infoDes": "通关3次任意祝圣秘境",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60040,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_DUNGEON",
+            "paramList": [
+                "5000;5001;5002;5003;5004;5005;5006;5007;5008;5009;5010;5011;5012;5013;5100;5101;5102;5103;5104;5105;5106;5107;5108;5109;5110;5111;5112;5113;5114;5115",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "questIdRawNum": 6000041,
+        "investigationIdRawNum": 10006,
+        "rewardIdRawNum": 450602,
+        "icon": "UI_MarkTower_Tower",
+        "image": "UI_HandbookPic_Tower",
+        "infoDes": "通关深境螺旋第二层第5关",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60041,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_TOWER_LEVEL",
+            "paramList": [
+                "2",
+                "5",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000042,
+        "investigationIdRawNum": 10006,
+        "rewardIdRawNum": 450603,
+        "icon": "UI_MarkCustom_TagMonster",
+        "image": "UI_HandbookPic_Monster_Thunder",
+        "infoDes": "单人讨伐无相之雷",
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "AM0001WXZL"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+            "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+        },
+        "idRawNum": 60042,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MONSTER_DIE",
+            "paramList": [
+                "20040101",
+                "需单人",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000043,
+        "investigationIdRawNum": 10006,
+        "rewardIdRawNum": 450604,
+        "icon": "UI_MarkCustom_TagMonster",
+        "image": "UI_HandbookPic_Monster_Wind",
+        "infoDes": "单人讨伐无相之风",
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "AM0001WXZF"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+            "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+        },
+        "idRawNum": 60043,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MONSTER_DIE",
+            "paramList": [
+                "20040201",
+                "需单人",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000044,
+        "investigationIdRawNum": 10006,
+        "rewardIdRawNum": 450605,
+        "icon": "UI_MarkCustom_TagMonster",
+        "image": "UI_HandbookPic_Monster_Rock",
+        "infoDes": "单人讨伐无相之岩",
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "AM0001WXZY"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+            "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+        },
+        "idRawNum": 60044,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MONSTER_DIE",
+            "paramList": [
+                "20040301",
+                "需单人",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000045,
+        "investigationIdRawNum": 10006,
+        "rewardIdRawNum": 450606,
+        "icon": "UI_MarkPoint_Explore",
+        "image": "UI_HandbookPic_Explore",
+        "infoDes": "完成5次探索派遣",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60045,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_AVATAR_EXPEDITION",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 5
+    },
+    {
+        "questIdRawNum": 6000046,
+        "investigationIdRawNum": 10006,
+        "rewardIdRawNum": 450607,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Equipment_Breakthrough",
+        "infoDes": "任一角色穿戴3星及以上圣遗物套装并激活4件套效果",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60046,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_RELIQUARY_SET_NUM",
+            "paramList": [
+                "3",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000047,
+        "investigationIdRawNum": 10006,
+        "rewardIdRawNum": 450608,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Level_Breakthrough",
+        "infoDes": "将任意一个角色突破到3阶",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60047,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_AVATAR_PROMOTE",
+            "paramList": [
+                "3",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000048,
+        "investigationIdRawNum": 10006,
+        "rewardIdRawNum": 450609,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Levelup",
+        "infoDes": "将3个角色提升到40级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60048,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_AVATAR_UPGRADE",
+            "paramList": [
+                "40",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "questIdRawNum": 6000049,
+        "investigationIdRawNum": 10006,
+        "rewardIdRawNum": 450610,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Equipement_Levelup",
+        "infoDes": "将12件圣遗物强化到4级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60049,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_RELIQUARY_UPGRADE",
+            "paramList": [
+                "5",
+                "1",
+                "1"
+            ]
+        },
+        "progressRawNum": 12
+    },
+    {
+        "questIdRawNum": 6000050,
+        "investigationIdRawNum": 10006,
+        "rewardIdRawNum": 450611,
+        "icon": "UI_MarkPoint_Souvenir",
+        "image": "UI_HandbookPic_Souvenir",
+        "infoDes": "在纪念品商店购买1次任意商品",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60050,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_BUY_SHOP_GOODS",
+            "paramList": [
+                "1002;1009",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000051,
+        "investigationIdRawNum": 10006,
+        "rewardIdRawNum": 450612,
+        "icon": "UI_MarkTower",
+        "image": "UI_HandbookPic_Shrine",
+        "infoDes": "解锁5座地灵龛",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60051,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_UNLOCK_GATE_TEMPLE",
+            "paramList": [
+                "70360041;70360068",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 5
+    },
+    {
+        "questIdRawNum": 6000052,
+        "investigationIdRawNum": 10007,
+        "rewardIdRawNum": 450701,
+        "icon": "UI_MarkTower_Weekly",
+        "image": "UI_HandbookPic_Dungeon",
+        "infoDes": "通关3次任意精通秘境",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60052,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_DUNGEON",
+            "paramList": [
+                "4200;4201;4202;4203;4210;4211;4212;4213;4220;4221;4222;4223;4230;4231;4232;4233;5250;5251;5252;5253;5254;5255;5256;5257;5258;5259;5260;5261;5262;5263;5264;5265",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "questIdRawNum": 6000053,
+        "investigationIdRawNum": 10007,
+        "rewardIdRawNum": 450702,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Talent",
+        "infoDes": "升级3次任意角色天赋",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60053,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_UPGRADE_TALENT",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "questIdRawNum": 6000054,
+        "investigationIdRawNum": 10007,
+        "rewardIdRawNum": 450703,
+        "icon": "UI_MarkGoddess5",
+        "image": "UI_HandbookPic_Statue_Serving",
+        "infoDes": "将蒙德的七天神像供奉至10级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60054,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_CITY_LEVEL_UP",
+            "paramList": [
+                "1",
+                "10",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000055,
+        "investigationIdRawNum": 10007,
+        "rewardIdRawNum": 450704,
+        "icon": "UI_MarkCustom_TagMonster",
+        "image": "UI_HandbookPic_Boss_Reward",
+        "infoDes": "击败10个开放世界BOSS，接触征讨之花并获得馈赠",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60055,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_WORLD_BOSS_REWARD",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 10
+    },
+    {
+        "questIdRawNum": 6000056,
+        "investigationIdRawNum": 10007,
+        "rewardIdRawNum": 450705,
+        "icon": "UI_MarkCustom_TagMonster",
+        "image": "UI_HandbookPic_WolfKing",
+        "infoDes": "单人通过奔狼的领主·安德留斯的试炼",
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "AM0001BFL"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+            "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+        },
+        "idRawNum": 60056,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MONSTER_DIE",
+            "paramList": [
+                "29020102",
+                "需单人",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000057,
+        "investigationIdRawNum": 10007,
+        "rewardIdRawNum": 450706,
+        "icon": "UI_MarkTower_Tower",
+        "image": "UI_HandbookPic_Tower",
+        "infoDes": "通关深境螺旋第四层第5关",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60057,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_TOWER_LEVEL",
+            "paramList": [
+                "4",
+                "5",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000058,
+        "investigationIdRawNum": 10007,
+        "rewardIdRawNum": 450707,
+        "icon": "UI_MarkPoint_Blacksmith",
+        "image": "UI_HandbookPic_Forge",
+        "infoDes": "锻造1把4星武器",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60058,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FORGE_WEAPON",
+            "paramList": [
+                "4",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000059,
+        "investigationIdRawNum": 10007,
+        "rewardIdRawNum": 450708,
+        "icon": "UI_MarkQuest_Box",
+        "image": "UI_HandbookPic_Treasure",
+        "infoDes": "开启300个散落在各地的宝箱",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60059,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_OPEN_CHEST_WITH_GADGET_ID",
+            "paramList": [
+                "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 300
+    },
+    {
+        "questIdRawNum": 6000060,
+        "investigationIdRawNum": 10007,
+        "rewardIdRawNum": 450709,
+        "icon": "UI_MarkPoint_Restaurant",
+        "image": "UI_HandbookPic_Cooking",
+        "infoDes": "制作5次完美料理烹饪",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60060,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_DO_COOK",
+            "paramList": [
+                "3",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 5
+    },
+    {
+        "questIdRawNum": 6000061,
+        "investigationIdRawNum": 10007,
+        "rewardIdRawNum": 450710,
+        "icon": "UI_MarkPoint_Combine",
+        "image": "UI_HandbookPic_Compose",
+        "infoDes": "进行5次炼金",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60061,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_DO_COMBINE",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 5
+    },
+    {
+        "questIdRawNum": 6000062,
+        "investigationIdRawNum": 10007,
+        "rewardIdRawNum": 450711,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Equipement_Levelup",
+        "infoDes": "将4件圣遗物强化到8级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60062,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_RELIQUARY_UPGRADE",
+            "paramList": [
+                "9",
+                "1",
+                "1"
+            ]
+        },
+        "progressRawNum": 4
+    },
+    {
+        "questIdRawNum": 6000063,
+        "investigationIdRawNum": 10007,
+        "rewardIdRawNum": 450712,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Level_Breakthrough",
+        "infoDes": "将任意三个角色突破到3阶",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60063,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_AVATAR_PROMOTE",
+            "paramList": [
+                "3",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "questIdRawNum": 6000064,
+        "investigationIdRawNum": 10007,
+        "rewardIdRawNum": 450713,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Weapon_Levelup",
+        "infoDes": "将1把武器强化到40级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60064,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_WEAPON_UPGRADE",
+            "paramList": [
+                "40",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000065,
+        "investigationIdRawNum": 10008,
+        "rewardIdRawNum": 450801,
+        "icon": "UI_MarkGoddess5",
+        "image": "UI_HandbookPic_Statue_Serving",
+        "infoDes": "将璃月的七天神像供奉至10级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60065,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_CITY_LEVEL_UP",
+            "paramList": [
+                "2",
+                "10",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000066,
+        "investigationIdRawNum": 10008,
+        "rewardIdRawNum": 450802,
+        "icon": "UI_MarkCustom_TagMonster",
+        "image": "UI_HandbookPic_Boss_Reward",
+        "infoDes": "击败20个开放世界BOSS，接触征讨之花并获得馈赠",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60066,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_WORLD_BOSS_REWARD",
+            "paramList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 20
+    },
+    {
+        "questIdRawNum": 6000067,
+        "investigationIdRawNum": 10008,
+        "rewardIdRawNum": 450803,
+        "icon": "UI_MarkTower_Weekly",
+        "image": "UI_HandbookPic_Dungeon",
+        "infoDes": "单人通关追忆：暴风般狂风之龙II",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60067,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_DUNGEON",
+            "paramList": [
+                "2021",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000068,
+        "investigationIdRawNum": 10008,
+        "rewardIdRawNum": 450804,
+        "icon": "UI_MarkTower_Tower",
+        "image": "UI_HandbookPic_Tower",
+        "infoDes": "通关深境螺旋第五层第5关",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60068,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_TOWER_LEVEL",
+            "paramList": [
+                "5",
+                "5",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000069,
+        "investigationIdRawNum": 10008,
+        "rewardIdRawNum": 450805,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Levelup",
+        "infoDes": "将3个角色提升到60级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60069,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_AVATAR_UPGRADE",
+            "paramList": [
+                "60",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "questIdRawNum": 6000070,
+        "investigationIdRawNum": 10008,
+        "rewardIdRawNum": 450806,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Equipment_Breakthrough",
+        "infoDes": "任意2名角色同时穿戴4星及以上圣遗物套装并激活4件套效果",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60070,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_RELIQUARY_SET_NUM",
+            "paramList": [
+                "4",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 2
+    },
+    {
+        "questIdRawNum": 6000071,
+        "investigationIdRawNum": 10008,
+        "rewardIdRawNum": 450807,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Equipement_Levelup",
+        "infoDes": "将4件4星及以上圣遗物强化到16级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60071,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_RELIQUARY_UPGRADE",
+            "paramList": [
+                "17",
+                "4",
+                "1"
+            ]
+        },
+        "progressRawNum": 4
+    },
+    {
+        "questIdRawNum": 6000072,
+        "investigationIdRawNum": 10008,
+        "rewardIdRawNum": 450808,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Weapon_Levelup",
+        "infoDes": "将3把武器强化到40级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60072,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_WEAPON_UPGRADE",
+            "paramList": [
+                "40",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "questIdRawNum": 6000073,
+        "investigationIdRawNum": 10008,
+        "rewardIdRawNum": 450809,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Weapon_Breakthrough",
+        "infoDes": "将任意一把武器突破至3阶",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60073,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_WEAPON_PROMOTE",
+            "paramList": [
+                "3",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000074,
+        "investigationIdRawNum": 10008,
+        "rewardIdRawNum": 450810,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Level_Breakthrough",
+        "infoDes": "将任意一个角色突破到4阶",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60074,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_AVATAR_PROMOTE",
+            "paramList": [
+                "4",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000075,
+        "investigationIdRawNum": 10008,
+        "rewardIdRawNum": 450811,
+        "icon": "UI_MarkTower",
+        "image": "UI_HandbookPic_Shrine",
+        "infoDes": "解锁15座地灵龛",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60075,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_UNLOCK_GATE_TEMPLE",
+            "paramList": [
+                "70360041;70360068",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 15
+    },
+    {
+        "questIdRawNum": 6000076,
+        "investigationIdRawNum": 10008,
+        "rewardIdRawNum": 450812,
+        "icon": "UI_MarkPoint_Wind",
+        "image": "UI_HandbookPic_Wind_Sign",
+        "infoDes": "累计消耗300个风之印",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60076,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_COST_MATERIAL",
+            "paramList": [
+                "305",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 300
+    },
+    {
+        "questIdRawNum": 6000077,
+        "investigationIdRawNum": 10008,
+        "rewardIdRawNum": 450813,
+        "icon": "UI_MarkPoint_Rock",
+        "image": "UI_HandbookPic_Rock_Sign",
+        "infoDes": "累计消耗300个岩之印",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60077,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_COST_MATERIAL",
+            "paramList": [
+                "307",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 300
+    },
+    {
+        "questIdRawNum": 6000078,
+        "investigationIdRawNum": 10009,
+        "rewardIdRawNum": 450901,
+        "icon": "UI_MarkTower_Weekly",
+        "image": "UI_HandbookPic_Dungeon",
+        "infoDes": "单人通关追忆：暴风般狂风之龙III",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60078,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_DUNGEON",
+            "paramList": [
+                "2022",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000079,
+        "investigationIdRawNum": 10009,
+        "rewardIdRawNum": 450902,
+        "icon": "UI_MarkTower",
+        "image": "UI_HandbookPic_Shrine",
+        "infoDes": "解锁20座地灵龛",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60079,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_UNLOCK_GATE_TEMPLE",
+            "paramList": [
+                "70360041;70360068",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 20
+    },
+    {
+        "questIdRawNum": 6000080,
+        "investigationIdRawNum": 10009,
+        "rewardIdRawNum": 450903,
+        "icon": "UI_MarkTower_Tower",
+        "image": "UI_HandbookPic_Tower",
+        "infoDes": "通关深境螺旋第六层第5关",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60080,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_TOWER_LEVEL",
+            "paramList": [
+                "6",
+                "5",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000081,
+        "investigationIdRawNum": 10009,
+        "rewardIdRawNum": 450904,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Level_Breakthrough",
+        "infoDes": "将任意三个角色突破到4阶",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60081,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_AVATAR_PROMOTE",
+            "paramList": [
+                "4",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "questIdRawNum": 6000082,
+        "investigationIdRawNum": 10009,
+        "rewardIdRawNum": 450905,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Levelup",
+        "infoDes": "将1个角色提升到80级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60082,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_AVATAR_UPGRADE",
+            "paramList": [
+                "80",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000083,
+        "investigationIdRawNum": 10009,
+        "rewardIdRawNum": 450906,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Equipment_Breakthrough",
+        "infoDes": "任意2名角色同时穿戴5星圣遗物套装并激活4件套效果",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60083,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_RELIQUARY_SET_NUM",
+            "paramList": [
+                "5",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 2
+    },
+    {
+        "questIdRawNum": 6000084,
+        "investigationIdRawNum": 10009,
+        "rewardIdRawNum": 450907,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Equipement_Levelup",
+        "infoDes": "将8件5星圣遗物强化到20级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60084,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_RELIQUARY_UPGRADE",
+            "paramList": [
+                "21",
+                "5",
+                "1"
+            ]
+        },
+        "progressRawNum": 8
+    },
+    {
+        "questIdRawNum": 6000085,
+        "investigationIdRawNum": 10009,
+        "rewardIdRawNum": 450908,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Weapon_Breakthrough",
+        "infoDes": "将任意三把武器突破至3阶",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60085,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_WEAPON_PROMOTE",
+            "paramList": [
+                "3",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 3
+    },
+    {
+        "questIdRawNum": 6000086,
+        "investigationIdRawNum": 10009,
+        "rewardIdRawNum": 450909,
+        "icon": "UI_Mark_Common",
+        "image": "UI_HandbookPic_Weapon_Levelup",
+        "infoDes": "将1把武器强化到60级",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60086,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_WEAPON_UPGRADE",
+            "paramList": [
+                "60",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 1
+    },
+    {
+        "questIdRawNum": 6000087,
+        "investigationIdRawNum": 10009,
+        "rewardIdRawNum": 450910,
+        "icon": "UI_MarkPoint_Wind",
+        "image": "UI_HandbookPic_Wind_Sign",
+        "infoDes": "累计消耗500个风之印",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60087,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_COST_MATERIAL",
+            "paramList": [
+                "305",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 500
+    },
+    {
+        "questIdRawNum": 6000088,
+        "investigationIdRawNum": 10009,
+        "rewardIdRawNum": 450911,
+        "icon": "UI_MarkPoint_Rock",
+        "image": "UI_HandbookPic_Rock_Sign",
+        "infoDes": "累计消耗500个岩之印",
+        "guide": {
+            "param": [
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "idRawNum": 60088,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_COST_MATERIAL",
+            "paramList": [
+                "307",
+                "",
+                ""
+            ]
+        },
+        "progressRawNum": 500
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 3,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 6,
+        "reward_idRawNum": 220310,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 4,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 5,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 7,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 8,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 10,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 11,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 12,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 13,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 14,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 15,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 29,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 33,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 34,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 35,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 36,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 37,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 57,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 58,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 59,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 60,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 61,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 69,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 72,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 73,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 74,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 75,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 76,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 77,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 78,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 79,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 80,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 81,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 82,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 84,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 85,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 86,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 87,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 91,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 92,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 93,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 95,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 96,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 97,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 99,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 100,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 103,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 104,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 105,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 114,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 116,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 121,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 122,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 127,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 128,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 152,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 153,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 154,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 155,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 156,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 162,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 165,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 166,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 167,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    },
+    {
+        "scene_idRawNum": 3,
+        "point_idRawNum": 168,
+        "reward_idRawNum": 220311,
+        "group_id_vec": []
+    }
+]

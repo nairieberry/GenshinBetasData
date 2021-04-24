@@ -1,0 +1,638 @@
+[
+    {
+        "idRawNum": 1,
+        "reliquaryIdRawNum": 20002,
+        "levelRawNum": 1,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 12001,
+        "appendPropList": []
+    },
+    {
+        "idRawNum": 2,
+        "reliquaryIdRawNum": 20004,
+        "levelRawNum": 1,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 14001,
+        "appendPropList": []
+    },
+    {
+        "idRawNum": 11,
+        "reliquaryIdRawNum": 52211,
+        "levelRawNum": 4,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 15003,
+        "appendPropList": [
+            101032,
+            101062,
+            101022
+        ]
+    },
+    {
+        "idRawNum": 12,
+        "reliquaryIdRawNum": 52221,
+        "levelRawNum": 4,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 12001,
+        "appendPropList": [
+            101032,
+            101062,
+            101022
+        ]
+    },
+    {
+        "idRawNum": 13,
+        "reliquaryIdRawNum": 52231,
+        "levelRawNum": 4,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 13007,
+        "appendPropList": [
+            101032,
+            101062,
+            101022
+        ]
+    },
+    {
+        "idRawNum": 14,
+        "reliquaryIdRawNum": 52241,
+        "levelRawNum": 4,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 14001,
+        "appendPropList": [
+            101032,
+            101062,
+            101052
+        ]
+    },
+    {
+        "idRawNum": 15,
+        "reliquaryIdRawNum": 52251,
+        "levelRawNum": 4,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 10001,
+        "appendPropList": [
+            101032,
+            101062,
+            101052
+        ]
+    },
+    {
+        "idRawNum": 21,
+        "reliquaryIdRawNum": 52311,
+        "levelRawNum": 8,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 15003,
+        "appendPropList": [
+            201023,
+            201033,
+            201033,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 22,
+        "reliquaryIdRawNum": 52321,
+        "levelRawNum": 8,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 12001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 23,
+        "reliquaryIdRawNum": 52331,
+        "levelRawNum": 8,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 13007,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 24,
+        "reliquaryIdRawNum": 52341,
+        "levelRawNum": 8,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 14001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 25,
+        "reliquaryIdRawNum": 52351,
+        "levelRawNum": 8,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 10001,
+        "appendPropList": [
+            201023,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 31,
+        "reliquaryIdRawNum": 52312,
+        "levelRawNum": 12,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 15004,
+        "appendPropList": [
+            201023,
+            201033,
+            201033,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 32,
+        "reliquaryIdRawNum": 52322,
+        "levelRawNum": 12,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 12001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 33,
+        "reliquaryIdRawNum": 52332,
+        "levelRawNum": 12,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 13007,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 34,
+        "reliquaryIdRawNum": 52342,
+        "levelRawNum": 12,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 14001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 35,
+        "reliquaryIdRawNum": 52352,
+        "levelRawNum": 12,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 10002,
+        "appendPropList": [
+            201023,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 41,
+        "reliquaryIdRawNum": 52412,
+        "levelRawNum": 14,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 15004,
+        "appendPropList": [
+            201023,
+            201033,
+            201033,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 42,
+        "reliquaryIdRawNum": 52422,
+        "levelRawNum": 14,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 12001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 43,
+        "reliquaryIdRawNum": 52432,
+        "levelRawNum": 14,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 13007,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 44,
+        "reliquaryIdRawNum": 52442,
+        "levelRawNum": 14,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 14001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 45,
+        "reliquaryIdRawNum": 52452,
+        "levelRawNum": 14,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 10002,
+        "appendPropList": [
+            201023,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 51,
+        "reliquaryIdRawNum": 52413,
+        "levelRawNum": 14,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 15004,
+        "appendPropList": [
+            201023,
+            201033,
+            201033,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 52,
+        "reliquaryIdRawNum": 52423,
+        "levelRawNum": 14,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 12001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 53,
+        "reliquaryIdRawNum": 52433,
+        "levelRawNum": 14,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 13007,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 54,
+        "reliquaryIdRawNum": 52443,
+        "levelRawNum": 14,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 14001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 55,
+        "reliquaryIdRawNum": 52453,
+        "levelRawNum": 14,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 10002,
+        "appendPropList": [
+            201023,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 61,
+        "reliquaryIdRawNum": 52413,
+        "levelRawNum": 16,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 15004,
+        "appendPropList": [
+            201023,
+            201033,
+            201033,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 62,
+        "reliquaryIdRawNum": 52423,
+        "levelRawNum": 16,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 12001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 63,
+        "reliquaryIdRawNum": 52433,
+        "levelRawNum": 16,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 13007,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 64,
+        "reliquaryIdRawNum": 52443,
+        "levelRawNum": 16,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 14001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 65,
+        "reliquaryIdRawNum": 52453,
+        "levelRawNum": 16,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 10002,
+        "appendPropList": [
+            201023,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 71,
+        "reliquaryIdRawNum": 52514,
+        "levelRawNum": 16,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 15004,
+        "appendPropList": [
+            201023,
+            201033,
+            201033,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 72,
+        "reliquaryIdRawNum": 52524,
+        "levelRawNum": 16,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 12001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 73,
+        "reliquaryIdRawNum": 52534,
+        "levelRawNum": 16,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 13007,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 74,
+        "reliquaryIdRawNum": 52544,
+        "levelRawNum": 16,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 14001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 75,
+        "reliquaryIdRawNum": 52554,
+        "levelRawNum": 16,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 10002,
+        "appendPropList": [
+            201023,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 81,
+        "reliquaryIdRawNum": 52514,
+        "levelRawNum": 18,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 15004,
+        "appendPropList": [
+            201023,
+            201033,
+            201033,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 82,
+        "reliquaryIdRawNum": 52524,
+        "levelRawNum": 18,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 12001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 83,
+        "reliquaryIdRawNum": 52534,
+        "levelRawNum": 18,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 13007,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 84,
+        "reliquaryIdRawNum": 52544,
+        "levelRawNum": 18,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 14001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 85,
+        "reliquaryIdRawNum": 52554,
+        "levelRawNum": 18,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 10002,
+        "appendPropList": [
+            201023,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 91,
+        "reliquaryIdRawNum": 52514,
+        "levelRawNum": 20,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 15004,
+        "appendPropList": [
+            201023,
+            201033,
+            201033,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 92,
+        "reliquaryIdRawNum": 52524,
+        "levelRawNum": 20,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 12001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 93,
+        "reliquaryIdRawNum": 52534,
+        "levelRawNum": 20,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 13007,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 94,
+        "reliquaryIdRawNum": 52544,
+        "levelRawNum": 20,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 14001,
+        "appendPropList": [
+            201233,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    },
+    {
+        "idRawNum": 95,
+        "reliquaryIdRawNum": 52554,
+        "levelRawNum": 20,
+        "promoteLevelRawNum": 0,
+        "mainPropIdRawNum": 10002,
+        "appendPropList": [
+            201023,
+            201063,
+            201063,
+            201203,
+            201033
+        ]
+    }
+]

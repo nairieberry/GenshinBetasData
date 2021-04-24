@@ -1,0 +1,42 @@
+[
+    {
+        "interactIdRawNum": 1,
+        "consumeItemIdRawNum": 100001,
+        "consumeItemNumRawNum": 1,
+        "actionType": "INTERACT_ACTION_STATE",
+        "param1RawNum": 201,
+        "param2RawNum": 0
+    },
+    {
+        "interactIdRawNum": 2,
+        "consumeItemIdRawNum": 107006,
+        "consumeItemNumRawNum": 1,
+        "actionType": "INTERACT_ACTION_STATE",
+        "param1RawNum": 201,
+        "param2RawNum": 0
+    },
+    {
+        "interactIdRawNum": 3,
+        "consumeItemIdRawNum": 107007,
+        "consumeItemNumRawNum": 1,
+        "actionType": "INTERACT_ACTION_STATE",
+        "param1RawNum": 201,
+        "param2RawNum": 0
+    },
+    {
+        "interactIdRawNum": 4,
+        "consumeItemIdRawNum": 100526,
+        "consumeItemNumRawNum": 1,
+        "actionType": "INTERACT_ACTION_STATE",
+        "param1RawNum": 0,
+        "param2RawNum": 0
+    },
+    {
+        "interactIdRawNum": 5,
+        "consumeItemIdRawNum": 100527,
+        "consumeItemNumRawNum": 1,
+        "actionType": "INTERACT_ACTION_STATE",
+        "param1RawNum": 201,
+        "param2RawNum": 0
+    }
+]

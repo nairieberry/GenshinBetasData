@@ -1,0 +1,127 @@
+[
+    {
+        "idRawNum": 1001,
+        "commentTextMapHash": 4156169108,
+        "trophicLevelRawNum": 3,
+        "enemyCampList": [
+            4001,
+            5001,
+            5002,
+            5003,
+            9001,
+            9002
+        ]
+    },
+    {
+        "idRawNum": 2001,
+        "commentTextMapHash": 3522742044,
+        "trophicLevelRawNum": 3,
+        "enemyCampList": []
+    },
+    {
+        "idRawNum": 3001,
+        "commentTextMapHash": 3416609972,
+        "trophicLevelRawNum": 4,
+        "enemyCampList": [
+            4001,
+            5001,
+            5002,
+            5003,
+            9001,
+            9002
+        ]
+    },
+    {
+        "idRawNum": 4001,
+        "commentTextMapHash": 345023044,
+        "trophicLevelRawNum": 5,
+        "enemyCampList": [
+            1001,
+            3001,
+            9001,
+            9002,
+            5003
+        ]
+    },
+    {
+        "idRawNum": 5001,
+        "commentTextMapHash": 279052964,
+        "trophicLevelRawNum": 5,
+        "enemyCampList": [
+            1001,
+            3001,
+            4001,
+            5002,
+            9001,
+            9002,
+            5003
+        ]
+    },
+    {
+        "idRawNum": 5002,
+        "commentTextMapHash": 1295470028,
+        "trophicLevelRawNum": 5,
+        "enemyCampList": [
+            1001,
+            3001,
+            4001,
+            5001,
+            9001,
+            9002,
+            5003
+        ]
+    },
+    {
+        "idRawNum": 5003,
+        "commentTextMapHash": 264607196,
+        "trophicLevelRawNum": 5,
+        "enemyCampList": [
+            1001,
+            3001,
+            4001,
+            5002,
+            5001,
+            9001,
+            9002
+        ]
+    },
+    {
+        "idRawNum": 9001,
+        "commentTextMapHash": 1709020644,
+        "trophicLevelRawNum": 0,
+        "enemyCampList": [
+            1001,
+            3001,
+            4001,
+            5001,
+            5002,
+            5003
+        ]
+    },
+    {
+        "idRawNum": 9002,
+        "commentTextMapHash": 4199524708,
+        "trophicLevelRawNum": 0,
+        "enemyCampList": [
+            1001,
+            3001,
+            4001,
+            5001,
+            5002,
+            5003
+        ]
+    },
+    {
+        "idRawNum": 9999,
+        "commentTextMapHash": 1379042500,
+        "trophicLevelRawNum": 0,
+        "enemyCampList": [
+            1001,
+            3001,
+            4001,
+            5001,
+            5002,
+            5003
+        ]
+    }
+]

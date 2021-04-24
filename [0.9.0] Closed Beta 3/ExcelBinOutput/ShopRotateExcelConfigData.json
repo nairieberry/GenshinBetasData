@@ -1,0 +1,128 @@
+[
+    {
+        "idRawNum": 1,
+        "rotateIdRawNum": 10201,
+        "itemIdRawNum": 1020,
+        "rotateOrderRawNum": 1
+    },
+    {
+        "idRawNum": 2,
+        "rotateIdRawNum": 10201,
+        "itemIdRawNum": 1032,
+        "rotateOrderRawNum": 2
+    },
+    {
+        "idRawNum": 3,
+        "rotateIdRawNum": 10201,
+        "itemIdRawNum": 1014,
+        "rotateOrderRawNum": 3
+    },
+    {
+        "idRawNum": 4,
+        "rotateIdRawNum": 10201,
+        "itemIdRawNum": 1031,
+        "rotateOrderRawNum": 4
+    },
+    {
+        "idRawNum": 5,
+        "rotateIdRawNum": 10201,
+        "itemIdRawNum": 1027,
+        "rotateOrderRawNum": 5
+    },
+    {
+        "idRawNum": 6,
+        "rotateIdRawNum": 10201,
+        "itemIdRawNum": 1024,
+        "rotateOrderRawNum": 6
+    },
+    {
+        "idRawNum": 7,
+        "rotateIdRawNum": 10202,
+        "itemIdRawNum": 1021,
+        "rotateOrderRawNum": 1
+    },
+    {
+        "idRawNum": 8,
+        "rotateIdRawNum": 10202,
+        "itemIdRawNum": 1006,
+        "rotateOrderRawNum": 2
+    },
+    {
+        "idRawNum": 9,
+        "rotateIdRawNum": 10202,
+        "itemIdRawNum": 1015,
+        "rotateOrderRawNum": 3
+    },
+    {
+        "idRawNum": 10,
+        "rotateIdRawNum": 10202,
+        "itemIdRawNum": 1034,
+        "rotateOrderRawNum": 4
+    },
+    {
+        "idRawNum": 11,
+        "rotateIdRawNum": 10202,
+        "itemIdRawNum": 1025,
+        "rotateOrderRawNum": 5
+    },
+    {
+        "idRawNum": 12,
+        "rotateIdRawNum": 10202,
+        "itemIdRawNum": 1023,
+        "rotateOrderRawNum": 6
+    },
+    {
+        "idRawNum": 13,
+        "rotateIdRawNum": 10203,
+        "itemIdRawNum": 11404,
+        "rotateOrderRawNum": 1
+    },
+    {
+        "idRawNum": 14,
+        "rotateIdRawNum": 10203,
+        "itemIdRawNum": 11408,
+        "rotateOrderRawNum": 2
+    },
+    {
+        "idRawNum": 15,
+        "rotateIdRawNum": 10204,
+        "itemIdRawNum": 12404,
+        "rotateOrderRawNum": 1
+    },
+    {
+        "idRawNum": 16,
+        "rotateIdRawNum": 10204,
+        "itemIdRawNum": 12408,
+        "rotateOrderRawNum": 2
+    },
+    {
+        "idRawNum": 17,
+        "rotateIdRawNum": 10205,
+        "itemIdRawNum": 13404,
+        "rotateOrderRawNum": 1
+    },
+    {
+        "idRawNum": 19,
+        "rotateIdRawNum": 10206,
+        "itemIdRawNum": 14404,
+        "rotateOrderRawNum": 1
+    },
+    {
+        "idRawNum": 20,
+        "rotateIdRawNum": 10206,
+        "itemIdRawNum": 14408,
+        "rotateOrderRawNum": 2
+    },
+    {
+        "idRawNum": 21,
+        "rotateIdRawNum": 10207,
+        "itemIdRawNum": 15404,
+        "rotateOrderRawNum": 1
+    },
+    {
+        "idRawNum": 22,
+        "rotateIdRawNum": 10207,
+        "itemIdRawNum": 15408,
+        "rotateOrderRawNum": 2
+    }
+]

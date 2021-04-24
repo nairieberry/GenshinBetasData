@@ -1,0 +1,519 @@
+[
+    {
+        "IDRawNum": 101,
+        "nameTextMapHash": 2498537973,
+        "city_idRawNum": 1,
+        "open_condition_vec": [
+            {
+                "paraRawNum": 14
+            },
+            {
+                "type": "EXP_OPEN_COND_POINT",
+                "paraRawNum": 7
+            },
+            {
+                "paraRawNum": 0
+            }
+        ],
+        "time_reward_vec": [
+            {
+                "htimeRawNum": 4,
+                "reward_drop_idRawNum": 205010100,
+                "rewardPreviewRawNum": 1011
+            },
+            {
+                "htimeRawNum": 8,
+                "reward_drop_idRawNum": 205010300,
+                "rewardPreviewRawNum": 1012
+            },
+            {
+                "htimeRawNum": 12,
+                "reward_drop_idRawNum": 205010500,
+                "rewardPreviewRawNum": 1013
+            },
+            {
+                "htimeRawNum": 20,
+                "reward_drop_idRawNum": 205010700,
+                "rewardPreviewRawNum": 1014
+            }
+        ],
+        "descriptionTextMapHash": 2883968079,
+        "picture": "UI_ExplorePic_101",
+        "posXRawNum": 0.5400000214576721,
+        "posYRawNum": 0.5889999866485596
+    },
+    {
+        "IDRawNum": 102,
+        "nameTextMapHash": 3796215893,
+        "city_idRawNum": 1,
+        "open_condition_vec": [
+            {
+                "paraRawNum": 14
+            },
+            {
+                "type": "EXP_OPEN_COND_POINT",
+                "paraRawNum": 4
+            },
+            {
+                "paraRawNum": 0
+            }
+        ],
+        "time_reward_vec": [
+            {
+                "htimeRawNum": 4,
+                "reward_drop_idRawNum": 205030100,
+                "rewardPreviewRawNum": 1031
+            },
+            {
+                "htimeRawNum": 8,
+                "reward_drop_idRawNum": 205030300,
+                "rewardPreviewRawNum": 1032
+            },
+            {
+                "htimeRawNum": 12,
+                "reward_drop_idRawNum": 205030500,
+                "rewardPreviewRawNum": 1033
+            },
+            {
+                "htimeRawNum": 20,
+                "reward_drop_idRawNum": 205030700,
+                "rewardPreviewRawNum": 1034
+            }
+        ],
+        "descriptionTextMapHash": 144077271,
+        "picture": "UI_ExplorePic_102",
+        "posXRawNum": 0.5950000286102295,
+        "posYRawNum": 0.5109999775886536
+    },
+    {
+        "IDRawNum": 103,
+        "nameTextMapHash": 3497395333,
+        "city_idRawNum": 1,
+        "open_condition_vec": [
+            {
+                "paraRawNum": 16
+            },
+            {
+                "type": "EXP_OPEN_COND_POINT",
+                "paraRawNum": 4
+            },
+            {
+                "paraRawNum": 0
+            }
+        ],
+        "time_reward_vec": [
+            {
+                "htimeRawNum": 4,
+                "reward_drop_idRawNum": 205010100,
+                "rewardPreviewRawNum": 1011
+            },
+            {
+                "htimeRawNum": 8,
+                "reward_drop_idRawNum": 205010300,
+                "rewardPreviewRawNum": 1012
+            },
+            {
+                "htimeRawNum": 12,
+                "reward_drop_idRawNum": 205010500,
+                "rewardPreviewRawNum": 1013
+            },
+            {
+                "htimeRawNum": 20,
+                "reward_drop_idRawNum": 205010700,
+                "rewardPreviewRawNum": 1014
+            }
+        ],
+        "descriptionTextMapHash": 1005136959,
+        "picture": "UI_ExplorePic_103",
+        "posXRawNum": 0.6079999804496765,
+        "posYRawNum": 0.40400001406669617
+    },
+    {
+        "IDRawNum": 104,
+        "nameTextMapHash": 490005341,
+        "city_idRawNum": 1,
+        "open_condition_vec": [
+            {
+                "paraRawNum": 16
+            },
+            {
+                "type": "EXP_OPEN_COND_POINT",
+                "paraRawNum": 7
+            },
+            {
+                "paraRawNum": 0
+            }
+        ],
+        "time_reward_vec": [
+            {
+                "htimeRawNum": 4,
+                "reward_drop_idRawNum": 205040100,
+                "rewardPreviewRawNum": 1041
+            },
+            {
+                "htimeRawNum": 8,
+                "reward_drop_idRawNum": 205040300,
+                "rewardPreviewRawNum": 1042
+            },
+            {
+                "htimeRawNum": 12,
+                "reward_drop_idRawNum": 205040500,
+                "rewardPreviewRawNum": 1043
+            },
+            {
+                "htimeRawNum": 20,
+                "reward_drop_idRawNum": 205040700,
+                "rewardPreviewRawNum": 1044
+            }
+        ],
+        "descriptionTextMapHash": 2345799639,
+        "picture": "UI_ExplorePic_104",
+        "posXRawNum": 0.43799999356269836,
+        "posYRawNum": 0.6700000166893005
+    },
+    {
+        "IDRawNum": 105,
+        "nameTextMapHash": 3611930813,
+        "city_idRawNum": 1,
+        "open_condition_vec": [
+            {
+                "paraRawNum": 18
+            },
+            {
+                "type": "EXP_OPEN_COND_POINT",
+                "paraRawNum": 29
+            },
+            {
+                "paraRawNum": 0
+            }
+        ],
+        "time_reward_vec": [
+            {
+                "htimeRawNum": 4,
+                "reward_drop_idRawNum": 205050100,
+                "rewardPreviewRawNum": 1051
+            },
+            {
+                "htimeRawNum": 8,
+                "reward_drop_idRawNum": 205050300,
+                "rewardPreviewRawNum": 1052
+            },
+            {
+                "htimeRawNum": 12,
+                "reward_drop_idRawNum": 205050500,
+                "rewardPreviewRawNum": 1053
+            },
+            {
+                "htimeRawNum": 20,
+                "reward_drop_idRawNum": 205050700,
+                "rewardPreviewRawNum": 1054
+            }
+        ],
+        "descriptionTextMapHash": 2913299471,
+        "picture": "UI_ExplorePic_105",
+        "posXRawNum": 0.40700000524520874,
+        "posYRawNum": 0.4749999940395355
+    },
+    {
+        "IDRawNum": 106,
+        "nameTextMapHash": 775762325,
+        "city_idRawNum": 1,
+        "open_condition_vec": [
+            {
+                "paraRawNum": 20
+            },
+            {
+                "type": "EXP_OPEN_COND_POINT",
+                "paraRawNum": 29
+            },
+            {
+                "type": "EXP_OPEN_COND_QUEST",
+                "paraRawNum": 39604
+            }
+        ],
+        "time_reward_vec": [
+            {
+                "htimeRawNum": 4,
+                "reward_drop_idRawNum": 205020100,
+                "rewardPreviewRawNum": 1021
+            },
+            {
+                "htimeRawNum": 8,
+                "reward_drop_idRawNum": 205020300,
+                "rewardPreviewRawNum": 1022
+            },
+            {
+                "htimeRawNum": 12,
+                "reward_drop_idRawNum": 205020500,
+                "rewardPreviewRawNum": 1023
+            },
+            {
+                "htimeRawNum": 20,
+                "reward_drop_idRawNum": 205020700,
+                "rewardPreviewRawNum": 1024
+            }
+        ],
+        "descriptionTextMapHash": 1630221343,
+        "picture": "UI_ExplorePic_106",
+        "posXRawNum": 0.3149999976158142,
+        "posYRawNum": 0.546999990940094
+    },
+    {
+        "IDRawNum": 201,
+        "nameTextMapHash": 3645176597,
+        "city_idRawNum": 2,
+        "open_condition_vec": [
+            {
+                "paraRawNum": 14
+            },
+            {
+                "type": "EXP_OPEN_COND_POINT",
+                "paraRawNum": 72
+            },
+            {
+                "paraRawNum": 0
+            }
+        ],
+        "time_reward_vec": [
+            {
+                "htimeRawNum": 4,
+                "reward_drop_idRawNum": 205020100,
+                "rewardPreviewRawNum": 1021
+            },
+            {
+                "htimeRawNum": 8,
+                "reward_drop_idRawNum": 205020300,
+                "rewardPreviewRawNum": 1022
+            },
+            {
+                "htimeRawNum": 12,
+                "reward_drop_idRawNum": 205020500,
+                "rewardPreviewRawNum": 1023
+            },
+            {
+                "htimeRawNum": 20,
+                "reward_drop_idRawNum": 205020700,
+                "rewardPreviewRawNum": 1024
+            }
+        ],
+        "descriptionTextMapHash": 596874847,
+        "picture": "UI_ExplorePic_201",
+        "posXRawNum": 0.4000000059604645,
+        "posYRawNum": 0.5920000076293945
+    },
+    {
+        "IDRawNum": 202,
+        "nameTextMapHash": 1416655965,
+        "city_idRawNum": 2,
+        "open_condition_vec": [
+            {
+                "paraRawNum": 14
+            },
+            {
+                "type": "EXP_OPEN_COND_POINT",
+                "paraRawNum": 72
+            },
+            {
+                "paraRawNum": 0
+            }
+        ],
+        "time_reward_vec": [
+            {
+                "htimeRawNum": 4,
+                "reward_drop_idRawNum": 205060100,
+                "rewardPreviewRawNum": 1061
+            },
+            {
+                "htimeRawNum": 8,
+                "reward_drop_idRawNum": 205060300,
+                "rewardPreviewRawNum": 1062
+            },
+            {
+                "htimeRawNum": 12,
+                "reward_drop_idRawNum": 205060500,
+                "rewardPreviewRawNum": 1063
+            },
+            {
+                "htimeRawNum": 20,
+                "reward_drop_idRawNum": 205060700,
+                "rewardPreviewRawNum": 1064
+            }
+        ],
+        "descriptionTextMapHash": 2845429303,
+        "picture": "UI_ExplorePic_202",
+        "posXRawNum": 0.4359999895095825,
+        "posYRawNum": 0.46000000834465027
+    },
+    {
+        "IDRawNum": 203,
+        "nameTextMapHash": 1472721765,
+        "city_idRawNum": 2,
+        "open_condition_vec": [
+            {
+                "paraRawNum": 16
+            },
+            {
+                "type": "EXP_OPEN_COND_POINT",
+                "paraRawNum": 72
+            },
+            {
+                "paraRawNum": 0
+            }
+        ],
+        "time_reward_vec": [
+            {
+                "htimeRawNum": 4,
+                "reward_drop_idRawNum": 205010100,
+                "rewardPreviewRawNum": 1011
+            },
+            {
+                "htimeRawNum": 8,
+                "reward_drop_idRawNum": 205010300,
+                "rewardPreviewRawNum": 1012
+            },
+            {
+                "htimeRawNum": 12,
+                "reward_drop_idRawNum": 205010500,
+                "rewardPreviewRawNum": 1013
+            },
+            {
+                "htimeRawNum": 20,
+                "reward_drop_idRawNum": 205010700,
+                "rewardPreviewRawNum": 1014
+            }
+        ],
+        "descriptionTextMapHash": 1888102671,
+        "picture": "UI_ExplorePic_203",
+        "posXRawNum": 0.5009999871253967,
+        "posYRawNum": 0.5220000147819519
+    },
+    {
+        "IDRawNum": 204,
+        "nameTextMapHash": 1687473661,
+        "city_idRawNum": 2,
+        "open_condition_vec": [
+            {
+                "paraRawNum": 18
+            },
+            {
+                "type": "EXP_OPEN_COND_POINT",
+                "paraRawNum": 73
+            },
+            {
+                "paraRawNum": 0
+            }
+        ],
+        "time_reward_vec": [
+            {
+                "htimeRawNum": 4,
+                "reward_drop_idRawNum": 205050100,
+                "rewardPreviewRawNum": 1051
+            },
+            {
+                "htimeRawNum": 8,
+                "reward_drop_idRawNum": 205050300,
+                "rewardPreviewRawNum": 1052
+            },
+            {
+                "htimeRawNum": 12,
+                "reward_drop_idRawNum": 205050500,
+                "rewardPreviewRawNum": 1053
+            },
+            {
+                "htimeRawNum": 20,
+                "reward_drop_idRawNum": 205050700,
+                "rewardPreviewRawNum": 1054
+            }
+        ],
+        "descriptionTextMapHash": 1542400839,
+        "picture": "UI_ExplorePic_204",
+        "posXRawNum": 0.597000002861023,
+        "posYRawNum": 0.42800000309944153
+    },
+    {
+        "IDRawNum": 205,
+        "nameTextMapHash": 3772014389,
+        "city_idRawNum": 2,
+        "open_condition_vec": [
+            {
+                "paraRawNum": 18
+            },
+            {
+                "type": "EXP_OPEN_COND_POINT",
+                "paraRawNum": 74
+            },
+            {
+                "paraRawNum": 0
+            }
+        ],
+        "time_reward_vec": [
+            {
+                "htimeRawNum": 4,
+                "reward_drop_idRawNum": 205020100,
+                "rewardPreviewRawNum": 1021
+            },
+            {
+                "htimeRawNum": 8,
+                "reward_drop_idRawNum": 205020300,
+                "rewardPreviewRawNum": 1022
+            },
+            {
+                "htimeRawNum": 12,
+                "reward_drop_idRawNum": 205020500,
+                "rewardPreviewRawNum": 1023
+            },
+            {
+                "htimeRawNum": 20,
+                "reward_drop_idRawNum": 205020700,
+                "rewardPreviewRawNum": 1024
+            }
+        ],
+        "descriptionTextMapHash": 783651199,
+        "picture": "UI_ExplorePic_205",
+        "posXRawNum": 0.3140000104904175,
+        "posYRawNum": 0.4569999873638153
+    },
+    {
+        "IDRawNum": 206,
+        "nameTextMapHash": 3896403293,
+        "city_idRawNum": 2,
+        "open_condition_vec": [
+            {
+                "paraRawNum": 20
+            },
+            {
+                "type": "EXP_OPEN_COND_POINT",
+                "paraRawNum": 75
+            },
+            {
+                "paraRawNum": 0
+            }
+        ],
+        "time_reward_vec": [
+            {
+                "htimeRawNum": 4,
+                "reward_drop_idRawNum": 205060100,
+                "rewardPreviewRawNum": 1061
+            },
+            {
+                "htimeRawNum": 8,
+                "reward_drop_idRawNum": 205060300,
+                "rewardPreviewRawNum": 1062
+            },
+            {
+                "htimeRawNum": 12,
+                "reward_drop_idRawNum": 205060500,
+                "rewardPreviewRawNum": 1063
+            },
+            {
+                "htimeRawNum": 20,
+                "reward_drop_idRawNum": 205060700,
+                "rewardPreviewRawNum": 1064
+            }
+        ],
+        "descriptionTextMapHash": 1206532951,
+        "picture": "UI_ExplorePic_206",
+        "posXRawNum": 0.4020000100135803,
+        "posYRawNum": 0.31299999356269836
+    }
+]

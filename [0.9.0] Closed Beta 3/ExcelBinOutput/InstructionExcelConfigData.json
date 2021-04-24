@@ -1,0 +1,352 @@
+[
+    {
+        "idRawNum": 1001,
+        "configIdList": [
+            20010101
+        ],
+        "content": "Test_史莱姆-草-中",
+        "icon": "UI_MonsterIcon_Slime_Grass_02",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 125
+    },
+    {
+        "idRawNum": 1002,
+        "configIdList": [
+            20010201
+        ],
+        "content": "Test_史莱姆-草-大",
+        "icon": "UI_MonsterIcon_Slime_Grass_03",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 124
+    },
+    {
+        "idRawNum": 1004,
+        "configIdList": [
+            20010302
+        ],
+        "content": "Test_史莱姆-风-中-新手",
+        "icon": "UI_MonsterIcon_Slime_Wind_02",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 120
+    },
+    {
+        "idRawNum": 1005,
+        "configIdList": [
+            20010401
+        ],
+        "content": "Test_史莱姆-风-大",
+        "icon": "UI_MonsterIcon_Slime_Wind_03",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 119
+    },
+    {
+        "idRawNum": 1006,
+        "configIdList": [
+            20010501
+        ],
+        "content": "Release_史莱姆-电-中",
+        "icon": "UI_MonsterIcon_Slime_Electric_02",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 123
+    },
+    {
+        "idRawNum": 1007,
+        "configIdList": [
+            20010601
+        ],
+        "content": "Release_史莱姆-电-大",
+        "icon": "UI_MonsterIcon_Slime_Electric_03",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 122
+    },
+    {
+        "idRawNum": 1008,
+        "configIdList": [
+            20010701
+        ],
+        "content": "Release_史莱姆-电-大-正",
+        "icon": "UI_MonsterIcon_Slime_Electric_03_Positive",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 121
+    },
+    {
+        "idRawNum": 1009,
+        "configIdList": [
+            20010801
+        ],
+        "content": "Release_史莱姆-冰-中",
+        "icon": "UI_MonsterIcon_Slime_Ice_02",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 118
+    },
+    {
+        "idRawNum": 1010,
+        "configIdList": [
+            20010901
+        ],
+        "content": "Release_史莱姆-冰-大",
+        "icon": "UI_MonsterIcon_Slime_Ice_03",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 117
+    },
+    {
+        "idRawNum": 1011,
+        "configIdList": [
+            20011001
+        ],
+        "content": "Release_史莱姆-水-中",
+        "icon": "UI_MonsterIcon_Slime_Water_02",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 116
+    },
+    {
+        "idRawNum": 1012,
+        "configIdList": [
+            20011101
+        ],
+        "content": "Release_史莱姆-水-大",
+        "icon": "UI_MonsterIcon_Slime_Water_03",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 115
+    },
+    {
+        "idRawNum": 1013,
+        "configIdList": [
+            20011201
+        ],
+        "content": "Release_史莱姆-火-中",
+        "icon": "UI_MonsterIcon_Slime_Fire_02",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 127
+    },
+    {
+        "idRawNum": 1014,
+        "configIdList": [
+            20011301
+        ],
+        "content": "Release_史莱姆-火-大",
+        "icon": "UI_MonsterIcon_Slime_Fire_03",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 126
+    },
+    {
+        "idRawNum": 1015,
+        "configIdList": [
+            20011401
+        ],
+        "content": "Release_史莱姆-岩-中",
+        "icon": "UI_MonsterIcon_Slime_Rock_02",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 129
+    },
+    {
+        "idRawNum": 1016,
+        "configIdList": [
+            20011501
+        ],
+        "content": "Release_史莱姆-岩-大",
+        "icon": "UI_MonsterIcon_Slime_Rock_03",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 128
+    },
+    {
+        "idRawNum": 1017,
+        "configIdList": [
+            20020101
+        ],
+        "content": "Release_元素球-风",
+        "icon": "UI_MonsterIcon_Elemental_Wind_01",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 148
+    },
+    {
+        "idRawNum": 1018,
+        "configIdList": [
+            21010101
+        ],
+        "content": "Release_丘丘-无-空手",
+        "icon": "UI_MonsterIcon_Hili_None_01",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 137
+    },
+    {
+        "idRawNum": 1019,
+        "configIdList": [
+            21010201
+        ],
+        "content": "Release_丘丘-无-近战",
+        "icon": "UI_MonsterIcon_Hili_None_01",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 138
+    },
+    {
+        "idRawNum": 1020,
+        "configIdList": [
+            21010301
+        ],
+        "content": "Release_丘丘-无-小盾",
+        "icon": "UI_MonsterIcon_Hili_None_01",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 139
+    },
+    {
+        "idRawNum": 1021,
+        "configIdList": [
+            21010401
+        ],
+        "content": "Release_丘丘-无-远程",
+        "icon": "UI_MonsterIcon_Hili_None_01",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 142
+    },
+    {
+        "idRawNum": 1022,
+        "configIdList": [
+            21010501
+        ],
+        "content": "Test_丘丘-火-远程",
+        "icon": "UI_MonsterIcon_Hili_Fire_Range",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 143
+    },
+    {
+        "idRawNum": 1023,
+        "configIdList": [
+            21010601
+        ],
+        "content": "Test_丘丘-火-炸弹",
+        "icon": "UI_MonsterIcon_Hili_Fire_Range",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 140
+    },
+    {
+        "idRawNum": 1024,
+        "configIdList": [
+            21010701
+        ],
+        "content": "Test_丘丘-火-冲刺",
+        "icon": "UI_MonsterIcon_Hili_Fire_Range",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 141
+    },
+    {
+        "idRawNum": 1025,
+        "configIdList": [
+            21010901
+        ],
+        "content": "Test_丘丘-冰-远程",
+        "icon": "UI_MonsterIcon_Hili_Ice_Range",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 144
+    },
+    {
+        "idRawNum": 1026,
+        "configIdList": [
+            21011001
+        ],
+        "content": "Test_丘丘-电-远程",
+        "icon": "UI_MonsterIcon_Hili_Electric_Range",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 145
+    },
+    {
+        "idRawNum": 1027,
+        "configIdList": [
+            21011101
+        ],
+        "content": "Test_丘丘-草-近战",
+        "icon": "UI_ItemIcon_100006",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 106
+    },
+    {
+        "idRawNum": 1028,
+        "configIdList": [
+            21020101
+        ],
+        "content": "Release_暴徒-无-巨盾",
+        "icon": "UI_MonsterIcon_Brute_None_01",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 146
+    },
+    {
+        "idRawNum": 1029,
+        "configIdList": [
+            21020201
+        ],
+        "content": "Release_暴徒-无-火斧",
+        "icon": "UI_MonsterIcon_Brute_None_01",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 147
+    },
+    {
+        "idRawNum": 1030,
+        "configIdList": [
+            21030101
+        ],
+        "content": "Test_丘丘萨满-水",
+        "icon": "UI_MonsterIcon_Shaman_Water_01",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 133
+    },
+    {
+        "idRawNum": 1031,
+        "configIdList": [
+            21030201
+        ],
+        "content": "Test_丘丘萨满-草",
+        "icon": "UI_MonsterIcon_Shaman_Grass_01",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 134
+    },
+    {
+        "idRawNum": 1032,
+        "configIdList": [
+            21030301
+        ],
+        "content": "Test_丘丘萨满-风",
+        "icon": "UI_MonsterIcon_Shaman_Wind_01",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 135
+    },
+    {
+        "idRawNum": 1033,
+        "configIdList": [
+            22010101
+        ],
+        "content": "Release_深渊巫师-火",
+        "icon": "UI_MonsterIcon_Abyss_Fire_01",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 130
+    },
+    {
+        "idRawNum": 1034,
+        "configIdList": [
+            22010201
+        ],
+        "content": "Release_深渊巫师-冰",
+        "icon": "UI_MonsterIcon_Abyss_Ice_01",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 131
+    },
+    {
+        "idRawNum": 1035,
+        "configIdList": [
+            22010301
+        ],
+        "content": "Release_深渊巫师-水",
+        "icon": "UI_MonsterIcon_Abyss_Water_01",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 132
+    },
+    {
+        "idRawNum": 1036,
+        "configIdList": [
+            24010101
+        ],
+        "content": "Release_遗迹守卫-无",
+        "icon": "UI_MonsterIcon_Defender_Noner_01",
+        "priorityRawNum": 4,
+        "IBJCCGJHIOP": 136
+    }
+]

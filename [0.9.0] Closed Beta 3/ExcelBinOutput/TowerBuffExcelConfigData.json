@@ -1,0 +1,326 @@
+[
+    {
+        "lastingType": "TOWER_BUFF_LASTING_FLOOR",
+        "descTextMapHash": 1508043966,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 1,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "Atk_Dungeon_Ratio"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_FLOOR",
+        "descTextMapHash": 1709785166,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 2,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "Critical_Dungeon"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_FLOOR",
+        "descTextMapHash": 4037722246,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 3,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "PhyAdd_Dungeon_Delta"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_FLOOR",
+        "descTextMapHash": 2678391710,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 4,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "ElemMastery_Dungeon_Delta"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_FLOOR",
+        "descTextMapHash": 1007775254,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 5,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "ChargeEfficiency_Dungeon_Delta"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_FLOOR",
+        "descTextMapHash": 683652494,
+        "buffIcon": "UI_Icon_TowerbeginCard_Defense",
+        "serverBuffIdRawNum": 6,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Def_Dungeon_Ratio"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_FLOOR",
+        "descTextMapHash": 2002807934,
+        "buffIcon": "UI_Icon_TowerbeginCard_Life",
+        "serverBuffIdRawNum": 7,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "MaxHP_Dungeon_Ratio"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 764414278,
+        "buffIcon": "UI_Icon_TowerbeginCard_Defense",
+        "serverBuffIdRawNum": 8,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_Fire"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 87304286,
+        "buffIcon": "UI_Icon_TowerbeginCard_Defense",
+        "serverBuffIdRawNum": 9,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_Water"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 2256522918,
+        "buffIcon": "UI_Icon_TowerbeginCard_Defense",
+        "serverBuffIdRawNum": 10,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_Ice"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 1649998190,
+        "buffIcon": "UI_Icon_TowerbeginCard_Defense",
+        "serverBuffIdRawNum": 11,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_Wind"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 3789778150,
+        "buffIcon": "UI_Icon_TowerbeginCard_Defense",
+        "serverBuffIdRawNum": 12,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_Elec"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 1790933686,
+        "buffIcon": "UI_Icon_TowerbeginCard_Defense",
+        "serverBuffIdRawNum": 13,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_Rock"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 80134334,
+        "buffIcon": "UI_Icon_TowerbeginCard_Defense",
+        "serverBuffIdRawNum": 14,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_Grass"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 2512438974,
+        "buffIcon": "UI_Icon_TowerbeginCard_Defense",
+        "serverBuffIdRawNum": 15,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_All"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 3798684990,
+        "buffIcon": "UI_Icon_TowerbeginCard_Defense",
+        "serverBuffIdRawNum": 16,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "PhySub_Dungeon_Delta"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 3596504974,
+        "buffIcon": "UI_Icon_TowerbeginCard_Defense",
+        "serverBuffIdRawNum": 17,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Stamina_Sprint_Dungeon",
+        "modifierName": "Stamina_Sprint_Dungeon_1"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 2778723806,
+        "buffIcon": "UI_Icon_TowerbeginCard_Defense",
+        "serverBuffIdRawNum": 18,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "MoveSpeed_Dungeon",
+        "modifierName": "MoveSpeed_Dungeon_1"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_IMMEDIATE",
+        "descTextMapHash": 914805950,
+        "buffIcon": "UI_Icon_TowerbeginCard_Life",
+        "serverBuffIdRawNum": 19,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "ReHP_Ins&Con_Dungeon",
+        "modifierName": "ReHP_Ins&Con_Dungeon_1"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_FLOOR",
+        "descTextMapHash": 1484402526,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 20,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "Element_Art_Dungeon_Ratio"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_FLOOR",
+        "descTextMapHash": 36214790,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 21,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "NormalAttack_Dungeon_Ratio"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_FLOOR",
+        "descTextMapHash": 346359910,
+        "buffIcon": "UI_Icon_TowerbeginCard_Life",
+        "serverBuffIdRawNum": 22,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "Heal_Dungeon_Ratio"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_FLOOR",
+        "descTextMapHash": 685070254,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 23,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "Elemental_Burst_Dungeon_Ratio"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_FLOOR",
+        "descTextMapHash": 2641987326,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 24,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "Sprint_Attack_Ratio"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 76761782,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 25,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "Atk_HighHP_Dungeon"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 187923982,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 26,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "Atk_LowHP_Dungeon"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_FLOOR",
+        "descTextMapHash": 2876242174,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 27,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Atk_HitHeadBox_Dungeon",
+        "modifierName": "Atk_HitBox_Dungeon"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 387765286,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 28,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "AtkUp_DefDown_Dungeon"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 2386135854,
+        "buffIcon": "UI_Icon_TowerbeginCard_Defense",
+        "serverBuffIdRawNum": 29,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Def_HighHP_Dungeon"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 809801998,
+        "buffIcon": "UI_Icon_TowerbeginCard_Defense",
+        "serverBuffIdRawNum": 30,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Def_LowHP_Dungeon"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 930790262,
+        "buffIcon": "UI_Icon_TowerbeginCard_Life",
+        "serverBuffIdRawNum": 31,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "KillHealHp_Dungeon_Ratio"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 3376811862,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 32,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "AttackSpeed_Dungeon"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 1149236222,
+        "buffIcon": "UI_Icon_TowerbeginCard_Life",
+        "serverBuffIdRawNum": 34,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "UltimateSkillHealHp_Dungeon"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 209865894,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 35,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "ResetCDWhenKill_Dungeon"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 2591273966,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 36,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "Stamina_ExtraAttack_Dungeon"
+    },
+    {
+        "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+        "descTextMapHash": 3810429262,
+        "buffIcon": "UI_Icon_TowerbeginCard_Attack",
+        "serverBuffIdRawNum": 38,
+        "serverBuffType": "SERVER_BUFF_TOWER",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "SkillCD_Dungeon_Ratio"
+    }
+]

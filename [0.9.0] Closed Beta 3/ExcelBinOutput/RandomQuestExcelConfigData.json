@@ -1,0 +1,7344 @@
+[
+    {
+        "subId": 3000001,
+        "mainId": 30000,
+        "order": 2,
+        "titleTextMapHash": 1292335485,
+        "descTextMapHash": 2747681188,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_PATTERN_GROUP_CLEAR_MONSTER",
+                "param": [
+                    "{PatternID}"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3000001"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "{QuestRescuePos}",
+                "30"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "type": "QUEST_EXEC_CREATE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    "{QuestRescuePos}",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "type": "QUEST_EXEC_REMOVE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000002,
+        "mainId": 30000,
+        "order": 4,
+        "titleTextMapHash": 3126004405,
+        "descTextMapHash": 1671705820,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000001",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000004"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000003,
+        "mainId": 30000,
+        "order": 6,
+        "titleTextMapHash": 2062518909,
+        "descTextMapHash": 1766176396,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000002",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000006"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000004,
+        "mainId": 30000,
+        "order": 8,
+        "titleTextMapHash": 1078729173,
+        "descTextMapHash": 537349764,
+        "showType": "QUEST_HIDDEN",
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000002",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCondComb": "LOGIC_OR",
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000010"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000011"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000009"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "param": [
+                "",
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "finishParent": true,
+        "failParent": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000101,
+        "mainId": 30001,
+        "order": 2,
+        "titleTextMapHash": 3093206701,
+        "descTextMapHash": 2243578660,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_PATTERN_GROUP_CLEAR_MONSTER",
+                "param": [
+                    "{PatternID}"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3000101"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "{QuestRescuePos}",
+                "30"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "type": "QUEST_EXEC_CREATE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    "{QuestRescuePos}",
+                    "{MonsterLevel}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "type": "QUEST_EXEC_REMOVE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000102,
+        "mainId": 30001,
+        "order": 4,
+        "titleTextMapHash": 2993362821,
+        "descTextMapHash": 1741188852,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000101",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000101"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3000102"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "failParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000103,
+        "mainId": 30001,
+        "order": 6,
+        "titleTextMapHash": 3693238605,
+        "descTextMapHash": 2396045972,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "99902",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000106"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000104,
+        "mainId": 30001,
+        "order": 8,
+        "titleTextMapHash": 1696161053,
+        "descTextMapHash": 1692741636,
+        "showType": "QUEST_HIDDEN",
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "99902",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCondComb": "LOGIC_OR",
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000110"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000111"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000109"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "param": [
+                "",
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "finishParent": true,
+        "failParent": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000201,
+        "mainId": 30002,
+        "order": 2,
+        "titleTextMapHash": 3863632741,
+        "descTextMapHash": 2617795044,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_PATTERN_GROUP_CLEAR_MONSTER",
+                "param": [
+                    "{PatternID}"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3000201"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "{QuestRescuePos}",
+                "30"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "type": "QUEST_EXEC_CREATE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    "{QuestRescuePos}",
+                    "{MonsterLevel}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "type": "QUEST_EXEC_REMOVE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000202,
+        "mainId": 30002,
+        "order": 4,
+        "titleTextMapHash": 1904926261,
+        "descTextMapHash": 3953262764,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000201",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000201"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3000202"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "failParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000203,
+        "mainId": 30002,
+        "order": 6,
+        "titleTextMapHash": 202454677,
+        "descTextMapHash": 3613975932,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "99902",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000206"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000204,
+        "mainId": 30002,
+        "order": 8,
+        "titleTextMapHash": 3305235141,
+        "descTextMapHash": 1469476028,
+        "showType": "QUEST_HIDDEN",
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "99902",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCondComb": "LOGIC_OR",
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000210"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000211"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000209"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "param": [
+                "",
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "finishParent": true,
+        "failParent": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000301,
+        "mainId": 30003,
+        "order": 2,
+        "titleTextMapHash": 1047863517,
+        "descTextMapHash": 1146435996,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_PATTERN_GROUP_CLEAR_MONSTER",
+                "param": [
+                    "{PatternID}"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3000301"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "{QuestRescuePos}",
+                "30"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "type": "QUEST_EXEC_CREATE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    "{QuestRescuePos}",
+                    "{MonsterLevel}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "type": "QUEST_EXEC_REMOVE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000302,
+        "mainId": 30003,
+        "order": 4,
+        "titleTextMapHash": 2793315357,
+        "descTextMapHash": 207412116,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000301",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000301"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3000302"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "failParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000303,
+        "mainId": 30003,
+        "order": 6,
+        "titleTextMapHash": 1164362733,
+        "descTextMapHash": 2340689068,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "99902",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000306"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000304,
+        "mainId": 30003,
+        "order": 8,
+        "titleTextMapHash": 446550285,
+        "descTextMapHash": 3625041716,
+        "showType": "QUEST_HIDDEN",
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "99902",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCondComb": "LOGIC_OR",
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000310"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000311"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000309"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "param": [
+                "",
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "finishParent": true,
+        "failParent": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000401,
+        "mainId": 30004,
+        "order": 2,
+        "titleTextMapHash": 2341826045,
+        "descTextMapHash": 1402465244,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_PATTERN_GROUP_CLEAR_MONSTER",
+                "param": [
+                    "{PatternID}"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3000401"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "{QuestRescuePos}",
+                "30"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "type": "QUEST_EXEC_CREATE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    "{QuestRescuePos}",
+                    "{MonsterLevel}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "type": "QUEST_EXEC_REMOVE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000402,
+        "mainId": 30004,
+        "order": 4,
+        "titleTextMapHash": 604564557,
+        "descTextMapHash": 2261775076,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000401",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000401"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3000402"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "failParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000403,
+        "mainId": 30004,
+        "order": 6,
+        "titleTextMapHash": 3412726549,
+        "descTextMapHash": 1776425372,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "99902",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000406"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000404,
+        "mainId": 30004,
+        "order": 8,
+        "titleTextMapHash": 2302208197,
+        "descTextMapHash": 2592560676,
+        "showType": "QUEST_HIDDEN",
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "99902",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCondComb": "LOGIC_OR",
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000410"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000411"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000409"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "param": [
+                "",
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "finishParent": true,
+        "failParent": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000501,
+        "mainId": 30005,
+        "order": 2,
+        "titleTextMapHash": 3049088965,
+        "descTextMapHash": 760388628,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_PATTERN_GROUP_CLEAR_MONSTER",
+                "param": [
+                    "{PatternID}"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3000501"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "{QuestRescuePos}",
+                "30"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "type": "QUEST_EXEC_CREATE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    "{QuestRescuePos}",
+                    "{MonsterLevel}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "type": "QUEST_EXEC_REMOVE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000502,
+        "mainId": 30005,
+        "order": 4,
+        "titleTextMapHash": 1044188333,
+        "descTextMapHash": 4022387764,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000501",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000501"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3000502"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "failParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000503,
+        "mainId": 30005,
+        "order": 6,
+        "titleTextMapHash": 3664318037,
+        "descTextMapHash": 623537220,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "99902",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000506"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000504,
+        "mainId": 30005,
+        "order": 8,
+        "titleTextMapHash": 211244237,
+        "descTextMapHash": 3229689972,
+        "showType": "QUEST_HIDDEN",
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "99902",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCondComb": "LOGIC_OR",
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000510"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000511"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000509"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "param": [
+                "",
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "finishParent": true,
+        "failParent": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000601,
+        "mainId": 30006,
+        "order": 2,
+        "titleTextMapHash": 3599314981,
+        "descTextMapHash": 4166024556,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_PATTERN_GROUP_CLEAR_MONSTER",
+                "param": [
+                    "{PatternID}"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3000601"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "{QuestRescuePos}",
+                "30"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "type": "QUEST_EXEC_CREATE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    "{QuestRescuePos}",
+                    "{MonsterLevel}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "type": "QUEST_EXEC_REMOVE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000602,
+        "mainId": 30006,
+        "order": 4,
+        "titleTextMapHash": 1923371381,
+        "descTextMapHash": 3223916620,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000601",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000601"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3000602"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "failParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000603,
+        "mainId": 30006,
+        "order": 6,
+        "titleTextMapHash": 2319134925,
+        "descTextMapHash": 187491244,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "99902",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000606"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000604,
+        "mainId": 30006,
+        "order": 8,
+        "titleTextMapHash": 548511053,
+        "descTextMapHash": 1396796268,
+        "showType": "QUEST_HIDDEN",
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "99902",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCondComb": "LOGIC_OR",
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000610"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000611"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000609"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "param": [
+                "",
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "finishParent": true,
+        "failParent": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000701,
+        "mainId": 30007,
+        "order": 2,
+        "titleTextMapHash": 1655273909,
+        "descTextMapHash": 3802407084,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_PATTERN_GROUP_CLEAR_MONSTER",
+                "param": [
+                    "{PatternID}"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3000701"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_LOCATION",
+            "param": [
+                "{QuestRescuePos}",
+                "30"
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "type": "QUEST_EXEC_CREATE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    "{QuestRescuePos}",
+                    "{MonsterLevel}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "type": "QUEST_EXEC_REMOVE_PATTERN_GROUP",
+                "param": [
+                    "{PatternID}",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000702,
+        "mainId": 30007,
+        "order": 4,
+        "titleTextMapHash": 3851481717,
+        "descTextMapHash": 141293852,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000701",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000701"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3000702"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "failParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000703,
+        "mainId": 30007,
+        "order": 6,
+        "titleTextMapHash": 404942573,
+        "descTextMapHash": 2600755276,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "99902",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000706"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3000704,
+        "mainId": 30007,
+        "order": 8,
+        "titleTextMapHash": 1923399557,
+        "descTextMapHash": 1696321564,
+        "showType": "QUEST_HIDDEN",
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "99902",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCondComb": "LOGIC_OR",
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000710"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000711"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3000709"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "param": [
+                "",
+                ""
+            ],
+            "guideSceneRawNum": 0
+        },
+        "finishParent": true,
+        "failParent": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3001101,
+        "mainId": 30011,
+        "order": 2,
+        "titleTextMapHash": 1039535365,
+        "descTextMapHash": 752707604,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3001104"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3001101"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3001102,
+        "mainId": 30011,
+        "order": 4,
+        "titleTextMapHash": 2948191789,
+        "descTextMapHash": 1323294812,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001101",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3001106"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3001201,
+        "mainId": 30012,
+        "order": 2,
+        "titleTextMapHash": 1573472141,
+        "descTextMapHash": 3712238156,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3001204"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3001201"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3001202,
+        "mainId": 30012,
+        "order": 4,
+        "titleTextMapHash": 4186356213,
+        "descTextMapHash": 1510465396,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001201",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3001206"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3001301,
+        "mainId": 30013,
+        "order": 2,
+        "titleTextMapHash": 764293253,
+        "descTextMapHash": 238280580,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3001304"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3001301"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3001302,
+        "mainId": 30013,
+        "order": 4,
+        "titleTextMapHash": 4069909733,
+        "descTextMapHash": 425730956,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001301",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3001306"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3001401,
+        "mainId": 30014,
+        "order": 2,
+        "titleTextMapHash": 1865998133,
+        "descTextMapHash": 151025252,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3001404"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3001401"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3001402,
+        "mainId": 30014,
+        "order": 4,
+        "titleTextMapHash": 4210068621,
+        "descTextMapHash": 2248092076,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001401",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3001406"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3001501,
+        "mainId": 30015,
+        "order": 2,
+        "titleTextMapHash": 1893956405,
+        "descTextMapHash": 3036083300,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3001504"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3001501"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3001502,
+        "mainId": 30015,
+        "order": 4,
+        "titleTextMapHash": 869022869,
+        "descTextMapHash": 1102784668,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001501",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3001506"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3002101,
+        "mainId": 30021,
+        "order": 2,
+        "titleTextMapHash": 510160109,
+        "descTextMapHash": 25951460,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3002103"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3002101"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3002102,
+        "mainId": 30021,
+        "order": 4,
+        "titleTextMapHash": 4271705069,
+        "descTextMapHash": 3945385476,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3002101",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3002102"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID2}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "100314",
+                    "1"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3002201,
+        "mainId": 30022,
+        "order": 2,
+        "titleTextMapHash": 532539877,
+        "descTextMapHash": 742499732,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3002203"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3002201"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3002202,
+        "mainId": 30022,
+        "order": 4,
+        "titleTextMapHash": 3220489317,
+        "descTextMapHash": 3385540972,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3002201",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3002202"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID2}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "100314",
+                    "1"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3002301,
+        "mainId": 30023,
+        "order": 2,
+        "titleTextMapHash": 2674366789,
+        "descTextMapHash": 3679981060,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3002303"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3002301"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3002302,
+        "mainId": 30023,
+        "order": 4,
+        "titleTextMapHash": 2472442453,
+        "descTextMapHash": 3858432156,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3002301",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3002302"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID2}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "100314",
+                    "1"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3002401,
+        "mainId": 30024,
+        "order": 2,
+        "titleTextMapHash": 406951133,
+        "descTextMapHash": 3281524916,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3002403"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3002401"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3002402,
+        "mainId": 30024,
+        "order": 4,
+        "titleTextMapHash": 163451405,
+        "descTextMapHash": 2729018156,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3002401",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3002402"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID2}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "100314",
+                    "1"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3002501,
+        "mainId": 30025,
+        "order": 2,
+        "titleTextMapHash": 305495885,
+        "descTextMapHash": 4099617868,
+        "acceptCond": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3002503"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
+                "param": [
+                    "3002501"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "failParent": true,
+        "failParentShow": "QUEST_HIDDEN",
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "subId": 3002502,
+        "mainId": 30025,
+        "order": 4,
+        "titleTextMapHash": 1189270045,
+        "descTextMapHash": 2624516948,
+        "acceptCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3002501",
+                    "3",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishCond": [
+            {
+                "type": "QUEST_CONTENT_COMPLETE_TALK",
+                "param": [
+                    "3002502"
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "failCond": [
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            },
+            {
+                "param": [
+                    ""
+                ],
+                "param_str": "",
+                "count": ""
+            }
+        ],
+        "guide": {
+            "type": "QUEST_GUIDE_NPC",
+            "param": [
+                "{QuestNpcID2}",
+                ""
+            ],
+            "guideSceneRawNum": 3,
+            "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+        },
+        "finishParent": true,
+        "isRewind": true,
+        "awardItems": [
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            },
+            {
+                "idRawNum": 0,
+                "countRawNum": 0
+            }
+        ],
+        "beginExec": [
+            {
+                "param": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "finishExec": [
+            {
+                "type": "QUEST_EXEC_DEL_PACK_ITEM",
+                "param": [
+                    "100314",
+                    "1"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    }
+]

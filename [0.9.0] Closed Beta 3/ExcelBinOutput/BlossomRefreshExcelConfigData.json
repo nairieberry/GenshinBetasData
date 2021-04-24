@@ -1,0 +1,214 @@
+[
+    {
+        "idRawNum": 1,
+        "nameTextMapHash": 401327791,
+        "icon": "UI_MonsterIcon_Camp_01",
+        "descTextMapHash": 565619705,
+        "cityIdRawNum": 1,
+        "refreshType": "BLOSSOM_REFRESH_SCOIN",
+        "refreshTime": "04:00:00",
+        "openLevelRawNum": 12,
+        "closeLevelRawNum": 0,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 1,
+        "camp_update_need_countRawNum": 1,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 207000400,
+                "preview_rewardRawNum": 4101
+            },
+            {
+                "drop_idRawNum": 207000800,
+                "preview_rewardRawNum": 4102
+            },
+            {
+                "drop_idRawNum": 207000900,
+                "preview_rewardRawNum": 4103
+            },
+            {
+                "drop_idRawNum": 207001000,
+                "preview_rewardRawNum": 4104
+            },
+            {
+                "drop_idRawNum": 207001100,
+                "preview_rewardRawNum": 4105
+            },
+            {
+                "drop_idRawNum": 207001200,
+                "preview_rewardRawNum": 4106
+            },
+            {
+                "drop_idRawNum": 207001300,
+                "preview_rewardRawNum": 4107
+            },
+            {
+                "drop_idRawNum": 207001400,
+                "preview_rewardRawNum": 4108
+            },
+            {
+                "drop_idRawNum": 207001500,
+                "preview_rewardRawNum": 4109
+            }
+        ]
+    },
+    {
+        "idRawNum": 2,
+        "nameTextMapHash": 3301346927,
+        "icon": "UI_MonsterIcon_Camp_02",
+        "descTextMapHash": 3731213553,
+        "cityIdRawNum": 1,
+        "refreshType": "BLOSSOM_REFRESH_EXP",
+        "refreshTime": "04:00:00",
+        "openLevelRawNum": 8,
+        "closeLevelRawNum": 0,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 2,
+        "camp_update_need_countRawNum": 1,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 206000400,
+                "preview_rewardRawNum": 4001
+            },
+            {
+                "drop_idRawNum": 206000800,
+                "preview_rewardRawNum": 4002
+            },
+            {
+                "drop_idRawNum": 206000900,
+                "preview_rewardRawNum": 4003
+            },
+            {
+                "drop_idRawNum": 206001000,
+                "preview_rewardRawNum": 4004
+            },
+            {
+                "drop_idRawNum": 206001100,
+                "preview_rewardRawNum": 4005
+            },
+            {
+                "drop_idRawNum": 206001200,
+                "preview_rewardRawNum": 4006
+            },
+            {
+                "drop_idRawNum": 206001300,
+                "preview_rewardRawNum": 4007
+            },
+            {
+                "drop_idRawNum": 206001400,
+                "preview_rewardRawNum": 4008
+            },
+            {
+                "drop_idRawNum": 206001500,
+                "preview_rewardRawNum": 4009
+            }
+        ]
+    },
+    {
+        "idRawNum": 3,
+        "nameTextMapHash": 1214359487,
+        "icon": "UI_MonsterIcon_Camp_01",
+        "descTextMapHash": 4103809745,
+        "cityIdRawNum": 2,
+        "refreshType": "BLOSSOM_REFRESH_SCOIN",
+        "refreshTime": "04:00:00",
+        "openLevelRawNum": 12,
+        "closeLevelRawNum": 0,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 1,
+        "camp_update_need_countRawNum": 1,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 207000400,
+                "preview_rewardRawNum": 4101
+            },
+            {
+                "drop_idRawNum": 207000800,
+                "preview_rewardRawNum": 4102
+            },
+            {
+                "drop_idRawNum": 207000900,
+                "preview_rewardRawNum": 4103
+            },
+            {
+                "drop_idRawNum": 207001000,
+                "preview_rewardRawNum": 4104
+            },
+            {
+                "drop_idRawNum": 207001100,
+                "preview_rewardRawNum": 4105
+            },
+            {
+                "drop_idRawNum": 207001200,
+                "preview_rewardRawNum": 4106
+            },
+            {
+                "drop_idRawNum": 207001300,
+                "preview_rewardRawNum": 4107
+            },
+            {
+                "drop_idRawNum": 207001400,
+                "preview_rewardRawNum": 4108
+            },
+            {
+                "drop_idRawNum": 207001500,
+                "preview_rewardRawNum": 4109
+            }
+        ]
+    },
+    {
+        "idRawNum": 4,
+        "nameTextMapHash": 2028433687,
+        "icon": "UI_MonsterIcon_Camp_02",
+        "descTextMapHash": 1074281265,
+        "cityIdRawNum": 2,
+        "refreshType": "BLOSSOM_REFRESH_EXP",
+        "refreshTime": "04:00:00",
+        "openLevelRawNum": 12,
+        "closeLevelRawNum": 0,
+        "reviseLevelRawNum": 1,
+        "blossom_chest_idRawNum": 2,
+        "camp_update_need_countRawNum": 1,
+        "roundMaxCountRawNum": 0,
+        "dropVec": [
+            {
+                "drop_idRawNum": 206000400,
+                "preview_rewardRawNum": 4001
+            },
+            {
+                "drop_idRawNum": 206000800,
+                "preview_rewardRawNum": 4002
+            },
+            {
+                "drop_idRawNum": 206000900,
+                "preview_rewardRawNum": 4003
+            },
+            {
+                "drop_idRawNum": 206001000,
+                "preview_rewardRawNum": 4004
+            },
+            {
+                "drop_idRawNum": 206001100,
+                "preview_rewardRawNum": 4005
+            },
+            {
+                "drop_idRawNum": 206001200,
+                "preview_rewardRawNum": 4006
+            },
+            {
+                "drop_idRawNum": 206001300,
+                "preview_rewardRawNum": 4007
+            },
+            {
+                "drop_idRawNum": 206001400,
+                "preview_rewardRawNum": 4008
+            },
+            {
+                "drop_idRawNum": 206001500,
+                "preview_rewardRawNum": 4009
+            }
+        ]
+    }
+]

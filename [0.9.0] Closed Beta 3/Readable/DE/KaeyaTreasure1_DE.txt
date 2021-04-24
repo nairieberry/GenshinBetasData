@@ -1,0 +1,5 @@
+
+wohnen drei sechsarmige Riesen.
+Zwei davon beschützen die Statue,
+eine den Schatz der Götter.
+<image name=UI_KaeyaPuzzle1 />

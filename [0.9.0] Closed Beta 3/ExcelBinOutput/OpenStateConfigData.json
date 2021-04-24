@@ -1,0 +1,907 @@
+[
+    {
+        "idRawNum": 1,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 2,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 3,
+        "defaultState": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 4,
+        "defaultState": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 10,
+        "defaultState": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 5,
+        "defaultState": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 6,
+        "defaultState": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 7,
+        "defaultState": true,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 8,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 9,
+        "defaultState": true,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 11,
+        "defaultState": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 12,
+        "defaultState": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 31,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_QUEST",
+                "paramRawNum": 2010001
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 1
+    },
+    {
+        "idRawNum": 30,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "paramRawNum": 2
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 37,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "paramRawNum": 2
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 39,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "paramRawNum": 14
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 45,
+        "defaultState": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 13,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 14,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 15,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 16,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 17,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 18,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 19,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 20,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 21,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 22,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 23,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 24,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 25,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 26,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 27,
+        "defaultState": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 28,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 29,
+        "defaultState": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 32,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 33,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 34,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 35,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 36,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 38,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 40,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 41,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 50,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 51,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 52,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 53,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "paramRawNum": 8
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 11
+    },
+    {
+        "idRawNum": 43,
+        "defaultState": true,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1001,
+        "defaultState": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1002,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "paramRawNum": 1
+            },
+            {
+                "cond_type": "OPEN_STATE_COND_QUEST",
+                "paramRawNum": 31101
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1003,
+        "defaultState": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1004,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "paramRawNum": 5
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1005,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "paramRawNum": 5
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1006,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "paramRawNum": 13
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1007,
+        "defaultState": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1008,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "paramRawNum": 5
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1009,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "paramRawNum": 1
+            },
+            {
+                "cond_type": "OPEN_STATE_COND_QUEST",
+                "paramRawNum": 31101
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1010,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "paramRawNum": 5
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1100,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "cond_type": "OPEN_STATE_COND_QUEST",
+                "paramRawNum": 2003003
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1103,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "paramRawNum": 8
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1101,
+        "defaultState": true,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1102,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_QUEST",
+                "paramRawNum": 2211102
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 44,
+        "defaultState": true,
+        "allowClientOpen": true,
+        "cond": [
+            {
+                "paramRawNum": 0
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 47,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_QUEST",
+                "paramRawNum": 35001
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 48,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_QUEST",
+                "paramRawNum": 99902
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 49,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "paramRawNum": 16
+            },
+            {
+                "cond_type": "OPEN_STATE_COND_QUEST",
+                "paramRawNum": 35001
+            }
+        ],
+        "system_open_ui_idRawNum": 9
+    },
+    {
+        "idRawNum": 1200,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_QUEST",
+                "paramRawNum": 4000100
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 2
+    },
+    {
+        "idRawNum": 1201,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_QUEST",
+                "paramRawNum": 4000110
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1202,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_QUEST",
+                "paramRawNum": 4000104
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 0
+    },
+    {
+        "idRawNum": 1300,
+        "cond": [
+            {
+                "cond_type": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "paramRawNum": 20
+            },
+            {
+                "paramRawNum": 0
+            }
+        ],
+        "system_open_ui_idRawNum": 10
+    }
+]

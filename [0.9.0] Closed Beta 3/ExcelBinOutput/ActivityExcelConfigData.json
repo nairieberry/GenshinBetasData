@@ -1,0 +1,24 @@
+[
+    {
+        "activityIdRawNum": 1001,
+        "type": "ACTIVITY_SEA_LAMP",
+        "destroyItemVec": [
+            {
+                "itemIdVec": [
+                    200001,
+                    200002,
+                    200003,
+                    200004
+                ],
+                "JFLDMPCHMEC": 0
+            },
+            {
+                "itemIdVec": [],
+                "JFLDMPCHMEC": 0
+            }
+        ],
+        "nameTextMapHash": 4266261887,
+        "activitySceneTag": "Hdj",
+        "isLoadTerrain": true
+    }
+]

@@ -1,0 +1,400 @@
+[
+    {
+        "IdRawNum": 1,
+        "ItemIds": [
+            100001,
+            100011,
+            100012,
+            100013,
+            100014,
+            100015
+        ],
+        "finishTalkIdRawNum": 614230402,
+        "mistakeTalkIdRawNum": 614230404
+    },
+    {
+        "IdRawNum": 2,
+        "ItemIds": [
+            100016,
+            100017,
+            100018,
+            100019,
+            100020
+        ],
+        "finishTalkIdRawNum": 614230403,
+        "mistakeTalkIdRawNum": 614230405
+    },
+    {
+        "IdRawNum": 3,
+        "ItemIds": [
+            108032
+        ],
+        "finishTalkIdRawNum": 4890003,
+        "mistakeTalkIdRawNum": 4890004
+    },
+    {
+        "IdRawNum": 4,
+        "ItemIds": [
+            108033
+        ],
+        "finishTalkIdRawNum": 4890005,
+        "mistakeTalkIdRawNum": 4890004
+    },
+    {
+        "IdRawNum": 5,
+        "ItemIds": [
+            108063
+        ],
+        "finishTalkIdRawNum": 4890003,
+        "mistakeTalkIdRawNum": 4890004
+    },
+    {
+        "IdRawNum": 6,
+        "ItemIds": [
+            108064
+        ],
+        "finishTalkIdRawNum": 4890005,
+        "mistakeTalkIdRawNum": 4890004
+    },
+    {
+        "IdRawNum": 7,
+        "ItemIds": [
+            108031,
+            108032,
+            108033
+        ],
+        "finishTalkIdRawNum": 210092006,
+        "mistakeTalkIdRawNum": 210092008
+    },
+    {
+        "IdRawNum": 8,
+        "ItemIds": [
+            100072,
+            100083,
+            112002,
+            100081
+        ],
+        "finishTalkIdRawNum": 110051309,
+        "mistakeTalkIdRawNum": 110051307
+    },
+    {
+        "IdRawNum": 200512401,
+        "ItemIds": [
+            100001
+        ],
+        "finishTalkIdRawNum": 200511804,
+        "mistakeTalkIdRawNum": 200511807
+    },
+    {
+        "IdRawNum": 200512402,
+        "ItemIds": [
+            100057
+        ],
+        "finishTalkIdRawNum": 200511804,
+        "mistakeTalkIdRawNum": 200511807
+    },
+    {
+        "IdRawNum": 200512403,
+        "ItemIds": [
+            100051
+        ],
+        "finishTalkIdRawNum": 200511804,
+        "mistakeTalkIdRawNum": 200511807
+    },
+    {
+        "IdRawNum": 200512404,
+        "ItemIds": [
+            100012
+        ],
+        "finishTalkIdRawNum": 200511804,
+        "mistakeTalkIdRawNum": 200511807
+    },
+    {
+        "IdRawNum": 200512405,
+        "ItemIds": [
+            100023
+        ],
+        "finishTalkIdRawNum": 200511806,
+        "mistakeTalkIdRawNum": 200511807
+    },
+    {
+        "IdRawNum": 200512406,
+        "ItemIds": [
+            100011,
+            100013,
+            100056,
+            100018
+        ],
+        "finishTalkIdRawNum": 200511805,
+        "mistakeTalkIdRawNum": 200511807
+    },
+    {
+        "IdRawNum": 200512407,
+        "ItemIds": [
+            100064,
+            100083,
+            112002,
+            100061,
+            100081,
+            100086,
+            100087
+        ],
+        "finishTalkIdRawNum": 200511806,
+        "mistakeTalkIdRawNum": 200511807
+    },
+    {
+        "IdRawNum": 10,
+        "ItemIds": [
+            200001,
+            200002,
+            200003
+        ],
+        "finishTalkIdRawNum": 614230402,
+        "mistakeTalkIdRawNum": 614230404
+    },
+    {
+        "IdRawNum": 11,
+        "ItemIds": [
+            200001,
+            200002,
+            200003
+        ],
+        "finishTalkIdRawNum": 614230402,
+        "mistakeTalkIdRawNum": 614230404
+    },
+    {
+        "IdRawNum": 12,
+        "ItemIds": [
+            200001,
+            200002,
+            200003
+        ],
+        "finishTalkIdRawNum": 614230402,
+        "mistakeTalkIdRawNum": 614230404
+    },
+    {
+        "IdRawNum": 13,
+        "ItemIds": [
+            200001,
+            200002,
+            200003
+        ],
+        "finishTalkIdRawNum": 614230402,
+        "mistakeTalkIdRawNum": 614230404
+    },
+    {
+        "IdRawNum": 200592001,
+        "ItemIds": [
+            112005
+        ],
+        "finishTalkIdRawNum": 2005904020,
+        "mistakeTalkIdRawNum": 2005904010
+    },
+    {
+        "IdRawNum": 200592002,
+        "ItemIds": [
+            112011
+        ],
+        "finishTalkIdRawNum": 2005904020,
+        "mistakeTalkIdRawNum": 2005904010
+    },
+    {
+        "IdRawNum": 200592003,
+        "ItemIds": [
+            112014
+        ],
+        "finishTalkIdRawNum": 2005904020,
+        "mistakeTalkIdRawNum": 2005904010
+    },
+    {
+        "IdRawNum": 223000201,
+        "ItemIds": [
+            101001,
+            100058,
+            101003,
+            100028,
+            100054,
+            101002
+        ],
+        "finishTalkIdRawNum": 223000203,
+        "mistakeTalkIdRawNum": 223000204
+    },
+    {
+        "IdRawNum": 223000202,
+        "ItemIds": [
+            100053,
+            100015,
+            100026,
+            100034,
+            100016,
+            100011,
+            100012,
+            100020,
+            100063,
+            100027,
+            100031,
+            100051,
+            100062,
+            100052,
+            100002,
+            100032,
+            100013,
+            100001,
+            100014,
+            100029
+        ],
+        "finishTalkIdRawNum": 223000203,
+        "mistakeTalkIdRawNum": 223000204
+    },
+    {
+        "IdRawNum": 223000203,
+        "ItemIds": [
+            100030
+        ],
+        "finishTalkIdRawNum": 223000203,
+        "mistakeTalkIdRawNum": 223000204
+    },
+    {
+        "IdRawNum": 223000204,
+        "ItemIds": [
+            108068,
+            108069,
+            108070,
+            108071,
+            108072,
+            108073,
+            108074,
+            108075,
+            108076,
+            108077,
+            108078,
+            108079,
+            108080,
+            108081,
+            108082,
+            108083,
+            108084,
+            108085,
+            108086,
+            108087,
+            108088,
+            108089,
+            108090,
+            108091,
+            108092,
+            108093,
+            108094,
+            108098,
+            108099,
+            108100
+        ],
+        "finishTalkIdRawNum": 223000203,
+        "mistakeTalkIdRawNum": 223000204
+    },
+    {
+        "IdRawNum": 223010301,
+        "ItemIds": [
+            100370
+        ],
+        "finishTalkIdRawNum": 223010204,
+        "mistakeTalkIdRawNum": 223010205
+    },
+    {
+        "IdRawNum": 223010302,
+        "ItemIds": [
+            100371
+        ],
+        "finishTalkIdRawNum": 223010204,
+        "mistakeTalkIdRawNum": 223010205
+    },
+    {
+        "IdRawNum": 223010303,
+        "ItemIds": [
+            100372
+        ],
+        "finishTalkIdRawNum": 223010204,
+        "mistakeTalkIdRawNum": 223010205
+    },
+    {
+        "IdRawNum": 223010304,
+        "ItemIds": [
+            100373
+        ],
+        "finishTalkIdRawNum": 223010204,
+        "mistakeTalkIdRawNum": 223010205
+    },
+    {
+        "IdRawNum": 223010305,
+        "ItemIds": [
+            100374
+        ],
+        "finishTalkIdRawNum": 223010204,
+        "mistakeTalkIdRawNum": 223010205
+    },
+    {
+        "IdRawNum": 223010306,
+        "ItemIds": [
+            100375
+        ],
+        "finishTalkIdRawNum": 223010204,
+        "mistakeTalkIdRawNum": 223010205
+    },
+    {
+        "IdRawNum": 2200802,
+        "ItemIds": [
+            108080,
+            108081,
+            108082
+        ],
+        "finishTalkIdRawNum": 220080202,
+        "mistakeTalkIdRawNum": 220080203
+    },
+    {
+        "IdRawNum": 105010501,
+        "ItemIds": [
+            108102
+        ],
+        "finishTalkIdRawNum": 0,
+        "mistakeTalkIdRawNum": 0
+    },
+    {
+        "IdRawNum": 105010502,
+        "ItemIds": [
+            108103
+        ],
+        "finishTalkIdRawNum": 0,
+        "mistakeTalkIdRawNum": 0
+    },
+    {
+        "IdRawNum": 207010301,
+        "ItemIds": [
+            108070
+        ],
+        "finishTalkIdRawNum": 0,
+        "mistakeTalkIdRawNum": 0
+    },
+    {
+        "IdRawNum": 207010302,
+        "ItemIds": [
+            108069
+        ],
+        "finishTalkIdRawNum": 0,
+        "mistakeTalkIdRawNum": 0
+    },
+    {
+        "IdRawNum": 207010303,
+        "ItemIds": [
+            108068
+        ],
+        "finishTalkIdRawNum": 0,
+        "mistakeTalkIdRawNum": 0
+    },
+    {
+        "IdRawNum": 2102408,
+        "ItemIds": [
+            100028
+        ],
+        "finishTalkIdRawNum": 210240802,
+        "mistakeTalkIdRawNum": 210240804
+    }
+]

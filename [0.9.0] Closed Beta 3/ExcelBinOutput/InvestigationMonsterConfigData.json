@@ -1,0 +1,247 @@
+[
+    {
+        "idRawNum": 1,
+        "cityIdRawNum": 1,
+        "monsterIdRawNum": 23030101,
+        "groupIdList": [
+            133001229,
+            133002243,
+            133003412,
+            133004217
+        ],
+        "unlockParentQuestIdRawNum": 0,
+        "rewardPreviewIdRawNum": 15103,
+        "BBCDOEIPPCP": 30301,
+        "mapMarkCreateType": "NerverCreate",
+        "mapMarkCreateCondition": {
+            "conditionParamRawNum": 0
+        }
+    },
+    {
+        "idRawNum": 2,
+        "cityIdRawNum": 1,
+        "monsterIdRawNum": 22010201,
+        "groupIdList": [
+            133003095
+        ],
+        "unlockParentQuestIdRawNum": 0,
+        "rewardPreviewIdRawNum": 15101,
+        "BBCDOEIPPCP": 20102,
+        "mapMarkCreateType": "NerverCreate",
+        "mapMarkCreateCondition": {
+            "conditionParamRawNum": 0
+        }
+    },
+    {
+        "idRawNum": 3,
+        "cityIdRawNum": 1,
+        "monsterIdRawNum": 24010101,
+        "groupIdList": [
+            133003151,
+            133003317,
+            133004131,
+            133007059,
+            133007041
+        ],
+        "unlockParentQuestIdRawNum": 0,
+        "rewardPreviewIdRawNum": 15104,
+        "BBCDOEIPPCP": 40101,
+        "mapMarkCreateType": "NerverCreate",
+        "mapMarkCreateCondition": {
+            "conditionParamRawNum": 0
+        }
+    },
+    {
+        "idRawNum": 4,
+        "cityIdRawNum": 1,
+        "monsterIdRawNum": 21020101,
+        "groupIdList": [
+            133001090,
+            133001108,
+            133003315,
+            133003097,
+            133004018,
+            133007145,
+            133007201,
+            133001357
+        ],
+        "unlockParentQuestIdRawNum": 0,
+        "rewardPreviewIdRawNum": 15100,
+        "BBCDOEIPPCP": 10201,
+        "mapMarkCreateType": "NerverCreate",
+        "mapMarkCreateCondition": {
+            "conditionParamRawNum": 0
+        }
+    },
+    {
+        "idRawNum": 5,
+        "cityIdRawNum": 1,
+        "monsterIdRawNum": 20040101,
+        "groupIdList": [
+            133001313
+        ],
+        "unlockParentQuestIdRawNum": 0,
+        "rewardPreviewIdRawNum": 15005,
+        "BBCDOEIPPCP": 401,
+        "mapMarkCreateType": "ExtraConditions",
+        "mapMarkCreateCondition": {
+            "conditionType": "PlayerLevelGE",
+            "conditionParamRawNum": 25
+        }
+    },
+    {
+        "idRawNum": 6,
+        "cityIdRawNum": 1,
+        "monsterIdRawNum": 29020102,
+        "groupIdList": [
+            133002259
+        ],
+        "unlockParentQuestIdRawNum": 454,
+        "rewardPreviewIdRawNum": 15004,
+        "BBCDOEIPPCP": 90201,
+        "mapMarkCreateCondition": {
+            "conditionParamRawNum": 0
+        }
+    },
+    {
+        "idRawNum": 7,
+        "cityIdRawNum": 1,
+        "monsterIdRawNum": 20040201,
+        "groupIdList": [
+            133003482
+        ],
+        "unlockParentQuestIdRawNum": 0,
+        "rewardPreviewIdRawNum": 15006,
+        "BBCDOEIPPCP": 402,
+        "mapMarkCreateType": "ExtraConditions",
+        "mapMarkCreateCondition": {
+            "conditionType": "PlayerLevelGE",
+            "conditionParamRawNum": 25
+        }
+    },
+    {
+        "idRawNum": 8,
+        "cityIdRawNum": 1,
+        "monsterIdRawNum": 20040301,
+        "groupIdList": [
+            133002271
+        ],
+        "unlockParentQuestIdRawNum": 0,
+        "rewardPreviewIdRawNum": 15007,
+        "BBCDOEIPPCP": 403,
+        "mapMarkCreateType": "ExtraConditions",
+        "mapMarkCreateCondition": {
+            "conditionType": "PlayerLevelGE",
+            "conditionParamRawNum": 25
+        }
+    },
+    {
+        "idRawNum": 9,
+        "cityIdRawNum": 2,
+        "monsterIdRawNum": 20040101,
+        "groupIdList": [
+            133104394
+        ],
+        "unlockParentQuestIdRawNum": 0,
+        "rewardPreviewIdRawNum": 15005,
+        "BBCDOEIPPCP": 401,
+        "mapMarkCreateType": "ExtraConditions",
+        "mapMarkCreateCondition": {
+            "conditionType": "PlayerLevelGE",
+            "conditionParamRawNum": 25
+        }
+    },
+    {
+        "idRawNum": 10,
+        "cityIdRawNum": 2,
+        "monsterIdRawNum": 20040201,
+        "groupIdList": [
+            133102006
+        ],
+        "unlockParentQuestIdRawNum": 0,
+        "rewardPreviewIdRawNum": 15006,
+        "BBCDOEIPPCP": 402,
+        "mapMarkCreateType": "ExtraConditions",
+        "mapMarkCreateCondition": {
+            "conditionType": "PlayerLevelGE",
+            "conditionParamRawNum": 25
+        }
+    },
+    {
+        "idRawNum": 11,
+        "cityIdRawNum": 2,
+        "monsterIdRawNum": 20040301,
+        "groupIdList": [
+            133108020
+        ],
+        "unlockParentQuestIdRawNum": 0,
+        "rewardPreviewIdRawNum": 15007,
+        "BBCDOEIPPCP": 403,
+        "mapMarkCreateType": "ExtraConditions",
+        "mapMarkCreateCondition": {
+            "conditionType": "PlayerLevelGE",
+            "conditionParamRawNum": 25
+        }
+    },
+    {
+        "idRawNum": 12,
+        "cityIdRawNum": 2,
+        "monsterIdRawNum": 21020301,
+        "groupIdList": [
+            133103169,
+            133102498,
+            133103328,
+            133104482,
+            133104266,
+            133104363,
+            133104393,
+            133104351,
+            133104294,
+            133104304
+        ],
+        "unlockParentQuestIdRawNum": 0,
+        "rewardPreviewIdRawNum": 15100,
+        "BBCDOEIPPCP": 10203,
+        "mapMarkCreateType": "NerverCreate",
+        "mapMarkCreateCondition": {
+            "conditionParamRawNum": 0
+        }
+    },
+    {
+        "idRawNum": 13,
+        "cityIdRawNum": 2,
+        "monsterIdRawNum": 23020101,
+        "groupIdList": [
+            133104268,
+            133105259
+        ],
+        "unlockParentQuestIdRawNum": 0,
+        "rewardPreviewIdRawNum": 15102,
+        "BBCDOEIPPCP": 30201,
+        "mapMarkCreateType": "NerverCreate",
+        "mapMarkCreateCondition": {
+            "conditionParamRawNum": 0
+        }
+    },
+    {
+        "idRawNum": 14,
+        "cityIdRawNum": 2,
+        "monsterIdRawNum": 24010201,
+        "groupIdList": [
+            133108019,
+            133103201,
+            133103325,
+            133103200,
+            133103076,
+            133105219,
+            133106087,
+            133108019
+        ],
+        "unlockParentQuestIdRawNum": 0,
+        "rewardPreviewIdRawNum": 15104,
+        "BBCDOEIPPCP": 40102,
+        "mapMarkCreateCondition": {
+            "conditionParamRawNum": 0
+        }
+    }
+]

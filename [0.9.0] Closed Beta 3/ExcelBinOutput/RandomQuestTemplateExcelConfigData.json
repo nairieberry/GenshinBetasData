@@ -1,0 +1,705 @@
+[
+    {
+        "mainId": 30000,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3000101
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3000102
+            },
+            {
+                "name": [
+                    "{QuestGatherID}"
+                ],
+                "poolIdRawNum": 3000104
+            },
+            {
+                "name": [
+                    "{PatternID}"
+                ],
+                "poolIdRawNum": 3000105
+            },
+            {
+                "name": [
+                    "{QuestGatherNum}"
+                ],
+                "poolIdRawNum": 3000106
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            }
+        ]
+    },
+    {
+        "mainId": 30001,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3000101
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3000102
+            },
+            {
+                "name": [
+                    "{QuestGatherID}"
+                ],
+                "poolIdRawNum": 3000104
+            },
+            {
+                "name": [
+                    "{PatternID}"
+                ],
+                "poolIdRawNum": 3000105
+            },
+            {
+                "name": [
+                    "{QuestGatherNum}"
+                ],
+                "poolIdRawNum": 3000106
+            },
+            {
+                "name": [
+                    "{PlayerLevel}",
+                    "{MonsterLevel}"
+                ],
+                "poolIdRawNum": 3000107
+            }
+        ]
+    },
+    {
+        "mainId": 30002,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3000201
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3000202
+            },
+            {
+                "name": [
+                    "{QuestGatherID}"
+                ],
+                "poolIdRawNum": 3000204
+            },
+            {
+                "name": [
+                    "{PatternID}"
+                ],
+                "poolIdRawNum": 3000105
+            },
+            {
+                "name": [
+                    "{QuestGatherNum}"
+                ],
+                "poolIdRawNum": 3000106
+            },
+            {
+                "name": [
+                    "{PlayerLevel}",
+                    "{MonsterLevel}"
+                ],
+                "poolIdRawNum": 3000107
+            }
+        ]
+    },
+    {
+        "mainId": 30003,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3000301
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3000302
+            },
+            {
+                "name": [
+                    "{QuestGatherID}"
+                ],
+                "poolIdRawNum": 3000304
+            },
+            {
+                "name": [
+                    "{PatternID}"
+                ],
+                "poolIdRawNum": 3000105
+            },
+            {
+                "name": [
+                    "{QuestGatherNum}"
+                ],
+                "poolIdRawNum": 3000106
+            },
+            {
+                "name": [
+                    "{PlayerLevel}",
+                    "{MonsterLevel}"
+                ],
+                "poolIdRawNum": 3000107
+            }
+        ]
+    },
+    {
+        "mainId": 30004,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3000401
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3000402
+            },
+            {
+                "name": [
+                    "{QuestGatherID}"
+                ],
+                "poolIdRawNum": 3000404
+            },
+            {
+                "name": [
+                    "{PatternID}"
+                ],
+                "poolIdRawNum": 3000105
+            },
+            {
+                "name": [
+                    "{QuestGatherNum}"
+                ],
+                "poolIdRawNum": 3000106
+            },
+            {
+                "name": [
+                    "{PlayerLevel}",
+                    "{MonsterLevel}"
+                ],
+                "poolIdRawNum": 3000107
+            }
+        ]
+    },
+    {
+        "mainId": 30005,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3000501
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3000502
+            },
+            {
+                "name": [
+                    "{QuestGatherID}"
+                ],
+                "poolIdRawNum": 3000504
+            },
+            {
+                "name": [
+                    "{PatternID}"
+                ],
+                "poolIdRawNum": 3000105
+            },
+            {
+                "name": [
+                    "{QuestGatherNum}"
+                ],
+                "poolIdRawNum": 3000106
+            },
+            {
+                "name": [
+                    "{PlayerLevel}",
+                    "{MonsterLevel}"
+                ],
+                "poolIdRawNum": 3000107
+            }
+        ]
+    },
+    {
+        "mainId": 30006,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3000601
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3000602
+            },
+            {
+                "name": [
+                    "{QuestGatherID}"
+                ],
+                "poolIdRawNum": 3000604
+            },
+            {
+                "name": [
+                    "{PatternID}"
+                ],
+                "poolIdRawNum": 3000105
+            },
+            {
+                "name": [
+                    "{QuestGatherNum}"
+                ],
+                "poolIdRawNum": 3000106
+            },
+            {
+                "name": [
+                    "{PlayerLevel}",
+                    "{MonsterLevel}"
+                ],
+                "poolIdRawNum": 3000107
+            }
+        ]
+    },
+    {
+        "mainId": 30007,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3000701
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3000102
+            },
+            {
+                "name": [
+                    "{QuestGatherID}"
+                ],
+                "poolIdRawNum": 3000704
+            },
+            {
+                "name": [
+                    "{PatternID}"
+                ],
+                "poolIdRawNum": 3000105
+            },
+            {
+                "name": [
+                    "{QuestGatherNum}"
+                ],
+                "poolIdRawNum": 3000106
+            },
+            {
+                "name": [
+                    "{PlayerLevel}",
+                    "{MonsterLevel}"
+                ],
+                "poolIdRawNum": 3000107
+            }
+        ]
+    },
+    {
+        "mainId": 30011,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3001101
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3000102
+            },
+            {
+                "name": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}",
+                    "{QuestGatherID2}"
+                ],
+                "poolIdRawNum": 3001103
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            }
+        ]
+    },
+    {
+        "mainId": 30012,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3001201
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3001202
+            },
+            {
+                "name": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}",
+                    "{QuestGatherID2}"
+                ],
+                "poolIdRawNum": 3001103
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            }
+        ]
+    },
+    {
+        "mainId": 30013,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3001301
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3000102
+            },
+            {
+                "name": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}",
+                    "{QuestGatherID2}"
+                ],
+                "poolIdRawNum": 3001103
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            }
+        ]
+    },
+    {
+        "mainId": 30014,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3001401
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3001402
+            },
+            {
+                "name": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}",
+                    "{QuestGatherID2}"
+                ],
+                "poolIdRawNum": 3001103
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            }
+        ]
+    },
+    {
+        "mainId": 30015,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3001501
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3000102
+            },
+            {
+                "name": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}",
+                    "{QuestGatherID2}"
+                ],
+                "poolIdRawNum": 3001103
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            }
+        ]
+    },
+    {
+        "mainId": 30021,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3002101
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3002102
+            },
+            {
+                "name": [
+                    "{QuestNpcID2}",
+                    "{NPCPos}",
+                    "{QuestNpcID3}"
+                ],
+                "poolIdRawNum": 3002103
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            }
+        ]
+    },
+    {
+        "mainId": 30022,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3002201
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3002202
+            },
+            {
+                "name": [
+                    "{QuestNpcID2}",
+                    "{NPCPos}",
+                    "{QuestNpcID3}"
+                ],
+                "poolIdRawNum": 3002203
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            }
+        ]
+    },
+    {
+        "mainId": 30023,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3002301
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3000102
+            },
+            {
+                "name": [
+                    "{QuestNpcID2}",
+                    "{NPCPos}",
+                    "{QuestNpcID3}"
+                ],
+                "poolIdRawNum": 3002303
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            }
+        ]
+    },
+    {
+        "mainId": 30024,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3002401
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3002402
+            },
+            {
+                "name": [
+                    "{QuestNpcID2}",
+                    "{NPCPos}",
+                    "{QuestNpcID3}"
+                ],
+                "poolIdRawNum": 3002403
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            }
+        ]
+    },
+    {
+        "mainId": 30025,
+        "elemList": [
+            {
+                "name": [
+                    "{QuestNpcID}"
+                ],
+                "poolIdRawNum": 3002501
+            },
+            {
+                "name": [
+                    "{QuestRescuePos}"
+                ],
+                "poolIdRawNum": 3000102
+            },
+            {
+                "name": [
+                    "{QuestNpcID2}",
+                    "{NPCPos}",
+                    "{QuestNpcID3}"
+                ],
+                "poolIdRawNum": 3002503
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            },
+            {
+                "name": [],
+                "poolIdRawNum": 0
+            }
+        ]
+    }
+]

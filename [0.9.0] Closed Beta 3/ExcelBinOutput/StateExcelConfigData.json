@@ -1,0 +1,32 @@
+[
+    {
+        "stateName": "ElementBurning",
+        "rankRawNum": 0
+    },
+    {
+        "stateName": "ElementWet",
+        "rankRawNum": 0
+    },
+    {
+        "stateName": "ElementGrassGrowing",
+        "rankRawNum": 0
+    },
+    {
+        "stateName": "ElementFrozen",
+        "stateType": "BUFF_CONTROL",
+        "rankRawNum": 1
+    },
+    {
+        "stateName": "Paralyze",
+        "stateType": "BUFF_CONTROL",
+        "rankRawNum": 2
+    },
+    {
+        "stateName": "LockHP",
+        "rankRawNum": 0
+    },
+    {
+        "stateName": "ElementShock",
+        "rankRawNum": 0
+    }
+]

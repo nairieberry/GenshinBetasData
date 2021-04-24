@@ -1,0 +1,1043 @@
+[
+    {
+        "idRawNum": 101,
+        "detailIdList": [
+            10101,
+            10102
+        ]
+    },
+    {
+        "idRawNum": 102,
+        "detailIdList": [
+            10201
+        ]
+    },
+    {
+        "idRawNum": 103,
+        "detailIdList": [
+            10301,
+            10302
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 104,
+        "detailIdList": [
+            10401,
+            10402,
+            10403
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 105,
+        "detailIdList": [
+            10501,
+            10502,
+            10503
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 106,
+        "detailIdList": [
+            10601,
+            10602
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 107,
+        "detailIdList": [
+            10701,
+            10702
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 108,
+        "detailIdList": [
+            10801
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 109,
+        "detailIdList": [
+            10901,
+            10902
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 110,
+        "detailIdList": [
+            11001,
+            11002
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 111,
+        "detailIdList": [
+            11101,
+            11102
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 112,
+        "detailIdList": [
+            11201,
+            11202
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 113,
+        "detailIdList": [
+            11301,
+            11302,
+            11303,
+            11304
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 114,
+        "detailIdList": [
+            11401,
+            11402,
+            11403,
+            11404,
+            11405
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 115,
+        "detailIdList": [
+            11501
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 116,
+        "detailIdList": [
+            11601
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 117,
+        "detailIdList": [
+            11701
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 118,
+        "detailIdList": [
+            11801
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 119,
+        "detailIdList": [
+            11901
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 120,
+        "detailIdList": [
+            12001
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 121,
+        "detailIdList": [
+            12101
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 122,
+        "detailIdList": [
+            12201
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 123,
+        "detailIdList": [
+            12301
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 124,
+        "detailIdList": [
+            12401
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 125,
+        "detailIdList": [
+            12501
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 126,
+        "detailIdList": [
+            12601
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 127,
+        "detailIdList": [
+            12701
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 128,
+        "detailIdList": [
+            12801
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 129,
+        "detailIdList": [
+            12901
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 130,
+        "detailIdList": [
+            13001
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 131,
+        "detailIdList": [
+            13101
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 132,
+        "detailIdList": [
+            13201
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 133,
+        "detailIdList": [
+            13301
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 134,
+        "detailIdList": [
+            13401
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 135,
+        "detailIdList": [
+            13501
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 136,
+        "detailIdList": [
+            13601
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 137,
+        "detailIdList": [
+            13701
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 138,
+        "detailIdList": [
+            13801
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 139,
+        "detailIdList": [
+            13901
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 140,
+        "detailIdList": [
+            14001
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 141,
+        "detailIdList": [
+            14101
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 142,
+        "detailIdList": [
+            14201
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 143,
+        "detailIdList": [
+            14301
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 144,
+        "detailIdList": [
+            14401
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 145,
+        "detailIdList": [
+            14501
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 146,
+        "detailIdList": [
+            14601
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 147,
+        "detailIdList": [
+            14701
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 148,
+        "detailIdList": [
+            14801
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 149,
+        "detailIdList": [
+            14901,
+            14902
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 150,
+        "detailIdList": [
+            15001
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 160,
+        "detailIdList": [
+            16001,
+            16002,
+            16003
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 170,
+        "detailIdList": [
+            17001,
+            17002,
+            17003,
+            17004,
+            17005
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 180,
+        "detailIdList": [
+            18001
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 181,
+        "detailIdList": [
+            18101
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 182,
+        "detailIdList": [
+            18201
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 183,
+        "detailIdList": [
+            18301,
+            18302
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 190,
+        "detailIdList": [
+            19001
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 201,
+        "detailIdList": [
+            20101
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 202,
+        "detailIdList": [
+            20201
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 211,
+        "detailIdList": [
+            21101,
+            21102
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 212,
+        "detailIdList": [
+            21201
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 221,
+        "detailIdList": [
+            22101,
+            22102,
+            22103
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 222,
+        "detailIdList": [
+            22201
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 231,
+        "detailIdList": [
+            23101,
+            23102,
+            23103
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 232,
+        "detailIdList": [
+            23201
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 233,
+        "detailIdList": [
+            23301
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 234,
+        "detailIdList": [
+            23401
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 235,
+        "detailIdList": [
+            23501,
+            23502
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 236,
+        "detailIdList": [
+            23601
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 237,
+        "detailIdList": [
+            23701
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 238,
+        "detailIdList": [
+            23801
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 239,
+        "detailIdList": [
+            23901
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 240,
+        "detailIdList": [
+            24001
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 241,
+        "detailIdList": [
+            24101
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 242,
+        "detailIdList": [
+            24201
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 243,
+        "detailIdList": [
+            24301
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 244,
+        "detailIdList": [
+            24401
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 245,
+        "detailIdList": [
+            24501
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 246,
+        "detailIdList": [
+            24601
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 247,
+        "detailIdList": [
+            24701
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 248,
+        "detailIdList": [
+            24801
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 249,
+        "detailIdList": [
+            24901
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 250,
+        "detailIdList": [
+            25001
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 251,
+        "detailIdList": [
+            25101,
+            25102
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 252,
+        "detailIdList": [
+            25201
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 253,
+        "detailIdList": [
+            25301
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 254,
+        "detailIdList": [
+            25401,
+            25402
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 255,
+        "detailIdList": [
+            25501
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 256,
+        "detailIdList": [
+            25601
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 300,
+        "detailIdList": [
+            30000
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 301,
+        "detailIdList": [
+            30101
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 302,
+        "detailIdList": [
+            30201,
+            30202
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 303,
+        "detailIdList": [
+            30301,
+            30302
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 304,
+        "detailIdList": [
+            30401
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 305,
+        "detailIdList": [
+            30501
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 306,
+        "detailIdList": [
+            30601
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 307,
+        "detailIdList": [
+            30701
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 308,
+        "detailIdList": [
+            30801
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 309,
+        "detailIdList": [
+            30901
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 310,
+        "detailIdList": [
+            31001
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 311,
+        "detailIdList": [
+            31101
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 312,
+        "detailIdList": [
+            31201
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 313,
+        "detailIdList": [
+            31301
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 314,
+        "detailIdList": [
+            31401
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 315,
+        "detailIdList": [
+            31501
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 316,
+        "detailIdList": [
+            31601
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 317,
+        "detailIdList": [
+            31701
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 318,
+        "detailIdList": [
+            31801
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 319,
+        "detailIdList": [
+            31901
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 320,
+        "detailIdList": [
+            32001
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 321,
+        "detailIdList": [
+            32101
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 322,
+        "detailIdList": [
+            32201
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 323,
+        "detailIdList": [
+            32301
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 324,
+        "detailIdList": [
+            32401
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 325,
+        "detailIdList": [
+            32501,
+            32502
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 326,
+        "detailIdList": [
+            32601
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 327,
+        "detailIdList": [
+            32701
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 328,
+        "detailIdList": [
+            32801
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 329,
+        "detailIdList": [
+            32901
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 330,
+        "detailIdList": [
+            33001
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 331,
+        "detailIdList": [
+            33101,
+            33102
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 332,
+        "detailIdList": [
+            33201
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 333,
+        "detailIdList": [
+            33301
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 334,
+        "detailIdList": [
+            33401
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 335,
+        "detailIdList": [
+            33501
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 336,
+        "detailIdList": [
+            33601
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 337,
+        "detailIdList": [
+            33701
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 338,
+        "detailIdList": [
+            33801
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 339,
+        "detailIdList": [
+            33901,
+            33902
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 400,
+        "detailIdList": [
+            40001,
+            40002
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 401,
+        "detailIdList": [
+            40003
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 402,
+        "detailIdList": [
+            40003
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 403,
+        "detailIdList": [
+            40003
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 404,
+        "detailIdList": [
+            40003
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 405,
+        "detailIdList": [
+            40003
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 406,
+        "detailIdList": [
+            40003
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 407,
+        "detailIdList": [
+            40003
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 500,
+        "detailIdList": [
+            50001
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 501,
+        "detailIdList": [
+            50101
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 502,
+        "detailIdList": [
+            50201
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 503,
+        "detailIdList": [
+            50301
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 601,
+        "detailIdList": [
+            60001,
+            60002
+        ],
+        "pauseGame": true
+    },
+    {
+        "idRawNum": 602,
+        "detailIdList": [
+            60201
+        ],
+        "pauseGame": true
+    }
+]

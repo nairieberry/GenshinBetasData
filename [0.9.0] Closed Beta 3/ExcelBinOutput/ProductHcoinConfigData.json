@@ -1,0 +1,74 @@
+[
+    {
+        "itemNameTextMapHash": 3256330998,
+        "primNameTextMapHash": 2233686229,
+        "icon": "UI_Mall_Purchase_Primogem1ststall",
+        "LEABHNKCEPI": 60,
+        "EBFDLJDEJIP": 0,
+        "NOPOGHDILLF": 0,
+        "seqenceRawNum": 6,
+        "productId": "test_ys_glb_primogem1ststall_tier1",
+        "priceTier": "Test_Tier_1",
+        "shopType": "SHOP_TYPE_HCOIN"
+    },
+    {
+        "itemNameTextMapHash": 92719298,
+        "primNameTextMapHash": 2779609702,
+        "icon": "UI_Mall_Purchase_Primogem2ndstall",
+        "LEABHNKCEPI": 300,
+        "EBFDLJDEJIP": 30,
+        "NOPOGHDILLF": 30,
+        "seqenceRawNum": 5,
+        "productId": "test_ys_glb_primogem2ndstall_tier5",
+        "priceTier": "Test_Tier_1",
+        "shopType": "SHOP_TYPE_HCOIN"
+    },
+    {
+        "itemNameTextMapHash": 1319185016,
+        "primNameTextMapHash": 1546367180,
+        "icon": "UI_Mall_Purchase_Primogem3rdstall",
+        "LEABHNKCEPI": 980,
+        "EBFDLJDEJIP": 110,
+        "NOPOGHDILLF": 110,
+        "seqenceRawNum": 4,
+        "productId": "test_ys_glb_primogem3rdstall_tier15",
+        "priceTier": "Test_Tier_1",
+        "shopType": "SHOP_TYPE_HCOIN"
+    },
+    {
+        "itemNameTextMapHash": 1694506950,
+        "primNameTextMapHash": 3043202596,
+        "icon": "UI_Mall_Purchase_Primogem4thstall",
+        "LEABHNKCEPI": 1980,
+        "EBFDLJDEJIP": 260,
+        "NOPOGHDILLF": 260,
+        "seqenceRawNum": 3,
+        "productId": "test_ys_glb_primogem4thstall_tier30",
+        "priceTier": "Test_Tier_1",
+        "shopType": "SHOP_TYPE_HCOIN"
+    },
+    {
+        "itemNameTextMapHash": 323971634,
+        "primNameTextMapHash": 1496999480,
+        "icon": "UI_Mall_Purchase_Primogem5thstall",
+        "LEABHNKCEPI": 3280,
+        "EBFDLJDEJIP": 600,
+        "NOPOGHDILLF": 600,
+        "seqenceRawNum": 2,
+        "productId": "test_ys_glb_primogem5thstall_tier50",
+        "priceTier": "Test_Tier_1",
+        "shopType": "SHOP_TYPE_HCOIN"
+    },
+    {
+        "itemNameTextMapHash": 1878829960,
+        "primNameTextMapHash": 3772617964,
+        "icon": "UI_Mall_Purchase_Primogem6thstall",
+        "LEABHNKCEPI": 6480,
+        "EBFDLJDEJIP": 1600,
+        "NOPOGHDILLF": 1600,
+        "seqenceRawNum": 1,
+        "productId": "test_ys_glb_primogem6thstall_tier60",
+        "priceTier": "Test_Tier_1",
+        "shopType": "SHOP_TYPE_HCOIN"
+    }
+]

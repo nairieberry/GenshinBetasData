@@ -1,0 +1,2383 @@
+[
+    {
+        "id": 3000001,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000002",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3000004,
+            3000005
+        ],
+        "initDialog": 300000101,
+        "npcId": [
+            157701
+        ],
+        "performCfg": "",
+        "questId": 30000
+    },
+    {
+        "id": 3000002,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCondComb": "LOGIC_AND",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000003",
+                    "2"
+                ]
+            },
+            {
+                "type": "QUEST_COND_PACK_HAVE_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [
+            3000006,
+            3000007,
+            3000009
+        ],
+        "initDialog": 300000201,
+        "npcId": [
+            157701
+        ],
+        "performCfg": "",
+        "questId": 30000
+    },
+    {
+        "id": 3000003,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCondComb": "LOGIC_AND",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000003",
+                    "2"
+                ]
+            },
+            {
+                "type": "QUEST_COND_ITEM_NUM_LESS_THAN",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [
+            3000008,
+            3000009
+        ],
+        "initDialog": 300000301,
+        "npcId": [
+            157701
+        ],
+        "performCfg": "",
+        "questId": 30000
+    },
+    {
+        "id": 3000004,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300000401,
+        "npcId": [
+            157701
+        ],
+        "performCfg": "",
+        "questId": 30000
+    },
+    {
+        "id": 3000005,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300000501,
+        "npcId": [
+            157701
+        ],
+        "performCfg": "",
+        "questId": 30000
+    },
+    {
+        "id": 3000006,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [
+            3000010
+        ],
+        "initDialog": 300000601,
+        "npcId": [
+            157701
+        ],
+        "performCfg": "",
+        "questId": 30000
+    },
+    {
+        "id": 3000007,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300000701,
+        "npcId": [
+            157701
+        ],
+        "performCfg": "",
+        "questId": 30000
+    },
+    {
+        "id": 3000008,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300000801,
+        "npcId": [
+            157701
+        ],
+        "performCfg": "",
+        "questId": 30000
+    },
+    {
+        "id": 3000009,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300000901,
+        "npcId": [
+            157701
+        ],
+        "performCfg": "",
+        "questId": 30000
+    },
+    {
+        "id": 3000010,
+        "beginCondComb": "LOGIC_AND",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000002",
+                    "3"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300001001,
+        "npcId": [
+            157701
+        ],
+        "performCfg": "",
+        "questId": 30000
+    },
+    {
+        "id": 3000011,
+        "beginCondComb": "LOGIC_AND",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000002",
+                    "3"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300001101,
+        "npcId": [
+            157701
+        ],
+        "performCfg": "",
+        "questId": 30000
+    },
+    {
+        "id": 3000101,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000102",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300010101,
+        "npcId": [
+            157701
+        ],
+        "performCfg": "",
+        "questId": 30001
+    },
+    {
+        "id": 3000201,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000202",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300010101,
+        "npcId": [
+            152301
+        ],
+        "performCfg": "",
+        "questId": 30002
+    },
+    {
+        "id": 3000301,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000302",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300010101,
+        "npcId": [
+            154901
+        ],
+        "performCfg": "",
+        "questId": 30003
+    },
+    {
+        "id": 3000401,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000402",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300010101,
+        "npcId": [
+            141301
+        ],
+        "performCfg": "",
+        "questId": 30004
+    },
+    {
+        "id": 3000501,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000502",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300010101,
+        "npcId": [
+            154101
+        ],
+        "performCfg": "",
+        "questId": 30005
+    },
+    {
+        "id": 3000601,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000602",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300010101,
+        "npcId": [
+            153901
+        ],
+        "performCfg": "",
+        "questId": 30006
+    },
+    {
+        "id": 3000701,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3000702",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300010101,
+        "npcId": [
+            156301
+        ],
+        "performCfg": "",
+        "questId": 30007
+    },
+    {
+        "id": 3001101,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001101",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3001104,
+            3001105
+        ],
+        "initDialog": 300110101,
+        "npcId": [
+            147901
+        ],
+        "performCfg": "",
+        "questId": 30011
+    },
+    {
+        "id": 3001102,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCondComb": "LOGIC_AND",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001102",
+                    "2"
+                ]
+            },
+            {
+                "type": "QUEST_COND_PACK_HAVE_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3001106,
+            3001107
+        ],
+        "initDialog": 300110201,
+        "npcId": [
+            147901
+        ],
+        "performCfg": "",
+        "questId": 30011
+    },
+    {
+        "id": 3001103,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCondComb": "LOGIC_AND",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001102",
+                    "2"
+                ]
+            },
+            {
+                "type": "QUEST_COND_ITEM_NUM_LESS_THAN",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300110301,
+        "npcId": [
+            147901
+        ],
+        "performCfg": "",
+        "questId": 30011
+    },
+    {
+        "id": 3001104,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110401,
+        "npcId": [
+            147901
+        ],
+        "performCfg": "",
+        "questId": 30011
+    },
+    {
+        "id": 3001105,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110501,
+        "npcId": [
+            147901
+        ],
+        "performCfg": "",
+        "questId": 30011
+    },
+    {
+        "id": 3001106,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110601,
+        "npcId": [
+            147901
+        ],
+        "performCfg": "",
+        "questId": 30011
+    },
+    {
+        "id": 3001107,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110701,
+        "npcId": [
+            147901
+        ],
+        "performCfg": "",
+        "questId": 30011
+    },
+    {
+        "id": 3001201,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001201",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3001204,
+            3001205
+        ],
+        "initDialog": 300110101,
+        "npcId": [
+            143101
+        ],
+        "performCfg": "",
+        "questId": 30012
+    },
+    {
+        "id": 3001202,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCondComb": "LOGIC_AND",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001202",
+                    "2"
+                ]
+            },
+            {
+                "type": "QUEST_COND_PACK_HAVE_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3001206,
+            3001207
+        ],
+        "initDialog": 300110201,
+        "npcId": [
+            143101
+        ],
+        "performCfg": "",
+        "questId": 30012
+    },
+    {
+        "id": 3001203,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCondComb": "LOGIC_AND",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001202",
+                    "2"
+                ]
+            },
+            {
+                "type": "QUEST_COND_ITEM_NUM_LESS_THAN",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300110301,
+        "npcId": [
+            143101
+        ],
+        "performCfg": "",
+        "questId": 30012
+    },
+    {
+        "id": 3001204,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110401,
+        "npcId": [
+            143101
+        ],
+        "performCfg": "",
+        "questId": 30012
+    },
+    {
+        "id": 3001205,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110501,
+        "npcId": [
+            143101
+        ],
+        "performCfg": "",
+        "questId": 30012
+    },
+    {
+        "id": 3001206,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110601,
+        "npcId": [
+            143101
+        ],
+        "performCfg": "",
+        "questId": 30012
+    },
+    {
+        "id": 3001207,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110701,
+        "npcId": [
+            143101
+        ],
+        "performCfg": "",
+        "questId": 30012
+    },
+    {
+        "id": 3001301,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001301",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3001304,
+            3001305
+        ],
+        "initDialog": 300110101,
+        "npcId": [
+            140801
+        ],
+        "performCfg": "",
+        "questId": 30013
+    },
+    {
+        "id": 3001302,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCondComb": "LOGIC_AND",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001302",
+                    "2"
+                ]
+            },
+            {
+                "type": "QUEST_COND_PACK_HAVE_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3001306,
+            3001307
+        ],
+        "initDialog": 300110201,
+        "npcId": [
+            140801
+        ],
+        "performCfg": "",
+        "questId": 30013
+    },
+    {
+        "id": 3001303,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCondComb": "LOGIC_AND",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001302",
+                    "2"
+                ]
+            },
+            {
+                "type": "QUEST_COND_ITEM_NUM_LESS_THAN",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300110301,
+        "npcId": [
+            140801
+        ],
+        "performCfg": "",
+        "questId": 30013
+    },
+    {
+        "id": 3001304,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110401,
+        "npcId": [
+            140801
+        ],
+        "performCfg": "",
+        "questId": 30013
+    },
+    {
+        "id": 3001305,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110501,
+        "npcId": [
+            140801
+        ],
+        "performCfg": "",
+        "questId": 30013
+    },
+    {
+        "id": 3001306,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110601,
+        "npcId": [
+            140801
+        ],
+        "performCfg": "",
+        "questId": 30013
+    },
+    {
+        "id": 3001307,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110701,
+        "npcId": [
+            140801
+        ],
+        "performCfg": "",
+        "questId": 30013
+    },
+    {
+        "id": 3001401,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001401",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3001404,
+            3001405
+        ],
+        "initDialog": 300110101,
+        "npcId": [
+            152101
+        ],
+        "performCfg": "",
+        "questId": 30014
+    },
+    {
+        "id": 3001402,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCondComb": "LOGIC_AND",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001402",
+                    "2"
+                ]
+            },
+            {
+                "type": "QUEST_COND_PACK_HAVE_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3001406,
+            3001407
+        ],
+        "initDialog": 300110201,
+        "npcId": [
+            152101
+        ],
+        "performCfg": "",
+        "questId": 30014
+    },
+    {
+        "id": 3001403,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCondComb": "LOGIC_AND",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001402",
+                    "2"
+                ]
+            },
+            {
+                "type": "QUEST_COND_ITEM_NUM_LESS_THAN",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300110301,
+        "npcId": [
+            152101
+        ],
+        "performCfg": "",
+        "questId": 30014
+    },
+    {
+        "id": 3001404,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110401,
+        "npcId": [
+            152101
+        ],
+        "performCfg": "",
+        "questId": 30014
+    },
+    {
+        "id": 3001405,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110501,
+        "npcId": [
+            152101
+        ],
+        "performCfg": "",
+        "questId": 30014
+    },
+    {
+        "id": 3001406,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110601,
+        "npcId": [
+            152101
+        ],
+        "performCfg": "",
+        "questId": 30014
+    },
+    {
+        "id": 3001407,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110701,
+        "npcId": [
+            152101
+        ],
+        "performCfg": "",
+        "questId": 30014
+    },
+    {
+        "id": 3001501,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001501",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3001504,
+            3001505
+        ],
+        "initDialog": 300110101,
+        "npcId": [
+            157801
+        ],
+        "performCfg": "",
+        "questId": 30015
+    },
+    {
+        "id": 3001502,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCondComb": "LOGIC_AND",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001502",
+                    "2"
+                ]
+            },
+            {
+                "type": "QUEST_COND_PACK_HAVE_ITEM",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3001506,
+            3001507
+        ],
+        "initDialog": 300110201,
+        "npcId": [
+            157801
+        ],
+        "performCfg": "",
+        "questId": 30015
+    },
+    {
+        "id": 3001503,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCondComb": "LOGIC_AND",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3001502",
+                    "2"
+                ]
+            },
+            {
+                "type": "QUEST_COND_ITEM_NUM_LESS_THAN",
+                "param": [
+                    "{QuestGatherID}",
+                    "{QuestGatherNum}"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300110301,
+        "npcId": [
+            157801
+        ],
+        "performCfg": "",
+        "questId": 30015
+    },
+    {
+        "id": 3001504,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110401,
+        "npcId": [
+            157801
+        ],
+        "performCfg": "",
+        "questId": 30015
+    },
+    {
+        "id": 3001505,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110501,
+        "npcId": [
+            157801
+        ],
+        "performCfg": "",
+        "questId": 30015
+    },
+    {
+        "id": 3001506,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110601,
+        "npcId": [
+            157801
+        ],
+        "performCfg": "",
+        "questId": 30015
+    },
+    {
+        "id": 3001507,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300110701,
+        "npcId": [
+            157801
+        ],
+        "performCfg": "",
+        "questId": 30015
+    },
+    {
+        "id": 3002101,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3002101",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3002103,
+            3002104
+        ],
+        "initDialog": 300210101,
+        "npcId": [
+            155301
+        ],
+        "performCfg": "",
+        "questId": 30021
+    },
+    {
+        "id": 3002102,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3002102",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300210201,
+        "npcId": [
+            140901,
+            141101
+        ],
+        "performCfg": "",
+        "questId": 30021
+    },
+    {
+        "id": 3002103,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300210301,
+        "npcId": [
+            155301
+        ],
+        "performCfg": "",
+        "questId": 30021
+    },
+    {
+        "id": 3002104,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300210401,
+        "npcId": [
+            155301
+        ],
+        "performCfg": "",
+        "questId": 30021
+    },
+    {
+        "id": 3002201,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3002201",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3002203,
+            3002204
+        ],
+        "initDialog": 300210101,
+        "npcId": [
+            155501
+        ],
+        "performCfg": "",
+        "questId": 30022
+    },
+    {
+        "id": 3002202,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3002202",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300210201,
+        "npcId": [
+            156301
+        ],
+        "performCfg": "",
+        "questId": 30022
+    },
+    {
+        "id": 3002203,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300210301,
+        "npcId": [
+            155501
+        ],
+        "performCfg": "",
+        "questId": 30022
+    },
+    {
+        "id": 3002204,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300210401,
+        "npcId": [
+            155501
+        ],
+        "performCfg": "",
+        "questId": 30022
+    },
+    {
+        "id": 3002301,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3002301",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3002303,
+            3002304
+        ],
+        "initDialog": 300210101,
+        "npcId": [
+            156301
+        ],
+        "performCfg": "",
+        "questId": 30023
+    },
+    {
+        "id": 3002302,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3002302",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300210201,
+        "npcId": [
+            155501
+        ],
+        "performCfg": "",
+        "questId": 30023
+    },
+    {
+        "id": 3002303,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300210301,
+        "npcId": [
+            156301
+        ],
+        "performCfg": "",
+        "questId": 30023
+    },
+    {
+        "id": 3002304,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300210401,
+        "npcId": [
+            156301
+        ],
+        "performCfg": "",
+        "questId": 30023
+    },
+    {
+        "id": 3002401,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3002401",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3002403,
+            3002404
+        ],
+        "initDialog": 300210101,
+        "npcId": [
+            153901
+        ],
+        "performCfg": "",
+        "questId": 30024
+    },
+    {
+        "id": 3002402,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3002402",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300210201,
+        "npcId": [
+            153701,
+            154101
+        ],
+        "performCfg": "",
+        "questId": 30024
+    },
+    {
+        "id": 3002403,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300210301,
+        "npcId": [
+            153901
+        ],
+        "performCfg": "",
+        "questId": 30024
+    },
+    {
+        "id": 3002404,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300210401,
+        "npcId": [
+            153901
+        ],
+        "performCfg": "",
+        "questId": 30024
+    },
+    {
+        "id": 3002501,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3002501",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [
+            3002503,
+            3002504
+        ],
+        "initDialog": 300210101,
+        "npcId": [
+            157901
+        ],
+        "performCfg": "",
+        "questId": 30025
+    },
+    {
+        "id": 3002502,
+        "beginWay": "TALK_BEGIN_MANUAL",
+        "beginCond": [
+            {
+                "type": "QUEST_COND_STATE_EQUAL",
+                "param": [
+                    "3002502",
+                    "2"
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "priority": 9,
+        "nextTalks": [],
+        "initDialog": 300210201,
+        "npcId": [
+            153701,
+            154101
+        ],
+        "performCfg": "",
+        "questId": 30025
+    },
+    {
+        "id": 3002503,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300210301,
+        "npcId": [
+            157901
+        ],
+        "performCfg": "",
+        "questId": 30025
+    },
+    {
+        "id": 3002504,
+        "beginCond": [
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "param": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "nextTalks": [],
+        "initDialog": 300210401,
+        "npcId": [
+            157901
+        ],
+        "performCfg": "",
+        "questId": 30025
+    }
+]

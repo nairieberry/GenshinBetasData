@@ -1,0 +1,386 @@
+[
+    {
+        "idRawNum": 17,
+        "monday": [
+            5254
+        ],
+        "tuesday": [
+            5258
+        ],
+        "wednesday": [
+            5262
+        ],
+        "thursday": [
+            5254
+        ],
+        "friday": [
+            5258
+        ],
+        "saturday": [
+            5262
+        ],
+        "sunday": [
+            5250
+        ]
+    },
+    {
+        "idRawNum": 18,
+        "monday": [
+            5255
+        ],
+        "tuesday": [
+            5259
+        ],
+        "wednesday": [
+            5263
+        ],
+        "thursday": [
+            5255
+        ],
+        "friday": [
+            5259
+        ],
+        "saturday": [
+            5263
+        ],
+        "sunday": [
+            5251
+        ]
+    },
+    {
+        "idRawNum": 19,
+        "monday": [
+            5256
+        ],
+        "tuesday": [
+            5260
+        ],
+        "wednesday": [
+            5264
+        ],
+        "thursday": [
+            5256
+        ],
+        "friday": [
+            5260
+        ],
+        "saturday": [
+            5264
+        ],
+        "sunday": [
+            5252
+        ]
+    },
+    {
+        "idRawNum": 20,
+        "monday": [
+            5257
+        ],
+        "tuesday": [
+            5261
+        ],
+        "wednesday": [
+            5265
+        ],
+        "thursday": [
+            5257
+        ],
+        "friday": [
+            5261
+        ],
+        "saturday": [
+            5265
+        ],
+        "sunday": [
+            5253
+        ]
+    },
+    {
+        "idRawNum": 21,
+        "monday": [
+            5214
+        ],
+        "tuesday": [
+            5218
+        ],
+        "wednesday": [
+            5222
+        ],
+        "thursday": [
+            5214
+        ],
+        "friday": [
+            5218
+        ],
+        "saturday": [
+            5222
+        ],
+        "sunday": [
+            5210
+        ]
+    },
+    {
+        "idRawNum": 22,
+        "monday": [
+            5215
+        ],
+        "tuesday": [
+            5219
+        ],
+        "wednesday": [
+            5223
+        ],
+        "thursday": [
+            5215
+        ],
+        "friday": [
+            5219
+        ],
+        "saturday": [
+            5223
+        ],
+        "sunday": [
+            5211
+        ]
+    },
+    {
+        "idRawNum": 23,
+        "monday": [
+            5216
+        ],
+        "tuesday": [
+            5220
+        ],
+        "wednesday": [
+            5224
+        ],
+        "thursday": [
+            5216
+        ],
+        "friday": [
+            5220
+        ],
+        "saturday": [
+            5224
+        ],
+        "sunday": [
+            5212
+        ]
+    },
+    {
+        "idRawNum": 24,
+        "monday": [
+            5217
+        ],
+        "tuesday": [
+            5221
+        ],
+        "wednesday": [
+            5225
+        ],
+        "thursday": [
+            5217
+        ],
+        "friday": [
+            5221
+        ],
+        "saturday": [
+            5225
+        ],
+        "sunday": [
+            5213
+        ]
+    },
+    {
+        "idRawNum": 25,
+        "monday": [
+            4210
+        ],
+        "tuesday": [
+            4220
+        ],
+        "wednesday": [
+            4230
+        ],
+        "thursday": [
+            4210
+        ],
+        "friday": [
+            4220
+        ],
+        "saturday": [
+            4230
+        ],
+        "sunday": [
+            4200
+        ]
+    },
+    {
+        "idRawNum": 26,
+        "monday": [
+            4211
+        ],
+        "tuesday": [
+            4221
+        ],
+        "wednesday": [
+            4231
+        ],
+        "thursday": [
+            4211
+        ],
+        "friday": [
+            4221
+        ],
+        "saturday": [
+            4231
+        ],
+        "sunday": [
+            4201
+        ]
+    },
+    {
+        "idRawNum": 27,
+        "monday": [
+            4212
+        ],
+        "tuesday": [
+            4222
+        ],
+        "wednesday": [
+            4232
+        ],
+        "thursday": [
+            4212
+        ],
+        "friday": [
+            4222
+        ],
+        "saturday": [
+            4232
+        ],
+        "sunday": [
+            4202
+        ]
+    },
+    {
+        "idRawNum": 28,
+        "monday": [
+            4213
+        ],
+        "tuesday": [
+            4223
+        ],
+        "wednesday": [
+            4233
+        ],
+        "thursday": [
+            4213
+        ],
+        "friday": [
+            4223
+        ],
+        "saturday": [
+            4233
+        ],
+        "sunday": [
+            4203
+        ]
+    },
+    {
+        "idRawNum": 29,
+        "monday": [
+            4310
+        ],
+        "tuesday": [
+            4320
+        ],
+        "wednesday": [
+            4330
+        ],
+        "thursday": [
+            4310
+        ],
+        "friday": [
+            4320
+        ],
+        "saturday": [
+            4330
+        ],
+        "sunday": [
+            4300
+        ]
+    },
+    {
+        "idRawNum": 30,
+        "monday": [
+            4311
+        ],
+        "tuesday": [
+            4321
+        ],
+        "wednesday": [
+            4331
+        ],
+        "thursday": [
+            4311
+        ],
+        "friday": [
+            4321
+        ],
+        "saturday": [
+            4331
+        ],
+        "sunday": [
+            4301
+        ]
+    },
+    {
+        "idRawNum": 31,
+        "monday": [
+            4312
+        ],
+        "tuesday": [
+            4322
+        ],
+        "wednesday": [
+            4332
+        ],
+        "thursday": [
+            4312
+        ],
+        "friday": [
+            4322
+        ],
+        "saturday": [
+            4332
+        ],
+        "sunday": [
+            4302
+        ]
+    },
+    {
+        "idRawNum": 32,
+        "monday": [
+            4313
+        ],
+        "tuesday": [
+            4323
+        ],
+        "wednesday": [
+            4333
+        ],
+        "thursday": [
+            4313
+        ],
+        "friday": [
+            4323
+        ],
+        "saturday": [
+            4333
+        ],
+        "sunday": [
+            4303
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "idRawNum": 1001,
+        "MaxTakeNumRawNum": 1,
+        "takeCostRawNum": 3
+    },
+    {
+        "idRawNum": 1002,
+        "MaxTakeNumRawNum": 5,
+        "takeCostRawNum": 0
+    }
+]

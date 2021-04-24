@@ -1,0 +1,40 @@
+[
+    {
+        "cityIdRawNum": 1,
+        "sceneIdRawNum": 3,
+        "areaIdVec": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "cityNameTextMapHash": 3559383697,
+        "mapPosXRawNum": 1400,
+        "mapPosYRawNum": 4600,
+        "zoomForExplorationRawNum": 0.004999999888241291,
+        "adventurePointIdRawNum": 98,
+        "ExpeditionMap": "UI_Img_ExplorePageBg",
+        "openState": "OPEN_ADVENTURE_MANUAL_CITY_MENGDE",
+        "cityGoddnessNameTextMapHash": 272563128,
+        "cityGoddnessDescTextMapHash": 3971726292
+    },
+    {
+        "cityIdRawNum": 2,
+        "sceneIdRawNum": 3,
+        "areaIdVec": [
+            5,
+            6,
+            7,
+            8
+        ],
+        "cityNameTextMapHash": 3553833321,
+        "mapPosXRawNum": 999,
+        "mapPosYRawNum": 2200,
+        "zoomForExplorationRawNum": 0.004999999888241291,
+        "adventurePointIdRawNum": 98,
+        "ExpeditionMap": "UI_Img_ExplorePageBg02",
+        "openState": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
+        "cityGoddnessNameTextMapHash": 2121292496,
+        "cityGoddnessDescTextMapHash": 343061060
+    }
+]

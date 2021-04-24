@@ -1,0 +1,870 @@
+[
+    {
+        "idRawNum": 1100101,
+        "cityIdRawNum": 1,
+        "sectionIdRawNum": 1001,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133001374
+        ],
+        "decorateGroupVec": [
+            133001382
+        ],
+        "nextCampIdVec": [
+            1100102
+        ],
+        "is_safe": true,
+        "is_initial_refresh": true,
+        "finish_progressRawNum": 7,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 1770841651
+    },
+    {
+        "idRawNum": 1100102,
+        "cityIdRawNum": 1,
+        "sectionIdRawNum": 1001,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133001376
+        ],
+        "decorateGroupVec": [
+            133001393
+        ],
+        "nextCampIdVec": [
+            1100103
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 8,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 2122723355
+    },
+    {
+        "idRawNum": 1100103,
+        "cityIdRawNum": 1,
+        "sectionIdRawNum": 1001,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133001375
+        ],
+        "decorateGroupVec": [
+            133001394
+        ],
+        "nextCampIdVec": [
+            1100104
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 7,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 4275443411
+    },
+    {
+        "idRawNum": 1100104,
+        "cityIdRawNum": 1,
+        "sectionIdRawNum": 1001,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133001373
+        ],
+        "decorateGroupVec": [
+            133001381
+        ],
+        "nextCampIdVec": [
+            1100201,
+            1100301
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 7,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 2234381987
+    },
+    {
+        "idRawNum": 1100201,
+        "cityIdRawNum": 1,
+        "sectionIdRawNum": 1002,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133002369
+        ],
+        "decorateGroupVec": [
+            133002371
+        ],
+        "nextCampIdVec": [
+            1100202
+        ],
+        "is_safe": true,
+        "is_initial_refresh": true,
+        "finish_progressRawNum": 7,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 2855283427
+    },
+    {
+        "idRawNum": 1100202,
+        "cityIdRawNum": 1,
+        "sectionIdRawNum": 1002,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133002370
+        ],
+        "decorateGroupVec": [
+            133002372
+        ],
+        "nextCampIdVec": [
+            1100203
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 13,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 1763735587
+    },
+    {
+        "idRawNum": 1100203,
+        "cityIdRawNum": 1,
+        "sectionIdRawNum": 1002,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133002375
+        ],
+        "decorateGroupVec": [
+            133002376
+        ],
+        "nextCampIdVec": [
+            1100204
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 9,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 1614208347
+    },
+    {
+        "idRawNum": 1100204,
+        "cityIdRawNum": 1,
+        "sectionIdRawNum": 1002,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133002377
+        ],
+        "decorateGroupVec": [
+            133002378
+        ],
+        "nextCampIdVec": [
+            1100101,
+            1100301
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 10,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 101318459
+    },
+    {
+        "idRawNum": 1100301,
+        "cityIdRawNum": 1,
+        "sectionIdRawNum": 1003,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133003535
+        ],
+        "decorateGroupVec": [
+            133003536
+        ],
+        "nextCampIdVec": [
+            1100302
+        ],
+        "is_safe": true,
+        "is_initial_refresh": true,
+        "finish_progressRawNum": 9,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 2559467907
+    },
+    {
+        "idRawNum": 1100302,
+        "cityIdRawNum": 1,
+        "sectionIdRawNum": 1003,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133003516
+        ],
+        "decorateGroupVec": [
+            133003519
+        ],
+        "nextCampIdVec": [
+            1100303
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 8,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 3502735075
+    },
+    {
+        "idRawNum": 1100303,
+        "cityIdRawNum": 1,
+        "sectionIdRawNum": 1003,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133003537
+        ],
+        "decorateGroupVec": [
+            133003538
+        ],
+        "nextCampIdVec": [
+            1100304
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 9,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 33752555
+    },
+    {
+        "idRawNum": 1100304,
+        "cityIdRawNum": 1,
+        "sectionIdRawNum": 1003,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133003517
+        ],
+        "decorateGroupVec": [
+            133003520
+        ],
+        "nextCampIdVec": [
+            1100201,
+            1100101
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 8,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 678958723
+    },
+    {
+        "idRawNum": 2200101,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2001,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133102733
+        ],
+        "decorateGroupVec": [
+            133102737
+        ],
+        "nextCampIdVec": [
+            2200102
+        ],
+        "is_safe": true,
+        "is_initial_refresh": true,
+        "finish_progressRawNum": 6,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 1943474947
+    },
+    {
+        "idRawNum": 2200102,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2001,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133102742
+        ],
+        "decorateGroupVec": [
+            133102748
+        ],
+        "nextCampIdVec": [
+            2200103
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 7,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 276903955
+    },
+    {
+        "idRawNum": 2200103,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2001,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133102743
+        ],
+        "decorateGroupVec": [
+            133102750
+        ],
+        "nextCampIdVec": [
+            2200104
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 7,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 1747453363
+    },
+    {
+        "idRawNum": 2200104,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2001,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133102744
+        ],
+        "decorateGroupVec": [
+            133102749
+        ],
+        "nextCampIdVec": [
+            2200105
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 3,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 425968891
+    },
+    {
+        "idRawNum": 2200105,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2001,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133102745
+        ],
+        "decorateGroupVec": [
+            133102751
+        ],
+        "nextCampIdVec": [
+            2200201,
+            2200401
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 1,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 1666023979
+    },
+    {
+        "idRawNum": 2200201,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2002,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133102754
+        ],
+        "decorateGroupVec": [
+            133102755
+        ],
+        "nextCampIdVec": [
+            2200202
+        ],
+        "is_safe": true,
+        "is_initial_refresh": true,
+        "finish_progressRawNum": 8,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 2527630899
+    },
+    {
+        "idRawNum": 2200202,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2002,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133102752
+        ],
+        "decorateGroupVec": [
+            133102753
+        ],
+        "nextCampIdVec": [
+            2200203
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 6,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 2247391115
+    },
+    {
+        "idRawNum": 2200203,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2002,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133102759
+        ],
+        "decorateGroupVec": [],
+        "nextCampIdVec": [
+            2200204
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 7,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 3663225307
+    },
+    {
+        "idRawNum": 2200204,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2002,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133102756
+        ],
+        "decorateGroupVec": [
+            133102757
+        ],
+        "nextCampIdVec": [
+            2200301,
+            2200401
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 4,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 503510019
+    },
+    {
+        "idRawNum": 2200301,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2003,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133105277
+        ],
+        "decorateGroupVec": [
+            133105278
+        ],
+        "nextCampIdVec": [
+            2200302
+        ],
+        "is_safe": true,
+        "is_initial_refresh": true,
+        "finish_progressRawNum": 7,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 1529612203
+    },
+    {
+        "idRawNum": 2200302,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2003,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133104595
+        ],
+        "decorateGroupVec": [],
+        "nextCampIdVec": [
+            2200303
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 2,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 1327074979
+    },
+    {
+        "idRawNum": 2200303,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2003,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133104614
+        ],
+        "decorateGroupVec": [
+            133104616
+        ],
+        "nextCampIdVec": [
+            2200304
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 8,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 3938646315
+    },
+    {
+        "idRawNum": 2200304,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2003,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133104596
+        ],
+        "decorateGroupVec": [
+            133104603
+        ],
+        "nextCampIdVec": [
+            2200401,
+            2200501
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 6,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 967091731
+    },
+    {
+        "idRawNum": 2200401,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2004,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133103470
+        ],
+        "decorateGroupVec": [
+            133103480
+        ],
+        "nextCampIdVec": [
+            2200402
+        ],
+        "is_safe": true,
+        "is_initial_refresh": true,
+        "finish_progressRawNum": 8,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 1477695843
+    },
+    {
+        "idRawNum": 2200402,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2004,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133104598
+        ],
+        "decorateGroupVec": [
+            133104605
+        ],
+        "nextCampIdVec": [
+            2200403
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 7,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 4063469811
+    },
+    {
+        "idRawNum": 2200403,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2004,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133104597
+        ],
+        "decorateGroupVec": [
+            133104604
+        ],
+        "nextCampIdVec": [
+            2200404
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 5,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 536817987
+    },
+    {
+        "idRawNum": 2200404,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2004,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133104615
+        ],
+        "decorateGroupVec": [
+            133104617
+        ],
+        "nextCampIdVec": [
+            2200501,
+            2200601
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 8,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 4187132091
+    },
+    {
+        "idRawNum": 2200501,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2005,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133103491
+        ],
+        "decorateGroupVec": [
+            133103492
+        ],
+        "nextCampIdVec": [
+            2200502
+        ],
+        "is_safe": true,
+        "is_initial_refresh": true,
+        "finish_progressRawNum": 11,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 224665499
+    },
+    {
+        "idRawNum": 2200502,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2005,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133103474
+        ],
+        "decorateGroupVec": [
+            133103481
+        ],
+        "nextCampIdVec": [
+            2200503
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 5,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 738912523
+    },
+    {
+        "idRawNum": 2200503,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2005,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133103489
+        ],
+        "decorateGroupVec": [
+            133103490
+        ],
+        "nextCampIdVec": [
+            2200504
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 1,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 364865907
+    },
+    {
+        "idRawNum": 2200504,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2005,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133103487
+        ],
+        "decorateGroupVec": [
+            133103488
+        ],
+        "nextCampIdVec": [
+            2200601,
+            2200101
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 7,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 785684171
+    },
+    {
+        "idRawNum": 2200601,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2006,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133107084
+        ],
+        "decorateGroupVec": [
+            133107090
+        ],
+        "nextCampIdVec": [
+            2200602
+        ],
+        "is_safe": true,
+        "is_initial_refresh": true,
+        "finish_progressRawNum": 1,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 3767181395
+    },
+    {
+        "idRawNum": 2200602,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2006,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133107085
+        ],
+        "decorateGroupVec": [
+            133107091
+        ],
+        "nextCampIdVec": [
+            2200603
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 6,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 1139716843
+    },
+    {
+        "idRawNum": 2200603,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2006,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133106263
+        ],
+        "decorateGroupVec": [
+            133106264
+        ],
+        "nextCampIdVec": [
+            2200604
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 6,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 2123114939
+    },
+    {
+        "idRawNum": 2200604,
+        "cityIdRawNum": 2,
+        "sectionIdRawNum": 2006,
+        "refreshTypeVec": [
+            1,
+            3
+        ],
+        "newGroupVec": [
+            133106259
+        ],
+        "decorateGroupVec": [
+            133106260
+        ],
+        "nextCampIdVec": [
+            2200101,
+            2200201,
+            2200301,
+            2200401,
+            2200501
+        ],
+        "is_safe": true,
+        "finish_progressRawNum": 6,
+        "fight_radiusRawNum": 30,
+        "remind_radiusRawNum": 50,
+        "blossom_tipsTextMapHash": 1239780523
+    }
+]

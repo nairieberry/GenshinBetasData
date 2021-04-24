@@ -1,0 +1,127 @@
+[
+    {
+        "forgeRandomIdRawNum": 10001,
+        "mainRandomItems": [
+            {
+                "itemIdRawNum": 11403,
+                "countRawNum": 1,
+                "weightRawNum": 500
+            },
+            {
+                "itemIdRawNum": 11406,
+                "countRawNum": 1,
+                "weightRawNum": 500
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            }
+        ]
+    },
+    {
+        "forgeRandomIdRawNum": 10002,
+        "mainRandomItems": [
+            {
+                "itemIdRawNum": 15406,
+                "countRawNum": 1,
+                "weightRawNum": 500
+            },
+            {
+                "itemIdRawNum": 15407,
+                "countRawNum": 1,
+                "weightRawNum": 500
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            }
+        ]
+    },
+    {
+        "forgeRandomIdRawNum": 10003,
+        "mainRandomItems": [
+            {
+                "itemIdRawNum": 12403,
+                "countRawNum": 1,
+                "weightRawNum": 500
+            },
+            {
+                "itemIdRawNum": 12407,
+                "countRawNum": 1,
+                "weightRawNum": 500
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            }
+        ]
+    },
+    {
+        "forgeRandomIdRawNum": 10004,
+        "mainRandomItems": [
+            {
+                "itemIdRawNum": 14406,
+                "countRawNum": 1,
+                "weightRawNum": 500
+            },
+            {
+                "itemIdRawNum": 14407,
+                "countRawNum": 1,
+                "weightRawNum": 500
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            }
+        ]
+    },
+    {
+        "forgeRandomIdRawNum": 10005,
+        "mainRandomItems": [
+            {
+                "itemIdRawNum": 13402,
+                "countRawNum": 1,
+                "weightRawNum": 500
+            },
+            {
+                "itemIdRawNum": 13403,
+                "countRawNum": 1,
+                "weightRawNum": 500
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            },
+            {
+                "itemIdRawNum": 0,
+                "countRawNum": 0,
+                "weightRawNum": 0
+            }
+        ]
+    }
+]

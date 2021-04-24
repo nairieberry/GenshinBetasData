@@ -1,0 +1,79 @@
+[
+    {
+        "idRawNum": 1,
+        "nameTextMapHash": 1296604533,
+        "icon_path": "Ui_SystemOpenIcon_Gacha",
+        "descTextMapHash": 1072889423,
+        "tutorial_idRawNum": 0
+    },
+    {
+        "idRawNum": 2,
+        "nameTextMapHash": 3430130293,
+        "icon_path": "Ui_SystemOpenIcon_SeaLampGiving",
+        "descTextMapHash": 3795216775,
+        "tutorial_idRawNum": 0
+    },
+    {
+        "idRawNum": 3,
+        "nameTextMapHash": 2299426197,
+        "icon_path": "Ui_SystemOpenIcon_Obscurae",
+        "descTextMapHash": 1450940447,
+        "tutorial_idRawNum": 0
+    },
+    {
+        "idRawNum": 4,
+        "nameTextMapHash": 2556010021,
+        "icon_path": "Ui_SystemOpenIcon_Domain",
+        "descTextMapHash": 4099058839,
+        "tutorial_idRawNum": 0
+    },
+    {
+        "idRawNum": 5,
+        "nameTextMapHash": 3018561549,
+        "icon_path": "Ui_SystemOpenIcon_Domain",
+        "descTextMapHash": 1941061399,
+        "tutorial_idRawNum": 0
+    },
+    {
+        "idRawNum": 6,
+        "nameTextMapHash": 3980114813,
+        "icon_path": "Ui_SystemOpenIcon_Domain",
+        "descTextMapHash": 910761623,
+        "tutorial_idRawNum": 0
+    },
+    {
+        "idRawNum": 7,
+        "nameTextMapHash": 1678090781,
+        "icon_path": "Ui_SystemOpenIcon_Domain",
+        "descTextMapHash": 2378740319,
+        "tutorial_idRawNum": 0
+    },
+    {
+        "idRawNum": 8,
+        "nameTextMapHash": 3149990789,
+        "icon_path": "Ui_SystemOpenIcon_Domain",
+        "descTextMapHash": 1158973039,
+        "tutorial_idRawNum": 0
+    },
+    {
+        "idRawNum": 9,
+        "nameTextMapHash": 834874869,
+        "icon_path": "Ui_SystemOpenIcon_MultiPlayer",
+        "descTextMapHash": 1193632439,
+        "tutorial_idRawNum": 0
+    },
+    {
+        "idRawNum": 10,
+        "nameTextMapHash": 1652207429,
+        "icon_path": "Ui_SystemOpenIcon_BattlePass",
+        "descTextMapHash": 1593629711,
+        "tutorial_idRawNum": 0
+    },
+    {
+        "idRawNum": 11,
+        "nameTextMapHash": 225120485,
+        "icon_path": "Ui_SystemOpenIcon_Blossom",
+        "descTextMapHash": 3177532175,
+        "tutorial_idRawNum": 0
+    }
+]
